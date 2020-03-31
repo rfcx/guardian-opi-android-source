@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/gesture_unlock" 
+        android:key="key_gesture_list_settings">
+    <CheckBoxPreference
+        android:key="key_gesture_up"
+        android:title="@string/gesture_up" />
+    <CheckBoxPreference
+        android:key="key_gesture_down"
+        android:title="@string/gesture_down" />
+    <CheckBoxPreference
+        android:key="key_gesture_left_right"
+        android:title="@string/gesture_left_right" />
+    <CheckBoxPreference
+        android:key="key_gesture_c"
+        android:title="@string/gesture_c" />
+    <CheckBoxPreference
+        android:key="key_gesture_m"
+        android:title="@string/gesture_m" />
+    <CheckBoxPreference
+        android:key="key_gesture_e"
+        android:title="@string/gesture_e" />
+    <CheckBoxPreference
+        android:key="key_gesture_o"
+        android:title="@string/gesture_o" />
+    <CheckBoxPreference
+        android:key="key_gesture_w"
+        android:title="@string/gesture_w" />
+</PreferenceScreen>

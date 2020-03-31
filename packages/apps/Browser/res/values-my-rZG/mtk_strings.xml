@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete_folder_warning">ဖိုဒါ\"<xliff:g id="bookmark">%s</xliff:g>\"ကို ဖ်က္မလား။</string>
+    <string name="contextmenu_savelinkbookmark">လင့္ခ္အား စာညႇပ္အျဖစ္ သိမ္းဆည္းပါ</string>
+    <string name="pref_content_landscape_only">အလ်ားလိုက္ျပသခ်က္သာ</string>
+    <string name="pref_content_landscape_only_summary">စာမ်က္ႏွာမ်ားကို ပိုက်ယ္ေသာ အလ်ားလိုက္ စကရင္အေနအထားျဖင့္သာ ျပသပါ</string>
+    <string-array name="pref_op02_text_encoding_choices">
+        <item>အလိုအေလ်ာက္စမ္းသပ္ေတြ႕ရွိစက္</item>
+        <item>လက္တင္-1 (ISO-8859-1)</item>
+        <item>ယူနီကုဒ္ (UTF-8)</item>
+        <item>ယူနီကုဒ္ (UTF-16)</item>
+        <item>တ႐ုတ္ (GB2312)</item>
+        <item>တ႐ုတ္ (GBK)</item>
+        <item>တ႐ုတ္ (Big5)</item>
+        <item>ဂ်ပန္ (ISO-2022-JP)</item>
+        <item>ဂ်ပန္ (SHIFT_JIS)</item>
+        <item>ဂ်ပန္ (EUC-JP)</item>
+        <item>ကိုရီးယား (EUC-KR)</item>
+    </string-array>
+    <string name="pref_default_font_family">ေဖာင့္</string>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string name="pref_default_font_family_dialogtitle">ေဖာင့္</string>
+	<string name="download_path_unavailable_dlg_title">ေဒါင္းလုဒ္လမ္းညႊန္ခ်က္ မရရွိႏိုင္ပါ</string>
+	<string name="download_path_unavailable_dlg_msg">ဘေရာက္ဆာ၏ ေဒါင္းလုဒ္လမ္းညႊန္ခ်က္ကို အဆင့္ျမႇင့္တင္ပါ</string>
+    <string name="home">အိမ္</string>
+    <string name="close">ပိတ္ပါ</string>
+    <string name="option">ေရြးခ်ယ္မႈ</string>
+    <string name="minimize">ခဏေဖ်ာက္ထားမည္</string>
+    <string name="quit">ထြက္မည္</string>
+    <string name="pref_download_title">အဆင္အျပင္မ်ားကို ေဒါင္းလုဒ္လုပ္ပါ</string>
+    <string name="pref_extras_set_download_directory_title">ေဒါင္းလုဒ္လမ္းညႊန္ခ်က္ကို ထားရွိပါ</string>
+    <string name="sitenavigation_add">ဝက္(ဘ္)ဆိုဒ္ထည့္ပါ</string>
+    <string name="tab_site_navigation">ဆိုဒ္လမ္းညႊန္ခ်က္</string>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>လက္ရွိစာမ်က္ႏွာ</item>
+        <item>ဗလာစာမ်က္ႏွာ</item>
+        <item>မူလစာမ်က္ႏွာ</item>
+        <item>အမ်ားဆံုးၾကည့္႐ႈသည့္ဆိုဒ္မ်ား</item>
+        <item>ဆိုဒ္လမ္းညႊန္ခ်က္</item>
+        <item>အျခား</item>
+    </string-array>
+    <string-array name="predefined_websites_default_optr">
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>site_navigation_default_default1</item>
+        <item>FaceBook</item>
+        <item>http://www.facebook.cn/</item>
+        <item>site_navigation_default_default2</item>
+        <item>Flickr</item>
+        <item>http://www.flickr.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>Google</item>
+        <item>http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</item>
+        <item>site_navigation_default_default4</item>
+        <item>Twitter</item>
+        <item>http://twitter.com</item>
+        <item>site_navigation_default_default5</item>
+        <item>yahoo</item>
+        <item>https://www.yahoo.com/</item>
+        <item>site_navigation_default_ymobile</item>
+        <item>Yahoo Search</item>
+        <item>https://search.yahoo.com/?.tsrc=mtkandroid/</item>
+        <item>site_navigation_default_ysearch</item>
+        
+        <!--<item>Hao123</item>
+        <item>http://www.hao123.com/</item>
+        <item>site_navigation_default_default1</item>
+        <item>Google</item>
+        <item>http://www.google.cn/</item>
+        <item>site_navigation_default_default2</item>
+        <item>Baidu</item>
+        <item>http://www.baidu.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>Sina</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>site_navigation_default_default4</item>
+        <item>Sohu</item>
+        <item>http://www.sohu.com/</item>
+        <item>site_navigation_default_default5</item>
+        <item>Yahoo</item>
+        <item>http://www.yahoo.com/</item>
+        <item>site_navigation_default_default6</item>-->
+    </string-array>
+    <string-array name="predefined_websites_op01">
+        <item>about:blank</item>
+        <item>about:blank1</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank2</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank3</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank4</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank5</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank6</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank7</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank8</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank9</item>
+        <item>sitenavigation_thumbnail_default</item>
+    </string-array>
+    <string name="permlab_readHomepage">ဘေရာက္ဆာရွိ ပင္မစာမ်က္ႏွာကို ဖတ္ပါ</string>
+    <string name="permdesc_readHomepage">ပ႐ိုဂရမ္အား သင္ၾကားဝင္ရန္မလိုဘဲ ဘေရာက္ဆာရွိ ပင္မစာမ်က္ႏွာဆိုင္ရာ သတင္းအခ်က္အလက္ကို ဖတ္ခြင့္ျပဳပါ။</string>
+    <string name="permlab_writeHomepage">ဘေရာက္ဆာရွိ ပင္မစာမ်က္ႏွာကို အဆင့္ျမႇင့္တင္ပါ</string>
+    <string name="permdesc_writeHomepage">ပ႐ိုဂရမ္အား သင္ၾကားဝင္ရန္မလိုဘဲ ဘေရာက္ဆာရွိ ပင္မစာမ်က္ႏွာဆိုင္ရာ သတင္းအခ်က္အလက္ကို အဆင့္ျမႇင့္ခြင့္ျပဳပါ။</string>
+    <string name="duplicated_bookmark">ပြားထားေသာ စာညႇပ္</string>
+    <string name="duplicated_bookmark_warning">စာညႇပ္မွာ အမည္တူ သို႔မဟုတ္ ေနရာတူအျဖစ္ ရွိၿပီးျဖစ္သည္၊ ထပ္ေရးမလား။</string>
+    <string name="duplicated_folder_warning">ဖိုဒါမွာ အမည္တူ ရွိၿပီးျဖစ္သည္။</string>
+    <string name="pref_content_search_engine_consistency">ရွာေဖြမႈအင္ဂ်င္၏ ကိုက္ညီခ်က္</string>
+    <string name="pref_search_engine_unify">ရွာေဖြမႈအင္ဂ်င္ကို စုစည္းပါ</string>
+    <string name="pref_search_engine_unify_summary">ရွာေဖြမႈအင္ဂ်င္အား အျမန္ရွာေဖြမႈအကြက္သို႔ ေျပာင္းလဲျခင္းကို လုပ္ေဆာင္ပါ</string>
+    <string name="download_or_open_content">မည္သည့္လုပ္ေဆာင္ခ်က္ကို သင္ေရြးခ်ယ္မည္နည္း</string>
+    <string name="save_content">သိမ္းဆည္းပါ</string>
+    <string name="open_content">ဖြင့္ပါ</string>
+    <string name="no_voice_search_alert_dialog_title">အသံျဖင့္ရွာေဖြျခင္း</string>
+    <string name="no_voice_search_alert_dialog_msg">အသံျဖင့္ ရွာေဖြမႈဆိုင္ရာ ပ႐ိုဂရမ္မရွိသျဖင့္ အသံျဖင့္ ရွာေဖြရန္ မျဖစ္ႏိုင္ပါ။ ၎ကို အရင္သြင္းပါ။</string>
+    <string name="make_primary">ဤျပန္လည္သတိေပးခ်က္ကို ေနာက္ထပ္မျပပါႏွင့္</string>
+    <string name="dialog_title">အခ်က္အလက္ခ်ိတ္ဆက္မႈကို ေျပာင္းလဲပါ</string>
+    <string name="wifi_failover_gprs_content">WiFi မရရွိႏိုင္ပါ၊ မိုဘိုင္းကြန္ရက္သို႔ ခ်ိတ္ဆက္ရန္ ႀကိဳးစားမလား။</string>
+    <string name="delete">ဖ်က္ပါ</string>
+    <string name="edit">တည္းျဖတ္ပါ</string>
+    <string name="add">ထည့္ပါ</string>
+    <string name="delete_site_navigation_msg">ဤအေၾကာင္းအရာကို ဖ်က္မလား။</string>
+    <string name="site_navigation_name">အမည္</string>
+    <string name="site_navigation_address">လိပ္စာ</string>
+    <string name="website_needs_title">"ဝက္(ဘ္)ဆိုဒ္တြင္ အမည္ရွိရမည္။"</string>
+    <string name="website_needs_url">"ဝက္(ဘ္)ဆိုဒ္တြင္ တည္ေနရာရွိရမည္။"</string>
+    <string name="site_navigation_cannot_save_url">ဤဝက္(ဘ္)ဆိုဒ္လိပ္စာမွာ ဝက္(ဘ္)ဆိုဒ္မျဖစ္ႏိုင္ပါ။</string>
+    <string name="add_site_navigation">ဝက္(ဘ္)ဆိုဒ္ထည့္ပါ</string>
+    <string name="edit_site_navigation">ဆိုဒ္လမ္းညႊန္ခ်က္ကို တည္းျဖတ္ပါ</string>
+    <string name="site_navigation_edit_button">တည္းျဖတ္ပါ</string>
+    <string name="save_webpage">သိမ္းဆည္းပါ</string>
+    <string name="duplicate_site_navigation_url">ဤဝက္(ဘ္)ဆိုဒ္လိပ္စာမွာ ရွိၿပီးသားျဖစ္သည္။</string>
+    <string name="duplicate_site_navigation_title">This lable has already existed.</string>
+    <string name="max_input_browser_search">သင့္ထည့္သြင္းခ်က္မွာ အမ်ားဆံုးကန္႔သတ္ခ်က္သို႔ ေရာက္ရွိၿပီးျဖစ္သည္။</string>
+    <string name="max_input_browser_search_title">ထည့္သြင္းမႈကန္႔သတ္ခ်က္</string>
+    <string name="max_input_browser_search_button">အိုေက</string>
+    <string name="bookmarks_history">စာညႇပ္မ်ား/မွတ္တမ္း</string>
+    <string name="save_bookmark">စာညႇပ္ကို သိမ္းဆည္းပါ</string>
+    <string name="sms_received"> <xliff:g id="text">%s</xliff:g> မက္ေဆ့(ခ်္)မွ </string>
+    <string name="tabs">Tab ခလုတ္</string>
+    <string name="download_pending_with_file_size">ေဒါင္းလုဒ္စတင္ေနဆဲ။ ဖိုင္အရြယ္အစား:</string>
+    <string name="low_storage_dialog_title_on_external">အထူးဂ႐ုျပဳရန္</string>
+    <string name="low_storage_dialog_msg_on_external">The phone storage does not have enough space. Can not download now.</string> 
+    <string name="low_storage_dialog_title_on_extra">အထူးဂ႐ုျပဳရန္</string>
+    <string name="low_storage_dialog_msg_on_extra">The extra storage does not have enough space. Can not download now.</string> 
+    <string name="open_saved_page_failed">သိမ္းထားေသာ စာမ်က္ႏွာကို မဖြင့္ႏိုင္ပါ။</string>
+</resources>

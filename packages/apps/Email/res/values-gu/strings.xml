@@ -1,0 +1,298 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="read_attachment_label">ઇમેઇલ એટેચમેન્ટ વાંચો</string>
+    <string name="read_attachment_desc">તમારા ઇમેઇલ એટેચમેન્ટ્સ વાંચન માટે અનુપ્રયોગને અનુમતિ આપે છે.</string>
+    <string name="permission_access_provider_label">ઇમેઇલ પૂરાં પાડનાર ડેટાનો ઉપયોગ કરો</string>
+    <string name="permission_access_provider_desc">પ્રાપ્ત સંદેશા, મોકલેલ સંદેશા, ઉપયોગકર્તાનામો અને પાસવર્ડ્ઝ સહિત, તમારા ઇમેઇલ ડેટાબેઝમાં પ્રવેશ માટે અનુપ્રયોગને અનુમતિ આપે છે. </string>
+    <string name="app_name">ઇમેઇલ</string>
+    <string name="compose_title">તૈયાર કરો</string>
+    <string name="debug_title">ડિબગ</string>
+    <string name="next_action">આગામી</string>
+    <string name="okay_action">ઓકે</string>
+    <string name="cancel_action">રદ્દ કરવું</string>
+    <string name="send_action">મોકલવું</string>
+    <string name="reply_action">જવાબ</string>
+    <string name="reply_all_action">તમામને જવાબ આપો</string>
+    <string name="delete_action">કાઢી નાંખવું</string>
+    <string name="forward_action">ફોરવર્ડ</string>
+    <string name="done_action">ડન</string>
+    <string name="discard_action">કાઢી નાંખો</string>
+    <string name="save_draft_action">લખાણ તરીકે સંગ્રહ કરો</string>
+    <string name="read_unread_action">તમામ પસંદ કરો</string>
+    <string name="read_action">વાંચન ચિહ્ન કરો</string>
+    <string name="unread_action">અવાંચ્ય ચિહ્ન કરો</string>
+    <string name="favorite_action">પસંદ</string>
+    <string name="set_star_action">સ્ટાર ઉમેરો</string>
+    <string name="remove_star_action">સ્ટાર દૂર કરો</string>
+    <string name="refresh_action">રીફ્રેશ</string>
+    <string name="add_account_action">ખાતુ ઉમેરો</string>
+    <string name="deselect_all_action">તમામ મુક્ત કરો</string>
+    <string name="compose_action">તૈયાર કરો</string>
+    <string name="search_action">શોધો</string>
+    <string name="open_action">ખોલો</string>
+    <string name="account_settings_action">ખાતા સેટિંગ્ઝ </string>
+    <string name="remove_account_action">ખાતુ દૂર કરો</string>
+    <string name="folders_action">ફોલ્ડર્સ</string>
+    <string name="accounts_action">ખાતા</string>
+    <string name="mark_as_read_action">વાંચન તરીકે ચિહ્ન કરો</string>
+    <string name="mark_as_unread_action">અવાંચ્ય તરીકે ચિહ્ન કરો</string>
+    <string name="add_cc_bcc_action">Cc/Bcc ઉમેરો</string>
+    <string name="add_attachment_action">એટેચમેન્ટ ઉમેરો</string>
+    <string name="dump_settings_action">નિકાલ ગોઠવણી</string>
+    <string name="choose_attachment_dialog_title">એટેચમેન્ટ પસંદ કરો</string>
+    <string name="status_loading_more">સંદેશા લોડ થાય છે\u2026</string>
+    <string name="status_sending_messages">સંદેશા મોકલાય છે\u2026</string>
+    <string name="status_network_error">જોડાણ ભૂલ</string>
+    <string name="notification_new_title">નવો ઇમેઇલ</string>
+    <string name="error_loading_message_body">સંદેશ પાઠ્ય લોડીંગ સમયે અજ્ઞાત ભૂલ. જોવા માટે સંદેશ ખૂબ મોટો હોઇ શકે છે.</string>
+    <plurals name="notification_new_one_account_fmt">
+        <!-- Case of one new message. -->
+        <item quantity="one"><xliff:g id="unread_message_count" example="1">%1$d</xliff:g> વણવંચાયેલ (<xliff:g id="account">%2$s</xliff:g>)</item>
+
+        <!-- Case of "few" (small number of) new messages. -->
+        <item quantity="few"><xliff:g id="unread_message_count" example="2">%1$d</xliff:g> વણવંચાયેલ (<xliff:g id="account">%2$s</xliff:g>)</item>
+
+        <!-- Case of a plural number of new messages. -->
+        <item quantity="other"><xliff:g id="unread_message_count" example="279">%1$d</xliff:g> વણવંચાયેલ (<xliff:g id="account">%2$s</xliff:g>)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <!-- Case of "few" (small number of) accounts with unread messages. -->
+        <item quantity="few"><xliff:g id="number_accounts" example="2">%d</xliff:g> એકાઉન્ટ્સમાં</item>
+        <!-- Case of plural number of accounts with unread messages. -->
+        <item quantity="other"><xliff:g id="number_accounts" example="10">%d</xliff:g> એકાઉન્ટ્સમાં</item>
+    </plurals>
+    <string name="mailbox_name_display_inbox">ઇનબોક્સ</string>
+    <string name="mailbox_name_display_outbox">આઉટબોક્સ</string>
+    <string name="mailbox_name_display_drafts">ડ્રાફ્ટ્સ</string>
+    <string name="mailbox_name_display_sent">મોકલેલ</string>
+    <string name="debug_version_fmt">સંસ્કરણ:<xliff:g id="version">%s</xliff:g></string>
+    <string name="account_folder_list_separator_accounts">ખાતા</string>
+    <string name="account_folder_list_summary_inbox">સંયુક્ત ઇનબોક્સ</string>
+    <string name="account_folder_list_summary_starred">ચોક્કસ</string>
+    <string name="account_folder_list_summary_drafts">ડ્રાફ્ટ્સ</string>
+    <string name="account_folder_list_summary_outbox">આઉટબોક્સ</string>
+    <string name="account_folder_list_refresh_toast">તેને નવીન કરવા માટે એક ખાતાને કૃપા કરી લાંબા સમય માટે દબાવી રાખો</string>
+    <string name="mailbox_list_title">મેઇલબોક્સ</string>
+    <string name="message_list_load_more_messages_action">વધુ સંદેશ લોડ કરો</string>
+    <string name="message_list_send_pending_messages_action">જાવક સંદેશા મોકલો</string>
+    <string name="message_compose_to_hint">પ્રતિ</string>
+    <string name="message_compose_cc_hint">સીસી</string>
+    <string name="message_compose_bcc_hint">Bcc</string>
+    <string name="message_compose_subject_hint">વિષય</string>
+    <string name="message_compose_body_hint">મેઇલ તૈયાર કરો</string>
+    <string name="message_compose_fwd_header_fmt">\n\n-------- મૂળ સંદેશ --------\nવિષય: <xliff:g id="subject">%1$s</xliff:g>\nથી: <xliff:g id="sender">%2$s</xliff:g>\nસુધી: <xliff:g id="to">%3$s</xliff:g>\nCC: <xliff:g id="cc">%4$s</xliff:g>\n\n</string>
+    <string name="message_compose_reply_header_fmt">\n\n<xliff:g id="sender">%s</xliff:g> લખ્યું:\n\n</string>
+    <string name="message_compose_quoted_text_label">ઉતારો કરેલ પાઠ્ય</string>
+    <string name="message_compose_error_no_recipients">તમારે કમસે કમ એક પ્રાપ્તિકર્તા ઉમેરવો ફરજિયાત છે.</string>
+    <string name="message_compose_error_invalid_email">અમુક ઇમેઇલ સરનામાં અમાન્ય છે.</string>
+    <string name="message_compose_attachments_skipped_toast">અમુક એટેચમેન્ટ રવાના કરી શકાશે નહીં કારણ કે તેઓ ડાઉનલોડ થયા નથી.</string>
+    <string name="message_compose_attachment_size">કુલ એટેચમેન્ટ કદ 5M કરતાં વધુ છે, જોડાઇ શકશે નહીં.</string>
+    <string name="message_compose_display_name"><xliff:g id="name" example="John">%1$s</xliff:g> અને <xliff:g id="number" example="27">%2$d</xliff:g> અન્ય</string>
+    <string name="message_view_to_label">પ્રતિ：</string>
+    <string name="message_view_cc_label">સીસી：</string>
+    <string name="message_view_attachment_info2">%s કરતાં વધુ કદનું એટેચમેન્ટ, ખૂલી અને સંગ્રહ થઇ શકશે નહીં</string>
+    <string name="message_view_attachment_view_action">ખોલો</string>
+    <string name="message_view_attachment_download_action">સંગ્રહ કરો</string>
+    <string name="message_view_status_attachment_saved"><xliff:g id="filename">%s</xliff:g> તરીકે એટેચમેન્ટનો સંગ્રહ થયો છે.</string>
+    <string name="message_view_status_attachment_not_saved">એટેચમેન્ટ સંગ્રહ કરવામાં નિષ્ફળ.</string>
+    <string name="message_view_show_pictures_instructions">બંધ ચિત્રો પ્રદર્શન માટે  \"ચિત્ર શો\" પસંદ કરો</string>
+    <string name="message_view_show_pictures_action">ચિત્રો દર્શાવો</string>
+    <string name="message_view_fetching_attachment_toast">એટેચમેન્ટ આવે છે.</string>
+    <string name="message_view_fetching_attachment_progress"><xliff:g id="filename">%s</xliff:g> એટેચમેન્ટ આવે છે</string>
+    <string name="message_view_invite_view">કેલેન્ડર &#xbb;માં જુઓ</string>
+    <string name="message_view_invite_title">કેલેન્ડર નિમંત્રણ</string>
+    <string name="message_view_invite_text">જવું છે?</string>
+    <string name="message_view_invite_accept">હા</string>
+    <string name="message_view_invite_maybe">" કદાચ"</string>
+    <string name="message_view_invite_decline">ના</string>
+    <string name="message_view_invite_toast_yes">આ નિમંત્રણ તમે સ્વીકારેલ છે.</string>
+    <string name="message_view_invite_toast_maybe">આ આમંત્રણનો તમે \"કદાચ\" પ્રત્યુત્તર આપ્યો છે</string>
+    <string name="message_view_invite_toast_no">આ નિમંત્રણ તમે અસ્વીકૃત કર્યું છે</string>
+    <plurals name="message_deleted_toast">
+        <item quantity="one">સંદેશ રદ્દ થયો છે.</item>
+        <item quantity="other">સંદેશ શોધાયો છે.</item>
+    </plurals>
+    <string name="message_discarded_toast">સંદે અસ્વીકૃત.</string>
+    <string name="message_saved_toast">સંદેશનો ડ્રાફ્ટ તરીકે સંગ્રહ થયો છે.</string>
+    <string name="message_view_display_attachment_toast">આ એટેચમેન્ટ પ્રદર્શિત થઇ શકશે નહીં.</string>
+    <string name="account_setup_basics_title">ઇમેઇલ ગોઠવો</string>
+    <string name="account_setup_basics_exchange_title">એક Exchange એકાઉન્ટ ઉમેરો</string>
+    <string name="account_setup_basics_exchange_title_alternate">એક Exchange ActiveSync એકાઉન્ટ ઉમેરો</string>
+    <string name="accounts_welcome">માત્ર થોડાં પગલાંથી માટા ભાગના એકાઉન્ટ્સ માટે તમે Email ની સંરચના કરી શકશો.</string>
+    <string name="accounts_welcome_exchange">માત્ર થોડાં પગલાંથી તમે Exchange એકાઉન્ટની સંરચના કરી શકશો.</string>
+    <string name="accounts_welcome_exchange_alternate">ફક્ત થોડાં પગલાંથી તમે Exchange ActiveSync એકાઉન્ટ ગોઠવણી કરી શકશો.</string>
+    <string name="account_setup_basics_email_hint">ઇમેઇલ સરનામું</string>
+    <string name="account_setup_basics_password_hint">પાસવર્ડ</string>
+    <string name="account_setup_basics_default_label">પૂર્વનિર્ધારીત રીતે આ ખાતામાંથી ઇમેઇલ મોકલો</string>
+    <string name="account_setup_basics_manual_setup_action">મેન્યુલ સેટઅપ</string>
+    <string name="account_setup_username_password_toast">કૃપા કરી માન્ય ઇમેઇલ સરનામું અને પાસવર્ડ દાખલ કરો.</string>
+    <string name="account_duplicate_dlg_title">ડુપ્લીકેટ એકાઉન્ટ</string>
+    <string name="account_duplicate_dlg_message_fmt">
+        \"<xliff:g id="duplicate">%s</xliff:g>\"એકાઉન્ટ માટે આ લોગિન પહેલાંથી ઉપયોગમાં છે."</string>
+    <string name="account_setup_check_settings_retr_info_msg">ખાતા માહિતી પુનઃસ્થાપન થાય છે\u2026</string>
+    <string name="account_setup_check_settings_check_incoming_msg">આવક સર્વર ગોઠવણીઓ તપાસ થાય છે\u2026</string>
+    <string name="can_not_enter_more_characters">"વધુ અક્ષરો દાખલ કરી શકાશે નહીં!"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">જાવક સર્વર ગોઠવણીઓ તપાસ થાય છે\u2026</string>
+    <string name="account_setup_check_settings_canceling_msg">રદ્દ થાય છે\u2026</string>
+    <string name="account_setup_names_title">ઇમેઇલ ગોઠવો</string>
+    <string name="account_setup_names_instructions">તમારા ખાતાની ગોઠવણ થઇ છે, અને ઇમેઇલ તેના માર્ગ પર છે!</string>
+    <string name="account_setup_names_account_name_label">આ ખાતાને નામ આપો (વૈકલ્પ‍િક) </string>
+    <string name="account_setup_names_user_name_label">તમારું નામ (જાવક સંદેશમાં પ્રદર્શિત)</string>
+    <string name="account_setup_account_type_title">નવું ઇમેઇલ ખાતુ ઉમેરો</string>
+    <string name="account_setup_account_type_instructions">આ કયા પ્રકારનું ખાતુ છે?</string>
+    <string name="account_setup_incoming_title">આવક સર્વર ગોઠવણી</string>
+    <string name="account_setup_incoming_username_label">ઉપયોગકર્તા </string>
+    <string name="account_setup_incoming_password_label">પાસવર્ડ</string>
+    <string name="account_setup_incoming_pop_server_label">POP3 સર્વર</string>
+    <string name="account_setup_incoming_imap_server_label">IMAP સર્વર</string>
+    <string name="account_setup_incoming_port_label">પોર્ટ</string>
+    <string name="account_setup_incoming_security_label">સલામતી પ્રકાર</string>
+    <string name="account_setup_incoming_security_none_label">કોઇ નહીં</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL (તમામ સર્ટિફેકેટ સ્વીકારો)</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">TLS (તમામ સર્ટિફિકેટ સ્વીકારો)</string>
+    <string name="account_setup_incoming_delete_policy_label">સર્વરમાંથી ઇમેઇલ ભૂંસો</string>
+    <string name="account_setup_incoming_delete_policy_never_label">ક્યારેય નહીં</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">ઇનબોક્સમાંથી હું ક્યારે ભૂંસીશ</string>
+    <string name="account_setup_incoming_imap_path_prefix_label">IMAP પાથ ઉપસર્ગ</string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">વૈકલ્પ‍િક </string>
+    <string name="account_setup_outgoing_title">જાવક સર્વર ગોઠવણી</string>
+    <string name="account_setup_outgoing_smtp_server_label">SMTP સર્વર</string>
+    <string name="account_setup_outgoing_port_label">પોર્ટ</string>
+    <string name="account_setup_outgoing_security_label">સલામતી પ્રકાર</string>
+    <string name="account_setup_outgoing_require_login_label">સાઇન-ઇનની આવર્યકતા.</string>
+    <string name="account_setup_outgoing_username_label">ઉપયોગકર્તા </string>
+    <string name="account_setup_outgoing_password_label">પાસવર્ડ</string>
+    <string name="account_setup_exchange_title">સર્વર ગોઠવણી</string>
+    <string name="account_setup_exchange_server_label">સર્વર</string>
+    <string name="account_setup_exchange_username_label">ડોમેઇન\\ઉપયોગકર્તાનામ</string>
+    <string name="account_setup_exchange_ssl_label">સલામત જોડાણ (SSL) ઉપયોગ કરો</string>
+    <string name="account_setup_exchange_trust_certificates_label">તમામ SSL સર્ટિફિકેટ્સ સ્વીકારો</string>
+    <string name="account_setup_options_title">એકાઉન્ટ વિકલ્પો</string>
+    <string name="account_setup_options_mail_check_frequency_label">ઇનબોક્સ તપાસ ક્રમ</string>
+    <string name="account_setup_options_mail_check_frequency_never">ક્યારેય નહીં</string>
+    <string name="account_setup_options_mail_check_frequency_push">સ્વયં (પુશ)</string>
+    <string name="account_setup_options_mail_check_frequency_5min">દર 5 મીનીટે</string>
+    <string name="account_setup_options_mail_check_frequency_10min">દર 10 મીનીટે</string>
+    <string name="account_setup_options_mail_check_frequency_15min">દર 15 મીનીટે</string>
+    <string name="account_setup_options_mail_check_frequency_30min">દર 30 મીનીટે</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">દર કલાકે</string>
+    <string name="account_setup_options_default_label">પૂર્વનિર્ધારીત રીતે આ ખાતામાંથી ઇમેઇલ મોકલો</string>
+    <string name="account_setup_options_notify_label">ઇમેઇલ આવે ત્યારે મને જાણ કરો.</string>
+    <string name="account_setup_options_sync_contacts_label">આ ખાતામાંથી સંપર્કો સિન્ક કરો.</string>
+    <string name="account_setup_options_sync_calendar_label">આ ખાતામાંથી કેલેન્ડર સિન્ક કરો. </string>
+    <string name="account_setup_failed_dlg_title">ગોઠવણી પૂર્ણ થઇ નથી</string>
+    <string name="account_setup_options_mail_window_label">સિન્ક્રોનાઇઝની માત્રા</string>
+    <string name="account_setup_options_mail_window_1day">એક દિવસ</string>
+    <string name="account_setup_options_mail_window_3days">ત્રણ દિવસ</string>
+    <string name="account_setup_options_mail_window_1week">એક સપ્તાહ</string>
+    <string name="account_setup_options_mail_window_2weeks">બે સપ્તાહ</string>
+    <string name="account_setup_options_mail_window_1month">એક મહિનો</string>
+    <string name="account_setup_options_mail_window_more">વધુ</string>
+    <string name="account_setup_failed_dlg_auth_message">ઉપયોગકર્તાનામ અથવા પાસવર્ડ ખોટો છે.</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">ઉપયોગકર્તાનામ અથવા પાસવર્ડ ખોટો છે.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_dlg_certificate_message">સર્વર સાથે સુરક્ષ‍િત રીતે જોડાણ થઇ શકશે નહીં. </string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">સર્વર સાથે સુરક્ષ‍િત રીતે જોડાણ થઇ શકશે નહીં.\n(<xliff:g id="error">%s</xliff:g>) </string>
+    <string name="account_setup_failed_dlg_server_message">સર્વર સાથે જોડાઇ શકશે નહીં.</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">સર્વર સાથે જોડાઇ શકશે નહીં.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_tls_required">TLS ની આવશ્યકતા છે પરંતુ સર્વર દ્વારા સહાયક નથી.</string>
+    <string name="account_setup_failed_auth_required">સર્વર દ્વારા પ્રમાણીકરણ રીતો સહાયક નથી.</string>
+    <string name="account_setup_failed_security">સુરક્ષા ભૂલના કારણે સર્વર સાથે જોડાણ ખોલવામાં નિષ્ફળ.</string>
+    <string name="account_setup_failed_ioerror">સર્વર સાથે જોડાણ કરવામાં નિષ્ફળ.</string>
+    <string name="account_setup_security_required_title">દૂરની સુરક્ષા સંચાલન</string>
+    <string name="account_setup_security_policies_required_fmt">
+         <xliff:g id="server">%s</xliff:g> સર્વરને તમારા ફોનના થોડા સુરક્ષા લક્ષણો
+     દૂરથી નિયંત્રણની તમારી અનુમતિની આવશ્યકતા છે. તમે આ ખાતાની ગોઠવણી સમાપ્ત કરવા માગો છો?
+         </string>
+    <string name="account_setup_failed_security_policies_unsupported">આ સર્વરને સુરક્ષા લક્ષણોની આવશ્યકતા છે જે તમારો ફોન તરફેણ કરતો નથી.</string>
+    <string name="security_notification_ticker_fmt">
+            એકાઉન્ટને\"<xliff:g id="account">%s</xliff:g>\" સુરક્ષા ગોઠવણી અદ્યતનની આવશ્યકતા છે.
+    </string>
+    <string name="security_notification_content_title">સલામતી ગોઠવણી અદ્યતન કરો</string>
+    <string name="account_security_title">સાધન સુરક્ષા</string>
+    <string name="account_security_policy_explanation_fmt">
+         <xliff:g id="server">%s</xliff:g> સર્વરને તમારા ફોનના થોડા સુરક્ષા લક્ષણો
+     દૂરથી નિયંત્રણની તમારી અનુમતિની આવશ્યકતા છે.</string>
+    <string name="account_setup_failed_dlg_edit_details_action">વિગતો સંપાદિત કરો</string>
+    <string name="account_settings_title_fmt">સામાન્ય ગોઠવણી</string>
+    <string name="account_settings_default_label">પૂર્વનિર્ધારીત ખાતુ</string>
+    <string name="account_settings_default_summary">પૂર્વનિર્ધારીત રીતે આ ખાતામાંથી ઇમેઇલ મોકલો</string>
+    <string name="account_settings_notify_label">ઇમેઇલ જાણકારી</string>
+    <string name="account_settings_exchange_summary">ફ્રિક્વન્સી, જાણકારીઓ ઇ. સિન્ક કરો.</string>
+    <string name="account_settings_notify_summary">ઇમેઇલ આવે ત્યારે સ્ટેટ્સ બારમાં જાણ કરો</string>
+    <string name="account_settings_mail_check_frequency_label">ઇનબોક્સ તપાસ ક્રમ</string>
+    <string name="account_settings_incoming_label">આવક ગોઠવણી</string>
+    <string name="account_settings_outgoing_label">જાવક સેટિંગ્ઝ</string>
+    <string name="account_settings_description_label">ખાતા નામ</string>
+    <string name="account_settings_name_label">તમારું નામ </string>
+    <string name="account_settings_signature_label">સહી</string>
+    <string name="account_settings_signature_hint">તમે સંદેશા મોકલો છો તેમાં પાઠ્ય દાખલ કરો</string>
+    <string name="account_settings_notifications">જાહેરાત ગોઠવણી</string>
+    <string name="account_settings_sync_contacts_enable">સંપર્કો સિન્ક કરો</string>
+    <string name="account_settings_sync_contacts_summary">આ એકાઉન્ટમાંથી પણ સંપર્કો સિન્ક કરો</string>
+    <string name="account_settings_sync_calendar_enable">કેલેન્ડર સિન્ક કરો</string>
+    <string name="account_settings_sync_calendar_summary">આ એકાઉન્ટમાંથી પણ કેલેન્ડર સિન્ક કરો</string>
+    <string name="account_settings_vibrate_when_label">ધ્રુજારી</string>
+    <string name="account_settings_vibrate_when_summary">ઇમેઇલ આવે ત્યારે પણ વાઇબ્રેટ કરો </string>
+    <string name="account_settings_vibrate_when_always">હંમેશા</string>
+    <string name="account_settings_vibrate_when_silent">મૌન હોય ત્યારે જ</string>
+    <string name="account_settings_vibrate_when_never">ક્યારેય નહીં</string>
+    <string name="account_settings_vibrate_when_dlg_title">ધ્રુજારી</string>
+    <string name="account_settings_ringtone">રીંગટોન પસંદ કરો</string>
+    <string name="account_settings_servers">સર્વર ગોઠવણી</string>
+    <string name="account_delete_dlg_title">ખાતુ દૂર કરો</string>
+    <string name="account_delete_dlg_instructions_fmt">\"<xliff:g id="account">%s</xliff:g>\" ખાતુ ઇમેઇલમાંથી દૂર થશે.</string>
+    <string name="upgrade_accounts_title">ખાતા અદ્યતન કરો</string>
+    <string name="upgrade_accounts_error">ખાતુ અપગ્રેડ કરવામાં નિષ્ફળ</string>
+    <string name="provider_note_live">જોડાણ માટે POP પ્રવેશ સહિત માત્ર થોડા \"વત્તા\" ખાતા આ પ્રોગ્રામને અનુમતિ આપે છે.  તમારા સાચા ઇમેઇલ સરનામાં અને પાસવર્ડ સાથે જો તમે સાઇન ઇન કરી શકતા ન હોવ, તો તમે પેઇડ \"વત્તા\" ખાતુ ધરાવો છો.આ મેઇલ ખાતામાં પ્રવેશ માટે કૃપા કરી વેબ બ્રાઉઝર લોન્ચ કરો.</string>
+    <string name="provider_note_t_online">આ ઇમેઇલ એકાઉન્ટની ગોઠવણી કરતા પહેલાં, કૃપા કરી T-Online વેબસાઇટની મુલાકાત લો અને POP3 ઇમેઇલ ઉપયોગ માટે પાસવર્ડ તૈયાર કરો.</string>
+    <string name="exchange_name">કોર્પોરેટ</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="meeting_accepted">સ્વીકૃત: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_declined">અસ્વીકૃત: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_tentative">તુરંત: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_canceled">આ રદ્દ થયું છે: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_updated">અદ્યતન: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_when">ત્યારે:<xliff:g id="when">%s</xliff:g></string>
+    <string name="meeting_where">સ્થળ‍:<xliff:g id="where">%s</xliff:g></string>
+    <string name="meeting_recurring">ત્યારે: <xliff:g id="eventdate"
+         example="Tue, Mar 10, 2010 at 2:30 pm">%s</xliff:g>(વારંવાર)</string>
+    <string name="exception_cancel">આ માટે આ પ્રસંગ રદ્દ થયો છે: <xliff:g id="date">%s</xliff:g></string>
+    <string name="exception_updated">આ ઘટનાની વિગતો આ માટે બદલાઇ છે: <xliff:g id="date">%s</xliff:g></string>
+    <string name="system_account_create_failed">AccountManager ખાતુ તૈયાર કરી શક્યું નથી; કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="device_admin_label">ઇમેઇલ</string>
+    <string name="device_admin_description">સર્વર-આધારીત સુરક્ષા નીતિઓ સક્રિય કરો</string>
+    <string name="notification_exchange_calendar_added">બદલી કેલેન્ડર ઉમેરાયું છે</string>
+    <string name="emails_operations_successful">મેઇલ સફળતાપૂર્વક મોકલાયો છે!</string>
+    <string name="compose_send_error">મેઇલ રવાનગી નિષ્ફળ.</string>
+    <string name="gal_searching_fmt"><xliff:g id="domain">%s</xliff:g> શોધાય છે\u2026</string>
+    <plurals name="gal_completed_fmt">
+        <!-- Case of one result from server. -->
+        <item quantity="one"><xliff:g id="domain">%2$s</xliff:g> માંથી પરિણામ<xliff:g id="results" example="1">%1$d</xliff:g></item>
+
+        <!-- Case of multiple results from server -->
+        <item quantity="other"><xliff:g id="domain">%2$s</xliff:g>માંથી પરિણામ <xliff:g id="results" example="20">%1$d</xliff:g></item>
+    </plurals>
+    <string name="gal_completed_limited_fmt">પ્રથમ<xliff:g id="domain">%2$s</xliff:g> માંથી પરિણામો <xliff:g id="results" example="20">%1$d</xliff:g></string>
+    <string name="can_not_open">"સ્થાનિક ફાઇલ ગુમ છે"</string>
+    <string name="account_setup_toast">કોઇ ઇમેઇલ ખાતુ નથી, કૃપા કરી એક ગોઠવણી કરો.</string>
+    <string name="use_default_account_toast">પૂર્વનિર્ધારીત ખાતાનો ઉપયોગ કરી મેઇલ મોકલો.</string>
+    <string name="memory_warn">સંગ્રહ અવકાશ ચેતવણી</string>
+    <string name="memory_full">સંગ્રહ અવકાશ અપર્યાપ્ત છે કૃપા કરી મેઇલ ભૂંસો</string>
+    <string name="cancel">રદ્દ કરવું</string>
+    <string name="ok">ઓકે</string>
+    <string name="error_aireplane_mode">સંદેશ મોકલવા માટે, પ્રથમ એરપ્લેન મોડ બંધ કરો</string>
+    <string name="error_mode">કોઇ નેટવર્ક જોડાણ નથી</string>
+    <string name="error_out_of_service">"ઇમેઇ મેઇલ મોકલી શકશે નહીં કારણ કે કોઇ ઇન્ટરનેટ જોડાણ નથી."</string>
+    <string name="loading_draft">લોડ થાય છે...</string>
+    <string name="account_setup_incoming_email_max_port">મેઇલ પોર્ટ એ મર્યાદા બહાર છે</string>
+    <string name="account_setup_basics_163_exchange">કૃપા કરી માન્ય બદલી ખાતુ ઉમેરો</string>
+    <string name="attach_image">ચિત્રો</string>
+    <string name="attach_video">વિડીયોઝ</string>
+    <string name="attach_sound">ઓડિયો</string>
+    <string name="attach_other">અન્ય</string>
+    <string name="add_attachment">એટેચમેન્ટ</string>
+    <string name="load_msg_content">"લોડ થાય છે..."</string>
+    <string name="add_attachment_progress">એટેચમેન્ટ માહિતી એકત્ર થાય છે, કૃપા કરી રાહ જુઓ...</string>
+</resources>

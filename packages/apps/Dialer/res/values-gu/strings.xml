@@ -1,0 +1,952 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsIconLabel">સંપર્કો</string>
+    <string name="contactsFavoritesLabel">પસંદગીઓ</string>
+    <string name="dialerIconLabel">ડાયલર</string>
+    <string name="emergencyDialerIconLabel">ઇમરજન્સી ડાયલર</string>
+    <string name="phoneIconLabel">ફોનીક્સ</string>
+    <string name="recentCallsIconLabel">કોલ લોગ</string>
+    <string name="fdnListLabel">FDN સૂચિ</string>
+    <string name="unknown">અજ્ઞાત</string>
+    <string name="private_num">ખાનગી નંબર</string>
+    <string name="payphone">પે ફોન</string>
+    <string name="onHold">હોલ્ડ પર</string>
+    <string name="ongoing">વર્તમાન કોલ </string>
+    <string name="callFailed_userBusy">લાઇન વ્યસ્ત</string>
+    <string name="callFailed_congestion">નેટવર્ક વ્યસ્ત </string>
+    <string name="callFailed_timedOut">કોઇ પ્રતિભાવ નહીં, સમય બહાર</string>
+    <string name="callFailed_server_unreachable">સર્વર પહોંચ બહાર </string>
+    <string name="callFailed_number_unreachable">નંબર પહોંચ બહાર</string>
+    <string name="callFailed_invalid_credentials">ખોટું ઉપયોગકર્તા નામ અથવા પાસવર્ડ</string>
+    <string name="callFailed_out_of_network">નેટવર્ક બહારથી કોલ થયેલ છે</string>
+    <string name="callFailed_server_error">સર્વર ભૂલ. ફરીથી પ્રયાસ કરો.</string>
+    <string name="callFailed_noSignal">કોઇ સિગ્નલ નહીં</string>
+    <string name="callFailed_limitExceeded">ACM મર્યાદા બહાર</string>
+    <string name="callFailed_powerOff">રેડિયો બંધ</string>
+    <string name="callFailed_simError">કોઇ SIM નથી, અથવા SIM ભૂલ</string>
+    <string name="callFailed_outOfService">સેવા વિસ્તારની બહાર</string>
+    <string name="callFailed_fdn_only">FDN દ્વારા જાવક કોલ્સ પ્રતિબંધિત છે.</string>
+    <string name="callFailed_cb_enabled">કોલ પ્રતિબંધ ચાલુ હોય ત્યારે તમે જાવક કોલ્સ કરી શકશો નહીં.</string>
+    <string name="callFailed_dsac_restricted">ઉપયોગ નિયંત્રણ દ્વારા તમામ કોલ્સ પ્રતિબંધિત છે.</string>
+    <string name="callFailed_dsac_restricted_emergency">પ્રવેશ નિયંત્રણ દ્વારા ઇમરજન્સી કોલ પ્રતિબંધિત છે.</string>
+    <string name="callFailed_dsac_restricted_normal">પ્રવેશ નિયંત્રણ દ્વારા સામાન્ય કોલ્સ મર્યાદિત છે.</string>
+    <string name="callFailed_cdma_lockedUntilPowerCycle">CDMA: પાવર સાયકલ ન હોય ત્યાં સુધી ફોન લોક થયો છે.</string>
+    <string name="callFailed_cdma_drop">CDMA: કોલ છૂટ્યો છે.</string>
+    <string name="callFailed_cdma_intercept">CDMA: કોલ અટકાવ્યો છે.    </string>
+    <string name="callFailed_cdma_reorder">CDMA:રેકોર્ડર.</string>
+    <string name="callFailed_cdma_SO_reject">CDMA:સેવા વિકલ્પ અસ્વીકૃત.</string>
+    <string name="callFailed_cdma_retryOrder">CDMA:પુનઃપ્રયાસ ક્રમ.</string>
+    <string name="callFailed_cdma_accessFailure">CDMA:પ્રવેશ નિષ્ફળ.</string>
+    <string name="callFailed_cdma_preempted">CDMA:પ્રિએમપ્ટેડ.</string>
+    <string name="callFailed_cdma_notEmergency">માત્ર ઇમરજન્સી કોલ્સ જ શક્ય છે.</string>
+    <string name="callFailed_unobtainable_number">અમાન્ય નંબર</string>
+    <string name="confCall">કોન્ફરન્સ કોલ</string>
+    <string name="call_lost">કોલ છૂટી ગયો છે.</string>
+    <string name="retry">પુનઃપ્રયાસ</string>
+    <string name="call_lost_title">કોલ છૂટી ગયો છે</string>
+    <string name="mmiStarted">MMI કોડ શરૂ</string>
+    <string name="ussdRunning">USSD કોડ ચાલુ છે\u2026</string>
+    <string name="mmiCancelled">MMI કોડ રદ્દ</string>
+    <string name="cancel">રદ્દ કરવું</string>
+    <string name="menu_speaker">સ્પીકર</string>
+    <string name="menu_bluetooth">બ્લુટુથ</string>
+    <string name="menu_mute">મૌન</string>
+    <string name="menu_hold">ઊભું રાખવું</string>
+    <string name="menu_endCall">કોલ સમાપ્ત કરો</string>
+    <string name="menu_swapCalls">કોલ્સ સ્વેપ કરો</string>
+    <string name="menu_mergeCalls">કોલ મિશ્રણ કરો</string>
+    <string name="menu_phoneRecorder">રેકોર્ડીંગ</string>
+    <string name="menu_addCall">કોલ ઉમેરો</string>
+    <string name="menu_manageConference">કોન્ફરન્સ કોલ સંચાલન કરો</string>
+    <string name="menu_showDialpad">ડાયલપેડ દર્શાવો</string>
+    <string name="menu_hideDialpad">ડાયલપેડ છૂપાવો</string>
+    <string name="menu_answerAndHold">વર્તમાન કોલ જાળવી રાખો\n&amp; જવાબ આપો</string>
+    <string name="menu_answerAndEnd">વર્તમાન કોલ\n&amp; સમાપ્ત કરો જવાબ આપો</string>
+    <string name="ok">ઓકે</string>
+    <string name="select_sub_title">કાર્ડ સંચાલન કરો</string>
+    <string name="menuButtonHint">કોલ વિકલ્પો માટે મેનુ દબાવો.</string>
+    <string name="menuButtonKeyboardDialHint">"કોલ વિકલ્પો માટે Menu દબાવો \u2022 ડાયલ માટે કિબોર્ડનો ઉપયોગ કરો"</string>
+    <string name="menu_answer">જવાબ</string>
+    <string name="menu_ignore">અવગણના કરો</string>
+    <string name="wait_prompt_str">નીચેના ટોન્સ મોકલવા છે?\n</string>
+    <string name="pause_prompt_str">ટોન્સ મોકલાય છે\n</string>
+    <string name="send_button">મોકલવું</string>
+    <string name="pause_prompt_yes">હા</string>
+    <string name="pause_prompt_no">ના</string>
+    <string name="wild_prompt_str">વાઇલ્ડ કેરેક્ટર સાથે બદલાવો</string>
+    <string name="no_vm_number">છૂટી ગયેલ વોઇઝમેલ નંબર</string>
+    <string name="no_vm_number_msg">SIM કાર્ડ પર કોઇ વોઇઝમેઇલ સંદેશા નથી.</string>
+    <string name="add_vm_number_str">નંબર ઉમેરો</string>
+    <string name="dialer_emptyListWorking">લોડ થાય છે\u2026</string>
+    <string name="enterPin">SIM કાર્ડ અનલોક કરવા માટે PIN કોડ ટાઇપ કરો.</string>
+    <string name="pinUnlocked">SIM અનલોક્ડ</string>
+    <string name="enterNewPin">નવો SIM PIN કોડ</string>
+    <string name="verifyNewPin">ફરીથી ખાતરી કરવા માટે નવો SIM PIN કોડ ટાઇપ કરો</string>
+    <string name="verifyFailed">તમે દાખલ કરેલ SIM PINs સમાન થતા નથી. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="enterPuk">SIM કાર્ડ અનલોક કરવા માટે PUK કોડ ટાઇપ કરો</string>
+    <string name="badPuk">ખોટો PUK કોડ!</string>
+    <string name="buttonTxtContinue">ચાલુ રાખો</string>
+    <string name="puk_unlocked">તમારું SIM કાર્ડ અનબ્લોક થયું છે. તમારો ફોન અનલોકીંગ થાય છે\u2026</string>
+    <string name="label_ndp">SIM કાર્ડ નેટવર્ક અનલોક PIN</string>
+    <string name="sim_ndp_unlock_text">અનલોક</string>
+    <string name="sim_ndp_dismiss_text">બરખાસ્ત કરવું</string>
+    <string name="requesting_unlock">નેટવર્ક અનલોક વિનંતી થાય છે\u2026</string>
+    <string name="unlock_failed">નેટવર્ક અનલોક વિનંતી નિષ્ફળ.</string>
+    <string name="unlock_success">નેટવર્ક અનલોક સફળ.</string>
+    <string name="imei">IMEI</string>
+    <string name="labelGSMMore">GSM કોલ ગોઠવણી</string>
+    <string name="labelCDMAMore">CDMA કોલ ગોઠવણીઓ</string>
+    <string name="apn_settings">પોઇન્ટ નામોનો ઉપયોગ કરો</string>
+    <string name="settings_label">નેટવર્ક સેટિંગ્ઝ</string>
+    <string name="voicemail">વોઇઝમેઇલ</string>
+    <string name="voicemail_abbreviated">VM:</string>
+    <string name="networks">નેટવર્ક સંચાલકો</string>
+    <string name="call_settings">કોલ સેટિંગ્ઝ</string>
+    <string name="additional_gsm_call_settings">અધિક ગોઠવણી</string>
+    <string name="sum_gsm_call_settings">અધિક GSM માત્ર કોલ ગોઠવણી </string>
+    <string name="additional_cdma_call_settings">અધિક CDMA કોલ ગોઠવણી </string>
+    <string name="sum_cdma_call_settings">અધિક CDMA માત્ર કોલ ગોઠવણી </string>
+    <string name="labelNwService">નેટવર્ક સેવા ગોઠવણી</string>
+    <string name="labelCallerId">કોલર આઇડી</string>
+    <string name="sum_hide_caller_id">જાવક કોલ્સમાં છૂપાયેલ નંબર</string>
+    <string name="sum_show_caller_id">જાવક કોલ્સમાં પ્રદર્શિત નંબર</string>
+    <string name="sum_default_caller_id">જાવક કોલ્મસમાં મારો નંબર પ્રદર્શિત કરવા માટે પૂર્વનિર્ધારીત સંચાલક ગોઠવણીઓ ઉપયોગ કરો</string>
+    <string name="labelCW">કોલ પ્રતિક્ષા </string>
+    <string name="sum_cw_enabled">કોલ દરમિયાન, આવક કોલની મને જાણ કરો</string>
+    <string name="sum_cw_disabled">કોલ દરમિયાન, આવક કોલની મને જાણ કરો</string>
+    <string name="call_forwarding_settings">કોલ રવાનગી ગોઠવણી</string>
+    <string name="call_barring_settings">કોલ પ્રતિબંધ ગોઠવણી</string>
+    <string name="labelCF">કોલ રવાનગી</string>
+    <string name="labelCB">કોલ પ્રતિબંધ ગોઠવણી</string>
+    <string name="labelCFU">હંમેશા રવાનગી કરો</string>
+    <string name="messageCFU">હંમેશા આ નંબરનો ઉપયોગ કરો</string>
+    <string name="sum_cfu_enabled_indicator">તમામ કોલ્સ રવાનગી કરો</string>
+    <string name="sum_cfu_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> પર તમામ કોલ્સ રવાનગી કરો </string>
+    <string name="sum_cfu_enabled_no_number">નંબર અનપલબ્ધ છે</string>
+    <string name="sum_cfu_disabled">નિષ્ક્રીય છે</string>
+    <string name="labelCFB">વ્યસ્ત હોય ત્યારે રવાનગી કરો</string>
+    <string name="messageCFB">વ્યસ્ત હોય ત્યારે નંબર</string>
+    <string name="sum_cfb_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>માં રવાનગી થાય છે</string>
+    <string name="sum_cfb_disabled">નિષ્ક્રીય છે</string>
+    <string name="disable_cfb_forbidden">તમારો ફોન વ્યસ્ત હોય ત્યારે કોલ-રવાનગી નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelCFNRy">પ્રત્યુત્તર ન મળે ત્યારે રવાનગી કરો</string>
+    <string name="messageCFNRy">અનુત્તર હોય ત્યારે નંબર</string>
+    <string name="sum_cfnry_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>માં રવાનગી થાય છે</string>
+    <string name="sum_cfnry_disabled">નિષ્ક્રીય છે</string>
+    <string name="disable_cfnry_forbidden">તમારો ફોન પ્રત્યુત્તર ન આપે ત્યારે કોલ-રવાનગી નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelCFNRc">પહોંચ બહાર હોય ત્યારે રવાનગી કરો</string>
+    <string name="messageCFNRc">પહોંચ બહાર હોય ત્યારે નંબર</string>
+    <string name="sum_cfnrc_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>માં રવાનગી થાય છે</string>
+    <string name="sum_cfnrc_disabled">નિષ્ક્રીય છે</string>
+    <string name="disable_cfnrc_forbidden">તમારો ફોન પહોંચ બહાર હોય ત્યારે કોલ-રવાનગી નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="network_wrong" msgid="">"નેટવર્ક તરફથી અનપેક્ષ‍િત પ્રતિભાવ"</string>
+    <string name="number_empty" msgid="">"સંખ્યા ખાલી છે"</string>
+    <string name="cb_pw_error" msgid="">"પાસવર્ડ ખોટો છે"</string>
+    <string name="cb_pw_correct" msgid="">"પાસવર્ડ બદલાઇ ગયેલ છે"</string>
+    <string name="cb_pw_no_match" msgid="">"પાસવર્ડ બંધબેસતો નથી"</string>
+    <string name="labelAO">તમામ જાવક</string>
+    <string name="messageAO">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="sum_ao_enabled">સક્રિય</string>
+    <string name="sum_ao_disabled">નિષ્ક્રીય છે</string>
+    <string name="enable_ao_forbidden">તમામ આવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="disable_ao_forbidden">તમામ જાવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelOI">જાવક આંતરરાષ્ટ્રિય</string>
+    <string name="messageOI">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="sum_oi_enabled">સક્રિય</string>
+    <string name="sum_oi_disabled">નિષ્ક્રીય છે</string>
+    <string name="enable_oi_forbidden">આંતરરાષ્ટ્રીય જાવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="disable_oi_forbidden">આંતરરાષ્ટ્રીય આવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelOX">જાવક આંતરરાષ્ટ્રિય રોમીંગ</string>
+    <string name="messageOX">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="sum_ox_enabled">સક્રિય</string>
+    <string name="sum_ox_disabled">નિષ્ક્રીય છે</string>
+    <string name="enable_ox_forbidden">આંતરરાષ્ટ્રીય રોમીંગ જાવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="disable_ox_forbidden">આંતરરાષ્ટ્રીય રોમીંગ જાવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelAI">તમામ આવક</string>
+    <string name="messageAI">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="sum_ai_enabled">સક્રિય</string>
+    <string name="sum_ai_disabled">નિષ્ક્રીય છે</string>
+    <string name="enable_ai_forbidden">તમામ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="disable_ai_forbidden">તમામ આવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelIR">રોમીંગ સમયે આવક કોલ</string>
+    <string name="messageIR">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="sum_ir_enabled">સક્રિય</string>
+    <string name="sum_ir_disabled">નિષ્ક્રીય છે</string>
+    <string name="enable_ir_forbidden">રોમીંગ કોલ્સ સમયે આવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="disable_ir_forbidden">રોમીંગ કોલ્સ સમયે આવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelAB">તમામ નિષ્ક્રીય કરો</string>
+    <string name="messageAB">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="sum_ab_enabled">સક્રિય</string>
+    <string name="sum_ab_disabled">નિષ્ક્રીય છે</string>
+    <string name="enable_ab_forbidden">તમામ નિષ્ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી.</string>
+    <string name="labelChgPwd">પાસવર્ડ બદલવો.</string>
+    <string name="DlgChgPwd_oldpwd">કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો.</string>
+    <string name="DlgChgPwd_newpwd_first">નવો પાસવર્ડ દાખલ કરો</string>
+    <string name="DlgChgPwd_newpwd_last">નવો પાસવર્ડ પુષ્ટિ કરો</string>
+    <string name="updating_title">કોલ સેટિંગ્ઝ</string>
+    <string name="error_updating_title">કોલ ગોઠવણ ભૂલ</string>
+    <string name="reading_settings">ગોઠવણી વાંચન થાય છે\u2026</string>
+    <string name="updating_settings">ગોઠવણી અદ્યતન થાય છે\u2026</string>
+    <string name="reverting_settings">ગોઠવણી પરત થાય છે\u2026</string>
+    <string name="response_error">નેટવર્ક તરફથી અજ્ઞાત પ્રતિક્રિયા</string>
+    <string name="exception_error">નેટવર્ક અથવા SIM કાર્ડ ભૂલ.</string>
+    <string name="fdn_only_error">માત્ર ફિક્સ્ડ ડાયલીંગ નંબર્સ પર જ કાર્યોની અનુમતિ છે.</string>
+    <string name="radio_off_error">આ ગોઠવણીઓ જોતા પહેલાં કૃપા કરી રેડિયો ચાલુ કરો.</string>
+    <string name="close_dialog">ઓકે</string>
+    <string name="enable">સક્રિય કરવું</string>
+    <string name="disable">નિષ્ક્રીય</string>
+    <string name="change_num">અદ્યતન</string>
+    <string-array name="clir_display_values">
+        <!-- Phone settings "Caller ID" preference option: use the default value -->
+        <item>પૂર્વનિર્ધારીત નેટવર્ક</item>
+        <!-- Phone settings "Caller ID" preference option: hide outgoing Caller ID info -->
+        <item>નંબર છૂપાવો</item>
+        <!-- Phone settings "Caller ID" preference option: show outgoing Caller ID info -->
+        <item>નંબર દર્શાવો</item>
+    </string-array>
+    <string name="vm_save_number">વોઇઝમેઇલ નંબર સંગ્રહ કરો</string>
+    <string name="vm_changed">વોઇઝમેઇલ નંબર બદલાયો છે.</string>
+    <string name="vm_change_failed">વોઇઝમેઇલ નંબર બદલી અસફળ.\nજો આ સમસ્યા ચાલુ રહે તો કૃપા કરી તમારા કેરીયરનો સંપર્ક કરો.</string>
+    <string name="fw_change_failed">નંબર બદલી રવાનગી નિષ્ફળ.\nજો સમસ્યા ચાલુ રહે તો તમારા કેરીયરનો કૃપા કરી સંપર્ક કરો.</string>
+    <string name="fw_get_in_vm_failed">વર્તમાન રવાનીગી નંબર ગોઠવણી પ્રાપ્ત અને સંગ્રહ કરવામાં નિષ્ફળ.\nકોઇપણ રીતે તમે નવાં પ્રોવાઇડરમાં બદલી કરવા માગો છો?</string>
+    <string name="no_change">કોઇ ફેરફાર કરવામાં આવ્ય  નથી.</string>
+    <string name="sum_voicemail_choose_provider">વોઇઝમેલ સેવા પસંદ કરો</string>
+    <string name="voicemail_default">મારું કેરીયર</string>
+    <string name="mobile_networks">મોબાઇલ નેટવર્ક ગોઠવણી</string>
+    <string name="mobile_networks_other">અન્ય</string>
+    <string name="label_available">ઉપલબ્ધ નેટવર્ક્સ</string>
+    <string name="label_available_sim1">SIM1 ઉપલબ્ધ નેટવર્ક</string>
+    <string name="label_available_sim2">SIM2 ઉપલબ્ધ નેટવર્ક</string>
+    <string name="load_networks_progress">શોધ\u2026</string>
+    <string name="empty_networks_list">કોઇ નેટવર્ક શોધાયું નથી.</string>
+    <string name="search_networks">નેટવર્ક શોધો</string>
+    <string name="network_query_error">નેટવર્ક શોધ સમયે ભૂલ.</string>
+    <string name="register_on_network"><xliff:g id="network">%s</xliff:g> પર નોંધણી થાય છે\u2026</string>
+    <string name="not_allowed">તમારું SIM કાર્ડ આ નેટવર્ક સાથે જોડાણને અનુમતિ આપતું નથી.</string>
+    <string name="connect_later">આ સમયે નેટવર્ક સાથે જોડાણમાં નિષ્ફળ. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="registration_done">નેટવર્ક પર નોંધાયેલ .</string>
+    <string name="sum_carrier_select">નેટવર્ક સંચાલક પસંદ કરો</string>
+    <string name="sum_search_networks">તમામ ઉપલબ્ધ નેટવર્કમાટે શોધો</string>
+    <string name="select_automatically">સ્વયં પસંદ કરો</string>
+    <string name="sum_select_automatically">પસંદગીયુક્ત નેટવર્ક સ્વયં પસંદગી કરવી</string>
+    <string name="register_automatically">સ્વયં નોંધણી...</string>
+    <string name="preferred_network_mode_title">નેટવર્ક મોડ</string>
+    <string name="preferred_network_mode_dialogtitle">પસંદગીનો નેટવર્ક મોડ</string>
+    <string-array name="preferred_network_mode_choices">
+        <!-- <item>Global</item> -->
+        <!-- <item>EvDo only</item> -->
+        <!-- <item>CDMA w/o EvDo</item> -->
+        <!-- <item>CDMA / EvDo auto</item> -->
+        <!-- <item>GSM / WCDMA auto</item> -->
+        <!-- <item>WCDMA only</item> -->
+        <!-- <item>GSM only</item> -->
+        <!-- <item>GSM / WCDMA preferred</item> -->
+        <item>માત્ર TD-SCDMA</item>
+        <item>માત્ર GSM</item>
+        <item></item>
+    </string-array>
+    <string name="data_enabled">સક્રિય ડેટા</string>
+    <string name="data_enable_summary">મોબાઇલ નેટવર્ક પર ડેટા પ્રવેશ સક્રિય કરો</string>
+    <string name="roaming">ડેટા રોમીંગ</string>
+    <string name="roaming_enable">રોમીંગ સમયે ડેટા સેવા સાથે જોડાણ કરો</string>
+    <string name="roaming_disable">રોમીંગ સમયે ડેટા સેવા સાથે જોડાણ કરો</string>
+    <string name="roaming_reenable_message">તમે ડેટા જોડાણ ગુમાવ્યું છે કારણ કે ડેટા રોમિંગ બંધ કરી તમારું હોમ નેટવર્ક તમે ગુમાવ્યું છે.</string>
+    <string name="roaming_warning">ડેટા રોમીંગ અનુમતિ આપવી છે? તમને વાજબી રોમીંગ ખર્ચ લાગશે!</string>
+    <string name="gsm_umts_options">GSM/UMTS વિકલ્પો</string>
+    <string name="cdma_options">CDMA વિકલ્પો</string>
+    <string name="throttle_data_usage">ડેટા ઉપયોગ</string>
+    <string name="throttle_settings_title">કેરીયર ડેટા પોલીસી</string>
+    <string name="throttle_current_usage">વર્તમાન સમયગાળામાં ડેટા ઉપયોગ</string>
+    <string name="throttle_time_frame">ડેટા ઉપયોગ સમયગાળો</string>
+    <string name="throttle_rate">ડેટા દર નીતિ</string>
+    <string name="throttle_help">વધુ શીખો</string>
+    <string name="throttle_status_subtext"><xliff:g id="used">%3$s</xliff:g> નો<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) મહત્તમ સમયગાળો\nદિવસો<xliff:g id="used">%4$d</xliff:g> આગામી સમયગાળો શરૂ થાય છે (<xliff:g id="used">%5$s</xliff:g>)</string>
+    <string name="throttle_data_usage_subtext"><xliff:g id="used">%3$s</xliff:g> નો <xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) મહત્તમ સમયગાળો</string>
+    <string name="throttle_data_rate_reduced_subtext"><xliff:g id="used">%1$s</xliff:g> મહત્તમ મર્યાદા બહાર\n<xliff:g id="used">%2$d</xliff:g>Kb/s ડેટા દર ઘટ્યો</string>
+    <string name="throttle_time_frame_subtext"><xliff:g id="used">%1$d</xliff:g>\u066A ની સાઇકલ બાકી છે\nદિવસમાં <xliff:g id="used">%2$d</xliff:g> દિવસ (<xliff:g id="used">%3$s</xliff:g>) આગામી સમયગાળો શરૂ થાય છે</string>
+    <string name="throttle_rate_subtext">જો ડેટા ઉપયોગ મર્યાદા બહાર હોય તો <xliff:g id="used">%1$d</xliff:g> Kb/s સુધી ડેટા દરમાં ઘટાડો થાય છે</string>
+    <string name="throttle_help_subtext">તમારા કેરીયરના મોબાઇલ નેટવર્ક ડેટા ઉપયોગ નીતિ વિશે વધુ માહિતી</string>
+    <string name="cdma_cell_broadcast_sms">સેલ બ્રોડકાસ્ટ SMS</string>
+    <string name="cell_broadcast_sms">સેલ બ્રોડકાસ્ટ SMS</string>
+    <string name="enable_disable_cell_bc_sms">સેલ બ્રોડકાસ્ટ SMS</string>
+    <string name="cell_bc_sms_enable">સેલ બ્રોડકાસ્ટ SMS સક્રિય</string>
+    <string name="cell_bc_sms_disable">સેલ બ્રોડકાસ્ટ SMS નિષ્ક્રીય</string>
+    <string name="cb_sms_settings">સેલ બ્રોડકાસ્ટ SMS ગોઠવણી</string>
+    <string name="channel_list">ચેનલ સૂચિ</string>
+    <string name="channel_name">ચેનલ નામ</string>
+    <string name="channel_number">ચેનલ નંબર</string>
+    <string name="info_input_channel_number">કૃપા કરી ચેનલ નંબર દાખલ કરો</string>
+    <string name="info_input_channel_number_num">કૃપા કરી માત્ર નંબર્સ દાખલ કરો</string>
+    <string name="menu_add_channel">ચેનલ ઉમેરો</string>
+    <string name="edit">ફેરફાર કરવો</string>
+    <string name="menu_delete_channel">તમામ  ભૂંસો</string>
+    <string name="menu_delete_sigle_channel">કાઢી નાંખવું</string>
+    <string name="no">રદ્દ કરવું</string>
+    <string name="confirm_delete_message">સંદેશ ભૂંસાઇ જશે.</string>
+    <string name="enable_disable_emergency_broadcast">ઇમરજન્સી બ્રોડકાસ્ટ</string>
+    <string name="emergency_broadcast_enable">ઇમરજન્સી બ્રોડકાસ્ટ સક્રિય</string>
+    <string name="emergency_broadcast_disable">ઇમરજન્સી બ્રોડકાસ્ટ નિષ્ક્રીય</string>
+    <string name="enable_disable_administrative">સંચાલકીય</string>
+    <string name="administrative_enable">સંચાલકીય સક્રિય થયું છે</string>
+    <string name="administrative_disable">સંચાલકીય નિષ્ક્રીય થયું છે</string>
+    <string name="enable_disable_maintenance">સંચાલન</string>
+    <string name="maintenance_enable">સંચાલન સક્રીય</string>
+    <string name="maintenance_disable">સંચાલન નિષ્ક્રીય</string>
+    <string name="general_news_settings">સામાન્ય સમાચાર</string>
+    <string name="bf_news_settings">વ્યાવસાયિક અને નાણાંકીય સમાચારો</string>
+    <string name="sports_news_settings">ખેલ સમાચાર</string>
+    <string name="entertainment_news_settings">મનોરંજન સમાચાર</string>
+    <string name="enable_disable_local">સ્થાનિક</string>
+    <string name="local_enable">સ્થાનિક સમાચાર સક્રિય</string>
+    <string name="local_disable">સ્થાનિક સમાચાર નિષ્ક્રીય</string>
+    <string name="enable_disable_regional">ક્ષેત્રીય</string>
+    <string name="regional_enable">ક્ષેત્રીય સમાચારો સક્રિય</string>
+    <string name="regional_disable">ક્ષેત્રીય સમાચારો નિષ્ક્રીય</string>
+    <string name="enable_disable_national">રાષ્ટ્રિય</string>
+    <string name="national_enable">રાષ્ટ્રિય સમાચાર સક્રિય</string>
+    <string name="national_disable">રાષ્ટ્રિય સમાચાર નિષ્ક્રીય</string>
+    <string name="enable_disable_international">આંતરરાષ્ટ્રિય</string>
+    <string name="international_enable">આંતરરાષ્ટ્રિય સમાચાર સક્રિય</string>
+    <string name="international_disable">આંતરરાષ્ટ્રિય સમાચાર નિષ્ક્રીય</string>
+    <string name="list_language_title">ભાષા ગોઠવણી </string>
+    <string name="list_language_summary">સમાચાર ભાષા પસંદ કરો</string>
+    <string name="broadcast">સેલ બ્રોડકાસ્ટ SMS</string>
+    <string name="menu_cellbroadcastsms">સેલ બ્રોડકાસ્ટ</string>
+    <string name="language_eng">ઇંગ્લીશ</string>
+    <string name="language_fren">ફ્રેન્ચ</string>
+    <string name="language_spanish">સ્પેનીશ</string>
+    <string name="language_japanese">જાપાનીઝ</string>
+    <string name="language_korean">કોરીયા</string>
+    <string name="language_chinese">ચાઇનીઝ</string>
+    <string name="language_hebrew">હિબ્રુ</string>
+    <string name="same_setting">કૃપા કરી ચેનલ નંબર રીસેટ કરો, આ સમાન ચેનલ નામ છે</string>
+    <string-array name="list_language_entries">
+        <item>ઇંગ્લીશ</item>
+        <item>ફ્રેન્ચ</item>
+        <item>સ્પેનીશ</item>
+        <item>જાપાનીઝ</item>
+        <item>કોરીયા</item>
+        <item>ચાઇનીઝ</item>
+        <item>હિબ્રુ</item>
+    </string-array>
+    <string name="list_language_dtitle">ભાષાઓ</string>
+    <string name="enable_disable_local_weather">સ્થાનિક હવામાન</string>
+    <string name="local_weather_enable">સ્થાનિક હવામાન સક્રિય</string>
+    <string name="local_weather_disable">સ્થાનિક હવામાન નિષ્ક્રીય</string>
+    <string name="enable_disable_atr">એરીય ટ્રાફિક અહેવાલો</string>
+    <string name="atr_enable">એરીય ટ્રાફિક અહેવાલો સક્રિય છે</string>
+    <string name="atr_disable">એરીય ટ્રાફિક અહેવાલો નિષ્ક્રીય છે</string>
+    <string name="enable_disable_lafs">સ્થાનિક એરપોર્ટ ફ્લાઇટ કાર્યક્રમો</string>
+    <string name="lafs_enable">સ્થાનિક એરપોર્ટ ફ્લાઇટ કાર્યક્રમો સક્રિય</string>
+    <string name="lafs_disable">સ્થાનિક એરપોર્ટ ફ્લાઇટ કાર્યક્રમો નિષ્ક્રીય</string>
+    <string name="enable_disable_restaurants">રેસ્ટોરાંસ</string>
+    <string name="restaurants_enable">રેસ્ટોરાંસ સક્રિય</string>
+    <string name="restaurants_disable">રેસ્ટોરાંસ નિષ્ક્રીય</string>
+    <string name="enable_disable_lodgings">લોજીંગ્સ</string>
+    <string name="lodgings_enable">લોજીંગ્સ સક્રિય</string>
+    <string name="lodgings_disable">લોજીંગ્સ નિષ્ક્રીય</string>
+    <string name="enable_disable_retail_directory">છૂટક શબ્દકોશ</string>
+    <string name="retail_directory_enable">છૂટક શબ્દકોશ સક્રિય છે</string>
+    <string name="retail_directory_disable">છૂટક શબ્દકોશ નિષ્ક્રીય છે</string>
+    <string name="enable_disable_advertisements">જાહેરાત</string>
+    <string name="advertisements_enable">જાહેરાતો સક્રિય થઇ છે</string>
+    <string name="advertisements_disable">જાહેરાતો નિષ્ક્રીય થઇ છે</string>
+    <string name="enable_disable_stock_quotes">સ્ટોક ભાગો</string>
+    <string name="stock_quotes_enable">સ્ટોક ભાવો સક્રિય</string>
+    <string name="stock_quotes_disable">સ્ટોક ભાવો નિષ્ક્રીય</string>
+    <string name="enable_disable_eo">રોજગાર તકો </string>
+    <string name="eo_enable">રોજગાર તકો સક્રિય</string>
+    <string name="eo_disable">રોજગાર તકો નિષ્ક્રીય</string>
+    <string name="enable_disable_mhh">મેડિકલ, સ્વાસ્થ્ય અને હોસ્પીટલ</string>
+    <string name="mhh_enable">મેડિકલ, સ્વાસ્થ્ય અને હોસ્પીટલ સક્રિય</string>
+    <string name="mhh_disable">મેડિકલ, સ્વાસ્થ્ય અને હોસ્પીટલ નિષ્ક્રીય</string>
+    <string name="enable_disable_technology_news">ટેકનોલોજી સમાચાર</string>
+    <string name="technology_news_enable">ટેકનોલોજી સમાચાર સક્રિય</string>
+    <string name="technology_news_disable">ટેકનોલોજી સમાચાર નિષ્ક્રીય</string>
+    <string name="enable_disable_multi_category">બહુવિધ-શ્રેણી</string>
+    <string name="multi_category_enable">બહુવિધ-શ્રેણી સક્રિય</string>
+    <string name="multi_category_disable">બહુવિધ-શ્રેણી નિષ્ક્રીય</string>
+    <string name="cell_broadcast_empty">કોઇ ચેનલ માહિતી નથી!</string>
+    <string name="gsm_umts_network_preferences_title">GSM/UMTS નેટવર્ક પસંદગીઓ</string>
+    <string name="gsm_umts_network_preferneces_summary">હજુ અમલમાં મૂકાયું નથી!</string>
+    <string name="gsm_umts_network_preferences_dialogtitle">GSM/UMTS નેટવર્ક પસંદગીઓ</string>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mode)</item>
+        <item>માત્ર WCDMA</item>
+        <item>માત્ર GSM</item>
+        <item>GSM/WCDA (WCDMA પસંદગી)</item>
+    </string-array>
+    <string name="prefer_2g">માત્ર 2G નેટવર્ક્સનો ઉપયોગ કરો</string>
+    <string name="prefer_2g_summary">બેટરી સંગ્રહ કરે છે</string>
+    <string name="cdma_system_select_title">સિસ્ટમ પસંદ કરો</string>
+    <string name="cdma_system_select_summary">CDMA રોમીંગ મોડ બદલાવો</string>
+    <string name="cdma_system_select_dialogtitle">સિસ્ટમ પસંદ કરો</string>
+    <string-array name="cdma_system_select_choices">
+        <!-- System select dialog screen, setting option name -->
+        <item>માત્ર હોમ</item>
+        <!-- Remove the following option "Affiliated Networks" from the option list -->
+        <!-- <item>Affiliated Networks</item> -->
+        <!-- System select dialog screen, setting option name -->
+        <item>સ્વયં</item>
+    </string-array>
+    <string name="cdma_roaming_mode_title">CDMA રોમીંગ મોડ</string>
+    <string name="cdma_roaming_mode_summary">CDMA રોમીંગ મોડ બદલાવો</string>
+    <string name="cdma_roaming_mode_dialogtitle">CDMA રોમીંગ મોડ</string>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>માત્ર હોમ નેટવર્ક</item>
+        <item>સંલ્ગન નેટવર્ક્સ</item>
+        <item>કોઇ નેટવર્ક</item>
+    </string-array>
+    <string name="cdma_network_preferences_title">CDMA નેટવર્ક પસંદગીઓ</string>
+    <string name="cdma_network_preferneces_summary">હજુ અમલમાં મૂકાયું નથી!</string>
+    <string name="cdma_network_preferences_dialogtitle">CDMA નેટવર્ક પસંદગીઓ</string>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>માત્ર CDMA</item>
+        <item>માત્ર EvDO</item>
+    </string-array>
+    <string name="cdma_subscription_title">CDMA સબસ્ક્રીપ્શન</string>
+    <string name="cdma_subscription_summary">RUIM/SIM અને NV વચ્ચે બદલાવો</string>
+    <string name="cdma_subscription_dialogtitle">સબસ્ક્રીપ્શન</string>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item></item>
+    </string-array>
+    <string name="fdn">ફિક્સ્ડ ડાયલીંગ નંબર્સ</string>
+    <string name="manage_fdn_list">FDN સૂચિ</string>
+    <string name="fdn_activation">FDN સક્રિય</string>
+    <string name="fdn_enabled">ફિક્સ્ડ ડાયલીંગ નંબર્સ સક્રિય છે</string>
+    <string name="fdn_disabled">ફિક્સ્ડ ડાયલીંગ નંબર્સ નિષ્ક્રીય છે</string>
+    <string name="enable_fdn">FDN સક્રિય કરો</string>
+    <string name="disable_fdn">FDN નિષ્ક્રીય કરો</string>
+    <string name="change_pin2">PIN2 બદલાવો</string>
+    <string name="enable_fdn_ok">FDN નિષ્ક્રીય કરો</string>
+    <string name="disable_fdn_ok">FDN સક્રિય કરો</string>
+    <string name="sum_fdn">નિયત ડાયલીંગ નંબર્સ સંચાલન કરો</string>
+    <string name="sum_fdn_change_pin">FDN પ્રવેશ માટે PIN બદલાવો</string>
+    <string name="sum_fdn_manage_list">ફોન નંબર સૂચિ સંચાલન કરો</string>
+    <string name="voice_privacy">વોઇઝ ગુપ્તતા</string>
+    <string name="voice_privacy_summary">સઘન ગોપનીયતા મોડ સક્રિય કરો</string>
+    <string name="tty_mode_title">TTY મોડ</string>
+    <string name="tty_mode_summary">TTY મોડ સક્રિય કરો</string>
+    <string name="tty_mode_option_title">TTY મોડ</string>
+    <string name="tty_mode_option_summary">TTY મોડ ગોઠવો</string>
+    <string name="auto_retry_mode_title">સ્વયં પુનઃપ્રયાસ</string>
+    <string name="auto_retry_mode_summary">સ્વ પુનઃપ્રયાસ મોડ સક્રિય કરો</string>
+    <string name="menu_add">સંપર્ક ઉમેરો</string>
+    <string name="menu_edit">સંપર્ક સંપાદિત કરો</string>
+    <string name="menu_delete">સંપર્ક ભૂંસો</string>
+    <string name="get_pin2">PIN2 દાખલ કરો</string>
+    <string name="name">નામ</string>
+    <string name="number">નંબર</string>
+    <string name="save">સંગ્રહ કરો</string>
+    <string name="add_fdn_contact">ફિક્સ્ડ ડાયલીંગ નંબર ઉમેરો</string>
+    <string name="adding_fdn_contact">ફિક્સ્ડ ડાયલીંગ નંબર ઉમેરાય છે\u2026</string>
+    <string name="fdn_contact_added">ફિક્સ્ડ ડાયલીંગ નંબર ઉમેરાયા છે.</string>
+    <string name="edit_fdn_contact">ફિક્સ્ડ ડાયલીંગ નંબર સંપાદિત કરો</string>
+    <string name="updating_fdn_contact">ફિક્સ્ડ ડાયલીંગ નંબર અદ્યતન થાય છે\u2026</string>
+    <string name="fdn_contact_updated">ફિક્સ્ડ ડાયલીંગ નંબર અદ્યતન થયા છે.</string>
+    <string name="delete_fdn_contact">ફિક્સ્ડ ડાયલીંગ નંબર ભૂસો</string>
+    <string name="deleting_fdn_contact">ફિક્સ્ડ ડાયલીંગ નંબર ભૂંસાય છે\u2026</string>
+    <string name="fdn_contact_deleted">ફિક્સ્ડ ડાયલીંગ નંબર ભૂંસાયા છે.</string>
+    <string name="pin2_invalid">FDN અદ્યતન નથી: તમે અયોગ્ય PIN દાખલ કર્યો છે.</string>
+    <string name="fdn_invalid_number">FDN અદ્યતન નથી: સંખ્યા 20 અંકોથી વધી શકશે નહીં.</string>
+    <string name="fdn_invalid_illegal_char">"FDN અદ્યતન થયું નથી : સંખ્યામાં અમાન્ય અક્ષર છે."</string>
+    <string name="simContacts_emptyLoading">SIM કાર્ડ માંથી વાંચન થાય છે\u2026</string>
+    <string name="simContacts_empty">તમારા SIM કાર્ડમાં કોઇ સંપર્કો નથી.</string>
+    <string name="simContacts_title">આયાત માટે સંપર્કો પસંદ કરો</string>
+    <string name="enable_pin">SIM PIN સક્રિય/નિષ્ક્રીય કરો</string>
+    <string name="change_pin">SIM PIN બદલાવો</string>
+    <string name="enter_pin_text">SIM PIN:</string>
+    <string name="oldPinLabel">જૂનો PIN</string>
+    <string name="newPinLabel">નવો PIN</string>
+    <string name="confirmPinLabel">નવો PIN પુષ્ટિ કરો</string>
+    <string name="badPin">તમે ટાઇપ કરેલ જૂનો PIN સાચો નથી. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="mismatchPin">તમે દાખલ કરેલ PINs સમાન થતો નથી. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="invalidPin">4 થી 8 નંબર્સ હોય તે PIN ટાઇપ કરો.</string>
+    <string name="disable_sim_pin">SIM PIN નિષ્ક્રીય કરો</string>
+    <string name="enable_sim_pin">SIM PIN સક્રિય કરો</string>
+    <string name="enable_in_progress">કૃપા કરી પ્રતિક્ષા કરો\u2026</string>
+    <string name="enable_pin_ok">SIM PIN સક્રિય</string>
+    <string name="disable_pin_ok">SIM PIN નિષ્ક્રીય</string>
+    <string name="pin_failed">તમે દાખલ કરેલ PIN ખોટો છે</string>
+    <string name="pin_changed">SIM PIN સફળતાપૂર્વક બદલાયું છે</string>
+    <string name="puk_requested">ખોટો પાસવર્ડ, SIM લોક છે! PUK2 વિનંતી થયેલ છે.</string>
+    <string name="enter_pin2_text">PIN2</string>
+    <string name="oldPin2Label">જૂનો PIN2</string>
+    <string name="newPin2Label">નવો PIN2</string>
+    <string name="confirmPin2Label">નવો PIN2 પુષ્ટિ કરો</string>
+    <string name="badPuk2">તમે ટાઇપ કરેલ PUK2 સાચો નથી. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="badPin2">તમે ટાઇપ કરેલ જૂનો PIN2 સાચો નથી. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="mismatchPin2">તમે દાખલ કરેલ PIN2 સમાન થતો નથી. કૃપા કરી ફરીથી પ્રયાસ કરો.</string>
+    <string name="invalidPin2">4 થી 8 નંબર્સ હોય તે PIN2 ટાઇપ કરો.</string>
+    <string name="promptWordOne">બાકી</string>
+    <string name="promptWordTwo">સમય(યો)</string>
+    <string name="invalidPuk2">8 નંબર્સ અથવા વધુ હોય તે PUK2 ટાઇપ કરો.</string>
+    <string name="pin2_changed">PIN2 સફળતાપૂર્વક બદલાયો છે</string>
+    <string name="label_puk2_code">PUK2 કોડ ટાઇપ કરો</string>
+    <string name="fdn_enable_puk2_requested">ખોટો પાસવર્ડ, કૃપા કરી PIN2 બદલાવો અને ફરી પ્રયાસ કરો!</string>
+    <string name="puk2_requested">ખોટો પાસવર્ડ, SIM લોક છે! PUK2 વિનંતી થયેલ છે.</string>
+    <string name="doneButton">ડન</string>
+    <string name="caller_manage_header">કોન્ફરન્સ કોલ <xliff:g id="conf_call_time">%s</xliff:g></string>
+    <string name="caller_manage_manage_done_text">કોલમાં પરત જાવ</string>
+    <string name="sim_missing_continueView_text">SIM કાર્ડ વિના ચાલુ રાખો</string>
+    <string name="sim_missing_msg_text">કોઇ SIM કાર્ડ શોધાયું નથી. કૃપા કરી ફોનમાં SIM કાર્ડ દાખલ કરો.</string>
+    <string name="sim_unlock_dismiss_text">બરખાસ્ત કરવું</string>
+    <string name="sim_unlock_unlock_text">અનલોક</string>
+    <string name="sim_unlock_status_text">પ્રમાણીત કરના PIN\u2026</string>
+    <string name="voicemail_settings_number_label">વોઇઝમેઇલ નંબર</string>
+    <string name="card_title_dialing">ડાયલીંગ</string>
+    <string name="card_title_dialing_video">ડાયલીંગ વિ‍ડિયો</string>
+    <string name="card_title_alerting_video">ઉપયોગકર્તા તાકીદ</string>
+    <string name="card_title_redialing">ફરી પ્રયાસ થાય છે</string>
+    <string name="card_title_in_progress">વર્તમાન કોલ </string>
+    <string name="card_title_conf_call">કોન્ફરન્સ કોલ</string>
+    <string name="card_title_incoming_call">આવક કોલ</string>
+    <string name="card_title_incoming_video_call">આવક વિડીયો કોલ</string>
+    <string name="card_title_cdma_call_waiting">Cdma કોલપ્રતીક્ષા</string>
+    <string name="card_title_call_ended">કોલ સમાપ્ત</string>
+    <string name="card_title_on_hold">હોલ્ડ પર</string>
+    <string name="card_title_hanging_up">હેન્ગીંગ અપ</string>
+    <string name="card_title_in_call">કોલમાં </string>
+    <string name="card_title_my_phone_number">મારો નંબર આ છે<xliff:g id="my_phone_number">%s</xliff:g></string>
+    <string name="notification_missedCallTitle">ચૂકાઇ ગયેલ કોલ</string>
+    <string name="notification_missedCallsTitle">ચૂકાઇ ગયેલ કોલ્સ</string>
+    <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> છૂટી ગયેલ કોલ્સ</string>
+    <string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> તરફથી છૂટી ગયેલ કોલ</string>
+    <string name="notification_ongoing_call_format">વર્તમાન કોલ (<xliff:g id="duration">%s</xliff:g>) </string>
+    <string name="notification_on_hold">હોલ્ડ પર</string>
+    <string name="notification_incoming_call">આવક કોલ</string>
+    <string name="notification_voicemail_title">નવો વોઇઝમેઇલ </string>
+    <string name="notification_voicemail_title_count">નવો વોઇઝમેઇલ (<xliff:g id="count">%d</xliff:g>)</string>
+    <string name="notification_voicemail_text_format">ડાયલ <xliff:g id="voicemail_number">%s</xliff:g></string>
+    <string name="notification_voicemail_no_vm_number">વોઇઝમેઇલ નંબર અજ્ઞાત</string>
+    <string name="notification_network_selection_title">કોઇ સેવા નથી</string>
+    <string name="notification_network_selection_text">પસંદ થયેલ નેટવર્ક (<xliff:g id="operator_name">%s</xliff:g>) અનુપલબ્ધ</string>
+    <string name="incall_error_power_off">કોલ કરવા માટે, પ્રથમ એરપ્લેન મોડ બંધ કરો</string>
+    <string name="incall_error_emergency_only">નેટવર્ક પર નોંધાયેલ નથી.</string>
+    <string name="incall_error_out_of_service">મોબાઇન નેટવર્ક ઉપલબ્ધ નથી</string>
+    <string name="incall_error_no_phone_number_supplied">કોલ મોકલાયો નથી, કોઇ માન્ય નંબર દાખલ થયો નથી.</string>
+    <string name="incall_error_call_failed">કોલ મોકલાયો નથી, </string>
+    <string name="incall_status_dialed_mmi">MMI ક્રમ શરૂ થાય છે\2026</string>
+    <string name="incall_status_dialed_fc">વિશીષ્ટતા કોડ ક્રમ શરૂ થાય છે\u2026</string>
+    <string name="incall_error_supp_service_unknown">અસહાયક સેવા</string>
+    <string name="incall_error_supp_service_switch">કોલ્સ બદલી કરવામાં નિષ્ફળ.</string>
+    <string name="incall_error_supp_service_separate">કોલ અલગ કરવામાં નિષ્ફળ.</string>
+    <string name="incall_error_supp_service_transfer">કોલ સ્થળાંતર કરવામાં નિષ્ફળ.</string>
+    <string name="incall_error_supp_service_conference">કોનફરન્સ કોલ્સ કરવામાં નિષ્ફળ.</string>
+    <string name="incall_error_supp_service_reject">કોલ અસ્વીકૃત કરવામાં નિષ્ફળ.</string>
+    <string name="incall_error_supp_service_hangup">કોલ(સ) મુક્ત કરવામાં નિષ્ફળ.</string>
+    <string name="incall_error_dialvt_in_2gcall">વોઇઝકોલ પહેલાંથી ચાલુ છે, અમે વિડીયો કોલ મૂકી શક્યા નથી!</string>
+    <string name="incall_error_dialvt_in_3gcall">વોઇઝકોલ પહેલાંથી ચાલુ છે, અમે વિડીયો કોલ મૂકી શક્યા નથી!</string>
+    <string name="incall_error_dial_in_3gcall">વોઇઝકોલ પહેલાંથી ચાલુ છે, અમે વિડીયો કોલ મૂકી શક્યા નથી!</string>
+    <string name="incall_error_aireplane_mode_on">કોલ કરવા માટે, પ્રથમ એરપ્લેન મોડ બંધ કરો</string>
+    <string name="emergency_enable_radio_dialog_title">ઇમરજન્સી કોલ</string>
+    <string name="emergency_enable_radio_dialog_message">રેડીયો ચાલુ કરો\u2026</string>
+    <string name="emergency_enable_radio_dialog_retry">સેવા વિસ્તારની બહાર, પુનઃપ્રયાસ થાય છે\u2026</string>
+    <string name="dial_emergency_error">કોલ મોકલાયો નથી, <xliff:g id="non_emergency_number">%s</xliff:g> ઇમરજન્સી નંબર નથી!</string>
+    <string name="dial_emergency_empty_error">કોલ મોકલાયો નથી, કૃપા કરી ઇમરજન્સી નંબર ડાયલ કરો!</string>
+    <string name="dialerKeyboardHintText">ડાયલ માટે કિબોર્ડનો ઉપયોગ કરો</string>
+    <string name="dtmfDialpadHintText">ટોન કિપેડ સ્પર્શ કરો</string>
+    <string name="dtmfDialpadHandleLabel">ડાયલપેડ</string>
+    <string name="touchLockText">અનલોક કરવા માટે\nડબલ-ટેપ કરો</string>
+    <string name="onscreenAnswerText">જવાબ આપવા માટે\nડબલ-ટેપ કરો</string>
+    <string name="onscreenRejectText">અસ્વીકૃત કરવા માટે\nડબલ-ટેપ કરો</string>
+    <string name="onscreenHoldText">ઊભું રાખવું</string>
+    <string name="onscreenUnholdText">મુક્ત</string>
+    <string name="onscreenEndCallText">સમાપ્ત</string>
+    <string name="onscreenShowDialpadText">ડાયલપેડ</string>
+    <string name="onscreenHideDialpadText">છૂપાવવું</string>
+    <string name="onscreenSpeakerText">સ્પીકર</string>
+    <string name="onscreenMuteText">મૌન</string>
+    <string name="onscreenBluetoothText">બ્લુટુથ</string>
+    <string name="onscreenAddCallText">કોલ ઉમેરો</string>
+    <string name="onscreenMergeCallsText">કોલ મિશ્રણ કરો</string>
+    <string name="onscreenSwapCallsText">સ્વેપ</string>
+    <string name="onscreenManageCallsText">કોલ્સ મેનેજ કરો</string>
+    <string name="onscreenManageConferenceText">સંચાલન કરો</string>
+    <string name="importSimEntry">આયાત</string>
+    <string name="importAllSimEntries">તમામ આયાત કરો</string>
+    <string name="importingSimContacts">SIM સંપર્કો આયાત થાય છે</string>
+    <string name="importToFDNfromContacts">સંપર્કોમાંથી આયાત કરો</string>
+    <string name="hac_mode_title">શ્રાવ્ય સાધનો</string>
+    <string name="hac_mode_summary">શ્રાવ્ય સાધન સુસંગતતા ચાલુ કરો</string>
+    <string-array name="tty_mode_entries">
+        <item>TTY બંધ</item>
+        <item>TTY સંપૂર્ણ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string name="eri_text_label">ERI પાઠ્ય</string>
+    <string name="dtmf_tones_title">DTMF ટોન્સ</string>
+    <string name="dtmf_tones_summary">DTMF ટોન્સની લંબાઇ ગોઠવો</string>
+    <string-array name="dtmf_tone_entries">
+      <item>સામાન્ય </item>
+      <item>લાંબુ</item>
+    </string-array>
+    <string name="network_message">નેટવર્ક સંદેશ</string>
+    <string name="ota_title_activate">તમારો ફોન સક્રિય કરો</string>
+    <string name="ota_touch_activate">તમારી ફોન સેવા સક્રિય કરવા માટે એક ખાસ કોલ કરવાની આવશ્યકતા છે.
+    \n\nદબાવ્યા બાદ \u201Cસક્રિય કરો\u201D, તમારો ફોન સક્રિય કરવા માટે આપવામાં આવેલ સૂચનાઓ સાંભળો.</string>
+    <string name="ota_touch_activate_new">તમારા કેરીયરના મોબાઇલ નેટવર્ક પર તમારો ફોન સક્રિય કરે તે ખાસ કોલ કરવા માટે \u201Cસક્રિય કરો\u201D ને સ્પર્શ કરો, આથી તમે કોલ્સ અને મોબાઇલ ડેટા નેટવર્ક સાથે જોડાણ કરી શકશો.</string>
+    <string name="ota_skip_activation_dialog_title">સક્રિય છોડવું છે\?</string>
+    <string name="ota_skip_activation_dialog_message">જો તમે એક્ટીવેશનને અવગણો, તો તમે કોલ્સ અથવા મોબાઇલ ડેટા નેટવર્ક્સ (જોકે તમે Wi-Fi નેટવર્ક્સ સાથે જોડાઇ શકશો) જોડાણ કરી શકશો નહીં. તમે ફોન એક્ટીવેટ નહીં કરો ત્યાં સુધી, તમે જ્યારે ફોન ચાલુ કરશો ત્યારે દરેક સમયે તેને એક્ટીવેટ કરવાનું તમને પૂછવામાં આવશે.</string>
+    <string name="ota_skip_activation_dialog_skip_label">છોડો</string>
+    <string name="ota_skip_activation_dialog_continue_label">સક્રિય કરવું</string>
+    <string name="ota_activate">સક્રિય કરવું</string>
+    <string name="ota_title_activate_success">ફોન સક્રિય થયો છે!</string>
+    <string name="ota_title_problem_with_activation">સક્રિય કરવામાં સમસ્યા</string>
+    <string name="ota_listen">એક્ટીવેશન પૂર્ણ થયું છે તેમ તમે સાંભળો નહીં ત્યાં સુધી બોલવામાં આવતી સૂચનાઓનું પાલન કરો.</string>
+    <string name="ota_dialpad">કિપેડ</string>
+    <string name="ota_speaker">સ્પીકર</string>
+    <string name="ota_progress">તમારો ફોન પ્રોગ્રામ થાય ત્યારે કૃપા કરી પ્રતીક્ષા કરો.</string>
+    <string name="ota_failure">પ્રોગ્રામીંગ અસફળ</string>
+    <string name="ota_successful">તમારો ફોન હવે સક્રિય થયો છે. સેવા શરૂ કરવા માટે તે 15 મીનીટ સુધીનો સમય લેશે.</string>
+    <string name="ota_unsuccessful">તમારા ફોન સક્રિય થયો નથી.\nવધુ સારા કવરેજ સાથેનો વિસ્તાર શોધવાની તમારે આવશ્યકતા છે (બારીની નજીક, અથવા બહાર). \n\nવધુ વિકલ્પો માટે ફરીથી પ્રયાસ કરો અથવા ગ્રાહક સેવાને કોલ કરો.</string>
+    <string name="ota_spc_failure">SPC પ્રવેશ નિષ્ફળતા</string>
+    <string name="ota_call_end">પાછળ</string>
+    <string name="ota_try_again">ફરીથી પ્રયાસ કરો</string>
+    <string name="ota_next">આગામી</string>
+    <string name="ota_back">પાછળ</string>
+    <string name="ecm_exit_dialog">EcmExitDialog</string>
+    <string name="phone_entered_ecm_text">દાખલ કરેલ ઇમરજન્સી કોલબેક મોડ</string>
+    <string name="phone_in_ecm_notification_title">ઇમરજન્સી કોલબેક મોડ</string>
+    <string name="phone_in_ecm_call_notification_text">ડેટા જોડાણ નિષ્ફળ</string>
+    <plurals name="phone_in_ecm_notification_time">
+        <!-- number of minutes is one -->
+        <item quantity="one"><xliff:g id="count">%s</xliff:g> મીનીટ માટે કોઇ ડેટા જોડાણ નથી</item>
+        <!-- number of minutes is not equal to one -->
+        <item quantity="other"><xliff:g id="count">%s</xliff:g> મીનીટ માટે કોઇ ડેટા જોડાણ નથી</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <!-- number of minutes is one -->
+        <item quantity="one"><xliff:g id="count">%s</xliff:g> મીનીટ માટે ફોન ઇમરજન્સી કોલબેક મોડમાં જશે. આ મોડમાં ડેટા જોડાણનો ઉપયોગ કરતા કોઇ અનુપ્રયોગનો ઉપયોગ થઇ શકશે નહીં. તમે બહાર જવા માગો છો?</item>
+        <!-- number of minutes is not equal to one -->
+        <item quantity="other"><xliff:g id="count">%s</xliff:g> મીનીટ માટે ફોન ઇમરજન્સી કોલબેક મોડમાં જશે. આ મોડમાં ડેટા જોડાણનો ઉપયોગ કરતા કોઇ અનુપ્રયોગનો ઉપયોગ થઇ શકશે નહીં. તમે બહાર જવા માગો છો?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <!-- number of minutes is one -->
+        <item quantity="one">ઇમરજન્સી કોલબેક મોડમાં પસંદ કરેલ કાર્ય ઉપલબ્ધ નથી. <xliff:g id="count">%s</xliff:g> મીનીટ માટે આ મોડમાં ફોન રહેશે. તમે બહાર જવા માગો છો?</item>
+        <!-- number of minutes is not equal to one -->
+        <item quantity="other">ઇમરજન્સી કોલબેક મોડમાં પસંદ કરેલ કાર્ય ઉપલબ્ધ નથી. <xliff:g id="count">%s</xliff:g> મીનીટ માટે આ મોડમાં ફોન રહેશે. તમે બહાર જવા માગો છો?</item>
+    </plurals>
+    <string name="alert_dialog_in_ecm_call">ઇમરજન્સી કોલબેક મોડમાં પસંદ કરેલ કાર્ય ઉપલબ્ધ નથી.</string>
+    <string name="progress_dialog_exiting_ecm">ઇમરજન્સી કોલબેક મોડમાંથી બહાર</string>
+    <string name="alert_dialog_yes">હા</string>
+    <string name="alert_dialog_no">ના</string>
+    <string name="alert_dialog_dismiss">બરખાસ્ત કરવું</string>
+    <string name="voicemail_settings">વોઇઝમેઇલ ગોઠવણી</string>
+    <string name="voicemail_number_not_set">&lt;ગોઠવાયેલ નથી&gt;</string>
+    <string name="voicemail_provider">વોઇઝમેઇલ સેવા</string>
+    <string name="voicemail_settings_for"><xliff:g id="provider_name">%s</xliff:g> માટે ગોઠવણી</string>
+    <string name="other_settings">અન્ય કોલ ગોઠવણીઓ</string>
+    <string name="dial_button_label">ડાયલ </string>
+    <string name="calling_via_template">^1\n<b>^2</b> વાયા કોલ થાય છે</string>
+    <string name="slide_to_answer">જવાબ માટે જમણી તરફ દોરી જાવ</string>
+    <string name="slide_to_silence">રીંગર મૌન કરવા માટે ડાબી બાજુ દોરી જાવ</string>
+    <string name="slide_to_decline">અસ્વીકૃત કરવા માટે ડાબી બાજુ દોરી જાવ</string>
+    <string name="slide_to_answer_and_hold">જવાબ માટે જમણી તરફ દોરી જાવ અને\nસક્રિય કોલ હોલ્ડ પર રાખો</string>
+    <string name="slide_to_answer_and_end_active">જવાબ માટે જમણી તરફ દોરી જાવ અને\nસક્રિય કોલ સમાપ્ત કરો</string>
+    <string name="slide_to_answer_and_end_onhold">જવાબ માટે જમણી તરફ દોરી જાવ અને\nહોલ્ડ પર રાખેલ કોલ સમાપ્ત કરો</string>
+    <string name="slide_to_answer_hint">જવાબ</string>
+    <string name="slide_to_decline_hint">ઇન્કાર કરવો</string>
+    <string name="sim_state_not_changes">SIM કાર્ડ સક્રિય/નિષ્ક્રીય સ્થિતિમાં કોઇ ફેરફારો નથી.</string>
+    <string name="sim_state_set_timeout">SIM કાર્ડ સ્થિતિ ગોઠવણી સમય બહાર.</string>
+    <string name="data_enable_set">ડેટા જોડાણ સક્રિય ગોઠવણી</string>
+    <string name="data_enable_set_timeout">ડેટા જોડાણ સક્રિય ગોઠવણી સમય બહાર</string>
+    <string name="selectsim_settings_label">સ્ટેન્ડ બાય SIM કાર્ડ ગોઠવણીઓ</string>
+    <string name="cb_error">કોલ પ્રતિબંધ અસ્વીકૃત</string>
+    <string name="video_camera_switch">કેમેરા બદલાવો</string>
+    <string name="video_view_switch">દર્શનમાં બદલી કરો</string>
+    <string name="video_camera_close">કેમેરા બંધ કરો</string>
+    <string name="video_camera_open">કેમેરા ખોલો</string>
+    <string name="video_speaker_close">સ્પીકર બંધ કરો</string>
+    <string name="video_speaker_open">સ્પીકર ખોલો</string>
+    <string name="video_bluetooth_close">બ્લુટુથ બંધ કરો</string>
+    <string name="video_bluetooth_open">બ્લુટુથ ખોલો</string>
+    <string name="video_mute">મૌન</string>
+    <string name="video_unmute">મૌન બંધ</string>
+    <string name="video_decline">ઇન્કાર કરવો</string>
+    <string name="video_falldown">માત્ર વોઇઝ</string>
+    <string name="video_record">રેકોર્ડીંગ…</string>
+    <string name="video_start_record_both">બંને રેકોર્ડ શરૂ કરો</string>
+    <string name="video_start_record_audio">ઓડિયો રેકોર્ડ શરૂ કરો</string>
+    <string name="video_start_record_video">વિડીયો રેકોર્ડ શરૂ કરો</string>
+    <string name="video_start_record_remote_audio">રીમોટ ઓડિયો રેકોર્ડ શરૂ કરો</string>
+    <string name="video_stop_record">રેકોર્ડ બંધ કરો</string>
+    <string name="insert_sd_card">કૃપા કરી SD કાર્ડ દાખલ કરો</string>
+    <string name="storage_is_full">સંગ્રહ સંપૂર્ણ</string>
+    <string name="video_btn_dialer">કિપેડ</string>
+    <string name="video_btn_hangup">હેન્ગ અપ</string>
+    <string name="video_btn_answer">જવાબ</string>
+    <string name="video_btn_decline">ઇન્કાર કરવો</string>
+    <string name="video_label_name">નામ：</string>
+    <string name="video_label_time">કોલ સમય</string>
+    <string name="video_label_status">સ્થિતિ:</string>
+    <string name="video_label_begintime">શરૂ સમય:</string>
+    <string name="video_dialog_incoming">આવક કોલ, સ્વીકારવો છે કે નહીં?</string>
+    <string name="video_dialog_incoming_accept">સ્વીકારો</string>
+    <string name="video_dialog_incoming_tovoice">અવાજમાં બદલી કરો</string>
+    <string name="video_dialog_incoming_hangup">હેન્ગ અપ</string>
+    <string name="videophonesetting_label">વિડીયોફોન ગોઠવણી</string>
+    <string name="videophone_setting">વિડીયોફોન</string>
+    <string name="videophone_setting_title">વિડીયોફોન સામાન્ય ગોઠવણી</string>
+    <string name="videophone_setting_summary">વિડીયોફોન પ્રદર્શન, લેઆઉટ અને ઇ. માટે વિકલ્પો ગોઠવો.</string>
+    <string name="videophone_callforward_setting_title">વિડીયોફોન રવાનગી ગોઠવણી</string>
+    <string name="videophone_callbarring_setting_title">વિડીયોફોન પ્રતિબંધ ગોઠવણી</string>
+    <string name="videophone_setting_title_static_image">સ્ટેઇક ઇમેજ પ્રદર્શિત કરો</string>
+    <string name="videophone_setting_title_static_image_set">સ્થિર ઇમેજ સેટ</string>
+    <string name="videophone_setting_title_remote_static_image_set">દૂરની_સ્થાયી ઇમેજ સેટ</string>
+    <string name="videophone_setting_title_local_static_image_set">સ્થાનિક_સ્થિર ઇમેજ સેટ</string>
+    <string name="videophone_setting_title_delete_photo">પૂર્વનિર્ધારીત ઇમેજ</string>
+    <string name="videophone_setting_title_take_photo">ફોટો લો</string>
+    <string name="videophone_setting_title_pick_photo">ગેલેરીમાંથી ફોટો પસંદ કરો</string>
+    <string name="videophone_setting_photoPickerNotFoundText">ફોન પર કોઇ ચિત્રો ઉપલબ્ધ નથી.</string>
+    <string name="videophone_setting_summary_static_image">દૂરના કેમેરા બંધ હોય ત્યારે સ્ટેઇક ઇમેજ પ્રદર્શિત કરો</string>
+    <string name="videophone_setting_title_layout">વિડીયો સ્ક્રીન પસંદગીઓ</string>
+    <string name="videophone_layout_my_small">મારો વિડીયો નાનો</string>
+    <string name="videophone_layout_my_large">મારો વિડીયો મોટો</string>
+    <string name="videophone_setting_default_image">પૂર્વનિર્ધારીત ઇમેજ</string>
+    <string name="videophone_setting_picture_oversize">"‍ચિત્રની પહોળાઇ 640 * 480 થી વધુ થઇ શકશે નહીં"</string>
+    <string name="videophone_setting_picture_widthtoosmall">"ચિત્રની પહોળાઇ 64 કરતાં ઓછી થઇ શકશે નહીં"</string>
+    <string name="videophone_setting_picture_heightoosmall">"ચિત્રની લંબાઇ 64 કરતાં ઓછી થઇ શકશે નહીં"</string>
+    <string name="videophone_setting_picture_unsupoorted">"આ ચિત્ર લોડ કરવામાં નિષ્ફળ. કૃપા કરી અન્ય પસંદ કરો."</string>
+    <string name="videophone_setting_title_fallback">વિડીયો કોલ બેક વિનંતી</string>
+    <string name="videophone_fallback_always_ask">દરેક સમયે મને પૂછો</string>
+    <string name="videophone_fallback_always_callback">હંમેશા કોલબેક કરો</string>
+    <string name="videophone_fallback_never_callback">કોલ બેક ક્યારેય નહીં</string>
+    <string name="videophone_setting_dialog_title_layout">વિડીયો પસંદગીઓ</string>
+    <string name="videophone_setting_dialog_title_fallback">વિડીયો કોલ બેક વિનંતી</string>
+    <string name="videophone_fallback_title">વિડીયોફોન ફોલબેક</string>
+    <string name="videophone_never_fallback">પ્રાપ્તિકર્તા વિનંતી વોઇઝ કોલ. સ્વયં રીડાયલ છોડો.</string>
+    <string name="videophone_always_fallback">પ્રાપ્તિકર્તા વિનંતી વોઇઝ કોલ. વોઇઝ કોલ સ્વયં રીડાયલ કરો.</string>
+    <string name="videophone_notin3g_never_fallback">"વર્તમાન નેટવર્ક વિડીયો કોલને સહાયક નથી. સ્વયં રીડાયલ પડતુ મૂકો."</string>
+    <string name="videophone_notin3g_always_fallback">"વર્તમાન નેટવર્ક વિડીયો કોલને સહાયક નથી. વોઇઝ કોલ સ્વયં રીડાયલ કરો."</string>
+    <string name="videophone_fallback_menu_videocall">વિડિયો કોલ</string>
+    <string name="videophone_fallback_menu_voicecall">વોઇઝ કોલ</string>
+    <string name="videophone_fallback_menu_cancel">રદ્દ કરવું</string>
+    <string name="videophone_fallback_question">તમે શું કરવા માગો છો? </string>
+    <string name="videophone_failcause_1000">"અંતિમ વિડીયો કોલ સામાન્ય રીતે સમાપ્ત થયો નથી, કૃપા કરી થોડીવાર બાદ ફરીથી પ્રયાસ કરો"</string>
+    <string name="videophone_failcause_1">તમે ડાયલ કરેલ નંબર સેવામાં નથી.</string>
+    <string name="videophone_failcause_3">ઉપયોગકર્તા અનુપલબ્ધ છે</string>
+    <string name="videophone_failcause_8">ખૂલ્લો કોલ</string>
+    <string name="videophone_failcause_17">ઉપયોગકર્તા વ્યસ્ત</string>
+    <string name="videophone_failcause_19">"તમે ડાયલ કરેલ વપરાશકર્તા પ્રતિભાવ આપતા નથી"</string>
+    <string name="videophone_failcause_27">ઉપયોગકર્તા બંધ છે</string>
+    <string name="videophone_failcause_34">જોડાણ છૂટું થયું છે</string>
+    <string name="videophone_failcause_63">રોમીંગ કોલ પ્રતિબંધ </string>
+    <string name="videophone_failcause_79">ઉપયોગકર્તા દ્વારા VT અસહાયક</string>
+    <string name="videophone_failcause_default">ઉપયોગકર્તા અનુપલબ્ધ છે</string>
+    <string name="videophone_failcause_47">માફ કરજો, વિડિયો કોલ ઉપલબ્ધ નથી</string>
+    <string name="videophone_failcause_57">"અન્ય બાજુએ VT સેવા શરૂ કરી નથી"</string>
+    <string name="videophone_failcause_58">ઉપયોગકર્તા દ્વારા VT અસહાયક</string>
+    <string name="videophone_failcause_88">ઉપયોગકર્તા વોઇઝ કોલની પસંદગી કરે છે</string>
+    <string name="videophone_failcause_minus_1">3G સેવા ઉપલબ્ધ નથી</string>
+    <string name="videophone_incoming_prompt">આવક વિડીયો કોલ</string>
+    <string name="brightness">સ્ક્રીન પ્રકાશ</string>
+    <string name="camera_brightness">કેમેરા પ્રકાશ</string>
+    <string name="camera_contrast">કેમેરા કોન્ટ્રાસ્ટ</string>
+    <string name="prompt_remotecamera_close">દૂરનો કેમેરા બંધ છે</string>
+    <string name="prompt_remotecamera_open">દૂરનો કેમેરા ચાલુ છે</string>
+    <string name="sutstitute_not_exist">અવેજી ચિત્ર હયાત નથી</string>
+    <string name="prompt_picture_format_error">"અવેજી ચિત્ર jpeg નથી, પૂર્વનિર્ધારીત ચિત્ર પુનઃસ્થાપિત કરો" </string>
+    <string name="prompt_wait_voicecall">કૃપા કરી વોઇઝ કોલ માટે પ્રતીક્ષા કરો</string>
+    <string name="prompt_record_finish">રેકોર્ડર ફાઇ અહીં સંગ્રહ થઇ છે</string>
+    <string name="prompt_camera_fail">કેમેરા ખોલવું નિષ્ફળ</string>
+    <string name="prompt_no_freespace">હમણાં 500kb કરતાં વધુ મુક્ત અવકાશ નથી, રેકોર્ડિંગ બંધ થશે.</string>
+    <string name="audio_db_artist_name">તમારા રેકોર્ડિંગ્ઝ</string>
+    <string name="audio_db_album_name">શ્રાવ્ય રેકોર્ડિંગ્ઝ</string>
+    <string name="audio_db_playlist_name">મારું રેકોર્ડિંગ્ઝ</string>
+    <string name="app_name">ફોન અનુપ્રયોગ</string>
+    <string name="error_mediadb_new_record">રેકોર્ડેડ ઓડિયો સંગ્રહ કરવામાં નિષ્ફળ</string>
+    <string name="hangup_reply_message_title">સંદેશ અસ્વીકૃત </string>
+    <string name="hangup_reply_message">સંદેશ હેંગઅપ પ્રત્યુત્તર આપો</string>
+    <string name="hangup_reply_message_tip">આવક UI તમે ક્લીક કરો ત્યારે, તમને કોણ કોલ કરે છે તે સ્વયં તમને સંદેશ રવાના કરશે.</string>
+    <string name="edit_message_content_for_hangup">સંદેશ સામગ્રી સંપાદિત કરો</string>
+    <string name="edit_message_content_introdution">સંદેશ સામગ્રી અને કેન્દ્ર ખાસ વ્યક્તિ સંપાદિત કરો</string>
+    <string name="label_message_reject">હેંગઅપ માટે સંદેશાની સામગ્રી</string>
+    <string name="tip_input_content">તમે કોઇ સંદેશા સામગ્રીનો સેટ ધરાવતા નથી</string>
+    <string name="label_button_edit">ફેરફાર કરવો</string>
+    <string name="label_button_ok">ઓકે</string>
+    <string name="label_button_add_special_reply">પ્રત્યુત્તર માટે ખાસ નંબર ઉમેરો</string>
+    <string name="reply_message_default">હું વ્યસ્ત છું, તમને થોડવાર બાદ કોલ કરો!</string>
+    <string name="title_message_reply_for_hangup">સંદેશ સામગ્રી સંપાદિત કરો</string>
+    <string name="contactPhoto">સંપર્ક ફોટો</string>
+    <string name="goPrivate">ખાનગી જાવ</string>
+    <string name="selectContact">સંપર્ક પસંદ કરો</string>
+    <string name="standby_select">સ્ટેન્ડ બાય પાવર પસંદગી</string>
+    <string name="sip_settings">ઇન્ટરનેટ કોલ ગોઠવણી</string>
+    <string name="sip_accounts">ઇન્ટરનેટ કોલીંગ (SIP) એકાઉન્ટ્સ</string>
+    <string name="sip_accounts_title">ખાતા</string>
+    <string name="sip_accounts_summary">ઇન્ટરનેટ કોલીંગ (SIP) એકાઉન્ટ્સ અને સ્થિતિ સંચાલન કરો</string>
+    <string name="sip_receive_calls">આવક કોલ્સ પ્રાપ્ત થાય છે</string>
+    <string name="sip_receive_calls_summary">બેટરી લાઇફ ઘટાડે છે</string>
+    <string name="sip_call_options">કોલ વિકલ્પ સંરચના કરો</string>
+    <string name="sip_call_options_title">ઇન્ટરનેટ કોલીંગનો ઉપયોગ કરો</string>
+    <string name="sip_call_options_wifi_only_title">ઇન્ટરનેટ કોલીંગનો ઉપયોગ કરો (Wi-Fi માત્ર)</string>
+    <string name="sip_call_options_entry_1">ડેટા નેટવર્ક ઉપલબ્ધ હોય ત્યારે તમામ કોલ્સ</string>
+    <string name="sip_call_options_entry_2">માત્ર ઇન્ટરનેટ કોલ્સ માટે</string>
+    <string name="sip_call_options_entry_3">દરેક કોલ માટે પૂછો</string>
+    <string name="sip_call_options_wifi_only_entry_1">તમામ કોલ્સ માટે</string>
+    <string name="auto_reg">સ્વયં-નોંધણી</string>
+    <string name="call_priority">જાવક કોલ્સ વાયા SIP</string>
+    <string name="pick_outgoing_call_phone_type">તમામ મૂકો</string>
+    <string name="pick_outgoing_sip_phone">ઇન્ટરનેટ કોલીંગ ખાતાનો ઉપયોગ કરો:</string>
+    <string name="remember_my_choice">ઇન્ટરનેટ કોલ્સ કરવા માટે હંમેશા ઉપયોગ કરો</string>
+    <string name="reset_my_choice_hint">ઇન્ટરનેટ કોલ ગોઠવણી હેઠળ અલગ એકાઉન્ટ પસંદ કરી, કોલ્સ કરતી વખતે  પૂર્વનિર્ધારીત દ્વારા ઇન્ટરનેટ કોલીંગ એકાઉન્ટનો ઉપયોગ થાય છે તે બદલાવવા માટે તમે કોલ ગોઠવણીનો ઉપયોગ કરી શકશો</string>
+    <string name="pstn_phone">સેલ ફોન કોલ</string>
+    <string name="internet_phone">ઇન્ટરનેટ કોલ</string>
+    <string name="no_sip_account_found_title">કોઇ ઇન્ટરનેટ કોલીંગ ખાતુ નથી</string>
+    <string name="no_sip_account_found">આ ફોન પર કોઇ ઇન્ટરનેટ કોલીંગ ખાતા નથી. એક હમણાં ઉમેરવું છે?</string>
+    <string name="sip_menu_add">ઉમેરવું</string>
+    <string name="add_sip_account">ખાતુ ઉમેરો</string>
+    <string name="remove_sip_account">ખાતુ દૂર કરો</string>
+    <string name="sip_account_list">SIP ખાતા</string>
+    <string name="saving_account">ખાતુ સંગ્રહ થાય છે...</string>
+    <string name="removing_account">ખાતુ દૂર થાય છે...</string>
+    <string name="sip_menu_save">સંગ્રહ કરો</string>
+    <string name="sip_menu_discard">કાઢી નાંખો</string>
+    <string name="alert_dialog_close">પ્રોફાઇલ બંધ કરો</string>
+    <string name="alert_dialog_ok">ઓકે</string>
+    <string name="close_profile">બંધ</string>
+    <string name="primary_account">પ્રાથમિક</string>
+    <string name="primary_account_title">આ ખાતાને મારું પ્રાથમિક ખાતુ કરો</string>
+    <string name="primary_account_summary">આઉટબાઉન્ડ કોલ્સ માટે ઉપયોગમાં લેવાયેલ</string>
+    <string name="advanced_settings_title">આધુનિક સેટિંગ્ઝ</string>
+    <string name="primary_account_summary_with">પ્રાથમિક ખાતુ. <xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
+    <string name="registration_status_checking_status">સ્થિતિ તપાસ થાય છે...</string>
+    <string name="registration_status_registering">નોંધણી થાય છે...</string>
+    <string name="registration_status_still_trying">હજુ પ્રયાસ ચાલુ છે...</string>
+    <string name="registration_status_not_receiving">કોલ્સ મેળવતા નથી</string>
+    <string name="registration_status_no_data">એકાઉન્ટ નોંધણી બંધ થઇ છે કારણ કે કોઇ ઇન્ટરનેટ જોડાણ નથી</string>
+    <string name="registration_status_no_wifi_data">એકાઉન્ટ નોંધણી બંધ થઇ છે કારણ કે કોઇ Wi-Fi જોડાણ નથી</string>
+    <string name="registration_status_not_running">એકાઉન્ટ નોંધણી નિષ્ફળ</string>
+    <string name="registration_status_done">કોલ્સ પ્રાપ્ત થાય છે</string>
+    <string name="registration_status_failed_try_later">એકાઉન્ટ નોંધણી નિષ્ફળ: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); ફરીથી પ્રયાસ કરશે</string>
+    <string name="registration_status_invalid_credentials">એકાઉન્ટ નોંધણી નિષ્ફળ: ખોટું ઉપયોગકર્તા નામ અથવા પાસવર્ડ</string>
+    <string name="registration_status_server_unreachable">એકાઉન્ટ નોંધણી નિષ્ફળ: કૃપા કરી સર્વરનામ ચકાસો</string>
+    <string name="third_party_account_summary"><xliff:g id="account_owner" example="Google Talk">%s</xliff:g> અનુપ્રયોગ દ્વારા આ ખાતુ હાલ ઉપયોગમાં છે</string>
+    <string name="sip_edit_title">SIP  ખાતા વિગતો</string>
+    <string name="sip_edit_new_title">SIP  ખાતા વિગતો</string>
+    <string name="domain_address_title">સર્વર</string>
+    <string name="username_title">ઉપયોગકર્તા </string>
+    <string name="password_title">પાસવર્ડ</string>
+    <string name="display_name_title">નામ પ્રદર્શિત કરો</string>
+    <string name="proxy_address_title">બાહ્ય અવેજી સરનામું</string>
+    <string name="port_title">પોર્ટ નંબર</string>
+    <string name="transport_title">સ્થળાંતર પ્રકાર</string>
+    <string name="send_keepalive_title">જીવંત-રાખવું મોકલો</string>
+    <string name="send_keepalive_summary">SIP જીવંત-રાખવું સંદેશા મોકલો</string>
+    <string name="auto_registration_title">સ્વયં-નોંધણી</string>
+    <string name="auto_registration_summary">પ્રોફાઇલ સ્વયં નોંધણી કરો</string>
+    <string name="set_primary_title">પ્રાથમિક ખાતા તરીકે ગોઠવો</string>
+    <string name="set_primary_summary">આઉટબાઉન્ડ કોલ્સ માટે ઉપયોગમાં લેવાયેલ</string>
+    <string name="advanced_settings">વૈકલ્પ‍િક ગોઠવણી</string>
+    <string name="auth_username_title">પ્રમાણીકરણ ઉપયોગકર્તાનામ</string>
+    <string name="auth_username_summary">પ્રમાણીતતા માટે ઉપયોગકર્તાનામનો ઉપયોગ થયો છે</string>
+    <string name="default_preference_summary">&lt;ગોઠવાયેલ નથી&gt;</string>
+    <string name="display_name_summary">&lt;વપરાશકર્તાનામને જેમ સમાન&gt;</string>
+    <string name="optional_summary">&lt;વૈકલ્પ‍િક&gt;</string>
+    <string name="advanced_settings_show">▷ તમામ દર્શાવવા માટે સ્પર્શ કરો</string>
+    <string name="advanced_settings_hide">▽ તમામ છૂપાવવા માટે સ્પર્શ કરો</string>
+    <string name="empty_alert"><xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> આવશ્યકતા છે, ખાલી મૂકી શકાશે નહીં</string>
+    <string name="not_a_valid_port">પોર્ટ નંબર 1000 અને 65534 ની વચ્ચે હોવો જોઇએ</string>
+    <string name="no_internet_available_title">કોઇ ઇન્ટરનેટ જોડાણ નથી</string>
+    <string name="no_wifi_available_title">કોઇ Wi-Fi જોડાણ નથી</string>
+    <string name="no_internet_available">ઇન્ટરનેટ કોલ કરવા માટે, પ્રથમ તમારું ઇન્ટરનેટ જોડાણ તપાસો</string>
+    <string name="no_wifi_available">ઇન્ટરનેટ કોલ્સ માટે તમારે Wi-Fi નેટવર્ક સાથે જોડાણ કરવું આવશ્યકત છે (વાયરલેસ &amp; નેટવર્ક ગોઠવણીનો ઉપયોગ કરો)</string>
+    <string name="no_voip">ઇન્ટરનેટ કોલીંગ સહાયક નથી</string>
+    <string name="send_message">સંદેશ સાથે કોલ અસ્વીકૃત કરો</string>
+    <string name="menu_endbgcall">બેકગ્રાઉન્ડ કોલ સમાપ્ત કરો</string>
+    <string name="menu_endallcalls">તમામ કોલ્સ સમાપ્ત કરો</string>
+    <string name="adn_full">ADN સંપૂર્ણ છે</string>
+    <string name="china_mobile_provider">ચાઇના મોબાઇલ</string>
+    <string name="chn_cugsm_provider">CHN-CUGSM</string>
+    <string name="network_inhibit">પ્રતિબંધિત </string>
+    <string name="network_unknown">અજ્ઞાત</string>
+    <string name="disk_full">"‍ડિસ્ક ફુલ છે. કોલ લોગ્સ ઉમેરી શકાશે નહીં"</string>
+    <string name="add_calllog_error">"કોલ લોગ્સ ઉમેરી શકાશે નહીં!આંતરીક ભૂલ અથવા ડિસ્ક ફુલ છે."</string>
+    <string name="fast_dial">ઝડપી કોલ</string>
+    <string name="fast_dial_settings">ઝડપી કોલ ગોઠવણી</string>
+    <string name="fast_dial_changed">#ઝડપી કોલ ફોન નંબર બદલાયો છે</string>
+    <string name="fast_dial_no_changed">ઝડપી કોલ ફોન નંબર બદલાયા નથી.</string>
+    <string name="fast_dial_change_failed">ઝડપી કોલ ફોન નંબરની ગોઠવણી નિષ્ફળ</string>
+    <string name="fast_dial_2">2#ઝડપી કોલ</string>
+    <string name="fast_dial_3">3#ઝડપી કોલ</string>
+    <string name="fast_dial_4">4#ઝડપી કોલ</string>
+    <string name="fast_dial_5">5#ઝડપી કોલ</string>
+    <string name="fast_dial_6">6#ઝડપી કોલ</string>
+    <string name="fast_dial_7">7#ઝડપી કોલ</string>
+    <string name="fast_dial_8">8#ઝડપી કોલ</string>
+    <string name="fast_dial_9">9#ઝડપી કોલ</string>
+    <string name="no_fast_dial">વર્તમાન SIM પર ઝડપી કોલ ફોન નંબરની ગોઠવણી થઇ નથી</string>
+    <string name="not_set">સેટ થયેલ નથી</string>
+    <string name="cancel_call">રદ્દ કરવું</string>
+    <string name="other_setting">અન્ય કોલ ગોઠવણીઓ</string>
+    <string name="sim1_call_settings">SIM1 કોલ ગોઠવણી</string>
+    <string name="sim2_call_settings">SIM2 કોલ ગોઠવણી</string>
+    <string name="updating_dualsim_title">ડ્યુઅલ-સીમ ગોઠવણી</string>
+    <string name="toast_message_name_too_long">નામ ખૂબ લાંબુ છે, કૃપા કરી તેમે બદલાવો.</string>
+    <string name="toast_message_name_number_null">નામ અને નંબર બંને ખાલી રહેશે નહીં, કૃપા કરી તેને બદલાવો.</string>
+    <string name="toast_message_data_business_on">ડેટા જોડાણ ચાલુ છે, તમે નેટવર્ક પસંદ કરો ત્યારે કૃપા કરી તેને બંધ કરો.</string>
+    <string name="set_ip_dailing_title">IP ડાયલીંગ</string>
+    <string name="ip_dailing">IP નંબર સૂચિ</string>
+    <string name="ip_dailing_setting_title">IP ડાયલીંગ ગોઠવો</string>
+    <string name="ip_dailing_one_title">IP નંબર 1</string>
+    <string name="ip_dailing_two_title">IP નંબર 2</string>
+    <string name="ip_dailing_three_title">IP નંબર 3</string>
+    <string name="ip_dailing_four_title">IP નંબર 4</string>
+    <string name="ip_dailing_five_title">IP નંબર 5</string>
+    <string name="ip_dailing_save_button_text">સંગ્રહ કરો</string>
+    <string name="dialing_selector">ડાયલીંગ પસંદગીકાર</string>
+    <string name="directly_call">પ્રત્યક્ષ ડાયલીંગ</string>
+    <string name="ip_call">IP ડાયલીંગ</string>
+    <string name="emergency_call">ઇમરજન્સી કોલ</string>
+    <string name="reply_message_cannot_be_empty">સામગ્રી ખાલી રહી શકશે નહીં</string>
+    <string name="auto_send_message">સ્વયં માહિતી મોકલવી</string>
+    <string name="auto_send_message_tip">પ્રિસેટ સંદેશ સ્વયં મોકલવો છે કે કેમ</string>
+    <string name="UPLMN_setting">"UPLMN ગોઠવણી"</string>
+    <string name="open_cb">સેલ બ્રોડકાસ્ટ SMS ખોલો</string>
+    <string name="close_cb">સેલ બ્રોડકાસ્ટ SMS બંધ કરો</string>
+    <string name="init_setting">શરૂઆતની ગોઠવણી</string>
+    <string name="record_flag">રેકોર્ડીંગ</string>
+    <string name="call_vibrate_title">ધ્રુજારી</string>
+    <string name="call_vibrate_summary">જવાબો/હેગ્ઝ અપ સમયે ધ્રુજારી</string>
+    <string name="select_sim">કૃપા કરી SIM પસંદ કરો</string>
+    <string name="title_dial_from_cotacts">કોલ મોકલાયો નથી</string>
+    <string name="error_airplane_mode_on">કોલ કરવા માટે, પ્રથમ એરપ્લેન મોડ બંધ કરો</string>
+    <string name="error_no_active_sim">"કોઇ sim કાર્ડ સક્રિય નથી. કોલ કરવા માટે sim કાર્ડ સક્રિય કરો."</string>
+    <string name="error_radio_off">"રેડીયો બંધ. કૃપા કરી સંકટકાલીન નંબર ડાયલ કરો."</string>
+    <string name="error_no_active_sim_cb">"કોઇ sim કાર્ડ સક્રિય નથી."</string>
+    <string name="sim_card_unlock">"SIM કાર્ડ અનલોક કરો"</string>
+    <string name="sim_card_lock">"સિમ કાર્ડ લોક કરો"</string>
+    <string name="sim_lock_or_unlock">"સિમ કાર્ડ લોક અથવા અનલોક કરો"</string>
+    <string name="sim_card_lock_title">"સિમ કાર્ડ લોક કરો"</string>
+    <string name="sim_card_lock_summary">"સિમ કાર્ડ લોક કરો"</string>
+    <string name="sim_card_unlock_title">"SIM કાર્ડ અનલોક કરો"</string>
+    <string name="sim_card_unlock_summary">"SIM કાર્ડ અનલોક કરો"</string>
+    <string name="sim_lock_state_is_new">"સિમ લોક સ્ટેટ બદલવાની આવશ્યકતા નથી."</string>
+    <string name="sim_lock_process_success">સફળ, કૃપ કરી DUT ફરી ચાલુ કરો</string>
+    <string name="sim_lock_process_failed">નિષ્ફળ થયેલ</string>
+    <string name="please_choose_for_default_data_connection">કૃપા કરી અન્ય SIM કાર્ડ માટે પસંદ કરો.</string>
+    <string name="sim_card_manager">SIM કાર્ડ સંચાલન કરો</string>
+    <string name="wait_for_settings">ડેટા ગોઠવણી થાય છે, કૃપા કરી રાહ જુઓ.</string>
+    <string name="default_data_connection">પૂર્વનિર્ધારીત ડેટા ગોઠવો</string>
+    <string name="Periodic">નિયતકાલીન</string>
+    <string name="Non_Periodic">નોન_પીરીયોડિક</string>
+    <string name="UseGPS">GPS નો ઉપયોગ કરો</string>
+    <string name="UseOption">વર્તમાન સ્થળ પર સ્થિત(વધુ પાવર ઉપયોગની આવશ્યકતા)!</string>
+    <string name="GPS_Settings">GPS ગોઠવણી</string>
+    <string name="GPS_Mode">GPS_મોડ પસંદ કરો</string>
+    <string name="GPS_Option">સાઇક્લીકલ થવું છે કે નહીં એ સમયાંતર સ્થળ માહિતી પરત છે તેની તમે પસંદગી કરી શકશો !</string>
+    <string name="GPS_button">માહિતી માટે રીફ્રેશ</string>
+    <string name="tty_mode_gps_title">GPS ગોઠવણી</string>
+    <string name="tty_mode_gps_summary">સંચાલક પાસેથી સેલ ફોન સ્થળ માહિતી મેળવો</string>
+    <string name="video_picinpic_hide">પિક્ચર-ઇન-પિક્ચર છૂપાવો</string>
+    <string name="video_picinpic_show">પિક્ચર-ઇન-પિક્ચર દર્શાવો </string>
+    <string name="videophone_setting_title_temp_image">વૈકલ્પ‍િક ઇમેજ પ્રદર્શિત કરો</string>
+    <string name="videophone_setting_title_temp_image_set">"વૈકલ્પ‍િક છાપ ગોઠવો"</string>
+    <string name="videophone_setting_summary_temp_image">કોલ પ્રત્યુત્તર સમયે અને દૂરનું ચિત્ર દર્શન વચ્ચે વૈકલ્પ‍િક ઇમેજ પ્રદર્શિત કરો</string>
+    <string name="launcherDialer">ફોન</string>
+</resources>

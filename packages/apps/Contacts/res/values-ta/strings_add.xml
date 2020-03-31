@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete_selected_calls">தேர்ந்தெடுக்கப்பட்ட அழைப்புக்களை நீங்கள் அழிக்க விரும்புகிறீர்களா?</string>
+    <string name="selected_deleted_ok">தேர்ந்தெடுக்கப்பட்ட அழைப்புக்கள் அழிக்கப்பட்டன.</string>
+    <string name="call_log_delete">அழைப்பு நேரக்குறிப்பேடு அழிக்கவும்</string>
+    <string name="call_log_display_option">அழைப்பு நேரக்குறிப்பேடு திரையிடும் விருப்பத்தெரிவு</string>
+    <string name="recentCalls_diplayOptions">விருப்பத்தெரிவுகள் திரையிடவும்</string>
+    <string name="all_select">அனைத்தையும் தெரிவு செய்யவும்</string>
+    <string name="all_select_cancel">நிராகரிக்கவும்</string>
+    <string name="delete_calls">அழிக்கவும்</string>
+    <string name="recentCalls_delete">அழிக்கவும்</string>
+    <string name="callLogDisplayOptionsAll">அனைத்தும்</string>
+    <string name="callLogDisplayOptionsPhone">தொலைபேசி</string>
+    <string name="callLogDisplayOptionsSIM1">சிம்1</string>
+    <string name="callLogDisplayOptionsSIM2">சிம்2</string>
+</resources>

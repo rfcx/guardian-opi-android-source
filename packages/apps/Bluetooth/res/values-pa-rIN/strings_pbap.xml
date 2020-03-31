@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pbap_session_key_dialog_title">%1$s ਲਈ ਸੈਸ਼ਨ ਕੁੰਜੀ ਟਾਈਪ ਕਰੋ</string>
+  <string name="pbap_session_key_dialog_header">ਬਲੂਟੁੱਥ ਸੈਸ਼ਨ ਕੁੰਜੀ ਦੀ ਲੋੜ ਹੈ</string>
+  <string name="pbap_acceptance_timeout_message">%1$s ਨਾਲ ਕਨੈਕਸ਼ਨ ਸਵੀਕਾਰ ਕਰਨ ਲਈ ਸਮਾਂ ਸਮਾਪਤ ਹੋ ਗਿਆ ਸੀ। </string>
+  <string name="pbap_authentication_timeout_message">%1$s ਨਾਲ ਇਨਪੁਟ ਸੈਸ਼ਨ ਕੁੰਜੀ ਲਈ ਸਮਾਂ ਸਮਾਪਤ ਹੋ ਗਿਆ ਸੀ।</string>
+  <string name="auth_notif_ticker">Obex ਪ੍ਰਮਾਣੀਕਰਨ ਬੇਨਤੀ</string>
+  <string name="auth_notif_title">ਸੈਸ਼ਨ ਕੁੰਜੀ</string>
+  <string name="auth_notif_message">%1$s ਲਈ ਸੈਸ਼ਨ ਕੁੰਜੀ ਟਾਈਪ ਕਰੋ</string>
+  <string name="defaultname">ਕਾਰਕਿਟ</string>
+  <string name="unknownName">ਅਗਿਆਤ ਨਾਂ</string>
+  <string name="localPhoneName">ਮੇਰਾ ਨਾਂ</string>
+</resources>

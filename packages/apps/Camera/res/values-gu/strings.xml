@@ -1,0 +1,120 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="camera_error_title">કેમેરા ભૂલ</string>
+    <string name="cannot_connect_camera">કેમેરા સાથે જોડાઇ શકશે નહીં.</string>
+    <string name="camera_label">કેમેરા</string>
+    <string name="video_camera_label">કેમકોર્ડર</string>
+    <string name="gallery_camera_bucket_name">કેમેરા ચિત્રો</string>
+    <string name="gallery_camera_videos_bucket_name">કેમેરા વિડીયોઝ</string>
+    <string name="wait">કૃપા કરી પ્રતિક્ષા કરો\u2026</string>
+    <string name="no_storage" product="nosdcard">કેમેરાનો ઉપયોગ કરતા પહેલાં કૃપા કરી USB સંગ્રહ લગાડો. </string>
+    <string name="no_storage" product="default">કેમેરાનો ઉપયોગ કરતા પહેલાં કૃપા કરી SD કાર્ડ દાખલ કરો. </string>
+    <string name="not_enough_space" product="nosdcard">તમારો USB સંગ્રહ પૂર્ણ છે.</string>
+    <string name="not_enough_space" product="default">તમારું SD કાર્ડ પૂર્ણ છે.</string>
+    <string name="preparing_sd" product="nosdcard">USB સંગ્રહ તૈયાર થાય છે\u2026 </string>
+    <string name="preparing_sd" product="default">SD કાર્ડ તૈયાર થાય છે\u2026</string>
+    <string name="access_sd_fail" product="nosdcard">USB સંગ્રહ પ્રવેશમાં નિષ્ફળ.</string>
+    <string name="access_sd_fail" product="default">SD કાર્ડમાં પ્રવેશ નિષ્ફળ.</string>
+    <string name="confirm_restore_title">પૂર્વનિર્ધારીત પુનઃસ્થાપન કરો</string>
+    <string name="confirm_restore_message">કેમેરા ગોઠવણી પૂર્વનિર્ધારીતોમાં પુનઃસ્થાપિત થશે.  </string>
+    <string name="review_play">પ્લે</string>
+    <string name="review_cancel">રદ્દ કરવું</string>
+    <string name="review_ok">ઓકે</string>
+    <string name="review_retake">રીટેક</string>
+    <string name="camera_gallery_photos_text">ગેલેરી</string>
+    <string name="switch_camera_id">કેમેરા લેન્સ બદલો</string>
+    <string name="pref_camera_id_title">કેમેરા પસંદ કરો</string>
+    <string name="pref_camera_id_entry_back">પાછળ</string>
+    <string name="pref_camera_id_entry_front">આગળ</string>
+    <string name="pref_camera_brightness_title">બ્રાઇટનેસ</string>
+    <string name="pref_camera_contrast_title">કોન્ટ્રાસ્ટ</string>
+    <string name="pref_camera_recordlocation_title">સ્થળ</string>
+    <string name="pref_camera_recordlocation_entry_off">બંધ</string>
+    <string name="pref_camera_recordlocation_entry_on">ચાલુ</string>
+    <string name="pref_video_quality_title">વિડીયો ગુણવત્તા</string>
+    <string name="pref_video_quality_entry_d1">SD(D1)</string>
+    <string name="pref_video_quality_entry_high">ઉચ્ચ(60મી)</string>
+    <string name="pref_video_quality_entry_low">નીચું (30મી)</string>
+    <string name="pref_video_quality_entry_mms">એમએમએસ (ઓછું, 30s)</string>
+    <string name="pref_camera_settings_category">કેમેરા ગોઠવણી</string>
+    <string name="pref_camcorder_settings_category">કેમકોર્ડર ગોઠવણી</string>
+    <string name="pref_camera_picturesize_title">ચિત્ર કદ</string>
+    <string name="pref_camera_previewsize_title">પૂર્વદર્શન મોડ</string>
+    <string name="pref_camera_previewsize_normal">સામાન્ય </string>
+    <string name="pref_camera_previewsize_fullscreen">ફુલસ્ક્રીન</string>
+    <string name="pref_videocamera_format_title">વિડિયો સ્વરૂપ</string>
+    <string name="pref_camera_picturesize_entry_2592x1936">5M પિક્ષલ્સ</string>
+    <string name="pref_camera_picturesize_entry_2048x1536">3M પિક્ષલ્સ</string>
+    <string name="pref_camera_picturesize_entry_1600x1200">2M પિક્ષલ્સ</string>
+    <string name="pref_camera_picturesize_entry_1280x960">1.2M પિક્ષલ્સ</string>
+    <string name="pref_camera_picturesize_entry_1024x768">1.3M પિક્ષલ્સ</string>
+    <string name="pref_camera_jpegquality_title">ચિત્ર ગુણવત્તા</string>
+    <string name="pref_camera_jpegquality_entry_superfine">સુપર ફાઇન</string>
+    <string name="pref_camera_jpegquality_entry_fine">સુંદર</string>
+    <string name="pref_camera_jpegquality_entry_normal">સામાન્ય </string>
+    <string name="pref_camera_focusmode_title">ફોકસ મોડ</string>
+    <string name="pref_camera_focusmode_entry_infinity">અમર્યાદ</string>
+    <string name="pref_camera_focusmode_entry_macro">મકાઉ</string>
+    <string name="pref_camera_focusmode_entry_multi">બહુવિધ</string>
+    <string name="pref_camera_flashmode_title">ફ્લેશ મોડ</string>
+    <string name="pref_camera_flashmode_entry_on">ચાલુ</string>
+    <string name="pref_camera_flashmode_entry_off">બંધ</string>
+    <string name="pref_camera_whitebalance_title">સફેદ સંતુલન</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">ઇનકેન્ડિસન્ટ</string>
+    <string name="pref_camera_whitebalance_entry_daylight">દિવસપ્રકાશ</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">ફ્લોરોસેન્ટ</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">ક્લાઉડી</string>
+    <string name="pref_camera_coloreffect_title">કલર અસર</string>
+    <string name="pref_camera_coloreffect_entry_none">કોઇ નહીં</string>
+    <string name="pref_camera_coloreffect_entry_mono">મોનો</string>
+    <string name="pref_camera_coloreffect_entry_sepia">સેપીયા </string>
+    <string name="pref_camera_coloreffect_entry_negative">નકારાત્મક</string>
+    <string name="pref_camera_coloreffect_entry_cold">ઠંડુ</string>
+    <string name="pref_camera_coloreffect_entry_solarize">સોલરાઇઝ</string>
+    <string name="pref_camera_coloreffect_entry_posterize">પોસ્ટરાઇઝ</string>
+    <string name="pref_camera_coloreffect_entry_aqua">એક્વા</string>
+    <string name="pref_camera_coloreffect_entry_pastel">પાસ્ટેલ</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">મોઝેક</string>
+    <string name="pref_camera_coloreffect_entry_redtint">લાલાશ</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">બ્લુ ટીન્ટ</string>
+    <string name="pref_camera_coloreffect_entry_greentint">લીલો રંગ</string>
+    <string name="pref_camera_scenemode_title">સીન મોડ</string>
+    <string name="pref_camera_scenemode_entry_action">પગલું</string>
+    <string name="pref_camera_scenemode_entry_portrait">પોટ્રેઇટ</string>
+    <string name="pref_camera_scenemode_entry_landscape">લેન્ડસ્કેપ</string>
+    <string name="pref_camera_scenemode_entry_night">રાત્રિ</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">રાત્રિ ચિત્ર</string>
+    <string name="pref_camera_scenemode_entry_theatre">થિયેટર</string>
+    <string name="pref_camera_scenemode_entry_beach">કિનારો</string>
+    <string name="pref_camera_scenemode_entry_snow">સ્નો</string>
+    <string name="pref_camera_scenemode_entry_sunset">સૂર્યાસ્ત</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">સ્થિર ફોટો</string>
+    <string name="pref_camera_scenemode_entry_fireworks">ફાયરવર્ક્સ</string>
+    <string name="pref_camera_scenemode_entry_party">પાર્ટી</string>
+    <string name="pref_camera_scenemode_entry_candlelight">મીણબત્તીપ્રકાશ</string>
+    <string name="pref_restore_title">કેમેરા ગોઠવણી</string>
+    <string name="pref_restore_detail">પૂર્વનિર્ધારીત પુનઃસ્થાપન કરો</string>
+    <string name="pref_exposure_title">જાહેરાત</string>
+    <string name="details_ok">ઓકે</string>
+    <string name="spaceIsLow_content" product="nosdcard">તમારો USB સંગ્રહ અવકાશની મર્યાદા બહાર ચાલે છે. ગુણવત્તા ગોઠવણી બદલાવો અથવા અમૂક ઇમેજો અથવા અન્ય ફાઇલો ભૂંસો.</string>
+    <string name="spaceIsLow_content" product="default">તમારું SD કાર્ડ અવકાશની મર્યાદા બહાર ચાલે છે. ગુણવત્તા ગોઠવણી બદલાવો અથવા અમૂક ઇમેજો અથવા અન્ય ફાઇલો ભૂંસો.</string>
+    <string name="video_reach_size_limit">કદ મર્યાદા આગમન.</string>
+    <string name="zoom_control_title">ઝુમ</string>
+    <string name="switch_to_camera_lable">કેમેરામાં બદલી કરો</string>
+    <string name="switch_to_video_lable">વિડિયોમાં બદલી કરો</string>
+    <string name="hisense_tv_is_running">મોબાઇલ ટીવી ચાલુ છે!</string>
+    <string name="in_video_call_is_running">વિડીયો કોલ ચાલુ છે!</string>
+    <string name="canot_takepicture">પિક્ચર લઇ શકશે નહીં </string>
+    <string name="camera_memory_low">કેમેરા મેમરસ ખૂબ ઓછી છે, કૃપા કરી ચિત્ર કદ બદલાવો</string>
+    <string name="memory_full">સંગ્રહ અવકાશ સંપૂર્ણ છે</string>
+    <string name="pref_camera_antibanding_title">એન્ટિબેન્ડીંગ</string>
+    <string name="pref_camera_continuous_capture_title">કેપ્ચર મોડ</string>
+    <string name="pref_camera_continuous_capture_pt">સામાન્ય</string>
+    <string name="pref_camera_continuous_capture_lp_3">સતત 3</string>
+    <string name="pref_camera_continuous_capture_lp_5">સતત 5</string>
+    <string name="pref_camera_continuous_capture_lp_7">સતત 7</string>
+    <string name="notice_capture_call_back_error">કેપ્ચર ડેટા ભૂલ, કૃપા કરી ફરીથી પ્રયાસ કરો</string>
+    <string name="access_storage_fail">સંગ્રહ પ્રવેશમાં નિષ્ફળ</string>
+    <string name="re_storage">પ્લે માટે કૃપા કરી SD કાર્ડ ફરી લગાડો</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/accessibility_gesture_preference_title" >
+
+    <PreferenceCategory
+        android:key="gesture_category"
+        android:persistent="false"
+        android:title="@string/gesture_category_title" >
+        <!-- 
+        <Preference
+            android:key="gesture_sketchpad"
+            android:summary="@string/gesture_sketchpad_summy"
+            android:title="@string/gesture_sketchpad_title" >
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetClass="com.android.systemui.gesture.GestureBuilderActivity"
+                android:targetPackage="com.android.systemui" />
+        </Preference>
+       	 -->
+        <Preference
+            android:key="gesture_vacant"
+            android:summary="@string/gesture_vacant_summy"
+            android:title="@string/gesture_vacant_title" >
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetClass="com.android.settings.Settings$GestureSettingsActivity"
+                android:targetPackage="com.android.settings" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="other_gesture_category"
+        android:persistent="false"
+        android:title="@string/other_gesture_category_title" >
+        <Preference
+            android:key="gesture_communications"
+            android:summary="@string/gesture_communications_summy"
+            android:title="@string/gesture_communications_title" >
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetClass="com.android.settings.Settings$CommunicationsGestureSettingsActivity"
+                android:targetPackage="com.android.settings" />
+        </Preference>
+        <Preference
+            android:key="gesture_system"
+            android:summary="@string/gesture_system_summy"
+            android:title="@string/gesture_system_title" >
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetClass="com.android.settings.Settings$SystemGestureSettingsActivity"
+                android:targetPackage="com.android.settings" />
+        </Preference>
+
+        <CheckBoxPreference
+            android:key="toggle_face_dector_preference"
+            android:persistent="false"
+            android:summary="@string/accessibility_toggle_face_dector_preference_summary"
+            android:title="@string/accessibility_toggle_face_dector_preference_title" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,253 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/txrx_item_height"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp" >
+
+            <TextView
+                android:id="@+id/txrx_pow_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_pow_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+
+            <TextView
+                android:id="@+id/txrx_pow_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_pow_content"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/txrx_item_height"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txrx_gbw_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_gbw_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+
+            <TextView
+                android:id="@+id/txrx_gbw_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_gbw_content"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/txrx_item_height"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp" >
+
+            <TextView
+                android:id="@+id/txrx_sq_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_sq_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+
+            <TextView
+                android:id="@+id/txrx_sq_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_sq_content"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/txrx_item_height"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txrx_ctdcss_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_ctdcss_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+
+            <TextView
+                android:id="@+id/txrx_ctdcss_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_sq_content"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_small" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/txrx_item_height"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <TextView
+                android:id="@+id/txrx_tx_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_tx_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_big" />
+
+            <TextView
+                android:id="@+id/txrx_tx_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_tx_content"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_big" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/txrx_item_height"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txrx_volume_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_volume_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_big" />
+
+            <TextView
+                android:id="@+id/txrx_volume_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txrx_volume_content"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/txrx_textsize_big" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/txrx_item_height"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/ptt_settings_item_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <TextView
+            android:id="@+id/txrx_rx_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txrx_rx_title"
+            android:textColor="@color/settings_title_color"
+            android:textSize="@dimen/txrx_textsize_big" />
+
+        <TextView
+            android:id="@+id/txrx_rx_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txrx_rx_content"
+            android:textColor="@color/settings_title_color"
+            android:textSize="@dimen/txrx_textsize_big" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/txrx_send"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/ppt_send_button_bg"
+            android:text="@string/txrx_send"
+            android:textSize="@dimen/setting_button_textsize" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/txrx_blink_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/ptt_blink" />
+    </LinearLayout>
+</LinearLayout>

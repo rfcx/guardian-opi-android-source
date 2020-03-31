@@ -1,0 +1,703 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="edit_group_info">గ్రూప్ మార్చుట</string>
+    <string name="rename_contact_group_name">మారు పేరు</string>
+    <string name="no_contacts_group_name">గ్రూపు పేరు లేదు </string>
+    <string name="contacts_group_name_exist">ఇప్పటికే ఉన్న గ్రూపు</string>
+    <string name="sure">నిశ్చయంగా</string>
+    <string name="contacts_group">బృందం</string>
+    <string name="divided_group_to">సమాన భాగములు చేయి</string>
+    <string name="add_group">గుంపులతో చేర్చండి</string>
+    <string name="please_add_group">గుంపులతో చేర్చండి</string>
+    <string name="delete">తొలగించాలా</string>
+    <string name="deleted">తొలగించారు</string>
+    <string name="group_name_empty">ఖాళీ గ్రూపు</string>
+    <string name="all_selected">అన్నీ ఎంచుకోండి</string>
+    <string name="group_new">కొత్త  గ్రూపు  </string>
+    <string name="save">సేవ్</string>
+    <string name="menu_memory_query">మెమరీ ప్రశ్న</string>
+    <string name="contactor_will_be"><xliff:g id="COUNT">%1$d</xliff:g> కాంటాక్ట్ ఉంటుంది <xliff:g id="OPTERATOR">%2$s</xliff:g></string>
+    <string name="imported">దిగుమతి</string>
+    <string name="exported">ఎగుమతి చేసిన</string>
+    <string name="selected">ఎంపిక</string>
+    <string name="sharedUserLabel">అండ్రాయిడ్ కోర్ ఎపిపిఎస్</string>
+    <string name="contactsList">కాంటాక్టులు</string>
+    <string name="launcherDialer">ఫోన్</string>
+    <string name="shortcutContact">కాంటాక్ట్</string>
+    <string name="shortcutDialContact">నేరుగా డయల్</string>
+    <string name="shortcutMessageContact">నేరుగా సందేశం</string>
+    <string name="shortcutActivityTitle">ఒక పరిచయానికి షార్ట్ కట్ ఎంచుకోండి</string>
+    <string name="callShortcutActivityTitle">కాల్ చేసేందుకు ఒక నెంబరుని ఎంచుకోండి</string>
+    <string name="messageShortcutActivityTitle">సందేశానికి ఒక సంఖ్య ఎంచుకోండి</string>
+    <string name="starredList">నక్షత్రం ఉంచబడింది</string>
+    <string name="frequentList">తరచుగా  </string>
+    <string name="strequentList">ఫేవరైట్లు</string>
+    <string name="viewContactTitle">కాంటాక్ట్ వివరాలు</string>
+    <string name="viewContactDesription">కాంటాక్టుని చూడండి</string>
+    <string name="editContactDescription">సంప్రదించండి సవరించు</string>
+    <string name="insertContactDescription">కాంటాక్ట్ ని సృష్టించు</string>
+    <string name="searchHint">పరిచయాల కోసం శోధించండి</string>
+    <string name="menu_search">వెతుకు</string>
+    <string name="menu_newContact">క్రొత్త కాంటాక్ట్</string>
+    <string name="menu_viewContact">కాంటాక్టుని చూడండి</string>
+    <string name="menu_callNumber">కాల్ <xliff:g id="name">%s</xliff:g></string>
+    <string name="menu_addStar">ఇష్టాంశానికి జోడించు</string>
+    <string name="menu_removeStar">ఇష్టమైన నుండి తొలగించు</string>
+    <string name="menu_showBarcode">బార్కోడ్ చూపించు</string>
+    <string name="menu_editContact">సంప్రదించండి సవరించు</string>
+    <string name="menu_deleteContact">కాంటాక్ట్ తొలగించు</string>
+    <string name="menu_call">కాంటాక్ట్ కాల్</string>
+    <string name="menu_video_call">వీడియో కాల్</string>
+    <string name="menu_sendSMS">మెసేజ్ పంపు</string>
+    <string name="menu_sendEmail">ఇమెయిల్ పంపండి</string>
+    <string name="menu_viewAddress">మ్యాప్ చిరునామా        </string>
+    <string name="menu_makeDefaultNumber">డిఫాల్ట్ సంఖ్య    </string>
+    <string name="menu_makeDefaultEmail">డిఫాల్ట్ ఇమెయిల్ చెయ్యండి      </string>
+    <string name="menu_splitAggregate">వేరుగా</string>
+    <string name="contactsSplitMessage">వేరు చేయబడిన కాంటాక్ట్స్  </string>
+    <string name="splitConfirmation_title">విడి పరిచయం</string>
+    <string name="splitConfirmation">"మీరు సిమ్గిల్ పరిచయాన్ని మల్టీ పరిచయాలతో ఖచ్చితంగా వేరు చేద్దామనుకుంటున్నారా : దానిలో చేరిన పరిచయాల్లో ప్రతి ఒక సెట్ నీ అలా చేయాలా?</string>
+    <string name="menu_joinAggregate">చేరండి  </string>
+    <string name="menu_showSources">మూలాల చూపించు</string>
+    <string name="menu_hideSources">మూలాలను దాచు</string>
+    <string name="titleJoinAggregate">సంప్రదించండి చేరండి</string>
+    <string name="titleJoinContactDataWith">పరిచయాలను చేరండి   </string>
+    <string name="blurbJoinContactDataWith">మీరు తో చేరాలని అనుకుంటే పరిచయాన్ని ఎంచుకోండి <xliff:g id="name">%s</xliff:g>.</string>
+    <string name="showAllContactsJoinItem">అన్ని పరిచయాలను చూపించు</string>
+    <string name="separatorJoinAggregateSuggestions">సూచించిన పరిచయాలు</string>
+    <string name="separatorJoinAggregateAll">అన్ని పరిచయాలు</string>
+    <string name="contactsJoinedMessage">చేరిన కాంటాక్ట్స్  </string>
+    <string name="menu_contactOptions">ఎంపికలు</string>
+    <string name="contactOptionsTitle">ఎంపికలు</string>
+    <string name="deleteConfirmation_title">తొలగించాలా</string>
+    <string name="readOnlyContactWarning">మీరు చదవడానికి-మాత్రమే ఖాతాల నుంచి పరిచయాలను తొలగించలేరు, కానీ మీరు మీ పరిచయాలను జాబితాలలో వాటిని దాచవచ్చు.</string>
+    <string name="readOnlyContactDeleteConfirmation">ఈ కాంటాక్టు బహుళ ఖాతాల నుంచి సమాచారాన్ని కలిగి ఉంది.  మీ పరిచయాల జాబితాలో రీడ్-ఓన్లీ ఖాతాల సమాచారం దాగి ఉంటుంది. తొలగించబడదు.</string>
+    <string name="multipleContactDeleteConfirmation">దీనిని పరిచయాన్ని తొలగిస్తోంది బహుళ ఖాతాలను నుండి సమాచారాన్ని తొలగిస్తుంది.</string>
+    <string name="deleteConfirmation">ఈ కాంటాక్ట్ తొలగించబడుతుంది.</string>
+    <string name="menu_done">జరిగినది</string>
+    <string name="menu_doNotSave">తిరిగి పొందు</string>
+    <string name="editContact_title_edit">సంప్రదించండి సవరించు</string>
+    <string name="editContact_title_insert">క్రొత్త కాంటాక్ట్</string>
+    <string name="menu_addItem">మరింత సమాచారం</string>
+    <string name="label_phonetic_name">ఫొనెటిక్              </string>
+    <string name="label_notes">గమనిక </string>
+    <string name="label_sip_address">ఇంటర్నెట్ కాల్</string>
+    <string name="label_ringtone">రింగ్ టోన్</string>
+    <string name="group_list">, <xliff:g id="groupName">%s</xliff:g></string>
+    <string name="menu_viewGroup">సమూహాలు సవరించు</string>
+    <string name="ghostData_name">మొదటి మరియు చివరి</string>
+    <string name="ghostData_phonetic_name">ఫొనెటిక్ పేరు        </string>
+    <string name="ghostData_company">కంపెనీ</string>
+    <string name="ghostData_title">శీర్షిక</string>
+    <string name="ghostData_im">IM పేరు</string>
+    <string name="ghostData_notes">నా నోటు</string>
+    <string name="ghostData_phone">ఫోన్ నంబర్</string>
+    <string name="ghostData_group">సమూహం ప్రదర్శించు</string>
+    <string name="invalidContactMessage">కాంటాక్టు ఇక అక్కడ లేదు.</string>
+    <string name="pickerNewContactHeader">కొత్త పరిచయాన్ని సృష్టించండి</string>
+    <string name="selectLabel">లేబుల్ ఎంచుకోండి</string>
+    <string name="phoneLabelsGroup">ఫోన్</string>
+    <string name="emailLabelsGroup">ఇమెయిల్</string>
+    <string name="imLabelsGroup">IM</string>
+    <string name="postalLabelsGroup">పోస్టల్ చిరునామా</string>
+    <string-array name="otherLabels">
+        <!-- An organization associated with a contact -->
+        <item>సంస్థ </item>
+        <!-- A note associated with a contact -->
+        <item>గమనిక</item>
+    </string-array>
+    <string name="errorDialogTitle">చిత్రాలు</string>
+    <string name="photoPickerNotFoundText">ఫోన్లో చిత్రాలు లభ్యం కావు. </string>
+    <string name="attachToContact">కాంటాక్ట్ ఐకాన్  </string>
+    <string name="customLabelPickerTitle">కస్టమ్ లేబుల్ పేరు</string>
+    <string name="menu_displayGroup">ప్రదర్శన ఎంపికలు</string>
+    <string name="displayGroups">ప్రదర్శన ఎంపికలు</string>
+    <string name="syncGroupPreference">సమకాలీక సమూహాల సవరణ</string>
+    <string name="importFromSim">పరిచయాలను దిగుమతి</string>
+    <string name="send_to_voicemail_checkbox">వాయిస్ మెయిల్ కి నేరుగా కాల్స్ పంపండి</string>
+    <string name="send_to_voicemail_view">కాల్స్ , వాయిస్ మెయిల్ నేరుగా పంపబడతాయి.</string>
+    <string name="default_ringtone">స్వయంసిద్ధ</string>
+    <string name="addPicture">చిహ్నాన్ని జోడించు</string>
+    <string name="changePicture">ఐకాన్ మార్చండి</string>
+    <string name="removePicture">ఐకాన్ తొలగించు</string>
+    <string name="noContacts">పరిచయాలు లేవు.   </string>
+    <string name="noMatchingContacts">సరిపోలే పరిచయాలు ఏవీ కనుగొనబడలేదు.</string>
+    <string name="noContactsWithPhoneNumbers">మీ ఫొన్ లో పరిచయాలతో పాటు నంబర్లు కూడా లేవు. </string>
+    <string name="noFavorites">ఏ ఇష్టాంశాలను.</string>
+    <string name="groupEmpty">మీ \"<xliff:g id="groupName">%s</xliff:g>\" సమూహం ఖాళీగా ఉంది.</string>
+    <string name="showFilterPhones">ఫోన్లతో మాత్రమే పరిచయాలు</string>
+    <string name="showFilterPhonesDescrip">కేవలం ఫోన్ నంబర్లు కలిగి ఉన్న పరిచయాలు ప్రదర్శించడానికి మాత్రమే</string>
+    <string name="headerContactGroups">పరిచయాలను ప్రదర్శించడానికి ఎంచుకోండి</string>
+    <plurals name="groupDescrip">
+        <item quantity="other"><xliff:g id="count">%0$d</xliff:g> పరిచయాలు</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> పరిచయాలు, <xliff:g id="countWithPhones">%2$d</xliff:g>  ఫోన్లతో</item>
+    </plurals>
+    <string name="syncAllGroups">అన్ని పరిచయాలను సమకాలీకరించు</string>
+    <string name="groupNameMyContacts">నా పరిచయాలు</string>
+    <string name="groupNameWithPhones">ఫోన్ నంబర్లతో కాంటాక్ట్స్</string>
+    <string name="starredInAndroid">ఆండ్రాయిడ్ లో స్టార్ ఉన్నవి </string>
+    <string name="savingContact">కాంటాక్ట్ ని సేవ్ చెయ్యి\u2026</string>
+    <string name="savingDisplayGroups">ప్రదర్శన ఎంపికలు సేవ్ చెయ్యి\u2026</string>
+    <string name="contactCreatedToast">రూపొందించినవారు సంప్రదించండి.</string>
+    <string name="contactSavedToast">కాంటాక్ట్ సేవ్ చేయబడింది.</string>
+    <string name="contactDeletedToast">కాంటాక్ట్ తొలగించబడింది.</string>
+    <string name="contactSavedErrorToast">లోపం. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="listSeparatorCallNumber">సంఖ్య డయల్</string>
+    <string name="listSeparatorCallNumber_edit">ఫోన్ నంబర్లు</string>
+    <string name="number_empty">"ఫోన్ నంబర్ ఖాళీగా ఉంది, \'ఇన్సర్ట్ చెయ్యలేదు"</string>
+    <string name="listSeparatorSendSmsMms">టెక్స్ట్ను పంపండి</string>
+    <string name="listSeparatorSendEmail_edit">ఇమెయిల్ చిరునామాలు</string>
+    <string name="listSeparatorSendIm">తక్షణ సందేశం పంపండి</string>
+    <string name="listSeparatorSendIm_edit">చాట్ చిరునామాలు</string>
+    <string name="listSeparatorMapAddress_edit">పోస్టల్ చిరునామాలు</string>
+    <string name="listSeparatorOrganizations">సంస్థలు</string>
+    <string name="listSeparatorGroups">సమూహాలు</string>
+    <string name="listSeparatorOtherInformation">ఇతర సమాచారం</string>
+    <string name="listSeparatorOtherInformation_edit">ఇతర ఎంపికలు</string>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="one">ఫోన్ నంబర్ తో 1 కాంటాక్టు ప్రదర్శిస్తోంది</item>
+        <item quantity="other">ఫోన్ నంబర్లతో పరిచయాలను ప్రదర్శిస్తోంది <xliff:g id="count">%d</xliff:g></item>
+    </plurals>
+    <string name="listTotalPhoneContactsZero">కనబడే పరిచయాల పాటు  ఫోన్ నంబర్లు కూడ లేవు</string>
+    <plurals name="listTotalAllContacts">
+        <item quantity="one">1 కాంటాక్టు ప్రదర్శిస్తోంది
+
+</item>
+        <item quantity="other">పరిచయాలను ప్రదర్శిస్తోంది <xliff:g id="count">%d</xliff:g></item>
+    </plurals>
+    <string name="listTotalAllContactsZero">కనబడే పరిచయాలు లేవు </string>
+    <plurals name="listFoundAllContacts">
+        <item quantity="one">1  కాంటాక్టును కనుగొన్నారు </item>
+        <item quantity="other">దొరకలేదు <xliff:g id="count">%d</xliff:g> పరిచయాలు</item>
+    </plurals>
+    <string name="listFoundAllContactsZero">కాంటాక్ట్  దొరకలేదు </string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">1 కాంటాక్ట్</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> పరిచయాలు</item>
+    </plurals>
+    <string name="socialStreamIconLabel">సామాజిక</string>
+    <string name="contactsIconLabel">కాంటాక్టులు</string>
+    <string name="contactsFavoritesLabel">ఫేవరైట్లు</string>
+    <string name="dialerIconLabel">ఫోన్</string>
+    <string name="recentCallsIconLabel">కాల్ లాగ్</string>
+    <string name="liveFolderAll">అన్ని పరిచయాలు</string>
+    <string name="liveFolderFavorites">నక్షత్రం ఉన్న పరిచయాలు</string>
+    <string name="liveFolderPhone">ఫోన్ నంబర్లు తో కాంటాక్ట్స్ </string>
+    <string name="menu_sendTextMessage">మెసేజ్ పంపు</string>
+    <string name="recentCalls_callNumber">కాల్ <xliff:g id="name">%s</xliff:g></string>
+    <string name="recentCalls_editNumberBeforeCall">కాల్ ముందు సంఖ్యను సవరించు</string>
+    <string name="recentCalls_addToContact">పరిచయాలను జోడించు</string>
+    <string name="recentCalls_removeFromRecentList">కాల్ లాగ్ నుండి తొలగించు</string>
+    <string name="recentCalls_deleteAll">కాల్ లాగ్ క్లియర్ చేయి</string>
+    <string name="recentCalls_deleteSome">కొన్ని కాల్ లాగ్ లను క్లియర్ చేయి</string>
+    <string name="recentCalls_Answered">ఇన్ కమింగ్_టైప్</string>
+    <string name="recentCalls_NOT_Answered">MISSED_TYPE</string>
+    <string name="recentCalls_Connected">OUTGOING_TYPE</string>
+    <string name="recentCalls_Alltypes">ఆల్ -టైప్స్</string>
+    <string name="intent_to_firewall">ఫైర్ వాల్</string>
+    <string name="recentCalls_Confirm_delete">ధ్రువీకరించు తొలగింపు</string>
+    <string name="recentCalls_Cancel_delete">రద్దు తొలగించండి </string>
+    <string name="recentCalls_button_Confirm_delete">ధ్రువీకరించు తొలగింపు</string>
+    <string name="recentCalls_button_Cancel">రద్దు</string>
+    <string name="recent_Call_log_checkbox_selecte_all">అన్నీ ఎంచుకోండి</string>
+    <string name="recentCalls_empty">కాల్ లాగ్ ఖాళీగా ఉంది.</string>
+    <string name="clearCallLogConfirmation_title">కాల్ లాగ్ క్లియర్ చేయి</string>
+    <string name="clearCallLogConfirmation">మీరు కాల్ లాగ్ ని క్లియర్ చేయాలని నిశ్చయించుకున్నారా?</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
+    <string name="voicemail">వాయిస్ మెయిల్</string>
+    <string name="unknown">తెలియని</string>
+    <string name="private_num">ప్రైవేట్ సంఖ్య</string>
+    <string name="payphone">నాణెం వేసి చేసే ఫోను    </string>
+    <string name="dialerKeyboardHintText">డయల్ చేయడానికి కీబోర్డ్ ఉపయోగించండి</string>
+    <string name="dialerDialpadHintText">కాల్ జోడించడానికి డయల్ చేయి</string>
+    <string name="simContacts_emptyLoading">SIM కార్డు నుండి లోడ్\u2026 </string>
+    <string name="simContacts_title">SIM కార్డ్ పరిచయాలు</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">"మీరు ప్రదర్శించడానికి ఏ పరిచయాలూ లేవు.  (మీరు కేవలం ఒక ఖాతా జోడిస్తే,  అది పరిచయాలను సమకాలీకరించడానికి కొన్ని నిమిషాలు+F531 పట్టవచ్చు.)"</string>
+    <string name="noContactsHelpTextForCreateShortcut">"మీరు ప్రదర్శించడానికి ఏ పరిచయాలూ లేవు."</string>
+    <string name="contactsSyncPlug"><font fgcolor="#ffffffff"> మీ గూగుల్ పరిచయాలను సింక్ చేయండి ! </font>
+   \n మీ ఫోన్ ని సమకాలీకరించే సమయంలో, మీరు ఎక్కడికి వెళ్లినా  మీ పరిచయాలను మీకు అందుబాటులో ఉంటాయి.</string>
+    <string name="noContactsHelpText">"మీకు ప్రదర్శించడానికి ఏ పరిచయాలూ లేవు.\n\nపరిచయాలను జోడించడానికి నొక్కండి <font fgcolor="#ffffffff"><b>మెనూ</b></font> మరియు టచ్ చేయండి:\n
+        \n<li><font fgcolor="#ffffffff"><b>అకౌంట్స్</b></font>  పరిచయాలకు ఒక ఖాతాను జోడించడానికి లేదా ఆకృతీకరించడానికి మీరు ఫోన్ కు సమకాలీకరించ వచ్చు  \n</li>
+        \n<li><font fgcolor="#ffffffff"><b>కొత్త పరిచయం</b></font>మొట్టమొదటిగా ఒక కొత్త పరిచయం సృష్టించడానికి\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>ఇంపోర్టు/ఎక్స్ పోర్టు</b></font>\n</li>"</string>
+    <string name="noContactsHelpTextWithSync">"మీకు ప్రదర్శించడానికి ఏ పరిచయాలూ లేవు.  (మీకు కేవలం ఒక ఖాతా జోడించబడింది, అది పరిచయాలకు సమకాలీకరించడానికి కొన్ని నిమిషాలు పట్టవచ్చు.)\n\nపరిచయాలను జోడించడానికి నొక్కండి <font fgcolor="#ffffffff"><b>మెనూ</b></font> మరియు టచ్ చేయండి:\n
+        \n<li><font fgcolor="#ffffffff"><b>అకౌంట్స్</b></font> పరిచయాలకు ఒక ఖాతాను జోడించడానికి లేదా ఆకృతీకరించడానికి మీరు ఫోన్ కు సమకాలీకరించ వచ్చు  \n</li>
+        \n<li><font fgcolor="#ffffffff"><b>కనిపించే ఆప్షన్లు</b></font> కనిపించే పరిచయాలను మార్చడానికి \n</li>
+        \n<li><font fgcolor="#ffffffff"><b>కొత్త పరిచయం</b></font> మొట్టమొదటిగా ఒక కొత్త పరిచయం సృష్టించడానికి\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>ఇంపోర్టు/ఎక్స్ పోర్టు</b></font>\n</li>"</string>
+    <string name="noContactsNoSimHelpText">"మీకు ప్రదర్శించడానికి ఏ పరిచయాలూ లేవు.\n\nపరిచయాలను జోడించడానికి నొక్కండి <font fgcolor="#ffffffff"><b>మెనూ</b></font> మరియు టచ్ చేయండి:\n
+        \n<li><font fgcolor="#ffffffff"><b>అకౌంట్స్</b></font>  పరిచయాలకు ఒక ఖాతాను జోడించడానికి లేదా ఆకృతీకరించడానికి మీరు ఫోన్ కు సమకాలీకరించ వచ్చు  \n</li>
+        \n<li><font fgcolor="#ffffffff"><b>కొత్త పరిచయం</b></font>మొట్టమొదటిగా ఒక కొత్త పరిచయం సృష్టించడానికి\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>ఇంపోర్టు/ఎక్స్ పోర్టు</b></font>\n</li>"</string>
+    <string name="noContactsNoSimHelpTextWithSync">"మీకు ప్రదర్శించడానికి ఏ పరిచయాలూ లేవు.  (మీకు కేవలం ఒక ఖాతా జోడించబడింది, అది పరిచయాలకు సమకాలీకరించడానికి కొన్ని నిమిషాలు పట్టవచ్చు.)\n\nపరిచయాలను జోడించడానికి నొక్కండి <font fgcolor="#ffffffff"><b>మెనూ</b></font> మరియు టచ్ చేయండి:\n
+        \n<li><font fgcolor="#ffffffff"><b>అకౌంట్స్</b></font> పరిచయాలకు ఒక ఖాతాను జోడించడానికి లేదా ఆకృతీకరించడానికి మీరు ఫోన్ కు సమకాలీకరించ వచ్చు  \n</li>
+        \n<li><font fgcolor="#ffffffff"><b>కనిపించే ఆప్షన్లు</b></font> కనిపించే పరిచయాలను మార్చడానికి \n</li>
+        \n<li><font fgcolor="#ffffffff"><b>కొత్త పరిచయం</b></font> మొట్టమొదటిగా ఒక కొత్త పరిచయం సృష్టించడానికి\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>ఇంపోర్టు/ఎక్స్ పోర్టు</b></font>\n</li>"</string>
+    <string name="noFavoritesHelpText">"మీకు ఎలాంటి ఫేవరేట్లూ లేవు.\n\n నీకు ఇష్టమైన వారున్నజాబితాకు మరొక పరిచయాన్ని జోడించు:\n
+        <li>టచ్ చెయ్యి <b>కాంటాక్టులు</b> టాబ్\n</li>
+        \n<li>మీ పరిచయాలను జోడించాలనుకుంటే  టచ్ చెయ్యి\n</li>
+        \n<li>కాంటాక్టు\ల పేరుకి పక్కనే ఉన్న స్టార్ ని టచ్ చెయ్యండి\n</li>"
+      
+     
+ </string>
+    <string name="seclectSyncGroups_title">సమూహాలు సమకాలీకరించడానికి ఎంచుకోండి</string>
+    <string name="liveFolder_all_label">అన్ని పరిచయాలు</string>
+    <string name="liveFolder_favorites_label">నక్షత్రం ఉంచబడింది</string>
+    <string name="liveFolder_phones_label">ఫోన్లు       </string>
+    <string name="dialer_useDtmfDialpad">టచ్ టోన్ కీప్యాడ్ ఉపయోగించండి</string>
+    <string name="dialer_returnToInCallScreen">కాల్ కి తిరిగి రావడం జరుగుతోంది</string>
+    <string name="dialer_addAnotherCall">కాల్ జోడించండి</string>
+    <string name="callDetailTitle">కాల్ వివరాలు</string>
+    <string name="toast_call_detail_error">అభ్యర్థించిన కాల్ వివరాలు చదవడం కుదిరింది\ కుదరలేదు.</string>
+    <string name="type_incoming">ఇన్ కమింగ్ కాల్</string>
+    <string name="type_outgoing">అవుట్ గోయింగ్ కాల్స్      </string>
+    <string name="type_missed">మిస్స్డ్ కాల్ </string>
+    <string name="datetime_relative">"<xliff:g id="datetime" example="Dec 31, 2007, 11:00 am">%1$s</xliff:g> (<xliff:g id="relative" example="4 hours ago">%2$s</xliff:g>)"</string>
+    <string name="call_duration">డ్యూరేషన్</string>
+    <string name="header_actions">చర్యలు</string>
+    <string name="ringtone_spinner">"రింగ్ టోన్: <xliff:g id="ringtone" example="Caribbean Ice">%1$s</xliff:g>"</string>
+    <string name="add_more_items">మరిన్ని అంశాలను జోడించండి</string>
+    <string name="actionCall">కాల్ <xliff:g id="type" example="mobile">%s</xliff:g></string>
+    <string name="actionEmail">ఇమెయిల్<xliff:g id="type" example="home">%s</xliff:g></string>
+    <string name="actionText">టెక్స్ట్ <xliff:g id="type" example="mobile">%s</xliff:g></string>
+    <string name="actionChat">ఉపయోగిస్తూ చాట్ <xliff:g id="type" example="Google Talk">%s</xliff:g></string>
+    <string name="actionMap">చూడండి  <xliff:g id="type" example="home">%s</xliff:g> చిరునామా</string>
+    <string name="actionIncomingCall">వస్తున్న కాల్స్ </string>
+    <string name="detailIncomingCallsGoToVoicemail">వాయిస్ మెయిల్ను నేరుగా పంపబడుతుంది</string>
+    <string name="detailsRingtone">కి సెట్ చెయ్యి <xliff:g id="ringtone_name" example="Flutey Phone">%s</xliff:g></string>
+    <string name="callBack">డబ్బు వెనక్కు తీసుకో</string>
+    <string name="callAgain">మళ్ళీ కాల్ చేయండి</string>
+    <string name="returnCall">రిటర్న్ కాల్ </string>
+    <string name="callDetailsDurationFormat"><xliff:g id="minutes" example="42">%1$s</xliff:g> నిమిషాలు <xliff:g id="seconds" example="28">%2$s</xliff:g> సెకన్లు</string>
+    <string name="favoritesFrquentSeparator">తరచుగా సంప్రదించిన </string>
+    <string name="add_contact_dlg_title">పరిచయాన్ని జోడించు</string>
+    <string name="add_contact_dlg_message_fmt">పరిచయాలకు: \"<xliff:g id="email">%s</xliff:g>" జోడించు?</string>
+    <string name="all_tab_label">అన్ని</string>
+    <string name="description_image_button_one">ఒకటి </string>
+    <string name="description_image_button_two">రెండు</string>
+    <string name="description_image_button_three">మూడు</string>
+    <string name="description_image_button_four">నాలుగు </string>
+    <string name="description_image_button_five">అయిదు</string>
+    <string name="description_image_button_six">ఆరు</string>
+    <string name="description_image_button_seven">ఏడు</string>
+    <string name="description_image_button_eight">ఇమెయిల్</string>
+    <string name="description_image_button_nine">తొమ్మిది</string>
+    <string name="description_image_button_star">నక్షత్రం</string>
+    <string name="description_image_button_zero">సున్నా</string>
+    <string name="description_image_button_pound">పౌండ్</string>
+    <string name="description_voicemail_button">వాయిస్ మెయిల్</string>
+    <string name="description_dial_button">డైయల్</string>
+    <string name="description_delete_button">వెనక్కిపంపించడం</string>
+    <string name="description_digits_edittext">ఈ నంబరుకు డయిల్ చేయండి </string>
+    <string name="description_contact_photo">ఫోటో కాంటాక్ట్ </string>
+    <string name="description_minus_button">తీసివేయండి  </string>
+    <string name="description_plus_button">కూడండి</string>
+    <string name="no_sdcard_title" product="nosdcard">USB నిల్వ అందుబాటులో లేదు</string>
+    <string name="no_sdcard_message" product="nosdcard">USB నిల్వ కనుగొనబడింది</string>
+    <string name="no_sdcard_message" product="default">SD కార్డు కనుగొనబడింది</string>
+    <string name="searching_vcard_title">vCard కోసం శోధిస్తోంది</string>
+    <string name="select_import_type_title">ఎక్కడ మీ నుండి పరిచయాలను దిగుమతి చేయాలని అనుకుంటున్నారు?</string>
+    <string name="import_from_sim">SIM నుంచి దిగుమతి చేయండి     </string>
+    <string name="import_from_sim1">SIM1 నుంచి దిగుమతి చేయండి  </string>
+    <string name="import_from_sim2">SIM2 నుంచి దిగుమతి చేయండి</string>
+    <string name="import_from_sdcard" product="nosdcard">USB నిల్వ నుండి దిగుమతి</string>
+    <string name="import_from_sdcard" product="default">SD కార్డు నుండి దిగుమతి</string>
+    <string name="export_to_sdcard" product="nosdcard">యుఎస్ బి నిల్వ ఎగుమతి</string>
+    <string name="export_to_sdcard" product="default">ఎస్ డి కార్డు వరకు ఎగుమతి</string>
+    <string name="share_visible_contacts">కనిపించే పరిచయాలను పంచుకో</string>
+    <string name="import_one_vcard_string">ఒక vCard  ఫైలు ను దిగుమతి చేయండి  </string>
+    <string name="import_multiple_vcard_string">బహుళ vCard ఫైళ్లు దిగుమతి  </string>
+    <string name="import_all_vcard_string">బహుళ vCard ఫైళ్లు దిగుమతి  </string>
+    <string name="searching_vcard_message" product="nosdcard">USB నిల్వ లో vకార్డు డేటా కోసం శోధిస్తోంది</string>
+    <string name="searching_vcard_message" product="default">SD కార్డు మీద vకార్డు డేటా కోసం శోధిస్తోంది</string>
+    <string name="scanning_sdcard_failed_title" product="nosdcard">USB నిల్వ స్కానింగ్ విఫలమైంది</string>
+    <string name="scanning_sdcard_failed_title" product="default">SD కార్డు స్కానింగ్ విఫలమైంది</string>
+    <string name="scanning_sdcard_failed_message" product="nosdcard">USB నిల్వ స్కానింగ్ విఫలమైంది (కారణం: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="scanning_sdcard_failed_message" product="default">SD కార్డు స్కానింగ్ నిల్వ స్కానింగ్ విఫలమైంది (కారణం: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="fail_reason_io_error">I/O లోపం  </string>
+    <string name="fail_reason_vcard_parse_error">ఊహించని కారణం vCard అన్వయించడం విఫలమైంది </string>
+    <string name="fail_reason_vcard_not_supported_error">ఇది చెల్లుబాటు అయ్యే ఫార్మాట్లో తెలుస్తోంది అయితే ప్రస్తుత అమలు అది మద్దతు ఇవ్వదు నుండి, vCard అన్వయించడం విఫలమైంది         </string>
+    <string name="fail_reason_no_vcard_file" product="nosdcard">USB నిల్వ కనిపించే vకార్డు ఫైలు సంఖ్య</string>
+    <string name="fail_reason_no_vcard_file" product="default">SD కార్డు కనిపించే vకార్డు ఫైలు సంఖ్య</string>
+    <string name="fail_reason_no_vcard_entry">మీ ఎంపిక కోసం చెల్లుబాటు అయ్యే vకార్డు ప్రవేశం దొరకలేదు</string>
+    <string name="fail_reason_failed_to_read_files">ఒకటి లేదా  మరిన్ని ఫైళ్ల దిగుమతి విఫలమైంది(%s).</string>
+    <string name="fail_reason_unknown">తెలియని ఎర్రర్</string>
+    <string name="select_vcard_title">vCard ఫైల్ ని ఎంచుకోండి</string>
+    <string name="select_vcard_message">దిగుమతి ఒక vకార్డు ఎంచుకోండి</string>
+    <string name="progress_shower_message"><xliff:g id="action" example="Reading VCard">%1$s</xliff:g>\n<xliff:g id="filename" example="foo.vcf">%2$s</xliff:g></string>
+    <string name="reading_vcard_title">VCard పఠనం</string>
+    <string name="reading_vcard_message">పఠనం vCard ఫైల్ (లు)</string>
+    <string name="importing_vcard_message">Vకార్డు డేటా దిగుమతి</string>
+    <string name="reading_vcard_failed_title">VCard డేటా పఠనం విఫలమైంది</string>
+    <string name="reading_vcard_failed_message">Vకార్డు చదవడం సాధ్యం కాదు వైఫల్యానికి కారణం:\"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="reading_vcard_contacts"><xliff:g id="current_number">%1$s</xliff:g> యొక్క <xliff:g id="total_number">%2$s</xliff:g> కాంటాక్టులు</string>
+    <string name="reading_vcard_files"><xliff:g id="current_number">%1$s</xliff:g> యొక్క <xliff:g id="total_number">%2$s</xliff:g> ఫైళ్లు</string>
+    <string name="export_phone_local_only">స్థానికంగా నిల్వ పరిచయాలు</string>
+    <string name="export_contact_list">ఎగుమతి పరిచయాలు</string>
+    <string name="confirm_export_title">ఎగుమతి నిర్థారించండి</string>
+    <string name="confirm_export_message">కు మీ కాంటాక్టు జాబితాను ఎగుమతి చేయడానికి నిశ్చయించుకున్నారా \"<xliff:g id="vcard_filename">%s</xliff:g>\"?</string>
+    <string name="exporting_contact_failed_title">డేటా ఎక్స్ పోర్ట్ విఫలమైంది  </string>
+    <string name="exporting_contact_failed_message">పరిచయాల డేటా ఎగుమతి విఫలమైంది. \ nవైఫల్యానికి కారణం: \ "<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_no_exportable_contact">ఎగుమతి చేయగల కాంటాక్టు లేదు</string>
+    <string name="fail_reason_too_many_vcard" product="nosdcard">USB నిల్వ లో చాలా vకార్డు ఫైళ్లు</string>
+    <string name="fail_reason_too_many_vcard" product="default">SD కార్డు మీద చాలా vకార్డు ఫైళ్లు</string>
+    <string name="fail_reason_too_long_filename">అవసరమైన ఫైల్ పేరు చాలా పొడవుగా ఉంది(\"<xliff:g id="filename">%s</xliff:g>\")</string>
+    <string name="fail_reason_cannot_open_destination_dir">గమ్యం డైరెక్టరీ సృష్టించడం సాధ్యం కాదు. తెరిచేందుకు \"<xliff:g id="dir_name">%s</xliff:g>\"  </string>
+    <string name="exporting_contact_list_title">పరిచయాల డేటా ఎగుమతి చేయబడుతోంది</string>
+    <string name="exporting_contact_list_message">ఎగుమతి సంపర్క డేటాను \ <xliff:g id="file_name">%s</xliff:g>\" </string>
+    <string name="fail_reason_could_not_initialize_exporter">ఎగుమతిదారు ప్రారంభించడం సాధ్యం కాలేదు: \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_error_occurred_during_export">ఎగుమతి సమయంలో తలెత్తిన లోపం: \ "<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+    <string name="composer_failed_to_get_database_infomation">డేటాబేస్ సమాచారాన్ని పొందేందుకు విఫలమైంది </string>
+    <string name="composer_has_no_exportable_contact">ఎగుమతి చేయగలిగిన కాంటాక్టు లేదు. మీరు మీ ఫోన్ లో పరిచయాలను కలిగి ఉంటే,  ఏ డేటా ప్రొవైడర్ ద్వారానైనా  అన్ని పరిచయాలూ బయటకి ఎగుమతి కాకుండా నిషేధించబడి ఉండవచ్చు.</string>
+    <string name="composer_not_initialized">vCard స్వరకర్త సరిగ్గా గుర్తింపబడలేదు</string>
+    <string name="fail_reason_could_not_open_file">తెరవడం సాధ్యం కాలేదు. \"<xliff:g id="file_name">%1$s</xliff:g>\": <xliff:g id="exact_reason">%2$s</xliff:g></string>
+    <string name="exporting_contact_list_progress"><xliff:g id="current_number">%1$s</xliff:g> యొక్క <xliff:g id="total_number">%2$s</xliff:g> కాంటాక్టులు</string>
+    <string name="search_settings_description">మీ పరిచయాల యొక్క పేరు</string>
+    <string name="add_2sec_pause">2-సెకండ్ల విరామం జోడించండి</string>
+    <string name="add_wait">నిరీక్షణ జోడించు</string>
+    <string name="dial_button_label">డయల్ </string>
+    <string name="call_disambig_title">కాల్ ఉపయోగించి </string>
+    <string name="sms_disambig_title">ఉపయోగించి టెక్స్ట్</string>
+    <string name="make_primary">ఈ ఎంపికను గుర్తుంచుకో</string>
+    <string name="quickcontact_missing_app">దీనిని నిర్వహించేందుకు ఏవిధమైన అప్లికేషన్లు దొరకలేదు </string>
+    <string name="quickcontact_remember_choice">ఈ ఎంపికను గుర్తుంచుకో</string>
+    <string name="quickcontact_missing_name">తెలియని</string>
+    <string name="menu_accounts">అకౌంట్స్</string>
+    <string name="menu_import_export">ఎగుమతి/దిగుమతి </string>
+    <string name="dialog_import_export">కాంటాక్ట్స్ ని ఎగుమతి/దిగుమతి చేయండి   కాల్ లో</string>
+    <string name="menu_share">పంచు</string>
+    <string name="share_via">పరిచయం ద్వారా పంచుకో</string>
+    <string name="share_error">ఈ కాంటాక్ట్ పంచుకోబడదు.</string>
+    <string name="nameLabelsGroup">పేరు</string>
+    <string name="nicknameLabelsGroup">ముద్దు పేరు </string>
+    <string name="organizationLabelsGroup">సంస్థ </string>
+    <string name="websiteLabelsGroup">వెబ్ సైట్  </string>
+    <string name="eventLabelsGroup">సంఘటన</string>
+    <string name="type_short_home">H</string>
+    <string name="type_short_mobile">M</string>
+    <string name="type_short_work">W</string>
+    <string name="type_short_pager">P</string>
+    <string name="type_short_other">O</string>
+    <string name="edit_read_only">ఈ కాంటాక్ట్ రీడ్-ఓన్లీ మాత్రమే</string>
+    <string name="edit_secondary_collapse">మరిన్ని</string>
+    <string name="dialog_primary_name">ప్రాథమిక పేరు</string>
+    <string name="dialog_new_contact_account">ఖాతా కింద కాంటాక్ట్ ని సృష్టించండి</string>
+    <string name="menu_sync_remove">సమకాలీకరణ గుంపును తొలగించు</string>
+    <string name="dialog_sync_add">సమకాలీకరణ సమూహాన్ని కలుపు</string>
+    <string name="display_more_groups">మరిన్నిగ్రూపులను\u2026    </string>
+    <string name="display_ungrouped">అన్ని ఇతర కాంటాక్టులు</string>
+    <string name="display_all_contacts">అన్ని పరిచయాలు</string>
+    <string name="display_warn_remove_ungrouped">తొలగించడం \'<xliff:g id="group" example="Starred">%s</xliff:g>\' సమకాలీకరణ నుండి కూడా సమకాలీకరణ నుండి ఏ గుంపులో లేని పరిచయాలను తొలగిస్తుంది.</string>
+    <string name="account_phone">ఫోన్- మాత్రమే (సింక్ తొలగించబడింది)</string>
+    <string name="call_custom">కాల్ <xliff:g id="custom">%s</xliff:g></string>
+    <string name="call_home">హోమ్ కాల్</string>
+    <string name="call_mobile">మొబైల్ కాల్ </string>
+    <string name="call_work">కాల్ పని</string>
+    <string name="call_fax_work">పని ఫ్యాక్స్  కాల్</string>
+    <string name="call_fax_home">ఇంటి ఫ్యాక్స్ కాల్</string>
+    <string name="call_pager">కాల్ పేజర్ </string>
+    <string name="call_other">కాల్</string>
+    <string name="call_callback">కాల్ బ్యాక్ కాల్</string>
+    <string name="call_car">కారు కాల్</string>
+    <string name="call_company_main">ప్రధాన సంస్థ కాల్</string>
+    <string name="call_isdn">ISDN కాల్</string>
+    <string name="call_main">ప్రధాన కాల్</string>
+    <string name="call_other_fax">కాల్ ఫ్యాక్స్ </string>
+    <string name="call_radio">కాల్ రేడియో</string>
+    <string name="call_telex">టెలెక్స్ కాల్</string>
+    <string name="call_tty_tdd">TTY/TDD కాల్</string>
+    <string name="call_work_mobile">మొబైల్ పని కాల్</string>
+    <string name="call_work_pager">కాల్ పని పేజర్ </string>
+    <string name="call_assistant">కాల్ <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="call_mms">MMS కాల్</string>
+    <string name="sms_custom">టెక్స్ట్ <xliff:g id="custom">%s</xliff:g></string>
+    <string name="sms_home">టెక్స్ట్ హోమ్</string>
+    <string name="sms_mobile">టెక్స్ట్ మొబైల్ </string>
+    <string name="sms_work">టెక్స్ట్ పని</string>
+    <string name="sms_fax_work">టెక్స్ట్ కార్యాలయ ఫ్యాక్స్</string>
+    <string name="sms_fax_home">టెక్స్ట్ ఇంటి ఫ్యాక్స్</string>
+    <string name="sms_pager">టెక్స్ట్ పేజర్</string>
+    <string name="sms_other">టెక్స్ట్</string>
+    <string name="sms_callback">టెక్స్ట్ కాల్ బ్యాక్</string>
+    <string name="sms_car">టెక్స్ట్ కారు</string>
+    <string name="sms_company_main">టెక్స్ట్ ప్రధాన సంస్థ </string>
+    <string name="sms_isdn">ISDN టెక్స్ట్ </string>
+    <string name="sms_main">ప్రధాన టెక్స్ట్</string>
+    <string name="sms_other_fax">టెక్స్ట్ ఫ్యాక్స్</string>
+    <string name="sms_radio">టెక్స్ట్ రేడియో</string>
+    <string name="sms_telex">టెక్స్ట్ టెలెక్స్</string>
+    <string name="sms_tty_tdd">TTY/TDD టెక్స్ట్ </string>
+    <string name="sms_work_mobile">టెక్స్ట్ పని మొబైల్</string>
+    <string name="sms_work_pager">టెక్స్ట్ పని పేజర్</string>
+    <string name="sms_assistant">టెక్స్ట్ <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="sms_mms">టెక్స్ట్ MMS</string>
+    <string name="email_home">ఇమెయిల్ హోమ్</string>
+    <string name="email_mobile">ఇమెయిల్ మొబైల్</string>
+    <string name="email_work">ఇమెయిల్ పని</string>
+    <string name="email_other">ఇమెయిల్</string>
+    <string name="email_custom">ఇమెయిల్ <xliff:g id="custom">%s</xliff:g></string>
+    <string name="email">ఇమెయిల్</string>
+    <string name="map_home">హోమ్ చిరునామా చూడండి</string>
+    <string name="map_work">పని చిరునామా చూడండి</string>
+    <string name="map_other">వీక్షణ చిరునామా</string>
+    <string name="map_custom">చూడండి   <xliff:g id="custom">%s</xliff:g> చిరునామా</string>
+    <string name="chat_aim">AIM ఉపయోగించి చాట్</string>
+    <string name="chat_msn">Windows Live ఉపయోగించి చాట్</string>
+    <string name="chat_yahoo">Yahoo ఉపయోగించి చాట్</string>
+    <string name="chat_skype">Skype ఉపయోగించి చాట్</string>
+    <string name="chat_qq">QQ ఉపయోగించి చాట్</string>
+    <string name="chat_gtalk">Google Talk ఉపయోగించి చాట్</string>
+    <string name="chat_icq">ICQ ఉపయోగించి చాట్</string>
+    <string name="chat_jabber">Jabber ఉపయోగించి చాట్</string>
+    <string name="chat_other">"ఇతర పరికరాలను ఉపయోగించి చాట్"</string>
+    <string name="chat">చాట్ </string>
+    <string name="postal_street">వీధి</string>
+    <string name="postal_pobox">పి.ఒ. బాక్స్</string>
+    <string name="postal_neighborhood">పొరుగువారు </string>
+    <string name="postal_city">నగరం</string>
+    <string name="postal_region">స్థితి</string>
+    <string name="postal_postcode">జిప్ కోడ్</string>
+    <string name="postal_country">కంట్రీ</string>
+    <string name="name_given">ఇచ్చిన పేరు</string>
+    <string name="name_family">కుటుంబ పేరు    </string>
+    <string name="name_prefix">ముందు పేరు </string>
+    <string name="name_middle">మధ్య పేరు </string>
+    <string name="name_suffix">చివరి పేరు </string>
+    <string name="name_phonetic_given">ఫొనెటిక్ ఇచ్చిన పేరు  </string>
+    <string name="name_phonetic_middle">ఫొనెటిక్ మధ్య  పేరు  </string>
+    <string name="name_phonetic_family">ఫొనెటిక్ ఫ్యామిలీ పేరు       </string>
+    <string name="split_label">భాగాలుగా విడగొట్టు</string>
+    <string name="split_explanation">ఈ డేటాను తన సొంత పరిచయం చెయ్యండి.</string>
+    <string name="account_name_format">నుండి <xliff:g id="source" example="Gmail">%1$s</xliff:g>  ఖాతా: <xliff:g id="account" example="user@gmail.com">%2$s</xliff:g></string>
+    <string name="account_type_format"><xliff:g id="source" example="Gmail">%1$s</xliff:g> కాంటాక్టు</string>
+    <string name="from_account_format">నుండి <xliff:g id="source" example="user@gmail.com">%1$s</xliff:g></string>
+    <string name="use_photo_as_primary">ఈ ఫోటోను ఉపయోగించండి</string>
+    <string name="contact_read_only"><xliff:g id="source" example="Gmail">%1$s</xliff:g> సంప్రదింపు సమాచారం ఈ పరికరంలో సవరించగలిగేలా కాదు.</string>
+    <string name="no_contact_details">ఈ కాంటాక్ట్స్ కోసం అదనపు సమాచారం లేదు </string>
+    <string name="display_options_sort_list_by">ద్వారా క్రమబద్ధీకరించు జాబితా</string>
+    <string name="display_options_sort_by_given_name">ఇచ్చిన పేరు</string>
+    <string name="display_options_sort_by_family_name">కుటుంబ పేరు    </string>
+    <string name="display_options_view_names_as">గా కాంటాక్టు పేర్లు చూడండి</string>
+    <string name="display_options_view_given_name_first">మొదటి ఇచ్చిన పేరు</string>
+    <string name="display_options_view_family_name_first">మొదటిగా  \'కుటుంబం పేరు  </string>
+    <string name="search_bar_hint">పరిచయాల కోసం శోధించండి</string>
+    <string name="search_for_all_contacts">అన్ని పరిచయాల కోసం శోధించండి</string>
+    <string name="take_photo">చిత్రం తీసుకో</string>
+    <string name="pick_photo">గ్యాలరీ నుండి ఫోటోను ఎంచుకోండి</string>
+    <string name="locale_change_in_progress">కాంటాక్ట్  జాబితా భాష యొక్క మార్పు ప్రతిబింబించేలా నవీకరించబడింది.\n\nదయచేసి వేచి ఉండండి... </string>
+    <string name="upgrade_in_progress">పరిచయాల జాబితా నవీకరించబడింది.\n\nదయచేసి వేచి ఉండండి... </string>
+    <string name="upgrade_out_of_memory">పరిచయాలు అప్ గ్రేడ్ ప్రక్రియలో ఉన్నాయి.
+    \n\nనవీకరణ ప్రక్రియ సుమారు అవసరం<xliff:g id="size_in_megabytes">%d</xliff:g>
+    అంతర్గత ఫోన్ నిల్వలో Mb\n\nఈ క్రింది వాటిల్లో ఒక ప్రత్యామ్నాయాన్ని ఎంచుకోండి: 
+</string>
+    <string name="upgrade_out_of_memory_uninstall">కొన్ని అప్లికేషన్లు అన్ ఇన్ స్టాల్ చెయ్యి</string>
+    <string name="upgrade_out_of_memory_retry">అప్ గ్రేడ్ చేయడం కోసం మళ్ళీ ప్రయత్నించండి</string>
+    <string name="search_results_for">కోసం శోధన ఫలితాలు:<xliff:g id="query">%s</xliff:g></string>
+    <string name="search_results_searching">వెతుకుట......</string>
+    <string name="dialer_call_switch">వాయిస్ కాల్ / వీడియోకాల్</string>
+    <string name="select_contacts">పరిచయాలను ఎంచుకోండి</string>
+    <string name="delete_contacts">పరిచయాలను తొలగించాలనుకుంటున్నారా</string>
+    <string name="export_contacts">ఎగుమతి పరిచయాలు</string>
+    <string name="import_contacts">పరిచయాలను దిగుమతి</string>
+    <string name="add_contacts_to_group">"గ్రూపుకు పరిచయాలను జోడించు"</string>
+    <string name="ok">సరి</string>
+    <string name="cancel">రద్దు</string>
+    <string name="inputting__name_sim_contacts">గమనిక: పొడవు దాటి 14 అక్షరాల గరిష్ఠ పొడవు (అక్షరాలు లేదా పాత్ర స్ట్రింగ్ కలిగి ఉంటే ఆరు అక్షరాల కోసం గరిష్ఠ పొడవు అనుమతిస్తాయి), అడ్డగించడం చేయబడుతుంది.</string>
+    <string name="inputting_number_sim_contacts">గమనిక: 20 అక్షరాలు కోసం గరిష్ఠ పొడవు (మాత్రమే 0-9 అనుమతిస్తాయి +, * పాత్ర).</string>
+    <string name="menu_contacts_group">కాంటాక్ట్స్ గ్రూప్ </string>
+    <string name="menu_delete">పరిచయాలను తొలగించు</string>
+    <string name="on_progress">న ప్రోగ్రెస్  దయచేసి వేచి ఉండండి...</string>
+    <string name="deleting_contacts">పరిచయాలను తొలగిస్తోంది, దయచేసి వేచి ఉండండి ...</string>
+    <string name="importing_contacts">పరిచయాలను దిగుమతి, దయచేసి వేచి ఉండండి.</string>
+    <string name="exporting_contacts">ఎగుమతి అవుతోంది పరిచయాలను, దయచేసి వేచి ఉండండి.</string>
+    <string name="adding_contacts_to_group">గుంపుకు పరిచయాలను చేర్చడం, దయచేసి వేచి ఉండండి.</string>
+    <string name="confirm">నిర్ధారించండి?</string>
+    <string name="export_to_sim">SIM కార్డ్ కి ఎగుమతి చెయ్యి</string>
+    <string name="export_to_sim1">SIM1 ఎగుమతి చెయ్యి</string>
+    <string name="export_to_sim2">SIM2 ఎగుమతి చెయ్యి</string>
+    <string name="group_phone">ఫోన్ పరిచయాలు</string>
+    <string name="group_sim">సిమ్ కార్డు పరిచయాలు</string>
+    <string name="group_sim1">"Sim1 కార్డు పరిచయాలు"</string>
+    <string name="group_sim2">"SIM2 కార్డు పరిచయాలు"</string>
+    <string name="view_simContact">సిమ్ పరిచయాలను చూడండి</string>
+    <string name="edit_simContact">సిమ్ పరిచయాల సవరణ</string>
+    <string name="insert_simContact">సిమ్ పరిచయాలను జోడించు</string>
+    <string name="select_contacts_group">పరిచయాల గ్రూపుని ఎంచుకోండి</string>
+    <string name="select_contacts_group_to_add">కొత్త పరిచయాన్ని జోడించడానికి గుంపు ఎంచుకోండి</string>
+    <string name="sim_card">SIM కార్డ్</string>
+    <string name="sim_card1">"Sim1 కార్డు"</string>
+    <string name="sim_card2">"Sim2 కార్డు"</string>
+    <string name="toast_simcontact_no_name">పేరు లేదు</string>
+    <string name="toast_simcontact_no_phone_number">ఫోన్ నంబర్</string>
+    <string name="dial_number">డయల్ </string>
+    <string name="account_sim">SIM-మాత్రమే, పరిచయాలు సమకాలీ కరించడానికి లేదు</string>
+    <string name="account_sim1">"SIM1-మాత్రమే, పరిచయాలు సమకాలీకరించడానికి లేదు"</string>
+    <string name="account_sim2">"SIM2-మాత్రమే, పరిచయాలు సమకాలీకరించడం కుదరదు"</string>
+    <string name="sim1_no_ready">"Sim1 కార్డు సిద్ధంగా లేదు"</string>
+    <string name="sim2_no_ready">"Sim2 కార్డు సిద్ధంగా లేదు"</string>
+    <string name="sim1_fdn_enable">"Sim1 FDN ఎనేబుల్ అయింది"</string>
+    <string name="sim2_fdn_enable">"Sim2 FDN ఎనేబుల్ చేయబడింది"</string>
+    <string name="airplan_mode_enable">"విమానం మోడ్ ఆన్ లో ఉంది, SIM పరిచయాలను యాక్సెస్ సాధ్యం కాదు"</string>
+    <string name="sim_no_ready">"Sim కార్డ్ సంఖ్య సిద్ధంగా లేదు"</string>
+    <string name="sim_can_not_pick">"SIM కార్డ్ పరిచయాలను షార్ట్ కట్ గా జోడించడం కుదరదు"</string>
+    <string name="noContactsWithSimNumbers">"SIM కార్డ్ లో పరిచయాలు లేవు"</string>
+    <string name="no_match_people">సరిపోలే పరిచయాలు ఏవీ కనుగొనబడలేదు.</string>
+    <string name="progress_dialog_title">సిమ్ పరిచయాలను దిగుమతి.</string>
+    <string name="sim_is_initializing">SIM కార్డు ప్రారంభిస్తోంది.</string>
+    <string name="toast_sim_failed">సిమ్ పరిచయాలను సృష్టించడంలో విఫలం</string>
+    <string name="toast_sim_overflow">సిమ్ కార్డ్ నిండింది</string>
+    <string name="toast_simcontact_input_overflow">కాంటాక్టు సమాచారం ఇన్పుట్ మితిమీరి ఉంది</string>
+    <string name="toast_no_map_apk">అక్కడ యొక్క సంఖ్య మ్యాప్ అప్లికేషన్</string>
+    <string name="toast_name_number_both_empty">పేరు మరియు ఫోన్ నంబర్ ఖాళీ రెండు ఉండకూడదు</string>
+    <string name="import_to_phone">ఫోన్ దిగుమతి చేసుకోండి</string>
+    <string name="sim_is_initializing1">"Sim1 ప్రారంభించడం".</string>
+    <string name="sim_is_initializing2">"Sim2 ప్రారంభించబడుతోంది".</string>
+    <string name="toast_sim1_overflow">"Sim1 ప్రవాహం మించి పోయింది"</string>
+    <string name="toast_sim2_overflow">"Sim2 ప్రవాహం ఎక్కువగా ఉంది"</string>
+    <string name="contactslist_menu_addto_firewall">కాల్ ఫైర్ వాల్ జోడించండి</string>
+    <string name="contactslist_menu_addto_firewall_null">పరిచయ సంఖ్య ఖాళీగా ఉంది, ఇతర పరిచయాల జోడించడానికి మళ్లీ ఎంపిక చేసుకోండి</string>
+    <string name="export_contacts_to_sdcard">"ఎస్ డి కార్డు పరిచయాలు ఎగుమతి"</string>
+    <string name="recentCalls_delete_toest">"తొలగించిన అంశాలను ఎంచుకోండి"</string>
+    <string name="sendType_MMS">"ఈ సమాచారానికి MMS పంపబడుతుంది"</string>
+    <string name="sendType_SMS">"ఈ సమాచారానికి SMS పంపబడుతుంది"</string>
+    <string name="service_is_busy">"Sync సేవ బిజీగా ఉంది, కొన్ని ఫంక్షన్ నిలిపివేయబడింది"</string>
+    <string name="service_is_busy_sim1">"Sync sim1 కార్డు బిజీగా ఉంది"</string>
+    <string name="service_is_busy_sim2">"Sync sim2 కార్డు బిజీగా ఉంది"</string>
+    <string name="label_success">"సక్సెస్"</string>
+    <string name="label_fail">"విఫలం"</string>
+    <string name="group_manager">"పరిచయం గ్రూప్"</string>
+    <string name="group_manager_delete">"గ్రూపు కాంటాక్ట్ - తొలగించు"</string>
+    <string name="empty">"గ్రూపింగ్ సమాచారం ఖాళీగా ఉంది, ఒక మెను ఐటెమ్ ఏర్పరచండి"</string>
+    <string name="noGroupInfo">"ఆపరేషనల్  గ్రూప్ కాదు"</string>
+    <string name="conatcts_name">"పేరు"</string>
+    <string name="phone_number">"ఫోన్"</string>
+    <string name="phone1">"ఫోన్1"</string>
+    <string name="nickname">"మారుపేరు"</string>
+    <string name="concacts_email">"ఇమెయిల్"</string>
+    <string name="ghostData_phone1">"ఫోన్ సంఖ్య 1"</string>
+    <string name="ghostData_nickname">"మారుపేరు"</string>
+    <string name="ghostData_concatct_email">"ఇమెయిల్"</string>
+    <string name="contacts_is_null">"పరిచయాల సమాచారాన్ని నమోదు చేయండి"</string>
+    <string name="export_sim_success">"SIM సక్సెస్ ఎగుమతి"</string>
+    <string name="export_sim_fail">"ఎగుమతి SIM విఫలమయ్యింది"</string>
+    <string name="export_sim2_success">"SIM2 సక్సెస్ ఎగుమతి"</string>
+    <string name="export_sim2_fail">"ఎగుమతి SIM2 విఫలమయ్యింది"</string>
+    <string name="add_to_group_success">"గ్రూపుకి సక్సెస్ జోడించు"</string>
+    <string name="add_to_group_fail">"గ్రూపుకి ఫెయిల్ జోడించు"</string>
+    <string name="import_to_phone_success">"దిగుమతి ఫోన్ సక్సెస్"</string>
+    <string name="import_to_phone_fail">"దిగుమతి ఫోన్ విఫలం"</string>
+    <string name="delete_phone_fail">"విఫలం తొలగించు"</string>
+    <string name="delete_sim_success">"విజయవంతంగా తొలగించు"</string>
+    <string name="delete_sim_fail">"విఫలం తొలగించు"</string>
+    <string name="recentCallsMissedIconLabel">తప్పిపోయిన</string>
+    <string name="recentCallsOutgoingIconLabel">అవుట్ గోయింగ్</string>
+    <string name="select_one">కనీసం ఒక అంశాన్ని ఎంచుకో!</string>
+    <string name="remove_contacts_from_group">గుంపు నుండి ఈ పరిచయాన్ని తొలగించు</string>
+    <string name="sim_card_name_too_long">సిమ్ కార్డు పేరు చాలా పొడవుగా ఉంది</string>
+    <string name="group_name_cannot_empty">గ్రూపు పేరు ఖాళీగా ఉండకూడదు</string>
+    <string name="assistantLabelPickerTitle">అసిస్టెంట్ లేబుల్ పేరు</string>
+    <string name="share_by_sms">SMS ద్వారా సంప్రదించండి పంపండి</string>
+    <string name="share_by_mms">MMS ద్వారా సంప్రదించండి పంపండి</string>
+    <string name="share_by_bluetooth">బ్లూటూత్ ద్వారా సంప్రదించండి పంపండి</string>
+    <string name="share_by_email">ఇమెయిల్ ద్వారా సంప్రదించండి పంపండి</string>
+    <string name="chat_custom">"చాట్  ఉపయోగించి <xliff:g id="NAME">%s</xliff:g>"</string>
+    <string name="deleting">"తొలగిస్తోంది, దయచేసి మళ్లీ ప్రయత్నించండి"</string>
+    <string name="import_aborted">"దిగుమతి ఆపివేయబడింది"</string>
+    <string name="exprot_fail">"ఎగుమతి విఫలమయ్యింది, పరికరంలో ఖాళీ స్థలం లేదు"</string>
+    <string name="exprot_fail_only_email">"పరిచయాలను ఇమెయిల్ కి మాత్రమే, SIM కి ఎగుమతి చేయలేము"</string>
+    <string name="contacts_information_is_replace">"పరిచయాల సమాచారం రిప్లేస్ చేయబడింది"</string>
+    <string name="import_sim_too_many">"యూజర్  SIM కార్డ్ మిగిలిన సామర్థ్యం కంటే ఎక్కువగా  దిగుమతి చేసుకున్నాడు"</string>
+    <string name="whether_import_from_SD">"ఈ పరిచయాన్ని SD కార్డు నుండి దిగుమతి చేయాలా?"</string>
+    <string name="blacklist_add">బ్లాక్ లిస్ట్ కు కలుపు</string>
+    <string name="blacklist">నిరోధజాబితా</string>
+    <string name="blacklist_no_number">ఏ సంఖ్యలో ఉంది, మీరు జోడించడం సాధ్యం కాదు.</string>
+    <string name="no_fast_dial">శీఘ్ర కాల్ ఫోన్ నంబర్ సెట్ లేదు</string>
+    <string name="fast_dial_choose">శీఘ్ర కాల్ రకం దయచేసి ఎంపిక చేయండి</string>
+    <string name="fast_call">కాల్ వాయిస్</string>
+    <string name="fast_vt_call">వీడియో కాల్  </string>
+    <string name="save_contact_faliue">సేవ్ విఫలమైంది</string>
+    <string name="add_contact_success">విజయవంతంగా సంప్రదించండి చేర్చండి</string>
+    <string name="group_name">గ్రూపుకి పేరు</string>
+    <string name="contactsSIMIconLabel">SIM</string>
+    <string name="contactsPhoneIconLabel">ఫోన్</string>
+    <string name="sim_notready_cant_not_save">SIM కార్డ్ సిద్ధంగా లేదు, SIM కార్డ్ లోకి పరిచయం సేవ్ చెయ్యలేము</string>
+    <string name="sim1_notready_cant_not_save">SIM1 సిద్ధంగా లేదు, SIM1 పరిచయాలు సేవ్ చెయ్యలేము</string>
+    <string name="sim2_notready_cant_not_save">SIM2 సిద్ధంగా లేదు, SIM2 పరిచయాలు సేవ్ చెయ్యలేము</string>
+    <string name="cant_not_save_email">"దీనిని SIM కార్డ్ ఇమెయిల్ సేవ్ చెయ్యలేదు."</string>
+    <string name="fdn_enable_nosetting">"FDN ఎనేబుల్ చేసినప్పుడు ఎంచుకున్న చర్య అందుబాటులో లేదు."</string>
+    <string name="menu_removeFrequent">ఫ్రీక్వెన్టేషన్ నుండి తొలగించు</string>
+    <string name="group_name_student">"విద్యార్థి"</string>
+    <string name="group_name_friend">"స్నేహితుడు"</string>
+    <string name="group_name_family">కుటుంబం</string>
+    <string name="group_name_colleague">"సహోద్యోగి"</string>
+    <string name="default_ban_operate">"డిఫాల్ట్ గ్రూపు నిషేధిత ఆపరేషన్ "</string>
+    <string name="delete_group">గ్రూపింగ్ తొలగించండి</string>
+    <string name="remove_frequent_contacts">"తరచు పరిచయాలు తీసివేయి"</string>
+    <string name="removing_frequent_contacts">"తరచు పరిచయాలు తొలగించబడుతున్నాయి, దయచేసి వేచి ఉండండి."</string>
+    <string name="remove_collection_contacts">"సేకరణ పరిచయాలను తీసివేయి"</string>
+    <string name="removing_collection_contacts">"సేకరణ పరిచయాలను తొలగించబడుతున్నాయి, దయచేసి వేచి ఉండండి."</string>
+    <string name="get_sim_count_fail">SIM కార్డ్ సిద్ధంగా లేదా ప్లగ్ కాదు కాదు</string>
+    <string name="emergency_call">అత్యవసర కాల్</string>
+    <string name="dial_emergency_error">కాల్ పంపబడలేదు, <xliff:g id="non_emergency_number">%s</xliff:g> అత్యవసర నెంబరు కాదు!</string>
+    <string name="dial_emergency_empty_error">కాల్ పంపలేదు, దయచేసి  అత్యవసర నెంబర్ కి డయల్ చేయండి!</string>
+    <string name="label_birthday">పుట్టిన రోజు</string>
+    <string name="noContacts_in_group">గుంపు లో పరిచయాలు లేవు</string>
+    <string name="bulk_sms">"బల్క్ sms"</string>
+    <string name="bulk_email">"బల్డ్  ఇమెయిల్"</string>
+    <string name="error_email_fromat">"మీరు ఎంచుకున్న మెయిల్ చిరునామా ఫార్మాట్ సరైనది కాదు, సమూహ మెయిల్ ఆపరేషన్ రద్దు చెయ్యబడింది"</string>
+    <string name="contact_invalid_email_error_toast">"ఫోన్ నంబర్ చెల్లని అక్షరాలను కలిగి ఉంది"</string>
+    <string name="contact_invalid_phone_number_error_toast">"ఫోన్ నంబర్ చెల్లని అక్షరాలను కలిగి ఉంది"</string>
+    <string name="contact_invalid_space_name_error_toast">"కూర్పు యొక్క పేర్లు మాత్రమే స్పేస్ అనుమతించదు"</string>
+    <string name="initializing_sim_contacts">SIM కాంటాక్ట్స్ ఇంటలైజింగ్ అవుతున్నాయి,దయచేసి తరువాత ఆపరేట్ చేయండి </string>
+    <string name="tip_limit_contacts_tomms">మెసేజ్ రిసీవర్ చాలా పెద్దది <xliff:g id="count">%d</xliff:g></string>
+    <string name="import_success">దిగుమతి విజయం</string>
+    <string name="as_bluetooth">బ్లూటూత్ వలె పంపండి</string>
+    <string name="as_vcard">SMS వంటి పంపండి</string>
+    <string name="can_not_empty">నంబర్స్ ఖాళీగా ఉండకూడదు</string>
+    <string name="no_activity_found">సంబంధిత అప్లికేషన్ కనుగొనలేదు</string>
+    <string name="menu_contacts_group_title">"పరిచయాల గ్రూప్ ని ఎడిట్ చేయి"</string>
+    <string name="sdn_list">SDN జాబితా</string>
+    <string name="sdn_please_select_sim">SIM కార్డ్ ఎంచుకోండి</string>
+    <string name="sdn_please_insert_sim">SIM కార్డ్ ఇన్సర్ట్ చెయ్యండి</string>
+    <string name="sdn_no_contact_number">ఈ SIM కార్డ్ SDN సంఖ్య మద్దతు ఇవ్వదు</string>
+    <string name="menu_contacts_group_add">చేర్చుట</string>
+    <string name="contactSavedUnchanged">"కాంటాక్ట్ డెలెట్ చేయబడలేదు."</string>
+    <string name="no_sdcard_title" product="default">ఏ SD కార్డు లేదు</string>
+    <string name="contacts_saved_to">"కాంటాక్టులను ఎక్కడికి సేవ్ చేయవలెను"</string>
+    <string name="menu_voicecall">వాయిస్ కాల్</string>
+    <string name="menu_videocall">వీడియో కాల్</string>
+    <string name="select_all">అన్నీ ఎంపిక చేయండి</string>
+    <string name="delete_contacts_from_group">గ్రూపునుండి కాంటాక్టులను డెలెట్ చేయుము</string>
+    <string name="contact_tag">పేరు</string>
+    <string name="deleting_contacts_from_group">గ్రూపునుండి కాంటాక్టులు డెలెట్ చేయబడుతున్నవి, దయచేసి వేచివుండండి.</string>
+    <string name="group_all">మొత్తం కాంటాక్టులు</string>
+    <string name="phone">ఫోన్</string>
+    <string name="send_message">సందేశం</string>
+    <string name="sim3_no_ready">"సిమ్3 కార్డ్ సిద్ధంగా లేదు"</string>
+    <string name="sim3_fdn_enable">"సిమ్3 FDN ఎనేబుల్ చేయబడినది"</string>
+    <string name="recentCalls_addToCallFireWall">కాల్ ఫైర్వాల్ ను చేర్చుట</string>
+    <string name="videocall_string">వీడియో</string>
+    <string name="phone2">"ఫోన్2"</string>
+    <string name="phone3">"ఫోన్3"</string>
+    <string name="phone4">"ఫోన్4"</string>
+    <string name="ghostData_phone2">"ఫోన్ నంబర్2"</string>
+    <string name="ghostData_phone3">"ఫోన్ నంబర్3"</string>
+    <string name="ghostData_phone4">"ఫోన్ నంబర్4"</string>
+    <string name="export_sim1_success">"SIM1 ఎక్స్పోర్ట్ సఫలమైనది"</string>
+    <string name="export_sim1_fail">"SIM1 ఎక్స్పోర్ట్ విఫలమైనది"</string>
+    <string name="delete_phone_success">"డెలెట్ సఫలమైనది"</string>
+    <string name="recentCallsAllIconLabel">అందరూ</string>
+    <string name="recentCallsReceivedIconLabel">స్వీకరించబడినది</string>
+    <string name="import_vcard_files_flags">"ఫైల్స్"</string>
+    <string name="all_source">అన్ని రిసౌర్సులు</string>
+    <string name="sdn_sim_notready">SIM సమాచారమును ప్రారంభించుట జరుగుతున్నది, దయచేసి తరువాత ఆపరేట్ చేయండి</string>
+    <string name="lnd_list">LND జాబితా</string>
+    <string name="lnd_no_contact_record">ఈ SIM కార్డుపై ఏ LND రికార్డు లేదు</string>
+    <string name="emergency_number">ఎమర్జెన్సీ నంబర్</string>
+    <string name="people">కాంటాక్ట్స్</string>
+</resources>

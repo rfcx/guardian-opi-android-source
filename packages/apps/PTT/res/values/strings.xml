@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PTT</string>
+    <string name="action_settings">Exit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_doc">  Operating frequency rang : 400-470MHz; "\"  Analog mute CT(D)CSS rang : 0-121</string>
+    <string name="numpicker_title">0:monitor mode,"\" 1 - 8:scan mode</string>
+    <string name="numpicker_content_title">SQ:</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+    <string name="numpicker_ctdcss_title">input 1-121 integer value</string>
+    <string name="numpicker_tx_title">TX:</string>
+    <string name="numpicker_rx_title">RX:</string>
+    <string name="txrx_min_frequence_text">不能小于400.0000MHz</string>
+    <string name="txrx_max_frequence_text">不能大于470.0000MHz</string>
+    <string name="txrx_min_max_frequence_text">频率在400MHz-470MHz之间</string>
+    <string name="txrx_valid_text">请输入有效频率</string>
+    <string name="edittext_valid_text">请输入有效字符</string>
+    <string name="sq_valid_text">请输入0-8之间的整数</string>
+    <string name="dialog_exit_title">提示</string>
+    <string name="dialog_exit_content">确定退出吗？</string>
+    <string name="dialog_exit_button_ok">确定</string>
+    <string name="dialog_exit_button_cancel">取消</string>
+    <string name="vaild_text_length">频率无效，小数点后请保留三位</string>
+
+    <!-- txrx -->
+    <string name="txrx_pow_title">Pow：</string>
+    <string name="txrx_pow_content">Low</string>
+    <string name="txrx_gbw_title">GBW:</string>
+    <string name="txrx_gbw_content">12.5KHz</string>
+    <string name="txrx_sq_title">SQ：</string>
+    <string name="txrx_sq_content">4</string>
+    <string name="txrx_ctdcss_title">CTDCSS：</string>
+    <string name="txrx_ctdcss_content">1</string>
+    <string name="txrx_volume_title">Volume：</string>
+    <string name="txrx_volume_content">7</string>
+    <string name="txrx_tx_title">TX:</string>
+    <string name="txrx_tx_content">400.125</string>
+    <string name="txrx_rx_title">RX:</string>
+    <string name="txrx_rx_content">400.125</string>
+    <string name="txrx_send">Send</string>
+    <string name="txrx_remain">请勿反复点击发送</string>
+
+    <!-- settings -->
+    <string name="settings_pow_title">Pow：</string>
+    <string name="settings_pow_content">Low</string>
+    <string name="settings_gbw_title">GBW：</string>
+    <string name="settings_gbw_content">12.5KHz</string>
+    <string name="settings_sq_title">SQ：</string>
+    <string name="settings_sq_content">4</string>
+    <string name="settings_ctdcss_title">CTDCSS：</string>
+    <string name="settings_ctdcss_content">1</string>
+    <string name="settings_tx_title">TX:</string>
+    <string name="settings_tx_content">400.1250</string>
+    <string name="settings_rx_title">RX:</string>
+    <string name="settings_rx_content">400.1250</string>
+    <string name="settings_save">Save</string>
+
+    <!-- channel -->
+    <string name="channel_count">1/20</string>
+    <string name="channel_list_title">Channel list</string>
+    <string name="channel_edit_title">Edit</string>
+    <string name="channel_name_title">Channel name:</string>
+    <string name="channel_tx_title">TX(400MHz-470MHz):</string>
+    <string name="channel_rx_title">RX(400MHz-470MHz):</string>
+    <string name="channel_sq_title">SQ(0-8):</string>
+    <string name="channel_ctcss_title">TX/RX-ctcss:</string>
+    <string name="channel_ctcss_content">5 </string>
+    <string name="save">Save</string>
+    <string name="channel_listview_item_enable">Enable</string>
+    <string name="channel_listview_item_delete">Delete</string>
+    <string name="channel_listview_item_edit">Edit</string>
+    <string name="channel_listview_tx_rx_value">TX,RX的值必须在400.0000MHz-470.0000MHz之间</string>
+    <string name="channel_listview_tx_rx_length">TX,RX的字符长度最大为8</string>
+    <string name="channel_listview_sq_length">SQ的字符长度最大为1</string>
+
+</resources>

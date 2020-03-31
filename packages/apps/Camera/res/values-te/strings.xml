@@ -1,0 +1,128 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="camera_error_title">కెమెరా లోపం</string>
+    <string name="cannot_connect_camera">కెమెరా కనెక్ట్ కాలేదు.</string>
+    <string name="camera_label">కెమేరా</string>
+    <string name="video_camera_label">క్యామ్ కోర్డర్</string>
+    <string name="gallery_camera_bucket_name">కెమెరా చిత్రాలు</string>
+    <string name="gallery_camera_videos_bucket_name">కెమెరా వీడియోలు</string>
+    <string name="wait">దయచేసి వేచి ఉండండి\u2026</string>
+    <string name="no_storage" product="nosdcard">కెమెరా ఉపయోగించే ముందు USB నిల్వ మౌంట్ చెయ్యండి.</string>
+    <string name="not_enough_space" product="nosdcard">మీ USB నిల్వ నిండింది.</string>
+    <string name="preparing_sd" product="nosdcard">USB నిల్వ  సిద్ధమౌతోంది \u2026</string>
+    <string name="access_sd_fail" product="nosdcard">యుఎస్ బి నిల్వ పొందటంలో విఫలం.</string>
+    <string name="access_sd_fail" product="default">ఎస్ డి కార్డు యాక్సెస్ విఫలం.</string>
+    <string name="confirm_restore_title">డిఫాల్ట్ లను పునరుద్ధరించు</string>
+    <string name="confirm_restore_message">కెమెరా సెట్టింగులు డిఫాల్ట్ లకు పునరుద్ధరించబడతాయి.</string>
+    <string name="review_play">ప్లే</string>
+    <string name="review_cancel">రద్దు</string>
+    <string name="review_ok">సరి</string>
+    <string name="review_retake">రీటేక్</string>
+    <string name="camera_gallery_photos_text">గాలరీ</string>
+    <string name="switch_camera_id">కెమెరా లెన్స్ మారండి</string>
+    <string name="pref_camera_id_title">కెమెరా ఎంచుకోండి</string>
+    <string name="pref_camera_id_entry_front">ముందు</string>
+    <string name="pref_camera_brightness_title">ప్రకాశం</string>
+    <string name="pref_camera_contrast_title">వ్యత్యాసం</string>
+    <string name="pref_camera_recordlocation_title">స్టోర్ స్థానం</string>
+    <string name="pref_camera_recordlocation_entry_off">ఆపు</string>
+    <string name="pref_camera_recordlocation_entry_on">ఆన్</string>
+    <string name="pref_video_quality_title">వీడియో నాణ్యత</string>
+    <string name="pref_video_quality_entry_d1">SD (D1)</string>
+    <string name="pref_video_quality_entry_high">హై (30m)</string>
+    <string name="pref_video_quality_entry_low">తక్కువ (30m)</string>
+    <string name="pref_video_quality_entry_mms">MMS (క్రింద, 30s)</string>
+    <string name="pref_video_quality_entry_youtube">యూ ట్యూబ్  (హై, 10m)</string>
+    <string name="pref_camera_settings_category">కెమెరా సెట్టింగులు</string>
+    <string name="pref_camcorder_settings_category">క్యామ్ కోర్డర్ సెట్టింగులు</string>
+    <string name="pref_camera_picturesize_title">చిత్రం పరిమాణం</string>
+    <string name="pref_camera_previewsize_title">ప్రివ్యూ మోడ్</string>
+    <string name="pref_camera_previewsize_fullscreen">పూర్తిస్క్రీన్</string>
+    <string name="pref_videocamera_format_title">వీడియో ఫార్మాట్</string>
+    <string name="pref_videocamera_format_3GP">3gp</string>
+    <string name="pref_videocamera_format_MP4">MP4</string>
+    <string name="pref_camera_picturesize_entry_2592x1936">5M పిక్సెల్స్</string>
+    <string name="pref_camera_picturesize_entry_1600x1200">2M పిక్సెల్స్</string>
+    <string name="pref_camera_picturesize_entry_1280x960">1.2M పిక్సెల్స్</string>
+    <string name="pref_camera_picturesize_entry_1024x768">1M పిక్సెల్స్</string>
+    <string name="pref_camera_jpegquality_title">చిత్రం నాణ్యత</string>
+    <string name="pref_camera_jpegquality_entry_superfine">చాలా బాగుంది</string>
+    <string name="pref_camera_jpegquality_entry_fine">బాగుంది </string>
+    <string name="pref_camera_jpegquality_entry_normal">సాధారణం</string>
+    <string name="pref_camera_focusmode_title">విధానం దృష్టి</string>
+    <string name="pref_camera_focusmode_entry_auto">ఆటో</string>
+    <string name="pref_camera_focusmode_entry_infinity">అనంతం </string>
+    <string name="pref_camera_focusmode_entry_macro">మాక్రో</string>
+    <string name="pref_camera_focusmode_entry_multi">మల్టీ</string>
+    <string name="pref_camera_flashmode_title">ఫ్లాష్ మోడ్</string>
+    <string name="pref_camera_flashmode_entry_auto">ఆటో</string>
+    <string name="pref_camera_flashmode_entry_on">ఆన్</string>
+    <string name="pref_camera_flashmode_entry_off">ఆపు</string>
+    <string name="pref_camera_whitebalance_title">వైట్ బాలెన్స్</string>
+    <string name="pref_camera_whitebalance_entry_auto">ఆటో</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">మండే</string>
+    <string name="pref_camera_whitebalance_entry_daylight">పగటి వెలుతురు</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">ఫ్లోరోసెంట్</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">మేఘావృతమై ఉంది</string>
+    <string name="pref_camera_coloreffect_title">రంగు ప్రభావం</string>
+    <string name="pref_camera_coloreffect_entry_none">ఏదీ కాదు</string>
+    <string name="pref_camera_coloreffect_entry_mono">మోనో </string>
+    <string name="pref_camera_coloreffect_entry_sepia">సెపియా</string>
+    <string name="pref_camera_coloreffect_entry_negative">వ్యతిరేకం</string>
+    <string name="pref_camera_coloreffect_entry_solarize">సోలరైజ్</string>
+    <string name="pref_camera_coloreffect_entry_posterize">చిత్రీకరించు</string>
+    <string name="pref_camera_coloreffect_entry_aqua">జల</string>
+    <string name="pref_camera_coloreffect_entry_pastel">జిగురు      </string>
+    <string name="pref_camera_coloreffect_entry_mosaic">అస్పష్టముగా చేయటం        </string>
+    <string name="pref_camera_coloreffect_entry_redtint">లేత ఎరుపు రంగు</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">నీలం రంగు</string>
+    <string name="pref_camera_coloreffect_entry_greentint">గ్రీన్ లేత రంగు</string>
+    <string name="pref_camera_scenemode_title">నైట్ మోడ్</string>
+    <string name="pref_camera_scenemode_entry_auto">ఆటో</string>
+    <string name="pref_camera_scenemode_entry_action">క్రియ</string>
+    <string name="pref_camera_scenemode_entry_portrait">రేఖాచిత్రం</string>
+    <string name="pref_camera_scenemode_entry_landscape">లాండ్ స్కేప్</string>
+    <string name="pref_camera_scenemode_entry_night">రాత్రి</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">రాత్రి చిత్తరువు </string>
+    <string name="pref_camera_scenemode_entry_theatre">థియేటర్</string>
+    <string name="pref_camera_scenemode_entry_beach">బీచ్</string>
+    <string name="pref_camera_scenemode_entry_snow">మంచు</string>
+    <string name="pref_camera_scenemode_entry_sunset">సూర్యాస్తమయం</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">స్థిరమైన ఫోటో</string>
+    <string name="pref_camera_scenemode_entry_fireworks">ఫైర్ వర్క్స్ </string>
+    <string name="pref_camera_scenemode_entry_party">పార్టీ</string>
+    <string name="pref_camera_scenemode_entry_candlelight">క్యాండిల్లైట్</string>
+    <string name="pref_restore_title">కెమెరా సెట్టింగులు</string>
+    <string name="pref_restore_detail">డిఫాల్ట్ లకు పునరుద్ధరించు</string>
+    <string name="pref_exposure_title">ఎక్స్‌పోజర్</string>
+    <string name="details_ok">సరి</string>
+    <string name="spaceIsLow_content" product="nosdcard">మీ USB నిల్వలో ఖాళీ స్థలం లేదు. నాణ్యత సెట్టింగును మార్చండి లేదా చిత్రాలను లేదా ఇతర ఫైళ్ళు కొన్నింటిని తొలగించండి.</string>
+    <string name="spaceIsLow_content" product="default">మీ SD కార్డు లో ఖాళీ స్థలం లేదు. నాణ్యత సెట్టింగును మార్చండి లేదా చిత్రాలను లేదా ఇతర ఫైళ్ళు కొన్ని తొలగించండి.</string>
+    <string name="video_reach_size_limit">సైజు పరిమితిని చేరుకున్నారు</string>
+    <string name="zoom_control_title">జూం</string>
+    <string name="switch_to_camera_lable">కెమెరాకి మారండి</string>
+    <string name="switch_to_video_lable">వీడియోకి మారండి</string>
+    <string name="hisense_tv_is_running">మొబైల్ TV నడుస్తుంటే!</string>
+    <string name="in_video_call_is_running">వీడియో కాల్ నడుస్తుంది!</string>
+    <string name="canot_takepicture">చిత్రం తీయలేదు</string>
+    <string name="camera_memory_low">కెమెరా మెమరీ తక్కువ, చిత్ర పరిమాణం మార్చేందుకు </string>
+    <string name="memory_full">నిల్వ స్థలాన్ని పూర్తి</string>
+    <string name="pref_camera_antibanding_title">యాంటీ బాండింగ్</string>
+    <string name="pref_camera_antibanding_entry_60hz">60hz</string>
+    <string name="pref_camera_continuous_capture_title">మోడ్ క్యాప్చర్</string>
+    <string name="pref_camera_continuous_capture_lp_7">7 నిరంతర</string>
+    <string name="notice_capture_call_back_error">క్యాప్చర్ డేటాలో లోపం, దయచేసి మళ్ళీ ప్రయత్నించండి</string>
+    <string name="access_storage_fail">నిల్వ పొందటానికి విఫలం</string>
+    <string name="no_storage" product="default">కెమెరాను ఉపయోగించే ముందు ఒక SD కార్డును ఇన్సర్ట్ చేయండి.</string>
+    <string name="not_enough_space" product="default">మీ SD కార్డ్ పూర్తిగా నిండినది.</string>
+    <string name="preparing_sd" product="default">SD కార్డును సిద్ధం చేయుచున్నది\u2026</string>
+    <string name="pref_camera_id_entry_back">వెనుకకు</string>
+    <string name="pref_camera_previewsize_normal">సాధారణ</string>
+    <string name="pref_camera_picturesize_entry_2048x1536">3M పిక్సల్స్</string>
+    <string name="pref_camera_coloreffect_entry_cold">చల్లని</string>
+    <string name="pref_camera_continuous_capture_pt">సాధారణం</string>
+    <string name="pref_camera_continuous_capture_lp_3">నిరంతరాయంగా 3</string>
+    <string name="pref_camera_continuous_capture_lp_5">నిరంతరాయంగా 5</string>
+    <string name="re_storage">ప్లే చేయడానికి SD కార్డును రీమౌంట్ చేయండి</string>
+</resources>

@@ -1,0 +1,279 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="character_set_entries">
+        <item>E.1</item>
+        <item>E.2</item>
+        <item>E.3</item>
+    </string-array>
+    <string-array name="fm_band_entries">
+        <item>ஐரோப்பிய/அமெரிக்க பேண்ட்</item>
+        <item>ஜப்பாணிய பேண்ட்</item>
+    </string-array>
+    <string-array name="timezone_filters">
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+        <item>அமெரிக்கா</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+        <item>ஐரோப்பா</item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+        <item>ஆப்பிரிக்கா</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+        <item>ஆசியா</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+        <item>ஆஸ்திரேலியா</item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+        <item>பசிபிக்</item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+        <item>எல்லா</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>அனிமேஷன்கள் இல்லை</item>
+        <item>சில அனிமேஷன்கள்</item>
+        <item>அனைத்து அனிமேஷன்கள்</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>விண்டோ அனிமேஷன்கள் எதுவும் காட்டப்படவில்லை</item>
+        <item>சில விண்டோ அனிமேஷன்கள் காட்டப்படுகின்றன</item>
+        <item>அனைத்து விண்டோ அனிமேஷன்களும் காட்டப்பட்டுள்ள ன</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 எஸ்</item>
+        <item>30 எஸ்</item>
+        <item>1 நிமிடம்</item>
+        <item>2 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>மிக மெதுவானது</item>
+        <item>மெதுவான</item>
+        <item>இயல்பான</item>
+        <item>வேகமான</item>
+        <item>மிக விரைவானது</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>மிக தாழ்வானது</item>
+        <item>குறைவு</item>
+        <item>இயல்பான</item>
+        <item>அதிகம்</item>
+        <item>மிக உயரமானது</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>அமெரிக்க ஆங்கிலம்</item>
+        <item>பிரிட்டிஷ் ஆங்கிலம்</item>
+        <item>பிரஞ்சு</item>
+        <item>ஜெர்மன்</item>
+        <item>இத்தாலியன்</item>
+        <item>ஸ்பேனிஷ்</item>
+    </string-array>
+    <string-array name="tts_lang_values">
+        <item>ஆங்கிலம்-USA</item>
+        <item>ஆங்கிலம்-GBR</item>
+        <item>fra-FRA</item>
+        <item>deu-DEU</item>
+        <item>ita-ITA</item>
+        <item>ஸ்பா-ESP</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>இது ஆங்கிலத்தில் பேச்சுக்கு இனிமை சேர்க்கும் ஒரு உதாரணம் ஆகும்.</item>
+        <item>இது ஆங்கிலத்தில் பேச்சுக்கு இனிமை சேர்க்கும் ஒரு உதாரணம் ஆகும்.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>Pico TTS</item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>com.svox.pico</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <!-- Status message of Wi-Fi when it is idle. -->
+        <item></item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>ஸ்கேன்னிங் செய்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is connecting. -->
+        <item>இணைக்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is authenticating. -->
+        <item>அங்கீகரிக்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+        <item>IP முகவரி பெறுகிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is connected. -->
+        <item>இணைக்கப்பட்டது</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>நிறுத்தப்பட்டது</item>
+        <!-- Status message of Wi-Fi when it is disconnecting. -->
+        <item>துண்டிக்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>துண்டிக்கப்பட்டது</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item>வெற்றிகரமில்லை</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <!-- Status message of Wi-Fi when it is idle. -->
+        <item></item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>ஸ்கேன்னிங் செய்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is connecting to a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>க்கு இணைக்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>உடன் அங்கீகரிக்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g> லிருந்து IP முகவரி பெறுகிறது\u2026 </item>
+        <!-- Status message of Wi-Fi when it is connected to a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>உடன் இணைக்கப்பட்டுள்ளது</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>நிறுத்தப்பட்டது</item>
+        <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g> லிருந்து துண்டிக்கிறது\u2026</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>துண்டிக்கப்பட்டது</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item>வெற்றிகரமில்லை</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <!-- The Wi-Fi network does not have any security. -->
+        <item>திற</item>
+        <!-- Do not translate. -->
+        <item>WEP</item>
+        <!-- Do not translate. -->
+        <item>WPA/WPA2 PSK</item>
+        <!-- Do not translate. -->
+        <item>802.1x EAP</item>  
+    </string-array>
+    <string-array name="wifi_wapi_security">
+        <!-- The Wi-Fi network has WAPI PSK authentication protocol. -->
+        <item>WAPI PSK</item>        
+        <!-- The Wi-Fi network has WAPI Certificate authentication protocol. -->
+        <item>WAPI CERT</item>        
+    </string-array>
+    <string-array name="wapi_psk_input_type">
+        <item>ASCII</item>
+        <item>ஹெக்ஸ்</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <!-- Do not translate. -->
+        <item>PEAP</item>
+        <!-- Do not translate. -->
+        <item>TLS</item>
+        <!-- Do not translate. -->
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>கொஞ்சம்</item>
+        <item>நியாயம்</item>
+        <item>நல்லது</item>
+        <item>அட்டகாசம்</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <!-- Wi-Fi should go to sleep when the screen turns off. -->
+        <item>திரை ஆஃப் ஆகும்போது</item>
+        <!-- When plugged in, never go to sleep.  When on battery, go to sleep when screen turns off. -->
+        <item>பிளக் செய்திருக்கையில் ஒரு போதும் வெண்டாம்</item>
+        <!-- Never go to sleep. -->
+        <item>ஒருபோதுமில்லை</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>பயன்பாட்டு நேரம்</item>
+        <item>தாக்கல் செய்யும் எண்ணிக்கை</item>
+        <item>அப்ளிகேஷன் பெயர்</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ஒன்றுமில்லை</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_wps_methods">
+        <item>WPS-PIN</item>
+        <item>WPS-புஷ் பட்டன்</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>ஆஃப்</item>
+        <item>விழிப்புடன் இரு</item>
+        <item>அதிர்வு</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>ஒன்றுமில்லை</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP அல்லது CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>உள்ளக சாதன சேமிப்பகம்</item>
+        <item>நீக்க்க்கூடிய SD கார்டு</item>
+        <item>சிஸ்டம் அதுவாக முடிவு செய்யட்டும்</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>எப்போதும்</item>
+        <item>ஒருபோதுமில்லை</item>
+        <item>நிசப்த மோடில் மட்டும்</item>
+        <item>நிசப்த மோடில் இருக்கும்போது மட்டும்</item>
+    </string-array>
+    <string-array name="dualsim_summaries">
+        <item>சிம்1</item>
+        <item>சிம்2</item>
+    </string-array>
+    <string-array name="dualsim_entries">
+        <item>சிம்1</item>
+        <item>சிம்2</item>
+    </string-array>
+    <string-array name="profiles_entries">
+        <item>பொது</item>
+        <item>நிசப்தம்</item>
+        <item>அதிர்வு</item>
+        <item>வெளி</item>
+        <!-- add by liguxiang 10-31-11 for NEWMS00135255 begin -->
+        <!-- 
+        <item>Indoor</item>
+        -->
+        <!-- add by liguxiang 10-31-11 for NEWMS00135255 end -->
+    </string-array>
+    <string-array name="wifi_cellular_wlan">
+		<item>தன்னியக்க இணைப்பு</item>
+		<item>கைகளால் இணைக்கவும்</item>
+		<item>எப்போதும் கேட்கவும்</item>
+	</string-array>
+    <string-array name="dualsim_other_summaries">
+        <item> சிம்1</item>
+        <item> சிம்2</item>
+        <item>எப்போதும் கேட்கவும்</item>
+    </string-array>
+    <string-array name="dualsim_other_entries">
+        <item></item>
+        <item></item>
+        <item>எப்போதும் கேட்கவும்</item>
+    </string-array>
+    <string-array name="disable_forcing_stop">
+        <item>ஆண்ட்ராய்ட்</item>
+        <item>com.android.launcher</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 நிமிடங்கள்</item>
+        <item>5 நிமிடங்கள்</item>
+        <item>1 மணி</item>
+        <item>எப்போதுமில்லை</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>இப்போதிருந்து  இது 1 நிமிடத்திற்கும் குறைவாக அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து <xliff:g id="DAYS">%1$s</xliff:g>க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து  <xliff:g id="HOURS">%2$s</xliff:g>க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து<xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="HOURS">%2$s</xliff:g> க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து  <xliff:g id="MINUTES">%3$s</xliff:g>க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து<xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g> க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>மற்றும்<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>  க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+        <item>இப்போதிருந்து <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, மற்றும் <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>க்கு இது அமைக்கப்பட்டுள்ளது.</item>
+    </string-array>
+</resources>

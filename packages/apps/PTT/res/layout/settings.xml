@@ -1,0 +1,306 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <!-- android:background="@drawable/ptt_settings_item_bg" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_item_height"
+        android:layout_marginBottom="@dimen/settings_listitem_height_gap"
+        android:layout_marginTop="@dimen/settings_listitem_height_gap"
+        android:background="@drawable/ptt_settings_item_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ptt_setting_icon_pow" />
+
+        <TextView
+            android:id="@+id/settings_pow_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_pow_title"
+            android:textColor="@color/settings_title_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <TextView
+            android:id="@+id/settings_pow_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_pow_content"
+            android:textColor="@color/settings_content_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/settings_pow_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/ptt_setting_icon_pow_up" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- android:background="@drawable/ptt_settings_item_bg" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_item_height"
+        android:layout_marginBottom="@dimen/settings_listitem_height_gap"
+        android:layout_marginTop="@dimen/settings_listitem_height_gap"
+        android:background="@drawable/ptt_settings_item_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ptt_setting_icon_gbw" />
+
+        <TextView
+            android:id="@+id/settings_gbw_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_gbw_title"
+            android:textColor="@color/settings_title_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <TextView
+            android:id="@+id/settings_gbw_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_gbw_content"
+            android:textColor="@color/settings_content_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/settings_gbw_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/ptt_setting_icon_gbw_up" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- android:background="@drawable/ptt_settings_item_bg" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_item_height"
+        android:layout_marginBottom="@dimen/settings_listitem_height_gap"
+        android:layout_marginTop="@dimen/settings_listitem_height_gap"
+        android:background="@drawable/ptt_settings_item_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ptt_setting_icon_sq" />
+
+        <TextView
+            android:id="@+id/settings_sq_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_sq_title"
+            android:textColor="@color/settings_title_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <TextView
+            android:id="@+id/settings_sq_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_sq_content"
+            android:textColor="@color/settings_content_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/settings_sq_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/ptt_setting_icon_sq3" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- android:background="@drawable/ptt_settings_item_bg" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_item_height"
+        android:layout_marginBottom="@dimen/settings_listitem_height_gap"
+        android:layout_marginTop="@dimen/settings_listitem_height_gap"
+        android:background="@drawable/ptt_settings_item_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ptt_setting_icon_ctcss" />
+
+        <TextView
+            android:id="@+id/settings_ctdcss_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_ctdcss_title"
+            android:textColor="@color/settings_title_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <TextView
+            android:id="@+id/settings_ctdcss_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_ctdcss_content"
+            android:textColor="@color/settings_content_color"
+            android:textSize="@dimen/settings_textsize" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/settings_ctdcss_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/ptt_setting_icon_ctcss_up" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_item_height"
+        android:background="@drawable/ptt_settings_item_bg"
+        android:orientation="horizontal" >
+
+        <!-- android:background="@drawable/ptt_settings_item_bg" -->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/settings_listitem_height_gap"
+            android:layout_marginTop="@dimen/settings_listitem_height_gap"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ptt_setting_icon_tx" />
+
+            <TextView
+                android:id="@+id/settings_tx_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings_tx_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/settings_textsize_small" />
+
+            <!-- android:background="@drawable/ptt_input_bg" -->
+
+            <EditText
+                android:id="@+id/settings_tx_content"
+                android:layout_width="95dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ptt_input_bg"
+                android:digits="0123456789."
+                android:inputType="phone"
+                android:padding="5dp"
+                android:text="@string/settings_tx_content"
+                android:textColor="@color/white"
+                android:textCursorDrawable="@null"
+                android:textSize="@dimen/settings_textsize_small" />
+        </LinearLayout>
+
+        <!-- android:background="@drawable/ptt_settings_item_bg" -->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/settings_listitem_height_gap"
+            android:layout_marginTop="@dimen/settings_listitem_height_gap"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <!--
+             <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ptt_setting_icon_rx" />
+            -->
+
+            <TextView
+                android:id="@+id/settings_rx_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings_rx_title"
+                android:textColor="@color/settings_title_color"
+                android:textSize="@dimen/settings_textsize_small" />
+
+            <!-- android:background="@drawable/ptt_input_bg" -->
+
+            <EditText
+                android:id="@+id/settings_rx_content"
+                android:layout_width="95dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ptt_input_bg"
+                android:digits="0123456789."
+                android:inputType="phone"
+                android:padding="5dp"
+                android:text="@string/settings_rx_content"
+                android:textColor="@color/white"
+                android:textCursorDrawable="@null"
+                android:textSize="@dimen/settings_textsize_small" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/settings_save"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/ptt_save_button_bg"
+            android:gravity="center"
+            android:text="@string/settings_save"
+            android:textSize="@dimen/setting_button_textsize" />
+    </LinearLayout>
+
+</LinearLayout>
+

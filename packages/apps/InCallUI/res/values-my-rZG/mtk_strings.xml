@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Add for VoLTE conference Call  -->
+    <string name="volte_add_conference_member_title">ကြန္ဖရင့္စ္သို႔ ထပ္ထည့္ပါ</string>
+    <string name="add_member_msg">နံပါတ္ သို႔မဟုတ္ အမည္ကို ႐ိုက္ထည့္ပါ။</string>
+    <string name="card_title_incoming_conference">ကြန္ဖရင့္စ္ ဖိတ္ၾကားျခင္း</string>
+    <string name="addConferenceMemeberText">အဖြဲ႕ဝင္ကို ထပ္ထည့္ပါ</string>
+    <string name="add_conference_member_limit">တစ္ႀကိမ္တြင္ နံပါတ္တစ္ခုသာ ထည့္ႏိုင္သည္။</string>
+    <string name="conference_member_join"><xliff:g id="member_name">%s</xliff:g> သည္ ကြန္ဖရင့္စ္ကို ပူးေပါင္းခဲ့သည္။</string>
+    <string name="conference_member_leave"><xliff:g id="member_name">%s</xliff:g> သည္ ကြန္ဖရင့္စ္မွ ထြက္သြားၿပီ။</string>
+    <string name="conference_member_adding"><xliff:g id="member_name">%s</xliff:g> ကို ထပ္ထည့္ေနသည္…</string>
+    <string name="conference_member_add_fail"><xliff:g id="member_name">%s</xliff:g> ကို ထပ္ထည့္ရန္ မေအာင္ျမင္ပါ။</string>
+
+    <!-- Text for VoLTE conference "remove conference member" button -->
+    <string name="removeMember">ဖယ္ရွားပါ</string>
+
+    <!-- Text for VoLTE conference "status" indication -->
+    <string name="memberStatus">အေျခအေန</string>
+
+    <!-- Add for VoLTE SS Indication -->
+    <string name="volte_call_waiting_indication_text">အျခားဘက္တြင္ ေခၚဆိုမႈျပဳလုပ္ေနသည္၊ ေက်းဇူးျပဳ၍ ေစာင့္ပါ…</string>
+
+</resources>

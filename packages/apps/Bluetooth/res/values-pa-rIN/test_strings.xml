@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="hello">ਹੈਲੋ ਦੁਨੀਆ, ਜਾਂਚ ਕਿਰਿਆ</string>
+  <string name="app_name">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ</string>
+  <string name="insert_record">ਰਿਕਾਰਡ ਦਰਜ ਕਰੋ</string>
+  <string name="update_record">ਰਿਕਾਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+  <string name="ack_record">Ack ਰਿਕਾਰਡ</string>
+  <string name="deleteAll_record">ਸਾਰਾ ਰਿਕਾਰਡ ਮਿਟਾਓ</string>
+  <string name="ok_button">ਓਕੇ</string>
+  <string name="delete_record">ਰਿਕਾਰਡ ਮਿਟਾਓ</string>
+  <string name="start_server">TCP ਸਰਵਰ ਸ਼ੁਰੂ ਕਰੋ</string>
+  <string name="notify_server">TCP ਸਰਵਰ ਦੀ ਸੂਚਨਾ ਦਿਓ</string>
+</resources>

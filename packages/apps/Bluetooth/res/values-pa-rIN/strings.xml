@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="permlab_bluetoothShareManager">ਡਾਊਨਲੋਡ ਮੈਨੇਜਰ ਤੱਕ ਪਹੁੰਚ।</string>
+  <string name="permdesc_bluetoothShareManager">ਬਲੂਟੁੱਥਸ਼ੇਅਰ ਪ੍ਰਬੰਧਕ ਤੱਕ ਪਹੁੰਚ ਅਤੇ ਫਾਈਲਾਂ ਨੂੰ ਟ੍ਰਾਂਸਫਰ ਕਰਨ ਲਈ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ।</string>
+  <string name="bt_share_picker_label">ਬਲੂਟੁੱਥ</string>
+  <string name="unknown_device">ਅਗਿਆਤ ਡਿਵਾਈਸ</string>
+  <string name="unknownNumber">ਅਗਿਆਤ</string>
+  <string name="airplane_error_title">ਏਅਰਪਲੇਨ ਮੋਡ</string>
+  <string name="airplane_error_msg">ਤੁਸੀਂ ਬਲੂਟੁੱਥ ਨੂੰ ਏਅਰਪਲੇਨ ਮੋਡ ਵਿੱਚ ਪ੍ਰਯੋਗ ਨਹੀਂ ਕਰ ਸਕਦੇ।</string>
+  <string name="bt_enable_line2">ਕੀ ਹੁਣ ਬਲੂਟੁੱਥ ਚਾਲੂ ਕਰਨੀ ਹੈ?</string>
+  <string name="bt_enable_cancel">ਰੱਦ ਕਰੋ</string>
+  <string name="bt_enable_ok">ਚਾਲੂ ਕਰੋ</string>
+  <string name="incoming_file_confirm_title">ਫਾਈਲ ਟ੍ਰਾਂਸਫਰ</string>
+  <string name="incoming_file_confirm_content">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 ਤੁਹਾਨੂੰ <xliff:g id="file">%2$s</xliff:g> (<xliff:g id="size">%3$s</xliff:g>) ਭੇਜਣਾ ਚਾਹੁੰਦਾ ਹੈ। \n\n ਕੀ ਤੁਸੀਂ ਫਾਈਲ ਸਵੀਕਾਰ ਕਰਦੇ ਹੋ? </string>
+  <string name="incoming_file_confirm_cancel">ਅਸਵੀਕਾਰ ਕਰੋ</string>
+  <string name="incoming_file_confirm_ok">ਸਵੀਕਾਰ ਕਰੋ</string>
+  <string name="incoming_file_confirm_timeout_ok">ਓਕੇ</string>
+  <string name="incoming_file_confirm_timeout_content">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 ਤੋਂ ਇੱਕ ਇਨਕਮਿੰਗ ਫਾਈਲ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਵੇਲੇ ਸਮਾਂ ਸਮਾਪਤ ਹੋ ਗਿਆ ਸੀ</string>
+  <string name="incoming_file_confirm_Notification_title">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: ਇਨਕਮਿੰਗ ਫਾਈਲ</string>
+  <string name="incoming_file_confirm_Notification_caption">ਕੀ ਤੁਸੀਂ ਇਸ ਫਾਈਲ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+  <string name="incoming_file_toast_msg">ਦੂਜੀ ਡਿਵਾਈਸ ਤੋਂ ਇਨਕਮਿੰਗ ਕਾਲ। ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਫਾਈਲ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।</string>
+  <string name="notification_receiving">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: <xliff:g id="file">%1$s</xliff:g> ਪ੍ਰਾਪਤ ਹੋ ਰਹੀ ਹੈ</string>
+  <string name="notification_received">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: <xliff:g id="file">%1$s</xliff:g> ਪ੍ਰਾਪਤ</string>
+  <string name="notification_received_fail">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: ਫਾਈਲ <xliff:g id="file">%1$s</xliff:g> ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈ</string>
+  <string name="notification_sending">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: <xliff:g id="file">%1$s</xliff:g> ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ</string>
+  <string name="notification_sent">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: <xliff:g id="file">%1$s</xliff:g> ਭੇਜੀ ਗਈ</string>
+  <string name="notification_sent_complete">100% ਪੂਰਾ</string>
+  <string name="notification_sent_fail">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: ਫਾਈਲ <xliff:g id="file">%1$s</xliff:g> ਨਹੀਂ ਭੇਜੀ ਗਈ</string>
+  <string name="download_title">ਫਾਈਲ ਟ੍ਰਾਂਸਫਰ</string>
+  <string name="download_line1">ਤੋਂ: \u0022<xliff:g id="sender">%1$s</xliff:g>\u0022</string>
+  <string name="download_line2">ਫਾਈਲ: <xliff:g id="file">%1$s</xliff:g></string>
+  <string name="download_line3">ਫਾਈਲ ਦਾ ਅਕਾਰ: <xliff:g id="size">%1$s</xliff:g></string>
+  <string name="download_cancel">ਬੰਦ ਕਰੋ</string>
+  <string name="download_ok">ਛਿਪਾਓ</string>
+  <string name="download_fail_line1">ਫਾਈਲ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈ</string>
+  <string name="download_fail_line2">ਫਾਈਲ: <xliff:g id="file">%1$s</xliff:g></string>
+  <string name="download_fail_line3">ਕਾਰਨ: <xliff:g id="reason">%1$s</xliff:g></string>
+  <string name="download_fail_ok">ਓਕੇ</string>
+  <string name="download_succ_line5">ਫਾਈਲ ਪ੍ਰਾਪਤ</string>
+  <string name="download_succ_ok">ਖੋਲ੍ਹੋ</string>
+  <string name="upload_line1">ਨੂੰ: \u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022</string>
+  <string name="upload_line3">ਫਾਈਲ ਪ੍ਰਕਾਰ: <xliff:g id="type">%1$s</xliff:g> (<xliff:g id="size">%2$s</xliff:g>)</string>
+  <string name="upload_line5">\u2026 ਫਾਈਲ ਭੇਜ ਰਿਹਾ ਹੈ</string>
+  <string name="upload_succ_line5">ਫਾਈਲ ਭੇਜ ਦਿੱਤੀ ਗਈ</string>
+  <string name="upload_succ_ok">ਓਕੇ</string>
+  <string name="upload_fail_line1">ਫਾਈਲ \u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022 ਨੂੰ ਨਹੀਂ ਭੇਜੀ ਗਈ ਸੀ।</string>
+  <string name="upload_fail_line1_2">ਫਾਈਲ: <xliff:g id="file">%1$s</xliff:g></string>
+  <string name="upload_fail_ok">ਮੁਡ਼ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+  <string name="upload_fail_cancel">ਬੰਦ ਕਰੋ</string>
+  <string name="bt_error_btn_ok">ਓਕੇ</string>
+  <string name="unknown_file">ਅਗਿਆਤ ਫਾਈਲ</string>
+  <string name="unknown_file_desc">ਇਸ ਪ੍ਰਕਾਰ ਦੀ ਫਾਈਲ ਨੂੰ ਹੈਂਡਲ ਕਰਨ ਲਈ ਕੋਈ ਅਨੁਪ੍ਰਯੋਗ ਨਹੀਂ। \n</string>
+  <string name="not_exist_file">ਕੋਈ ਫਾਈਲ ਨਹੀਂ</string>
+  <string name="not_exist_file_desc">ਫਾਈਲ ਮੌਜੂਦ ਨਹੀਂ ਹੈ। \n</string>
+  <string name="enabling_progress_title">ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ\u2026</string>
+  <string name="enabling_progress_content">ਬਲੂਟੁੱਥ ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ\u2026</string>
+  <string name="bt_toast_1">ਫਾਈਲ ਪ੍ਰਾਪਤ ਕੀਤੀ ਜਾਏਗੀ। ਸੂਚਨਾਵਾਂ ਪੈਨਲ ਵਿੱਚ ਪ੍ਰਗਤੀ ਦੀ ਜਾਂਚ ਕਰੋ। </string>
+  <string name="bt_toast_2">ਫਾਈਲ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</string>
+  <string name="bt_toast_3">ਫਾਈਲ  ਨੂੰ  \u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 ਤੋਂ ਪ੍ਰਾਪਤ ਹੋਣ ਤੋਂ ਰੋਕੋ</string>
+  <string name="bt_toast_4">\u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022 ਨੂੰ ਫਾਈਲ ਭੇਜ ਰਿਹਾ ਹੈ</string>
+  <string name="bt_toast_5"><xliff:g id="number">%1$s</xliff:g> files to \u0022<xliff:g id="recipient">%2$s</xliff:g>\u0022 ਭੇਜ ਰਿਹਾ ਹੈ</string>
+  <string name="bt_toast_6">ਫਾਈਲ ਨੂੰ  \u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022 ਨੂੰ ਭੇਜਣ ਤੋਂ ਰੋਕੋ</string>
+  <string name="bt_sm_2_1" product="nosdcard">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 ਤੋਂ ਫਾਈਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ USB ਸਟੋਰੇਜ ਵਿੱਚ ਪੂਰਾ ਖਾਲੀ ਸਥਾਨ ਨਹੀਂ ਹੈ।</string>
+  <string name="bt_sm_2_1" product="default">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 ਤੋਂ ਫਾਈਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ SD ਕਾਰਡ ਵਿੱਚ ਪੂਰਾ ਖਾਲੀ ਸਥਾਨ ਨਹੀਂ ਹੈ।</string>
+  <string name="bt_sm_2_2">ਖਾਲੀ ਸਥਾਨ ਦੀ ਲੋੜ ਹੈ: <xliff:g id="size">%1$s</xliff:g></string>
+  <string name="ErrorTooManyRequests">ਬਹੁਤ ਜਿਆਦਾ ਬੇਨਤੀਆਂ ਦੀ ਪ੍ਰਕਿਰਿਆ ਹੋ ਰਹੀ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਮੁਡ਼ ਕੋਸ਼ਿਸ਼ ਕਰੋ। </string>
+  <string name="status_pending">ਫਾਈਲ ਟ੍ਰਾਂਸਫਰ ਅਜੇ ਸ਼ੁਰੂ ਨਹੀਂ ਹੋਇਆ। </string>
+  <string name="status_running">ਫਾਈਲ ਟ੍ਰਾਂਸਫਰ ਜਾਰੀ ਹੈ।</string>
+  <string name="status_success">ਫਾਈਲ ਟ੍ਰਾਂਸਫਰ ਸਫਲਤਾਪੂਰਵਕ ਹੋ ਗਿਆ।</string>
+  <string name="status_not_accept">ਸਮੱਗਰੀ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।</string>
+  <string name="status_forbidden">ਟੀਚਾ ਡਿਵਾਈਸ ਵੱਲੋਂ ਟ੍ਰਾਂਸਫਰ ਵਰਜਤ।</string>
+  <string name="status_canceled">ਟ੍ਰਾਂਸਫਰ ਉਪਯੋਗਕਰਤਾ ਵੱਲੋਂ ਰੱਦ ਹੋ ਗਿਆ।</string>
+  <string name="status_file_error">ਸਟੋਰੇਜ ਸਮੱਸਿਆ।</string>
+  <string name="status_no_sd_card" product="nosdcard">ਕੋਈ USB ਸਟੋਰੇਜ ਨਹੀਂ</string>
+  <string name="status_no_sd_card" product="default">ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ। ਟ੍ਰਾਂਸਫਰ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਇੱਕ SD ਕਾਰਡ ਦਰਜ ਕਰੋ। </string>
+  <string name="status_connection_error">ਕਨੈਕਸ਼ਨ ਅਸਫਲ।</string>
+  <string name="status_protocol_error">ਬੇਨਤੀ ਦੀ ਸਹੀ ਢੰਗ ਨਾਲ ਸੰਭਾਲ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ। </string>
+  <string name="status_unknown_error">ਅਗਿਆਤ ਅਸ਼ੁੱਧੀ</string>
+  <string name="btopp_live_folder">ਬਲੂਟੁੱਥ ਪ੍ਰਾਪਤ</string>
+  <string name="download_success"> <xliff:g id="file_size">%1$s</xliff:g> ਪੂਰਾ ਪ੍ਰਾਪਤ ਹੋ ਗਿਆ।</string>
+  <string name="upload_success"><xliff:g id="file_size">%1$s</xliff:g> ਪੂਰਾ ਭੇਜਿਆ ਗਿਆ।</string>
+  <string name="inbound_history_title">ਇਨਬਾਊਂਡ ਟ੍ਰਾਂਸਫਰਸ</string>
+  <string name="outbound_history_title">ਆਊਟਬਾਊਂਡ ਟ੍ਰਾਂਸਫਰਸ</string>
+  <string name="no_transfers">ਟ੍ਰਾਂਸਫਰ ਇਤਿਹਾਸ ਖਾਲੀ ਹੈ।</string>
+  <string name="transfer_clear_dlg_msg">ਸਾਰੀਆਂ ਆਈਟਮਾਂ ਸੂਚੀ ਵਿੱਚੋਂ ਮਿਟਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ।</string>
+  <string name="outbound_noti_title">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: ਫਾਈਲਾਂ ਭੇਜੀਆਂ ਗਈਆਂ</string>
+  <string name="inbound_noti_title">ਬਲੂਟੁੱਥ ਸ਼ੇਅਰ: ਪ੍ਰਾਪਤ ਫਾਈਲਾਂ</string>
+  <string name="noti_caption"> <xliff:g id="successful_number">%1$s</xliff:g> ਸਫਲ, <xliff:g id="unsuccessful_number">%2$s</xliff:g> ਅਸਫਲ।</string>
+  <string name="transfer_menu_clear_all">ਸੂਚੀ ਮਿਟਾਓ</string>
+  <string name="transfer_menu_open">ਖੋਲ੍ਹੋ</string>
+  <string name="transfer_menu_clear">ਸੂਚੀ ਵਿੱਚੋਂ ਮਿਟਾਓ</string>
+  <string name="transfer_clear_dlg_title">ਮਿਟਾਓ</string>
+    <string name="permlab_bluetoothWhitelist">"ਵਾਈਟਲਿਸਟ ਬਲੂਟੁੱਥ ਡਿਵਾਈਸ ਪਹੁੰਚ।"</string>
+     <string name="permdesc_bluetoothWhitelist">"ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਉਪਯੋਗਕਰਤਾ ਦੀ ਪੁਸ਼ਟੀ ਤੋਂ ਬਿਨਾਂ ਉਸ ਡਿਵਾਈਸ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਨੂੰ ਫਾਈਲਾਂ ਭੇਜਣ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦੇ ਹੋਏ, ਅਸਥਾਈ ਤੌਰ ਤੇ ਇੱਕ ਬਲੂਟੁੱਥ ਡਿਵਾਈਸ ਵਾਈਟਲਿਸਟ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ। "</string>
+     <string name="permlab_handoverStatus">"BT ਹੈਂਡਓਵਰ ਟ੍ਰਾਂਸਫਰ ਪ੍ਰਸਾਰਨ ਪ੍ਰਾਪਤ ਕਰੋ।"</string>
+     <string name="permdesc_handoverStatus">"ਬਲੂਟੁੱਥ ਤੋਂ ਹੈਂਡਓਵਰ ਟ੍ਰਾਂਸਫਰ ਸਥਿਤੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ।"</string>
+     <string name="bt_enable_line1">"ਬਲੂਟੁੱਥ ਸੇਵਾਵਾਂ ਦਾ ਪ੍ਰਯੋਗ ਕਰਨ ਲਈ, ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਬਲੂਟੁੱਥ ਚਾਲੂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"</string>
+     <string name="download_line5">"ਫਾਈਲ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹੈ\u2026"</string>
+     <string name="bt_sm_2_0">"ਸਟੋਰੇਜ ਤੇ \u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 ਤੋਂ ਫਾਈਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਕਾਫੀ ਖਾਲੀ ਸਥਾਨ ਨਹੀਂ ਹੈ।"</string>
+     <string name="bt_softap_cannot_coexist">"ਜਦੋਂ ਸੌਫਟੈਪ ਸਮਰੱਥ ਹੁੰਦੀ ਹੈ ਜਾਂ ਚਾਲੂ ਹੁੰਦੀ ਹੈ, ਤਾਂ ਬਲੂਟੁੱਥ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੀ, ਜੇਕਰ ਤੁਸੀਂ ਬਲੂਟੁੱਥ ਦਾ ਪ੍ਰਯੋਗ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਸੌਫਟੈਪ ਅਸਮਰੱਥ ਹੈ।"</string>
+</resources>

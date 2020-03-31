@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete_selected_calls">પસંદગીયુક્ત કોલ્સ તમે ભૂંસવા માગો છો?</string>
+    <string name="selected_deleted_ok">પસંદ થયેલ કોલ્સ ભૂંસાયા છે.</string>
+    <string name="all_select">તમામ પસંદ કરો</string>
+    <string name="all_select_cancel">રદ્દ કરવું</string>
+    <string name="delete_calls">કાઢી નાંખવું</string>
+    <string name="call_log_delete">કોલ લોગ ભૂંસો</string>
+    <string name="call_log_display_option">કોલ લોગ પ્રદર્શન વિકલ્પ</string>
+    <string name="recentCalls_diplayOptions">વિકલ્પો પ્રદર્શિત કરો</string>
+    <string name="recentCalls_delete">કાઢી નાંખવું</string>
+    <string name="callLogDisplayOptionsAll">તમામ</string>
+    <string name="callLogDisplayOptionsPhone">ફોનીક્સ</string>
+    <string name="callLogDisplayOptionsSIM1">SIM1</string>
+    <string name="callLogDisplayOptionsSIM2">SIM2</string>
+</resources>

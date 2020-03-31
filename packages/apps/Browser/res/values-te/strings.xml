@@ -1,0 +1,437 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name">బ్రౌసర్</string>
+    <string name="choose_upload">అప్ లోడ్ కోసం ఫైల్ ని ఎంచుకోండి</string>
+    <string name="new_tab">కొత్త విండో                        </string>
+    <string name="active_tabs">విండోస్</string>
+    <string name="tab_bookmarks">బుక్ మార్కులు</string>
+    <string name="tab_most_visited">అధికముగా సందర్శించినది     </string>
+    <string name="tab_history">హిస్టరి</string>
+    <string name="added_to_bookmarks">బుక్ మార్క్ లు చేర్చబడ్డాయి</string>
+    <string name="removed_from_bookmarks">బుక్ మార్క్లు నుండి తొలగించబడినవి</string>
+    <string name="sign_in_to">కు సైన్ ఇన్ చేయండి <xliff:g id="hostname">%s1</xliff:g> \"<xliff:g id="realm">%s2</xliff:g>\"</string>
+    <string name="username">పేరు</string>
+    <string name="password">పాస్ వర్డ్</string>
+    <string name="action">సైన్ ఇన్ చెయ్యి</string>
+    <string name="bookmarks_search">బ్రౌసర్</string>
+    <string name="memory_warn">నిల్వ స్థలాన్ని హెచ్చరిస్తుంది</string>
+    <string name="cancel">రద్దు</string>
+    <string name="ok">సరి</string>
+    <string name="type_no_support">సిస్టమ్ ఈ పద్ధతికి మద్దతు నివ్వదు</string>
+    <string name="type_message">సిస్టమ్ ఈ రకం ఫైల్ స్క్రీన్వలేదు, దిగుమతి డౌన్లోడ్ కొనసాగించడానికి లేదా రద్దు చేసుకోవడానికి ఎంపిక చేసుకోండి!</string>
+    <string name="content_size">కంటెంట్ సైజు: </string>
+    <plurals name="matches_found">
+        <!-- Case of no matches -->
+        <item quantity="zero">పోలికలు లేవు</item>
+        <!-- Case of one match -->
+        <item quantity="one">1 మ్యాచ్</item>
+        <!-- Case of "few" (two) match -->
+        <item quantity="few"><xliff:g id="number" example="2">%d</xliff:g> మ్యాచ్లు</item>
+        <!-- Case of several matches -->
+        <item quantity="other"><xliff:g id="number" example="137">%d</xliff:g> జతకుదిరినది</item>
+    </plurals>
+    <string name="title_bar_loading">లోడింగ్\u2026</string>
+    <string name="page_info">పాక్షిక వేక్ వాడుక</string>
+    <string name="page_info_view">పేజీకి సమాచారాన్ని చూడండి</string>
+    <string name="page_info_address">చిరునామా:</string>
+    <string name="ssl_warnings_header">ఈ సైట్ కోసం భద్రతా సర్టిఫికెట్ సమస్యలు ఉన్నాయి.</string>
+    <string name="ssl_continue">కొనసాగించు</string>
+    <string name="security_warning">భద్రత హెచ్చరిక</string>
+    <string name="view_certificate">సర్టిఫికెట్ చూడండి</string>
+    <string name="ssl_untrusted">ఈ సర్టిఫికేట్ ఒక విశ్వసనీయ అధికారం నుండి లేదు.</string>
+    <string name="ssl_mismatch">సైట్ యొక్క పేరు సర్టిఫికెట్ లో పేరు సరిపోలడం లేదు.</string>
+    <string name="ssl_expired">ఈ సర్టిఫికేట్ గడువు ముగిసిమ్ది.</string>
+    <string name="ssl_not_yet_valid">ఈ సర్టిఫికేట్ ఇంకా చెల్లుబాటులో లేదు.</string>
+    <string name="ssl_certificate">సెక్యూరిటీ సర్టిఫికెట్</string>
+    <string name="ssl_certificate_is_valid">ఈ సర్టిఫికేట్  చెల్లుబాటులో ఉంది.</string>
+    <string name="issued_to">కు జారీ చేయబడినది: </string>
+    <string name="common_name">సాధారణ పేరు:</string>
+    <string name="org_name">సంస్థ :</string>
+    <string name="org_unit">సంస్థ యూనిట్: </string>
+    <string name="issued_by">జారీ చేయబడినది: </string>
+    <string name="validity_period">చెల్లుబడి:</string>
+    <string name="issued_on">తేదీన జారీ చేయబడినది: </string>
+    <string name="expires_on">న కాల పరిమితి చెల్లినది :</string>
+    <string name="stopping">ఆపుతోంది\u2026 </string>
+    <string name="stop">ఆపు</string>
+    <string name="reload">రిఫ్రెష్</string>
+    <string name="back">వెనుకకు</string>
+    <string name="forward">పార్వార్డ్</string>
+    <string name="save">సరి</string>
+    <string name="do_not_save">రద్దు</string>
+    <string name="location">స్థానం</string>
+    <string name="name">పేరు</string>
+    <string name="http">http://</string>
+    <string name="save_to_bookmarks">బుక్ మార్క్ కలుపు</string>
+    <string name="edit_bookmark">బుక్‌మార్క్‌ను సవరించు</string>
+    <string name="create_shortcut_bookmark">హోమ్ షార్ట్ కట్ జోడించు</string>
+    <string name="open_bookmark">ఓపెన్</string>
+    <string name="remove_bookmark">బుక్ మార్క తొలగించు</string>
+    <string name="remove_from_bookmarks">బుక్మార్క్లుల  నుండి తొలగించు</string>
+    <string name="remove_history_item">చరిత్ర నుండి తొలగించు</string>
+    <string name="set_as_homepage">హెం పేజి గా సెట్ చేయండి</string>
+    <string name="bookmark_saved">బుక్ మార్క్లులు సేవ్ చెయ్యి.</string>
+    <string name="bookmark_not_saved">బుక్ మార్కు సేవ్ చేయడం సాధ్యం కాలేదు.</string>
+    <string name="homepage_set">పేజీ సెట్.</string>
+    <string name="bookmark_needs_title">"బుక్ మార్క్ ఒక పేరును కలిగి ఉండాలి."</string>
+    <string name="bookmark_needs_url">"బుక్ మార్క్ ఒక స్థానం కలిగి ఉండాలి."</string>
+    <string name="bookmark_url_not_valid">URL సరైనది కాదు.</string>
+    <string name="bookmark_cannot_save_url">ఈ URL బుక్ మార్క్ ఉండకూడదు.</string>
+    <string name="delete_bookmark">తొలగించాలా</string>
+    <string name="bookmark_page">బుక్ మార్కు అంటే చిట్ట చివరిగా చూసిన పేజి</string>
+    <string name="switch_to_thumbnails">కూర్పు వీక్షణ</string>
+    <string name="switch_to_list">జాబితా వీక్షణ</string>
+    <string name="current_page">కు\u0020</string>
+    <string name="delete_bookmark_warning">బుక్ మార్క్ \"<xliff:g id="bookmark">%s</xliff:g>\" తొలగించబడుతుంది.</string>
+    <string name="open_in_new_window">కొత్త విండో లో ఓపెన్ చేయండి   </string>
+    <string name="goto_dot">వెళ్ళు</string>
+    <string name="find_dot">పేజీలో కనుగొను</string>
+    <string name="select_dot">టెక్స్ట్ ఎంచుకోండి</string>
+    <string name="tab_picker_title">ప్రస్తుత విండోస్</string>
+    <string name="tab_picker_remove_tab">మూసివేయి</string>
+    <string name="bookmarks">బుక్ మార్కులు</string>
+    <string name="shortcut_bookmark">బుక్ మార్కులు</string>
+    <string name="history">హిస్టరి</string>
+    <string name="menu_view_download">డౌన్లోడ్లు</string>
+    <string name="copy_page_url">యూఆర్ ఎల్ పేజీ కాపీ చేయి</string>
+    <string name="share_page">పేజీని పంచుకో</string>
+    <string name="contextmenu_openlink">ఓపెన్</string>
+    <string name="contextmenu_openlink_newwindow">కొత్త విండో లో ఓపెన్ చేయండి   </string>
+    <string name="contextmenu_bookmark_thislink">బుక్ మార్కుల లింక్</string>
+    <string name="contextmenu_savelink">లింక్ సేవ్ చెయ్యి</string>
+    <string name="contextmenu_sharelink">లింక్ పంచుకో</string>
+    <string name="contextmenu_copy">కాపీ</string>
+    <string name="contextmenu_copylink">లింకు URL కాపీ చేయి</string>
+    <string name="contextmenu_download_image">సేవ్ చిత్రం</string>
+    <string name="contextmenu_view_image">చిత్రం చూడండి</string>
+    <string name="contextmenu_set_wallpaper">వాల్‌పేపర్ వలె సెట్ చేయి</string>
+    <string name="contextmenu_dial_dot">డైయల్\u2026</string>
+    <string name="contextmenu_add_contact">పరిచయాన్ని జోడించు</string>
+    <string name="contextmenu_send_mail">ఇమెయిల్ పంపండి</string>
+    <string name="contextmenu_map">పటం    </string>
+    <string name="choosertitle_sharevia">ద్వారా పంచుకో</string>
+    <string name="clear">క్లియర్</string>
+    <string name="replace">భర్తీ చేయాలా</string>
+    <string name="browser_bookmarks_page_bookmarks_text">బుక్ మార్కులు</string>
+    <string name="menu_preferences">సెట్టింగులు</string>
+    <string name="pref_content_title">పేజీ కంటెంట్ అమర్పులు           </string>
+    <string name="pref_content_load_images">చిత్రాలను లోడ్ చెయ్యి</string>
+    <string name="pref_content_load_images_summary">వెబ్ పేజీలలో బొమ్మలను చూపించు</string>
+    <string name="pref_content_block_popups">పాప్ అప్ విండోస్ నిరోధించు</string>
+    <string name="pref_content_javascript">జావాస్క్రిప్ట్ను ప్రారంభించు</string>
+    <string name="pref_content_open_in_background">బ్యాక్ గ్రౌండ్ ని ఓపెన్ చేయండి  </string>
+    <string name="pref_content_plugins">ప్లగ్ ఇన్స్ ఎనేబుల్</string>
+    <string-array name="pref_content_plugins_choices">
+        <item>ఎల్లప్పుడూ ఆన్‌లో ఉంచు</item>
+        <item>డిమాండ్ మీద  </item>
+        <item>ఆపు</item>
+    </string-array>
+    <string name="pref_content_open_in_background_summary">ప్రస్తుతం ఉన్న విండోకు వెనుకనున్న కొత్త విండోలను ఓపెన్ చేయండి </string>
+    <string name="pref_content_homepage">హోమ్ పేజీకి సెట్ చెయ్యి</string>
+    <string name="pref_content_search_engine">శోధన ఇంజిన్ సెట్</string>
+    <string name="pref_content_search_engine_summary">ఒక సెర్చ్ ఇంజన్ ఎంచుకోండి</string>
+    <string name="pref_use_current">ప్రస్తుత పేజీని ఉపయోగించండి</string>
+    <string name="pref_content_autofit">స్వీయ చాలకంగా సరిపోయే పేజీలు</string>
+    <string name="pref_content_autofit_summary">స్క్రీన్ సరిపోయే వెబ్ పేజీల ఫార్మాట్</string>
+    <string name="pref_content_landscape_only">లాండ్ స్కేప్ మాత్రమే కనపడు    </string>
+    <string name="pref_content_landscape_only_summary">విస్తృతమైన, ప్రకృతి దృశ్యం స్క్రీన్ విన్యాసంలో మాత్రమే పేజీలను ప్రదర్శించు</string>
+    <string name="pref_privacy_title">గోప్యతా సెట్టింగులు</string>
+    <string name="pref_privacy_clear_cache">క్లియర్ కేక్</string>
+    <string name="pref_privacy_clear_cache_summary">స్థానికంగా కాష్ కంటెంట్ మరియు డేటాబేస్లను క్లియర్ చెయ్యి</string>
+    <string name="pref_privacy_clear_cache_dlg">స్థానికంగా కాష్ కంటెంట్ మరియు డేటాబేస్లను తొలగించబడుతుంది.</string>
+    <string name="pref_privacy_clear_cookies">కుకీ డేటా అంతటినీ క్లియర్ చేయి</string>
+    <string name="pref_privacy_clear_cookies_summary">అన్ని బ్రౌజర్ కుక్కీలను క్లియర్ చేయి</string>
+    <string name="pref_privacy_clear_cookies_dlg">అన్ని కుకీలు తొలగించబడుతుంది.</string>
+    <string name="pref_privacy_clear_history">చరిత్రను క్లియర్ చెయ్యి</string>
+    <string name="pref_privacy_clear_history_summary">బ్రౌజర్ నేవిగేషన్ చరిత్రను క్లియర్ చేయి</string>
+    <string name="pref_privacy_clear_history_dlg">బ్రౌజర్ పేజీకి సంబంధించిన లింకుల చరిత్ర తొలగించబడుతుంది.</string>
+    <string name="pref_privacy_clear_form_data">ఫారమ్ డేటాను తొలగించు</string>
+    <string name="pref_privacy_clear_form_data_summary">సేవ్ చేసిన అన్ని రూపాల్లో ఉన్న డేటాను క్లియర్ చేయి</string>
+    <string name="pref_privacy_clear_form_data_dlg">సేవ్ చేసిన డేటా రూపం అంతా తొలగించబడుతుంది.</string>
+    <string name="pref_privacy_clear_passwords">పాస్వర్డ్లను క్లియర్ చేయి</string>
+    <string name="pref_privacy_clear_passwords_summary">అన్ని నిల్వ చేసిన పాస్వర్డ్ లను క్లియర్ చేయి</string>
+    <string name="pref_privacy_clear_passwords_dlg">నిల్వ చేసిన పాస్ వర్డ్ లన్నీ తొలగించబడతాయి.</string>
+    <string name="pref_privacy_enable_geolocation">స్థానం ప్రారంభించు</string>
+    <string name="pref_privacy_enable_geolocation_summary">మీ లొకేషన్ కి యాక్సెస్ ని అభ్యర్థించే సైట్లను అనుమతించు</string>
+    <string name="pref_privacy_clear_geolocation_access">క్లియర్ లొకేషన్ ని యాక్సెస్ చేయి</string>
+    <string name="pref_privacy_clear_geolocation_access_summary">అన్ని వెబ్ సైట్లను కోసం క్లియర్ లొకేషన్ ని యాక్సెస్ చేయి</string>
+    <string name="pref_privacy_clear_geolocation_access_dlg">అన్ని వెబ్ సైట్లను కోసం క్లియర్ లొకేషన్ ని యాక్సెస్ చేయి</string>
+    <string name="pref_security_title">భద్రతా అమర్పులు</string>
+    <string name="pref_security_remember_passwords">పాస్వర్డ్లను గుర్తుంచుకో</string>
+    <string name="pref_security_remember_passwords_summary">వెబ్సైట్ల కోసం యూజర్ పేర్లు మరియు పాస్వర్డ్లను సేవ్ చెయ్యి</string>
+    <string name="pref_security_save_form_data">ఫారమ్ డేటా గుర్తుంచుకో</string>
+    <string name="pref_security_save_form_data_summary">తరువాత ఉపయోగం కోసం నేను టైప్ చేసే డేటాని ఫారముల రూపంలో గుర్తుంచుకో</string>
+    <string name="pref_security_show_security_warning">భద్రతా హెచ్చరికలు చూపించు</string>
+    <string name="pref_security_show_security_warning_summary">ఒక సైట్ యొక్క భద్రతా సమస్య ఉంటే హెచ్చరిక చూపించు</string>
+    <string name="pref_security_accept_cookies">కుకీలను అంగీకరించు</string>
+    <string name="pref_security_accept_cookies_summary">సైట్లు \"కుకీ\" డేటా చదవడానికి మరియు  సేవ్ చేయడానికీ అనుమతించు</string>
+    <string name="pref_text_size">టెక్స్ట్ పరిమాణం</string>
+    <string-array name="pref_text_size_choices">
+        <item>మిక్కిలి చిన్న</item>
+        <item>చిన్న</item>
+        <item>సాధారణం</item>
+        <item>పెద్దది</item>
+        <item>భారీగా  </item>
+    </string-array>
+    <string name="pref_text_size_dialogtitle">టెక్స్ట్ పరిమాణం</string>
+    <string name="pref_text_format">టెక్స్ట్ ఫార్మాట్</string>
+    <string-array name="pref_text_format_choices">
+		<item>"సాన్స్-సెరీఫ్"</item>
+		<item>"మోనోస్పేస్"</item>
+		<item>"సెరీఫ్"</item>
+		<item>arial</item>
+		<item>helvetica</item>
+		<item>తహోమ</item>
+		<item>వెర్డానా </item>
+		<item>టైమ్స్ న్యూ రోమన్ </item>
+		<item>కొత్త కొరియర్ </item>
+		<item>పలతినో</item>
+	</string-array>
+    <string name="pref_default_zoom">డిఫాల్ట్ జూమ్</string>
+    <string-array name="pref_default_zoom_choices">
+        <item>దూరంగా </item>
+        <item>మీడియం</item>
+        <item>మూసివేయి</item>
+    </string-array>
+    <string name="pref_default_zoom_dialogtitle">డిఫాల్ట్ జూమ్</string>
+    <string name="pref_content_load_page">ఓపెన్ పేజీల పర్యావలోకనం</string>
+    <string name="pref_content_load_page_summary">నూతనంగా ఓపెన్ చేసిన పేజీల సారాంశం చూపించు</string>
+    <string name="pref_extras_title">అడ్వాన్స్ డ్ సెట్టింగులు</string>
+    <string name="pref_extras_website_settings">వెబ్ సైట్ సెట్టింగులు</string>
+    <string name="pref_extras_website_settings_summary">వ్యక్తిగత వెబ్ సైట్ల కోసం ఆధునిక సెట్టింగులు</string>
+    <string name="pref_extras_reset_default">డిఫాల్ట్ రీసెట్ చెయ్యి</string>
+    <string name="pref_extras_reset_default_summary">స్వయంచాలక అమర్పుల రీసెట్</string>
+    <string name="pref_extras_reset_default_dlg">సెట్టింగులు డిఫాల్ట్ విలువలకు తిరిగి వెళ్తాయి.</string>
+    <string name="pref_extras_reset_default_dlg_title">డిఫాల్ట్ రీసెట్ చెయ్యి</string>
+    <string name="pref_development_title">యంత్రంలో లోపాలను సవరించు</string>
+    <string name="pref_default_text_encoding">టెక్స్ట్ కోడింగ్ ఇవ్వబడింది</string>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>లాటిన్-1 (ISO-8859-1)        </item>
+        <item>యూనికోడ్ (UTF-8)</item>
+        <item>చైనీస్(GBK)</item>
+        <item>చైనీస్ (Big5)</item>
+        <item>జపనీస్ (ISO-2022-JP)</item>
+        <item>జపనీస్(SHIFT_JIS)</item>
+        <item>జపనీస్ (EUC-JP)</item>
+        <!-- TODO: We should add a lot more encodings.  -->
+        <item>జపనీస్ (EUC-JP)</item>
+    </string-array>
+    <string name="pref_default_text_encoding_dialogtitle">టెక్స్ట్ కోడింగ్ ఇవ్వబడింది</string>
+    <string name="browserFrameNetworkErrorLabel">డేటా కనెక్టివిటీ సమస్య</string>
+    <string name="browserFrameFileErrorLabel">ఫైలు తో సమస్య</string>
+    <string name="browserFrameFormResubmitLabel">నిర్థారించండి</string>
+    <string name="browserFrameFormResubmitMessage">మీరు ప్రయత్నిస్తున్న పేజీ ఇప్పటికే (\"పోస్ట్ డేటా\") సమర్పించబడింది ఆ డేటా ఉంది. మీరు డేటా మళ్లీ పంపు ఉంటే, పేజీలో ఏ చర్య రూపం (ఒక శోధన లేదా ఆన్లైన్ కొనుగోలు వంటి) నిర్వహించిన పునరావృతమవుతుంది.</string>
+    <string name="loadSuspendedTitle">నెట్ వర్క్ కనెక్షన్ లేదు </string>
+    <string name="loadSuspended">"ఏ ఇంటర్నెట్ కనెక్షన్ లేదు కాబట్టి ఎందుకంటే బ్రౌజర్ ఈ పేజీ లోడు కాదు."</string>
+    <string name="clear_history">చరిత్రను క్లియర్ చెయ్యి</string>
+    <string name="browser_history">ఇటీవల సందర్శించిన పేజీలు</string>
+    <string name="empty_history">బ్రౌజర్ చరిత్ర ఖాళీగా ఉంది.</string>
+    <string name="add_new_bookmark">బుక్ మార్క్ కలుపు...</string>
+    <string name="add_bookmark_short">కలుపు</string>
+    <string name="search_hint">శోధన లేదా రకం URL</string>
+    <string name="search_button_text">వెళ్ళు</string>
+    <string name="search_settings_description">బుక్ మార్క్స్ మరియు వెబ్ చరిత్ర</string>
+    <string name="attention">జాగ్రత్త</string>
+    <string name="popup_window_attempt">ఈ సైట్ ఒక స్క్రీన్వడానికి ప్రయత్నిస్తోంది పాప్ అప్ విండో. </string>
+    <string name="allow">అనుమతించు</string>
+    <string name="block">నిరోధించు</string>
+    <string name="too_many_windows_dialog_title">విండో పరిమితిని చేరుకున్నారు</string>
+    <string name="too_many_windows_dialog_message">మీరు ఇప్పటికే గరిష్ట సంఖ్యలో స్క్రీన్ిచారు, మరో క్రొత్త విండోలో స్క్రీన్వడం సాధ్యం కాలేదు.</string>
+    <string name="too_many_subwindows_dialog_title">Pop-up ఇప్పటికే తెరిచి</string>
+    <string name="too_many_subwindows_dialog_message">"ఒక సమయంలో ఒక విండోనే స్క్రీన్వడం కుదురుతుంది కనుక  కొత్త పాప్ అప్ విండోను స్క్రీన్వడానికి సాధ్యం కాలేదు."</string>
+    <string name="download_title">డౌన్లోడ్ చరిత్ర</string>
+    <string name="download_unknown_filename">&lt;తెలియని&gt;</string>
+    <string name="download_menu_open">ఓపెన్</string>
+    <string name="download_menu_clear">జాబితా నుండి  క్లియర్ చేయి</string>
+    <string name="download_menu_delete">తొలగించాలా</string>
+    <string name="download_menu_cancel">దిగుమతిని రద్దు చేయాలా</string>
+    <string name="download_menu_cancel_all">అన్ని డౌన్ లోడ్స్ ను రద్దు చేయండి</string>
+    <string name="download_cancel_dlg_title">డౌన్ లోడ్లు  రద్దు చెయ్యి</string>
+    <string name="download_cancel_dlg_msg">అన్ని <xliff:g id="download_count">%d</xliff:g>  డౌన్ లోడ్స్ రద్దు మరియు డౌన్ లోడ్ చరిత్ర నుండి క్లియర్ చేయబడుతుంది.</string>
+    <string name="download_delete_file">ఫైలు తొలగించబడుతుంది</string>
+    <string name="download_file_error_dlg_title">ఖాళీ లేకుండ </string>
+    <string name="download_file_error_dlg_msg"><xliff:g id="filename">%s</xliff:g> డౌన్లోడు చేయబడలేదు.\nమీ ఫోన్ లో కొంత చోటు ఖాళీ చేసి, తిరిగి ప్రయత్నించండి.</string>
+    <string name="download_failed_generic_dlg_title">డౌన్లోడ్ విజయవంతం కాలేదు</string>
+    <string name="download_no_sdcard_dlg_msg" product="nosdcard">USB నిల్వకి డౌన్ లోడ్ అవసరం <xliff:g id="filename">%s</xliff:g>.</string>
+    <string name="download_no_sdcard_dlg_msg" product="default"> డౌన్లోడు చేయడానికి ఒక SD కార్డు అవసరమవుతుంది<xliff:g id="filename">%s</xliff:g>.</string>
+    <string name="download_sdcard_busy_dlg_msg" product="nosdcard">USB నిల్వ బిజీగా ఉంది. డౌన్ అనుమతించటానికి ఎంపిక చేసుకోండి\"USB నిల్వ ఆపి వెయ్యండి\" నోటిఫికేషన్ లో. </string>
+    <string name="download_sdcard_busy_dlg_msg" product="default">SD కార్డు బిజీగా ఉంది. డౌన్లోడు అనుమతించటానికి, ఎంపిక చేసుకోండి\"USB నిల్వ ఆఫ్ చెయ్యండి\" ఈ నోటిఫికేషన్ లో.</string>
+    <string name="download_no_application_title">ఫైలు స్క్రీన్వబడదు</string>
+    <string name="retry">మళ్లీ ప్రయత్నించు</string>
+    <string name="no_downloads">డౌన్ లోడ్ చరిత్ర ఖాళీగా ఉంది.</string>
+    <string name="download_error">డౌన్లోడ్ విజయవంతం కాలేదు</string>
+    <string name="download_success"><xliff:g id="file">%s</xliff:g> పూర్తి డౌన్ లోడ్.</string>
+    <string name="download_running">దిగుమతి చేస్తోంది\u2026</string>
+    <string name="download_pending">డౌన్లోడ్ ప్రారంభించేటప్పుడు\u2026 </string>
+    <string name="download_pending_network">డేటా కనెక్షన్ కోసం వేచి ఉంది\u2026</string>
+    <string name="download_running_paused">డేటా కనెక్షన్ కోసం వేచి ఉంది\u2026</string>
+    <string name="download_canceled">డౌన్లోడ్ రద్దు చేయబడింది.</string>
+    <string name="download_not_acceptable">డౌన్ లోడ్ సాధ్యం కాదు. కంటెంట్ ఈ ఫోన్ కి మద్దతు లేదు.</string>
+    <string name="download_file_error">డౌన్ లోడ్ పూర్తి సాధ్యం కాదు. మూల డైరెక్టరీ సృష్టించలేరు.</string>
+    <string name="download_length_required">డౌన్ లోడ్ సాధ్యం కాదు. అంశం యొక్క పరిమాణం నిర్ణయించబడడం సాధ్యం కాదు.</string>
+    <string name="download_precondition_failed">డౌన్లోడ్ కి అంతరాయం కలిగింది. దీని పునరుద్ధరణ సాధ్యం కాదు.</string>
+    <string name="search_the_web">వెబ్ శోధించు</string>
+    <string name="webstorage_outofspace_notification_title">బ్రౌజర్ నిల్వ పూర్తి </string>
+    <string name="webstorage_outofspace_notification_text">ఖాళీని క్లిక్ చెయ్యి.</string>
+    <string name="webstorage_clear_data_title">నిల్వ డేటాను క్లియర్ చేయి</string>
+    <string name="webstorage_clear_data_dialog_title">నిల్వ డేటాను క్లియర్ చేయి</string>
+    <string name="webstorage_clear_data_dialog_message">దీనిని వెబ్ సైట్ ద్వారా నిల్వ చేయబడిన మొత్తం డేటా తొలగించబడుతుంది</string>
+    <string name="webstorage_clear_data_dialog_ok_button">అన్ని క్లియర్ చేయి</string>
+    <string name="webstorage_clear_data_dialog_cancel_button">రద్దు</string>
+    <string name="webstorage_origin_summary_mb_stored">మీ ఫోన్ లో మెగా బైట్స్ ని నిల్వ చేయండి </string>
+    <string name="loading_video">వీడియో లోడ్ అవుతోంది </string>
+    <string name="geolocation_permissions_prompt_message"><xliff:g id="website origin" example="maps.google.com">%s</xliff:g> మీ స్థానాన్ని తెలుసు కోరుకుంటున్నారు</string>
+    <string name="geolocation_permissions_prompt_share">స్థానం పంచుకో</string>
+    <string name="geolocation_permissions_prompt_dont_share">క్షీణించడం</string>
+    <string name="geolocation_permissions_prompt_remember">ప్రాధాన్యతను గుర్తుంచుకో</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">ఈ సైటు మీ స్థానం యాక్సెస్ చేయలేరు. సెట్టింగులలో దీన్ని మార్చండి -&gt; వెబ్సైట్ సెట్టింగులు</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">ఈ సైటు మీ స్థానం యాక్సెస్ చేయలేరు. సెట్టింగులు దీన్ని మార్చండి -&gt; వెబ్సైట్ సెట్టింగులు</string>
+    <string name="geolocation_settings_page_title">క్లియర్ లొకేషన్ ని యాక్సెస్ చేయి</string>
+    <string name="geolocation_settings_page_summary_allowed">ఈ సైటు ప్రస్తుతం మీ స్థానం యాక్సెస్ చేయవచ్చు</string>
+    <string name="geolocation_settings_page_summary_not_allowed">ఈ సైటు ప్రస్తుతం మీ స్థానం యాక్సెస్ చేయలేరు</string>
+    <string name="geolocation_settings_page_dialog_title">క్లియర్ లొకేషన్ ని యాక్సెస్ చేయి</string>
+    <string name="geolocation_settings_page_dialog_message">ఈ వెబ్సైట్ కోసం యాక్సెస్ క్లియర్ చేయబడుతుంది</string>
+    <string name="geolocation_settings_page_dialog_ok_button">క్లియర్ యాక్సెస్</string>
+    <string name="geolocation_settings_page_dialog_cancel_button">రద్దు</string>
+    <string name="website_settings_clear_all">అన్ని క్లియర్ చేయి</string>
+    <string name="website_settings_clear_all_dialog_title">అన్ని వెబ్ సైట్ సెట్టింగులనూ క్లియర్ చేయాలా?</string>
+    <string name="website_settings_clear_all_dialog_message">వెబ్ సైట్ డేటా అంతా, మరియు లొకేషన్ అనుమతులు తొలగించబడతాయి.</string>
+    <string name="website_settings_clear_all_dialog_ok_button">మొత్తం డేటాను తొలగించు</string>
+    <string name="website_settings_clear_all_dialog_cancel_button">రద్దు</string>
+    <string name="progress_dialog_setting_wallpaper">వాల్ పేపర్ సెట్ చేస్తోంది...</string>
+    <string name="goto_homepage">హోమ్ పేజీకి  వెళ్ళండి</string>
+    <string name="menu_view_full_screen">పూర్తి స్క్రీన్ స్విచర్</string>
+    <string name="add_new_catalog">కొత్త కేటలాగ్</string>
+    <string name="edit_bookmarks_catalog">కేటలాగ్ సవరించు</string>
+    <string name="delete_bookmarks_catalog">కేటలాగ్ తొలగించు</string>
+    <string name="move_bookmark">బుక్ మార్క్ తరలించు</string>
+    <string name="move_bookmark_dialog_title">కు బుక్ మార్క్ తరలించు ...</string>
+    <string name="catalog">కాటలాగ్</string>
+    <string name="override_bookmark">ఓవర్ ఒక అదే బుక్మార్క్ వ్రాయడానికి?</string>
+    <string name="failed_edit_bookmark">వేరే ఒక ఉపయోగించే పేరు లేదా స్థానాన్ని.దయచేసి తో ఒక బుక్మార్క్ ఉంది</string>
+    <string name="failed_edit_bookmark_catalog">పేరు తో ఒక కేటలాగ్ ఉంది. వేరే ఒక ఉపయోగించండి</string>
+    <string name="failed_edit_bookmark_title">ఆపరేషన్ విఫలమైంది</string>
+    <string name="delete_bookmark_warning2">"ఈ బుక్మార్క్ తొలగించాలేమో నిర్ధారించండి?"</string>
+    <string name="clear_today_history">నేటి చరిత్రను క్లియర్ చెయ్యి</string>
+    <string name="pref_search_engine_settings">శోధన ఇంజిన్ అమరిక</string>
+    <string-array name="pref_search_engine_choices">
+      <item>139 సెర్చ్</item>
+      <item>Baidu అన్వేషణ</item>
+    </string-array>
+    <string name="pref_extras_saveasto_settings">స్థానాన్ని సేవ్</string>
+    <string name="menu_path_save">పాత్ సేవ్</string>
+    <string name="new_file">కొత్త ఫోల్డర్ సృష్టించండి</string>
+    <string name="title_new">ఫోల్డర్ సృష్టించండి</string>
+    <string name="download_interupter_error">అందుబాటులో లేదు నెట్వర్క్</string>
+    <string name="download_interupter_error_no_network">అందుబాటులో లేదు నెట్వర్క్ ఇతర నెట్వర్క్ కి మార్చడం</string>
+    <string name="radio_controls_title">2G/3G నెట్ వర్క్ సెట్టింగులు</string>
+    <string name="pick_wifi_message">WLAN అందుబాటులో ఉంది, యాక్సెస్ పాయింట్లు కనెక్ట్ అవుతారా ?</string>
+    <string name="ok_filename">సేవ్</string>
+    <string name="browser">బ్రౌజర్</string>
+    <string name="selected_download_path">పాత్ డౌన్ లోడ్</string>
+    <string name="save_page">పేజీ సేవ్</string>
+    <string name="lookoffline_page">ఆఫ్లైన్ పేజీ చూడండి</string>
+    <string name="save_error_info">వెబ్ పేజీ సేవ్ విఫలమైంది!</string>
+    <string name="save_pending">సేవింగ్  ప్రారంభిస్తోంది\u2026</string>
+    <string name="nomore_free_space">SD కార్డు లో తగినంత ఖాళీ స్థలం లేదు\nమీ ఫోన్లో కొంత ప్రదేశాన్ని ఖాళీ చేసి మళ్ళీ ప్రయత్నించండి.</string>
+    <string name="save_finish"> వెబ్ పేజీని భద్రపరచడం పూర్తి అయింది!</string>
+    <string name="save_page_local">ఈ పేజీకి ఫోన్ లో పైగా ఉంది.</string>
+    <string name="save_page_info">సమాచారం</string>
+    <string name="oma_download_error">OMA డౌన్ లోడ్ లోపం</string>
+    <string name="oma_download_descriptor">ఓ ఎం ఏ డౌన్ లోడ్ వివరములు </string>
+    <string name="free_space">మెమరీ సరిపోవడం లేదు! ఉనికిలో వున్న ఫైల్స్ ను తొలగించమంటారా?</string>
+    <string name="file_toolong">టార్గెట్ చేయబడిన ఫైలు  చాలా పెద్దగా ఉంది, సర్వర్ ప్రాసెసింగ్ యొక్క పరిమాణం అధిగమించింది.</string>
+    <string name="download">డౌన్ లోడ్</string>
+    <string name="download_fail">డౌన్ లోడ్ విఫలం.</string>
+    <string name="oma_audio_title">ఆడియో</string>
+    <string name="oma_image_title">బొమ్మ</string>
+    <string name="menu_view_oma_download">ఓ ఎం ఏ డౌన్ లోడ్</string>
+    <string name="oma_download_title">ఓ ఎం ఏ డౌన్ లోడ్ చరిత్ర </string>
+    <string name="no_oma_downloads">ఓ ఎం ఏ డౌన్ లోడ్ చరిత్ర ఖాళీగా వుంది.</string>
+    <string name="oma_dd_description_size_zero">వివరణ చెల్లదు.</string>
+    <string name="oma_dd_description_error">వివరణ చెల్లదు</string>
+    <string name="oma_download_file_not_found">ఫైలు కనిపించడం లేదు</string>
+    <string name="oma_download_success">900 విజయం</string>
+    <string name="oma_download_Insufficient_memory">901చాలని జ్ఞాపకశక్తి</string>
+    <string name="oma_download_File_toobig">413 ఫైలు టూబిగ్</string>
+    <string name="oma_download_user_cancelled">902 యూజర్ రద్దు అయ్యింది</string>
+    <string name="oma_download_loss_service">903 సేవా నష్టం</string>
+    <string name="oma_download_attribute_mismatch">905 లక్షణం అసమతుల్యత</string>
+    <string name="oma_download_invalid_descripter">906 ఎందుకు చెల్లదో వివరణ</string>
+    <string name="oma_download_invalid_ddversion">951 చెల్లని DD వెర్షన్</string>
+    <string name="oma_download_device_aborted">952 పరికరం ఆపివేయబడింది </string>
+    <string name="oma_download_non_acceptablecontent">అంగీకరించబడని అంశం </string>
+    <string name="oma_download_default_error">954 లోడరు లోపం</string>
+    <string name="oma_name">పేరు:</string>
+    <string name="oma_type">రకం:</string>
+    <string name="oma_size">సైజు:</string>
+    <string name="oma_vendor">అమ్మకందారుడు:</string>
+    <string name="select_open_download">ఓపెన్ లేదా డౌన్లోడ్ ఎంచుకోండి </string>
+    <string name="open_download">ఫైళ్ళ ఈ పద్ధతి openen చేయవచ్చు, స్క్రీన్వడానికి ఎంచుకోండి లేదా డౌన్లోడ్</string>
+    <string name="mopen">ఓపెన్</string>
+    <string name="mdownload">డౌన్ లోడ్</string>
+    <string name="oma_description">వివరణ:</string>
+    <string name="oma_drm_view_not_exist">DRM అభిప్రాయాలను ఉనికిలో లేదు!</string>
+    <string name="apn_setting">ఎపిఎన్ నేపథ్యం</string>
+    <string-array name="apn_setting_items" translatable="false">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
+    <string name="mobile_data_connect_disable">వేరుచేయుట</string>
+    <string name="wifi_aps_unavailable_message">WLAN నెట్ వర్క్  కు ఏవిధమైన  యాక్సెస్ పాయింట్లు లేవు. 3G ద్వారా కనెక్ట్ అవుతారా? మీరు డేటా ప్రణాళికతో కూడిన నెట్ ని మీరు చేసినట్లైతే మీపై అదనపు చార్జీలు పడతాయి.</string>
+    <string name="wifi_aps_unavailable_check">అడగవద్దు</string>
+    <string name="download_file_path">ఫైలు డౌన్ లోడ్ చేసింది:</string>
+    <string name="remove_bookmark_catalog_msg">"ఈ కేటలాగ్ తొలగించండి నిర్ధారించండి?"</string>
+    <string name="saved_pages">నా అభిమాన</string>
+    <string name="memory_full">స్టోరేజి ప్రదేశం నిండినది</string>
+    <string name="exit_dot">బయటకు మార్గము</string>
+    <string name="pref_content_open_sensor">బ్యాక్ గ్రౌండ్ నందు తెరువుము</string>
+    <string name="pref_content_open_sensor_summary">ముందు/వెనుకను గుర్తించుటకు సెన్సారును సపోర్ట్ చేయుము</string>
+    <string name="pref_text_format_dialogtitle">టెక్స్ట్ ఫార్మాట్</string>
+    <string name="download_no_sdcard_dlg_title" product="nosdcard">USB స్టోరేజి అందుబాటులో లేదు</string>
+    <string name="download_no_sdcard_dlg_title" product="default">ఏ SD కార్డు లేదు</string>
+    <string name="download_sdcard_busy_dlg_title" product="nosdcard">USB స్టోరేజి అందుబాటులో లేదు</string>
+    <string name="download_sdcard_busy_dlg_title" product="default">SD కార్డ్ అందుబాటులో లేదు</string>
+    <string name="exit">బయటకు మార్గము</string>
+    <string name="default_catalog_name">నా ఫేవరైట్లు</string>
+    <string name="menu_new_file">ఫోల్డరును సృష్టించుము</string>
+    <string name="menu_path_cancel">రద్దు చెయ్యి</string>
+    <string name="title_rename">రీనేమ్ చేయుము</string>
+    <string name="button_ok">సరి</string>
+    <string name="button_cancel">రద్దు చెయ్యి</string>
+    <string name="pref_network_title">నెట్వర్క్ సెట్టింగులు</string>
+    <string name="pick_wifi_title">నోటీసు</string>
+    <string name="pick_wifi_yes">అవును</string>
+    <string name="pick_wifi_no">కాదు</string>
+    <string name="download_path">డౌన్లోడ్ పాథ్</string>
+    <string name="cancel_download">రద్దు చెయ్యి</string>
+    <string name="sdcard">SD కార్డ్</string>
+    <string name="internal_storage">ఇంటర్నల్ స్టోరేజి</string>
+    <string name="save_page_error">ఎర్రర్</string>
+    <string name="mobile_data_connect_enable">కనెక్ట్</string>
+    <string name="wifi_aps_unavailable_title">నోటీసు</string>
+    <string name="delete_offline_page">తొలగించు</string>
+    <string name="home_view_title">నేవిగేషన్</string>
+    <string name="edit_favorite">ఫేవరైటును ఎడిట్ చేయుము</string>
+    <string name="add_favorite">ఫేవరైటును చేర్చుట</string>
+    <string name="favorite_saved">ఫేవరైట్ లలోనికి సేవ్ చేయుము.</string>
+    <string name="favorite_not_saved">ఫేవరైట్ సేవ్ చేయబడుటలేదు.</string>
+    <string name="favorite_needs_title">"ఫేవరైట్ నకు ఒక పేరు ఉండవలెను."</string>
+    <string name="favorite_needs_url">"ఫేవరైట్ నకు ఒక ప్రదేశం ఉండవలెను."</string>
+    <string name="favorite_cannot_save_url">ఈ URL ఫేవరైట్ వలె కాలేదు.</string>
+    <string name="download_exist">డౌన్లోడ్ జాబితా నందు ఈ డౌన్లోడ్ ఉన్నది, అయినా కొత్త డౌన్లోడ్ ప్రారంభించవలెనా?</string>
+    <string name="open">తెరవండి</string>
+    <string name="edit">ఎడిట్</string>
+    <string name="delete">తొలగించు</string>
+    <string-array name="default_bookmarks_favorite">
+        <item></item>
+        <item>store.png</item>
+        <item></item>
+        <item>reader.png</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

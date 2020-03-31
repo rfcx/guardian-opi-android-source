@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2008 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="exchange_name">Корпоративтік</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="meeting_accepted">Қабылданды: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_declined">Қабылданбады: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_tentative">Белгісіз: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_canceled">Болдырылмады: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_updated">Жаңартылды: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_when">Қашан: <xliff:g id="when">%s</xliff:g></string>
+    <string name="meeting_where">Қайда: <xliff:g id="where">%s</xliff:g></string>
+    <string name="meeting_recurring">Қашан: <xliff:g id="eventdate" example="Tue,Mar10,2010at2:30pm">%s</xliff:g> (қайталанатын)</string>
+    <string name="meeting_allday">Қашан: <xliff:g id="eventdate" example="Tue,Mar10,2010">%s</xliff:g> (күні бойы)</string>
+    <string name="meeting_allday_recurring">Қашан: <xliff:g id="eventdate" example="Tue,Mar10,2010">%s</xliff:g> (күні бойы, қайталанатын)</string>
+    <string name="notification_exchange_calendar_added">Exchange күнтізбесі қосылды</string>
+    <string name="app_name">Exchange қызметтері</string>
+    <string name="exception_cancel">Бұл оқиға болдырылмады: <xliff:g id="date">%s</xliff:g></string>
+    <string name="exception_updated">Бұл оқиғаның мәліметтері өзгертілді: <xliff:g id="date">%s</xliff:g></string>
+    <string name="policy_dont_allow_storage_cards">Жад карталарына рұқсат етпеу</string>
+    <string name="policy_dont_allow_unsigned_apps">Қол қойылмаған қолданбаларға рұқсат етпеу </string>
+    <string name="policy_dont_allow_unsigned_installers">Қол қойылмаған қолданба орнатушыларына рұқсат етпеу</string>
+    <string name="policy_dont_allow_wifi">Wi-Fi функциясына рұқсат етпеу</string>
+    <string name="policy_dont_allow_text_messaging">Мәтіндік хабар алмасуға рұқсат етпеу</string>
+    <string name="policy_dont_allow_pop_imap">POP3 немесе IMAP тіркелгілеріне рұқсат етпеу</string>
+    <string name="policy_dont_allow_irda">Инфрақызыл байланыстарға рұқсат етпеу</string>
+    <string name="policy_dont_allow_html">HTML хаттарына рұқсат етпеу</string>
+    <string name="policy_dont_allow_browser">Браузерлерге рұқсат етпеу</string>
+    <string name="policy_dont_allow_consumer_email">Пайдаланушы поштасына рұқсат етпеу</string>
+    <string name="policy_dont_allow_internet_sharing">Интернетті ортақ пайдалануға рұқсат етпеу</string>
+    <string name="policy_require_smime">SMIME пішіміндегі хабарларды сұрау</string>
+    <string name="policy_bluetooth_restricted">Bluetooth қолданысын шектеу</string>
+    <string name="policy_app_blacklist">Көрсетілген қолданбаларға рұқсат етпеу</string>
+    <string name="policy_app_whitelist">Тек көрсетілген қолданбаларға рұқсат ету</string>
+    <string name="policy_text_truncation">Мәтіндік хаттар өлшемін шектеу</string>
+    <string name="policy_html_truncation">HTML пішіміндегі хаттар өлшемін шектеу</string>
+    <string name="policy_require_sd_encryption">SD картасын шифрлауды сұрау</string>
+    <string name="policy_dont_allow_attachments">Тіркемелерге рұқсат етпеу</string>
+    <string name="policy_max_attachment_size">Тіркеме өлшемін шектеу</string>
+    <string name="policy_require_manual_sync_roaming">Роуминг кезінде тек қолмен синхрондауға рұқсат ету</string>
+    <string name="policy_require_encryption">Құрылғыны шифрлауды сұрау</string>
+    <string name="account_setup_options_mail_window_auto">Автоматты</string>
+    <string name="account_setup_options_mail_window_1day">Бір күн</string>
+    <string name="account_setup_options_mail_window_3days">Үш күн</string>
+    <string name="account_setup_options_mail_window_1week">Бір апта</string>
+    <string name="account_setup_options_mail_window_2weeks">Екі апта</string>
+    <string name="account_setup_options_mail_window_1month">Бір ай</string>
+    <string name="account_setup_options_mail_window_all">Барлығы</string>
+    <string name="auth_error_notification_title">Түпнұсқалығын тексеру қатесі </string>
+    <string name="auth_error_notification_text"> <xliff:g id="account">%s</xliff:g> арналған тіркелгі параметрлерін өңдеу үшін түртіңіз</string>
+</resources>

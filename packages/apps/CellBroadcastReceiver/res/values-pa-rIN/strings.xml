@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"ਸੈਲ ਪ੍ਰਸਾਰਨ"</string>
+<string name="sms_cb_settings">"ਸੈਲ ਪ੍ਰਸਾਰਨ ਸੈਟਿੰਗਸ"</string>
+<string name="button_dismiss">"OK"</string>
+<string name="no_cell_broadcasts">"ਤੁਹਾਡੇ ਖੇਤਰ ਵਿੱਚ ਕੋਈ ਸਕ੍ਰਿਏ ਚੇਤਾਵਨੀਆਂ ਨਹੀਂ ਹਨ। ਤੁਸੀਂ ਸੈਟਿੰਗਸ ਮੈਨਯੂ ਵਿਕਲਪ ਦਾ ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਚੇਤਾਵਨੀ ਸੈਟਿੰਗਸ ਬਦਲ ਸਕਦੇ ਹੋ।"</string>
+<string name="menu_preferences">"ਸੈਟਿੰਗਸ"</string>
+<string name="menu_delete_all">"ਪ੍ਰਸਾਰਨ ਮਿਟਾਓ"</string>
+<string name="message_options">"ਸੰਦੇਸ਼ ਵਿਕਲਪ"</string>
+<string name="menu_view_details">"ਵੇਰਵੇ ਦੇਖੋ"</string>
+<string name="menu_delete">"ਪ੍ਰਸਾਰਨ ਮਿਟਾਓ"</string>
+<string name="view_details_title">"ਚੇਤਾਵਨੀ ਵੇਰਵੇ"</string>
+<string name="confirm_delete_broadcast">"ਕੀ ਇਹ ਪ੍ਰਸਾਰਨ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+<string name="confirm_delete_all_broadcasts">"ਕੀ ਸਾਰੇ ਪ੍ਰਾਪਤ ਕੀਤੇ ਪ੍ਰਸਾਰਨ ਸੁਨੇਹੇ ਮਿਟਾਉਣੇ ਹਨ?"</string>
+<string name="button_delete">"ਮਿਟਾਓ"</string>
+<string name="button_cancel">"ਰੱਦ ਕਰੋ"</string>
+<string name="etws_earthquake_warning">"ਭੂਚਾਲ ਚੇਤਾਵਨੀ"</string>
+<string name="etws_tsunami_warning">"Tsunami ਚੇਤਾਵਨੀ"</string>
+<string name="etws_earthquake_and_tsunami_warning">"ਭੂਚਾਲ tsunami ਚੇਤਾਵਨੀ"</string>
+<string name="etws_test_message">"ETWS ਜਾਂਚ ਸੁਨੇਹਾ"</string>
+<string name="etws_other_emergency_type">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ"</string>
+<string name="cmas_presidential_level_alert">"ਪ੍ਰੈਜੀਡੈਂਸ਼ੀਅਲ ਚੇਤਾਵਨੀ"</string>
+<string name="cmas_extreme_alert">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ: ਅੰਤਿਮ"</string>
+<string name="cmas_severe_alert">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ: ਗੰਭੀਰ"</string>
+<string name="cmas_amber_alert">"ਬਾਲ ਅਗਵਾ (ਐਂਬਰ ਚੇਤਾਵਨੀ)"</string>
+<string name="cmas_required_monthly_test">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ ਮਾਸਿਕ ਜਾਂਚ"</string>
+<string name="cmas_exercise_alert">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ (ਅਭਿਆਸ)"</string>
+<string name="cmas_operator_defined_alert">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ (ਆਪਰੇਟਰ)"</string>
+<string name="pws_other_message_identifiers">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ"</string>
+<string name="cb_other_message_identifiers">"ਸੈਲ ਪ੍ਰਸਾਰਨ"</string>
+<string name="emergency_alert_settings_title">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ ਸੈਟਿੰਗਸ"</string>
+<string name="enable_emergency_alerts_title">"ਸੂਚਨਾਵਾਂ ਚਾਲੂ ਕਰੋ"</string>
+<string name="enable_emergency_alerts_summary">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ ਪ੍ਰਸਾਰਨ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"</string>
+<string name="alert_sound_duration_title">"ਚੇਤਾਵਨੀ ਸਾਊਂਡ ਮਿਆਦ"</string>
+<string name="alert_reminder_interval_title">"ਚੇਤਾਵਨੀ ਰੀਮਾਈਂਡਰ"</string>
+<string name="enable_alert_speech_title">"ਚੇਤਾਵਨੀ ਸੁਨੇਹਾ ਬੋਲੋ"</string>
+<string name="enable_alert_speech_summary">"ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀ ਸੁਨੇਹੇ ਬੋਲਣ ਲਈ ਟੈਕਸਟ-ਟੂ-ਸਪੀਚ ਪ੍ਰਯੋਗ ਕਰੋ"</string>
+<string name="category_etws_settings_title">"ETWS ਸੈਟਿੰਗਸ"</string>
+<string name="enable_etws_test_alerts_title">"ETWS ਜਾਂਚ ਪ੍ਰਸਾਰਨ ਦਿਖਾਓ"</string>
+<string name="enable_etws_test_alerts_summary">"ਭੂਚਾਲ Tsunami ਚੇਤਾਵਨੀ ਸਿਸਟਮ ਲਈ ਜਾਂਚ ਪ੍ਰਸਾਰਨ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"</string>
+<string name="enable_cmas_extreme_threat_alerts_title">"ਅੰਤਿਮ ਖਤਰੇ ਦਿਖਾਓ"</string>
+<string name="enable_cmas_extreme_threat_alerts_summary">"ਜੀਵਨ ਅਤੇ ਜਾਇਦਾਦ ਲਈ ਅੰਤਿਮ ਖਤਰਿਆਂ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"</string>
+<string name="enable_cmas_severe_threat_alerts_title">"ਗੰਭੀਰ ਖਤਰੇ ਦਿਖਾਓ"</string>
+<string name="enable_cmas_severe_threat_alerts_summary">"ਜੀਵਨ ਅਤੇ ਜਾਇਦਾਦ ਲਈ ਅੰਤਿਮ ਖਤਰਿਆਂ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"</string>
+<string name="enable_cmas_amber_alerts_title">"ਐਂਬਰ ਚੇਤਾਵਨੀਆਂ ਦਿਖਾਓ"</string>
+<string name="enable_cmas_amber_alerts_summary">"ਬਾਲ ਅਗਵਾ ਆਪਾਤਕਾਲੀਨ ਬੁਲੇਟਿਨਸ (ਐਂਬਰ ਚੇਤਾਵਨੀ) ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"</string>
+<string name="enable_cmas_test_alerts_title">"CMAS ਜਾਂਚ ਪ੍ਰਸਾਰਨ ਦਿਖਾਓ"</string>
+<string name="enable_cmas_test_alerts_summary">"ਵਿਵਸਾਇਕ ਮੋਬਾਈਲ ਚੇਤਾਵਨੀ ਸਿਸਟਮ ਲਈ ਜਾਂਚ ਪ੍ਰਸਾਰਨ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ"</string>
+<string name="enable_alert_vibrate_title">"ਵਾਈਬ੍ਰੇਟ"</string>
+<string name="enable_alert_vibrate_summary">"ਚੇਤਾਵਨੀ ਤੇ ਵਾਈਬ੍ਰੇਟ"</string>
+<string name="category_brazil_settings_title">"ਬ੍ਰਾਜ਼ੀਲ ਲਈ ਸੈਟਿੰਗਸ"</string>
+<string name="enable_channel_50_alerts_title">"ਚੈਨਲ 50 ਦੇ ਪ੍ਰਸਾਰਨ ਦਿਖਾਓ"</string>
+<string name="enable_channel_50_alerts_summary">"ਚੈਨਲ 50 ਬ੍ਰਾਜ਼ੀਲ ਵਿੱਚ ਖੇਤਰ ਅਪਡੇਟ ਜਾਣਕਾਰੀ ਲਈ ਪ੍ਰਯੋਗ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"</string>
+<string name="category_dev_settings_title">"ਡੈਵਲੈਪਰ ਵਿਕਲਪ"</string>
+<string name="cmas_category_heading">"ਚੇਤਾਵਨੀ ਸ਼੍ਰੇਣੀ:"</string>
+<string name="cmas_category_geo">"ਭੂ-ਭੌਤਿਕੀ"</string>
+<string name="cmas_category_met">"ਮੌਸਮ ਵਿਗਿਆਨ ਸੰਬੰਧੀ"</string>
+<string name="cmas_category_safety">"ਸੁਰੱਖਿਆ"</string>
+<string name="cmas_category_security">"ਸੁਰੱਖਿਆ"</string>
+<string name="cmas_category_rescue">"ਬਚਾਉ"</string>
+<string name="cmas_category_fire">"ਅੱਗ"</string>
+<string name="cmas_category_health">"ਸਿਹਤ"</string>
+<string name="cmas_category_env">"ਵਾਤਾਵਰਣ ਸੰਬੰਧੀ"</string>
+<string name="cmas_category_transport">"ਪਰਿਵਹਿਣ"</string>
+<string name="cmas_category_infra">"ਇੰਫ੍ਰਾਸਟਰਕਚਰ"</string>
+<string name="cmas_category_cbrne">"ਰਸਾਇਣ/ਜੀਵ ਵਿਗਿਆਨਕ/ਨਿਊਕਲੀਅਰ/ਵਿਸਫੋਟਕ"</string>
+<string name="cmas_category_other">"ਦੂਜੇ"</string>
+<string name="cmas_response_heading">"ਜਵਾਬ ਪ੍ਰਕਾਰ:"</string>
+<string name="cmas_response_shelter">"ਸ਼ੈਲਟਰ"</string>
+<string name="cmas_response_evacuate">"ਖਾਲੀ ਕਰੋ"</string>
+<string name="cmas_response_prepare">"ਤਿਆਰ ਕਰੋ"</string>
+<string name="cmas_response_execute">"ਕੰਮ ਪੂਰਾ ਕਰਨਾ"</string>
+<string name="cmas_response_monitor">"ਮਾਨੀਟਰ"</string>
+<string name="cmas_response_avoid">"ਬਚੋ"</string>
+<string name="cmas_response_assess">"ਮੁਲਾਂਕਣ ਕਰੋ"</string>
+<string name="cmas_response_none">"ਕੋਈ ਨਹੀਂ"</string>
+<string name="cmas_severity_heading">"ਗੰਭੀਰਤਾ:"</string>
+<string name="cmas_severity_extreme">"ਅੰਤਿਮ"</string>
+<string name="cmas_severity_severe">"ਗੰਭੀਰ"</string>
+<string name="cmas_urgency_heading">"ਲੋੜਵੰਦੀ:"</string>
+<string name="cmas_urgency_immediate">"ਤੁਰੰਤ"</string>
+<string name="cmas_urgency_expected">"ਸੰਭਾਵਿਤ"</string>
+<string name="cmas_certainty_heading">"ਨਿਸ਼ਚਿਤਤਾ:"</string>
+<string name="cmas_certainty_observed">"ਨਿਰੀਖਣ ਕੀਤਾ"</string>
+<string name="cmas_certainty_likely">"ਸੰਭਾਵਨਾ"</string>
+<string name="delivery_time_heading">"ਪ੍ਰਾਪਤ ਕੀਤਾ:"</string>
+<string name="notification_multiple">"<xliff:g id="count">%s</xliff:g> ਬਿਨਾਂ ਪੜ੍ਹੀਆਂ ਚੇਤਾਵਨੀਆਂ।"</string>
+<string name="notification_multiple_title">"ਨਵੀਆਂ ਚੇਤਾਵਨੀਆਂ"</string>
+<string name="show_cmas_opt_out_summary">"ਪਹਿਲੀ CMAS ਚੇਤਾਵਨੀ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇੱਕ ਔਪਟ-ਆਊਟ ਡਾਇਲੌਗ ਦਿਖਾਓ (ਪ੍ਰੈਜੀਡੈਂਸ਼ੀਅਲ ਚੇਤਾਵਨੀ ਨੂੰ ਛੱਡ ਕੇ)।"</string>
+<string name="show_cmas_opt_out_title">"ਔਪਟ-ਆਊਟ ਡਾਇਲੌਗ ਦਿਖਾਓ"</string>
+<string name="cmas_opt_out_dialog_text">"ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀਆਂ ਪ੍ਰਾਪਤ ਕਰ ਰਹੇ ਹੋ। ਕੀ ਤੁਸੀਂ ਆਪਾਤਕਾਲੀਨ ਚੇਤਾਵਨੀਆਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+<string name="cmas_opt_out_button_yes">"ਹਾਂ"</string>
+<string name="cmas_opt_out_button_no">"ਕੋਈ ਨਹੀਂ"</string>
+<string-array name="alert_sound_duration_entries">
+<item>"2 ਸੈਕਿੰਡ"</item>
+<item>"4 ਸੈਕਿੰਡ"</item>
+<item>"6 ਸੈਕਿੰਡ"</item>
+<item>"8 ਸੈਕਿੰਡ"</item>
+<item>"10 ਸੈਕਿੰਡ"</item>
+</string-array>
+<string-array name="alert_reminder_interval_entries">
+<item>"ਇੱਕ ਵਾਰ"</item>
+<item>"ਹਰ 2 ਮਿੰਟਾਂ ਵਿੱਚ"</item>
+<item>"ਹਰੇਕ 15 ਮਿਨਟ"</item>
+<item>"ਬੰਦ"</item>
+</string-array>
+<string name="toast_input_channel_number_exceed">"ਕਿਰਪਾ ਕਰਕੇ ਚੈਨਲ ਨੰਬਰ ਇਨਪੁਟ ਕਰੋ(0-65535)."</string>
+<string name="settings_list_empty">"ਸੈਟਿੰਗ ਦੀ ਕੋਈ ਆਈਟਮ ਨਹੀਂ"</string>
+</resources>

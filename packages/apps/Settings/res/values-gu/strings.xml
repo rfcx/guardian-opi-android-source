@@ -1,0 +1,1387 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="yes">"હા"</string>
+    <string name="no">"ના"</string>
+    <string name="install_warn">ચેતવણી</string>
+    <string name="install_warn_message">આંતરીક મેમરીમાં આ અનુપ્રયોગ સ્થાપિત કરવાનું સૂચન કરવામાં આવે છે. તમે તેને બાહ્યમાં સ્થાપિત કરવા માગો છો?</string>
+    <string name="device_info_default">અજ્ઞાત</string>
+    <string name="turn_on_radio">રેડીયો ચાલુ કરો</string>
+    <string name="turn_off_radio">રેડિયો બંધ કરો</string>
+    <string name="radioInfo_menu_viewADN">SIM સરનામાં બુક જુઓ</string>
+    <string name="radioInfo_menu_viewFDN">ફિક્સ્ડ ડાયલીંગ નંબર જુઓ</string>
+    <string name="radioInfo_menu_viewSDN">સર્વિસ ડાયલીંગ નંબર્સ જુઓ</string>
+    <string name="radioInfo_menu_getPDP">PDP સૂચિ મેળવો</string>
+    <string name="radioInfo_service_in">સેવામાં</string>
+    <string name="radioInfo_service_out">સેવાની બહાર</string>
+    <string name="radioInfo_service_emergency">માત્ર ઇમરજન્સી કોલ્સ</string>
+    <string name="radioInfo_service_off">રેડિયો બંધ</string>
+    <string name="radioInfo_roaming_in">રોમીંગ</string>
+    <string name="radioInfo_roaming_not">રોમીંગ નથી</string>
+    <string name="radioInfo_phone_idle">નિરુપયોગી</string>
+    <string name="radioInfo_phone_ringing">રીંગ થાય છે</string>
+    <string name="radioInfo_phone_offhook">કોલ થાય છે</string>
+    <string name="radioInfo_data_disconnected">જોડાણ છૂટું થયેલ</string>
+    <string name="radioInfo_data_connecting">જોડાણ થાય છે</string>
+    <string name="radioInfo_data_connected">જોડાણ થયેલ</string>
+    <string name="radioInfo_data_suspended">બરખાસ્ત</string>
+    <string name="radioInfo_unknown">અજ્ઞાત</string>
+    <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_display_bytes">બાઇટ્સ</string>
+    <string name="radioInfo_display_asu">asu</string>
+    <string name="sdcard_unmount" product="nosdcard">USB સંગ્રહ અલગ કરો</string>
+    <string name="sdcard_unmount" product="default">SD કાર્ડ અલગ કરો</string>
+    <string name="sdcard_format" product="nosdcard">USB સંગ્રહ સાફ કરો</string>
+    <string name="sdcard_format" product="default">SD કાર્ડ સાફ કરો</string>
+    <string name="small_font">નાનું</string>
+    <string name="medium_font">મધ્યમ</string>
+    <string name="large_font">મોટું</string>
+    <string name="font_size_save">ઓકે</string>
+    <string name="sdcard_setting" product="nosdcard">USB સંગ્રહ</string>
+    <string name="sdcard_setting" product="default">SD કાર્ડ</string>
+    <string name="battery_info_status_label">બેટરી સ્ટેટ્સ：</string>
+    <string name="battery_info_power_label">પાવર પ્લગ:</string>
+    <string name="battery_info_scale_label">બેટરી માપ:</string>
+    <string name="battery_info_level_label">બેટરી સ્તર：</string>
+    <string name="battery_info_health_label">બેટરી સ્વાસ્થ્ય:</string>
+    <string name="battery_info_technology_label">બેટરી ટેકનોલોજી:</string>
+    <string name="battery_info_voltage_label">બેટરી વોલ્ટેજ:</string>
+    <string name="battery_info_voltage_units">mV</string>
+    <string name="battery_info_temperature_label">બેટરી તાપમાન:</string>
+    <string name="battery_info_temperature_units">\u00B0 C</string>
+    <string name="battery_info_uptime">બુટ થયાથી સમય:</string>
+    <string name="battery_info_awake_battery">બેટરી પર સમય સક્રિય કરો:</string>
+    <string name="battery_info_awake_plugged">ચાર્જીંગ સમયે સમય સક્રિય કરો:</string>
+    <string name="battery_info_screen_on">સ્ક્રીન ચાલુ સમયઃ</string>
+    <string name="battery_info_status_unknown">અજ્ઞાત</string>
+    <string name="battery_info_status_charging">ચાર્જીંગ થાય છે</string>
+    <string name="battery_info_status_charging_ac">(એસી)</string>
+    <string name="battery_info_status_charging_usb">(USB યુએસબી)</string>
+    <string name="battery_info_status_discharging">ડિસ્ચાર્જ થાય છે</string>
+    <string name="battery_info_status_not_charging">ચાર્જીંગ નથી</string>
+    <string name="battery_info_status_full">સંપૂર્ણ</string>
+    <string name="battery_info_power_unplugged">પ્લગથી અલગ કરો</string>
+    <string name="battery_info_power_ac">AC</string>
+    <string name="battery_info_power_usb">USB</string>
+    <string name="battery_info_power_ac_usb">AC+USB</string>
+    <string name="battery_info_power_unknown">અજ્ઞાત</string>
+    <string name="battery_info_health_unknown">અજ્ઞાત</string>
+    <string name="battery_info_health_good">સારું</string>
+    <string name="battery_info_health_overheat">અતિગરમી</string>
+    <string name="battery_info_health_dead">મૃત</string>
+    <string name="battery_info_health_over_voltage">વધુ વોલ્ટેજ</string>
+    <string name="battery_info_health_unspecified_failure">અજ્ઞાત ભૂલ</string>
+    <string name="bluetooth">બ્લુટુથ</string>
+    <string name="bluetooth_visibility">શોધપાત્ર</string>
+    <string name="bluetooth_is_discoverable"><xliff:g id="discoverable_time_period">%1$s</xliff:g> માટે શોધપાત્ર\u2026</string>
+    <string name="bluetooth_is_discoverable_always">શોધપાત્ર</string>
+    <string name="bluetooth_not_discoverable">સાધનને શોધપાત્ર કરો</string>
+    <string name="bluetooth_visibility_timeout">શોધપાત્ર ટાઇમઆઉટ</string>
+    <string name="bluetooth_visibility_timeout_summary">કેટલા સમય સુધી સાધન શોધપાત્ર રેહેશે તે ગોઠવો</string>
+    <string name="bluetooth_lock_voice_dialing">વોઇઝ ડાયલીંગ લોક કરો</string>
+    <string name="bluetooth_lock_voice_dialing_summary">સ્ક્રીન લોક હોય ત્યારે બ્લુટુથ ડાયલરનો ઉપયોગ અટકાવો</string>
+    <string name="bluetooth_devices">બ્લુટુથ સાધનો</string>
+    <string name="bluetooth_device_name">સાધન નામ</string>
+    <string name="bluetooth_name_not_set">ખાતા નામનો ઉપયોગ કરી, કોઇ નામ સેટ નહીં</string>
+    <string name="bluetooth_scan_for_devices">સાધનો માટે સ્કેન</string>
+    <string name="bluetooth_disconnect_blank"><xliff:g id="device_name">%1$s</xliff:g> જોડાણ રદ્દ થશે.</string>
+    <string name="bluetooth_connected">જોડાણ થયેલ</string>
+    <string name="bluetooth_disconnected">જોડાણ છૂટું થયેલ</string>
+    <string name="bluetooth_disconnecting">જોડાણ છૂટું થાય છે\u2026</string>
+    <string name="bluetooth_connecting">જોડાણ થાય છે\u2026</string>
+    <string name="bluetooth_not_connected">આ સાધન સાથે જોડી કરો</string>
+    <string name="bluetooth_pairing">જોડાય છે\u2026</string>
+    <string name="bluetooth_paired">જોડી થયેલ છે પરંતુ જોડાણ થયું નથી</string>
+    <string name="bluetooth_device">હેન્ડ્સફ્રિ/હેડસેટ</string>
+    <string name="progress_scanning">સ્કેન થાય છે</string>
+    <string name="bluetooth_notif_ticker">બ્લુટુથ જોડાણ વિનંતી</string>
+    <string name="bluetooth_notif_title">જોડી કરવાની વિનંતી</string>
+    <string name="bluetooth_notif_message">સાથે જોડી કરવા માટે પસંદ કરો\u0020</string>
+    <string name="device_picker">બ્લુટુથ સાધન પીકર</string>
+    <string name="bluetooth_permission_request">"બ્લુટુથ અનુમતિ વિનંતી"</string>
+    <string name="bluetooth_ask_enablement">" બ્લુટુથ ચાલુ કરવા માટે તમારા ફોનનો અનુપ્રયોગ અનુમતિની વિનંતી કરે છે. તમે આમ કરવા માગો છો?"</string>
+    <string name="bluetooth_ask_discovery">"<xliff:g id="timeout">%1$d</xliff:g> સેકન્ડ્ઝ માટે અન્ય બ્લુટુથ સાધનો દ્વારા તમારા ફોનને ઉપલબ્ધ કરવા માટે તમારા ફોનનો અનુપ્રયોગ અનુમતિની વિનંતી કરે છે. તમે આમ કરવા માગો છો?"</string>
+    <string name="bluetooth_ask_lasting_discovery">"અન્ય બ્લુટુથ સાધનો દ્વારા તમારા ફોનને \u201cહંમેશા ઉપલબ્ધ\u201d કરવા માટે તમારા ફોનનો અનુપ્રયોગ અનુમતિની વિનંતી કરે છે. તમે આમ કરવા માગો છો?"</string>
+    <string name="bluetooth_ask_enablement_and_discovery">"<xliff:g id="timeout">%1$d</xliff:g> સેકન્ડ્ઝ માટે અન્ય બ્લુટુથ સાધનો દ્વારા તમારા ફોનને ઉપલબ્ધ કરવા માટે તમારા ફોનનો અનુપ્રયોગ અનુમતિની વિનંતી કરે છે. તમે આમ કરવા માગો છો?"</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">" બ્લુટુથ ચાલુ કરવા અને તમારા ફોનને સાધનો દ્વારા તમારા ફોનને ઉપલબ્ધ કરવા માટે તમારા ફોનનો અનુપ્રયોગ અનુમતિની વિનંતી કરે છે. તમે આમ કરવા માગો છો?"</string>
+    <string name="bluetooth_turning_on">"બ્લુટુથ ચાલુ કરવું\u2026"</string>
+    <string name="date_and_time">ડેટા &amp; સમય ગોઠવણી</string>
+    <string name="date_time_12_hour_sample">સવારે 1:00</string>
+    <string name="date_time_24_hour_sample">13:00</string>
+    <string name="date_time_changeTime_text">સમય બદલાવો</string>
+    <string name="date_time_changeDate_text">તારીખ</string>
+    <string name="choose_timezone">ટાઇમ ઝોન પસંદ કરો</string>
+    <string name="normal_date_format">સામાન્ય (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)</string>
+    <string name="display_preview_label">પૂર્વદર્શન：</string>
+    <string name="display_font_size_label">ફોન્ટ કદ</string>
+    <string name="intent_sender_sendbroadcast_text"><xliff:g id="broadcast">બ્રોડકાસ્ટ</xliff:g> મોકલો</string>
+    <string name="intent_sender_action_label"><xliff:g id="action">પગલું</xliff:g>:</string>
+    <string name="intent_sender_startactivity_text"><xliff:g id="activity">activity</xliff:g> શરૂ કરો</string>
+    <string name="intent_sender_resource_label"><xliff:g id="resource">સ્ત્રોત </xliff:g>: </string>
+    <string name="intent_sender_account_label">ખાતુ:</string>
+    <string name="proxy_clear_text">સાફ</string>
+    <string name="proxy_port_label">પોર્ટ</string>
+    <string name="proxy_defaultView_text">પૂર્વનિર્ધારીત પુનઃસ્થાપન કરો</string>
+    <string name="proxy_action_text">સંગ્રહ કરો</string>
+    <string name="proxy_hostname_label">હોસ્ટનેમ</string>
+    <string name="proxy_error">સાવધાન</string>
+    <string name="proxy_error_dismiss">ઓકે</string>
+    <string name="proxy_error_invalid_host">તમે ટાઇપ કરેલ હોસ્ટનામ માન્ય નથી.</string>
+    <string name="proxy_error_empty_port">પોર્ટ ફિલ્ડ તમારે પૂર્ણ કરવું ફરજિયાત છે.</string>
+    <string name="proxy_error_empty_host_set_port">જો હોસ્ટ ફિલ્ડ ખાલી હોય તો પોર્ટ ફિલ્ડ ખાલી હોવું ફરજિયાત છે.</string>
+    <string name="proxy_error_invalid_port">તમે ટાઇપ કરેલ પોર્ટ માન્ય નથી.</string>
+    <string name="radio_info_signal_location_label">સ્થળ:</string>
+    <string name="radio_info_neighboring_location_label">પાડોશી CID:</string>
+    <string name="radio_info_data_attempts_label">ડેટા પ્રયાસો:</string>
+    <string name="radio_info_gprs_service_label">GPRS સેવા:</string>
+    <string name="radio_info_roaming_label">રોમીંગ：</string>
+    <string name="radio_info_imei_label">IMEI</string>
+    <string name="radio_info_call_redirect_label">કોલ રવાનગી:</string>
+    <string name="radio_info_ppp_resets_label">PPP ના નંબર રીસેટ આ બુટ થયું ત્યારથી:</string>
+    <string name="radio_info_gsm_disconnects_label">GSM જોડાણ છૂટું કરે છે:</string>
+    <string name="radio_info_current_network_label">વર્તમાન નેટવર્ક:</string>
+    <string name="radio_info_data_successes_label">ડેટા સફળતા:</string>
+    <string name="radio_info_ppp_received_label">PPP પ્રાપ્ત:</string>
+    <string name="radio_info_gsm_service_label">GSM સેવા:</string>
+    <string name="radio_info_signal_strength_label">સિગ્નલ મજબૂતી：</string>
+    <string name="radio_info_call_status_label">કોલ સ્થિતિ:</string>
+    <string name="radio_info_ppp_sent_label">PPP રવાનગી:</string>
+    <string name="radio_info_radio_resets_label">રેડિયો રીસેટ થાય છે:</string>
+    <string name="radio_info_message_waiting_label">સંદેશ પ્રતીક્ષા:</string>
+    <string name="radio_info_phone_number_label">ફોન નંબર:</string>
+    <string name="radio_info_band_mode_label">રેડિયો બેન્ડ પસંદ કરો</string>
+    <string name="radio_info_network_type_label">નેટવર્ક પ્રકાર:</string>
+    <string name="radio_info_set_perferred_label">પસંદગીયુક્ત નેટવર્ક પ્રકાર ગોઠવો:</string>
+    <string name="radio_info_ping_ipaddr">Ping IP સરનામું:</string>
+    <string name="radio_info_ping_hostname">Ping હોસ્ટનામ(www.google.com):</string>
+    <string name="radio_info_http_client_test">HTTP ગ્રાહક તપાસ:</string>
+    <string name="ping_test_label">પિંગ તપાસ રન કરો</string>
+    <string name="radio_info_smsc_label">SMSC:</string>
+    <string name="radio_info_smsc_update_label">અદ્યતન</string>
+    <string name="radio_info_smsc_refresh_label">રીફ્રેશ</string>
+    <string name="radio_info_toggle_dns_check_label">DNS તપાસ ટોગલ</string>
+    <string name="oem_radio_info_label">OEM- કેનદ્રીત માહિતી/ગોઠવણી</string>
+    <string name="band_mode_title">GSM/UMTS બેન્ડ ગોઠવો</string>
+    <string name="band_mode_loading">લોડીંગ બેન્ડ સૂચિ\u2026</string>
+    <string name="band_mode_set">સેટ કરવું</string>
+    <string name="band_mode_failed">અસફળ</string>
+    <string name="band_mode_succeeded">સફળ</string>
+    <string name="sdcard_changes_instructions">USB કેબલ ફરી જોડાણ થાય ત્યારે ફેરફારો અસરમાં આવશે</string>
+    <string name="sdcard_settings_screen_mass_storage_text">USB  સમુદાય સંગ્રહ સક્રિય કરો</string>
+    <string name="sdcard_settings_total_bytes_label">કુલ બાઇટ્સ:</string>
+    <string name="sdcard_settings_not_present_status" product="nosdcard">USB સંગ્રહ જોડાયેલ નથી</string>
+    <string name="sdcard_settings_not_present_status" product="default">કોઇ SD કાર્ડ નથી</string>
+    <string name="sdcard_settings_available_bytes_label">ઉપલબ્ધ બાઇટ્સ:</string>
+    <string name="sdcard_settings_mass_storage_status" product="nosdcard">માસ સંગ્રહ સાધન તરીકે USB સંગ્રહ ઉપયોગમાં છે</string>
+    <string name="sdcard_settings_mass_storage_status" product="default">જથ્થા સંગ્રહ સાધન તરીકે SD કાર્ડનો ઉપયોગ થાય છે</string>
+    <string name="sdcard_settings_unmounted_status" product="nosdcard">USB સંગ્રહ હવે અલગ કરવું સલામત છે</string>
+    <string name="sdcard_settings_unmounted_status" product="default">SD કાર્ડ હવે અલગ કરવું સલામત છે</string>
+    <string name="sdcard_settings_bad_removal_status" product="nosdcard">USB સંગ્રહ ઉપયોગમાં હતું ત્યારે દૂર થયું છે!</string>
+    <string name="sdcard_settings_bad_removal_status" product="default">SD કાર્ડ ઉપયોગમાં હતું ત્યારે દૂર કરવામાં આવ્યું છે!</string>
+    <string name="sdcard_settings_used_bytes_label">વપરાયેલ બાઇટ્સ:</string>
+    <string name="sdcard_settings_scanning_status" product="nosdcard">મીડિયા માટે USB સંગ્રહ સ્કેન થાય છે\u2026</string>
+    <string name="sdcard_settings_scanning_status" product="default">મીડિયા માટે SD કાર્ડ સ્કેન થાય છે\u2026 </string>
+    <string name="sdcard_settings_read_only_status" product="nosdcard">USB સંગ્રહ માત્ર-વાંચન જોડાયેલ છે</string>
+    <string name="sdcard_settings_read_only_status" product="default">SD કાર્ડ માત્ર-વાંચન માટે જોડાયેલ છે</string>
+    <string name="next_label">આગામી</string>
+    <string name="language_picker_title">સ્થાનિક</string>
+    <string name="select_your_language">તમારી ભાષા પસંદ કરો</string>
+    <string name="activity_picker_label">પ્રવૃત્તિ પસંદ કરો </string>
+    <string name="device_info_label">સાધન માહિતી</string>
+    <string name="battery_info_label">બેટરી માહિતી</string>
+    <string name="display_label">ડિસ્પ્લે</string>
+    <string name="phone_info_label">ફોન માહિતી</string>
+    <string name="sd_card_settings_label" product="nosdcard">USB સંગ્રહ</string>
+    <string name="sd_card_settings_label" product="default">SD કાર્ડ</string>
+    <string name="proxy_settings_label">અવેજી સેટિંગ્ઝ</string>
+    <string name="ok">ઓકે</string>
+    <string name="cancel">રદ્દ કરવું</string>
+    <string name="settings_label">ગોઠવણી</string>
+    <string name="settings_label_launcher">ગોઠવણી</string>
+    <string name="settings_shortcut">ગોઠવણી</string>
+    <string name="airplane_mode">એરપ્લેન મોડ</string>
+    <string name="airplane_mode_summary">તમામ વાયરલેસ જોડાણો નિષ્ક્રીય કરો</string>
+    <string name="airplane_mode_turning_on">વાયરલેસ જોડાણો નિષ્ક્રીય થાય છે\u2026</string>
+    <string name="airplane_mode_turning_off">વાયરલેસ જોડાણો સક્રિય થાય છે\u2026</string>
+    <string name="radio_controls_title">વાયરલેસ &amp; નેટવર્ક્સ</string>
+    <string name="wireless_networks_settings_title">વાયરલેસ &amp; નેટવર્ક ગોઠવણી</string>
+    <string name="radio_controls_summary">Wi-Fi, બલ્ટુથ, એરપ્લેન મોડ, મોબાઇલ નેટવર્ક્સ, &amp; VPNs સંચાલન કરો</string>
+    <string name="roaming">ડેટા રોમીંગ</string>
+    <string name="roaming_enable">રોમીંગ સમયે ડેટા સેવા સાથે જોડાણ કરો</string>
+    <string name="roaming_disable">રોમીંગ સમયે ડેટા સેવા સાથે જોડાણ કરો</string>
+    <string name="roaming_reenable_message">તમે ડેટા જોડાણ ગુમાવ્યું છે કારણ કે ડેટા રોમિંગ બંધ કરી તમારું હોમ નેટવર્ક તમે ગુમાવ્યું છે.</string>
+    <string name="roaming_turn_it_on_button">તેના ચાલુ કરો</string>
+    <string name="roaming_warning">ડેટા રોમીંગ અનુમતિ આપવી છે? તમને વાજબી રોમીંગ ખર્ચ લાગશે!</string>
+    <string name="roaming_reenable_title">સાવધાન</string>
+    <string name="networks">સંચાલક પસંદગી</string>
+    <string name="sum_carrier_select">નેટવર્ક સંચાલક પસંદ કરો</string>
+    <string name="date_and_time_settings_title">ડેટા &amp; સમય</string>
+    <string name="date_and_time_settings_summary">તારીખ, સમય, ટાઇમ ઝોન &amp; સ્વરૂપો ગોઠવો</string>
+    <string name="date_time_auto">સ્વયં</string>
+    <string name="date_time_auto_summaryOn">નેટવર્ક-જોગવાઇ મૂલ્યોનો ઉપયોગ કરો (રીબુટ અને નેટવર્ક સહાયની આવશ્યકતા)</string>
+    <string name="date_time_auto_summaryOff">નેટવર્ક-જોગવાઇ મૂલ્યોનો ઉપયોગ કરો (રીબુટ અને નેટવર્ક સહાયની આવશ્યકતા)</string>
+    <string name="date_time_24hour">24-કલાક સ્વરૂપ ઉપયોગ કરો</string>
+    <string name="date_time_set_time">સમય સેટ કરો</string>
+    <string name="date_time_set_timezone">ટાઇમ ઝોન પસંદ કરો</string>
+    <string name="date_time_set_date">તારીખ સેટ કરો</string>
+    <string name="date_time_date_format">તારીખ સ્વરૂપ પસંદ કરો</string>
+    <string name="zone_list_menu_sort_alphabetically">આલ્ફાબેટીકલી ગોઠવણ કરો</string>
+    <string name="zone_list_menu_sort_by_timezone">ટાઇમ ઝોન દ્વારા ગોઠવણ કરો</string>
+    <string name="security_settings_title">સ્થળ &amp; સુરક્ષા</string>
+    <string name="location_security_settings_title">સ્થળ &amp; સુરક્ષા ગોઠવણ</string>
+    <string name="security_settings_summary">મારું સ્થળ, સ્ક્રીન અનલોક, SIM કાર્ડ લોક, ક્રેડેન્શીયલ સંગ્રહ લોક ગોઠવો</string>
+    <string name="cdma_security_settings_summary">મારું સ્થળ, સ્ક્રીન અનલોક, ક્રેડેન્શીયલ સંગ્રહ લોક ગોઠવો</string>
+    <string name="security_passwords_title">પાસવર્ડ્ઝ</string>
+    <string name="lock_settings_picker_title">સ્ક્રીન અનલોક સુરક્ષા</string>
+    <string name="unlock_set_unlock_launch_picker_title">સ્ક્રીન લોક ગોઠવો</string>
+    <string name="unlock_set_unlock_launch_picker_summary">પેટર્ન,PIN, અથવા પાસવર્ડ સાથે સ્ક્રીન લોક કરો</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">સ્ક્રીન લોક બદલો</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">પેટર્ન, PIN, અથવા પાસવર્ડ સુરક્ષા બદલાવો અથવા નિષ્ક્રીય કરો</string>
+    <string name="unlock_set_unlock_none_title">કોઇ નહીં</string>
+    <string name="unlock_set_unlock_none_summary">સ્ક્રીન અનલોક સુરક્ષા નિષ્ક્રીય કરો</string>
+    <string name="unlock_set_unlock_pattern_title">પેટર્ન</string>
+    <string name="unlock_set_unlock_pattern_summary">સ્ક્રીન અનલોક કરવા માટે પેટર્ન તૈયાર કરો</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">સ્ક્રીન અનલોક કરવા માટે સાંખ્યીક PIN દાખલ કરો</string>
+    <string name="unlock_set_unlock_password_title">પાસવર્ડ</string>
+    <string name="unlock_set_unlock_password_summary">સ્ક્રીન અનલોક કરવા માટે પાસવર્ડ દાખલ કરો</string>
+    <string name="unlock_set_unlock_disabled_summary">દૂરના ફોન સંચાલક દ્વારા નિષ્ક્રીય છે</string>
+    <string name="unlock_disable_lock_title">સ્ક્રીન લોક બંધ કરો</string>
+    <string name="unlock_disable_lock_pattern_summary">અનલોક પેટર્ન દૂર કરો</string>
+    <string name="unlock_disable_lock_pin_summary">અનલોક PIN દૂર કરો</string>
+    <string name="unlock_disable_lock_password_summary">અનલોક પાસવર્ડ દૂર કરો</string>
+    <string name="unlock_change_lock_pattern_title">અનલોક પેટર્ન બદલાવો</string>
+    <string name="unlock_change_lock_pin_title">અનલોક PIN બદલાવો</string>
+    <string name="unlock_change_lock_password_title">અનલોક કરવાનો પાસવર્ડ બદલાવો</string>
+    <string name="lockpassword_password_too_short">પાસવર્ડમાં કમસે કમ %d અક્ષરો હોવા જોઇએ</string>
+    <string name="lockpassword_pin_too_short">PIN માં કમસે કમ %d અક્ષરો હોવા ફરજિયાત છે</string>
+    <string name="lockpassword_press_continue">થઇ જાય ત્યારે ચાલુ દબાવો</string>
+    <string name="lockpassword_continue_label">ચાલુ રાખો</string>
+    <string name="lockpassword_password_too_long">%d અંકો કરતાં PIN વધુ લાંબો થઇ શકશે નહીં</string>
+    <string name="lockpassword_pin_too_long">%d અંકો કરતાં PIN વધુ લાંબો થઇ શકશે નહીં</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN માં માત્ર 0-9 અંકોનો સમાવેશ ફરજિયાત છે</string>
+    <string name="lockpassword_illegal_character">પાસવર્ડમાં અમાન્ય અક્ષરનો સમાવેશ છે</string>
+    <string name="lockpassword_password_requires_alpha">પાસવર્ડમાં કમસે કમ એક અક્ષર હોવો જોઇએ</string>
+    <string name="lockpassword_password_requires_digit">પાસવર્ડમાં કમસે કમ એક અંક હોવો જોઇએ</string>
+    <string name="lockpassword_password_requires_symbol">પાસવર્ડમાં કમસે કમ એક ચિહ્ન હોવું જોઇએ</string>
+    <string name="lockpassword_ok_label">ઓકે</string>
+    <string name="lockpassword_cancel_label">રદ્દ કરવું</string>
+    <string name="device_admin_title">સાધન સંચાલન</string>
+    <string name="manage_device_admin">સાધન સંચાલન પસંદ કરો</string>
+    <string name="manage_device_admin_summary">સાધન સંચાલકો ઉમેરો અથવા દૂર કરો</string>
+    <string name="bluetooth_quick_toggle_title">બ્લુટુથ</string>
+    <string name="bluetooth_quick_toggle_summary">બ્લુટુથ ચાલુ કરો</string>
+    <string name="bluetooth_settings">બ્લુટુથ સેટિંગ્ઝ</string>
+    <string name="bluetooth_settings_title">બ્લુટુથ સેટિંગ્ઝ</string>
+    <string name="bluetooth_settings_summary">જોડાણો સંચાલન કરો, સાધન નામ ગોઠવણ કરો &amp; શોધપાત્રતા</string>
+    <string name="bluetooth_pairing_request">બ્લુટુથ જોડાણ વિનંતી</string>
+    <string name="bluetooth_device_info">બ્લુટુથ સાધન માહિતી</string>
+    <string name="bluetooth_enter_pin_msg">\nસાથે જોડાણ કરવા PIN ટાઇપ કરો \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022. (0000 અથવા 1234 પ્રયાસ કરો.)</string>
+    <string name="bluetooth_enter_passkey_msg">\nસાથે જોડાણ કરવા પાસકી ટાઇપ કરો \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022.</string>
+    <string name="bluetooth_confirm_passkey_msg">\u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022 સાથે જોડી કરો, ખાતરી કરો કે આ પાસકિ પ્રદર્શ‍િત થાય: <xliff:g id="passkey">%2$s</xliff:g>.</string>
+    <string name="bluetooth_incoming_pairing_msg"><xliff:g id="device_name">%1$s</xliff:g>\nજોડાવા માગે છે.</string>
+    <string name="bluetooth_display_passkey_msg"><xliff:g id="passkey">%2$s</xliff:g> પર \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022 જોડાણ કરવા માટે દાખલ કરો.</string>
+    <string name="bluetooth_pairing_accept">જોડી</string>
+    <string name="bluetooth_pairing_decline">જોડાણ કરશો નહીં</string>
+    <string name="bluetooth_remote_device">બ્લુટુથ સાધન</string>
+    <string name="bluetooth_error_title">સાવધાન</string>
+    <string name="bluetooth_pairing_error_message"><xliff:g id="device_name">%1$s</xliff:g> સાથે જોડી કરવામાં સમસ્યા હતી.</string>
+    <string name="bluetooth_pairing_pin_error_message"><xliff:g id="device_name">%1$s</xliff:g> સાથે જોડી કરવામાં સમસ્યા હતી કારણ કે PIN અથવા Passkey ખોટી છે.</string>
+    <string name="bluetooth_pairing_device_down_error_message"><xliff:g id="device_name">%1$s</xliff:g> સાથે વાર્તાલાપ સ્થાપિત થઇ શકશે નહીં. </string>
+    <string name="bluetooth_pairing_rejected_error_message"><xliff:g id="device_name">%1$s</xliff:g> દ્વારા જોડી અસ્વીકૃત.</string>
+    <string name="bluetooth_connecting_error_message"><xliff:g id="device_name">%1$s</xliff:g> સાથે જોડાણમાં સમસ્યા છે.</string>
+    <string name="bluetooth_preference_scan_title">સાધનો માટે સ્કેન</string>
+    <string name="bluetooth_device_context_connect">જોડાણ કરો</string>
+    <string name="bluetooth_device_context_disconnect">જોડાણ છૂટું કરો</string>
+    <string name="bluetooth_device_context_pair_connect">આ જોડી કરો &amp; જોડાણ કરો</string>
+    <string name="bluetooth_device_context_unpair">અલગ કરો</string>
+    <string name="bluetooth_device_context_disconnect_unpair">&amp; છૂટું કરો; અલગ કરો</string>
+    <string name="bluetooth_device_context_connect_advanced">વિકલ્પો\u2026</string>
+    <string name="bluetooth_connect_specific_profiles_title">સાથે જોડાણ કરો\u2026 </string>
+    <string name="bluetooth_profile_a2dp">મીડિયા</string>
+    <string name="bluetooth_profile_headset">ફોનીક્સ</string>
+    <string name="bluetooth_profile_opp">સ્થળાંતર</string>
+    <string name="bluetooth_summary_connected_to_a2dp">મીડિયા ઓડિયો સાથે જોડાણ કરો</string>
+    <string name="bluetooth_summary_connected_to_headset">ફોન ઓડિયો સાથે જોડાણ કરો</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">ફોન અને મીડિયા ઓડિયો સાથે જોડાણ કરો</string>
+    <string name="bluetooth_device_advanced_title"><xliff:g id="device_name">%1$s</xliff:g> વિકલ્પો</string>
+    <string name="bluetooth_device_advanced_online_mode_title">જોડાણ કરો</string>
+    <string name="bluetooth_device_advanced_online_mode_summary">બ્લુટુથ સાધન સાથે જોડાણ કરો</string>
+    <string name="bluetooth_device_advanced_profile_header_title">પ્રોફાઇલ્સ</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">મીડિયા ઓડિયો સાથે જોડાણ કરો</string>
+    <string name="bluetooth_headset_profile_summary_connected">ફોન ઓડિયો સાથે જોડાણ કરો</string>
+    <string name="bluetooth_opp_profile_summary_connected">ફાઇલ ટ્રાન્સફર સર્વર સાથે જોડાણ કરો</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">ફાઇલ સ્થળાંતર સર્વર સાથે કોઇ જોડાણ નથી</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">મીડિયા ઉપયોગ માટે ઉપયોગ કરો</string>
+    <string name="bluetooth_headset_profile_summary_use_for">ફોન ઓડિયો માટે ઉપયોગ કરો</string>
+    <string name="bluetooth_opp_profile_summary_use_for">ફાઇલ સ્થળાંતર માટે ઉપયોગ કરો</string>
+    <string name="bluetooth_dock_settings">ડોક ગોઠવણી</string>
+    <string name="bluetooth_dock_settings_title">ઓડિયો માટે ડોક ઉપયોગ કરો</string>
+    <string name="bluetooth_dock_settings_headset">સ્પીકર ફોન તરીકે</string>
+    <string name="bluetooth_dock_settings_a2dp">સંગીત અને મીડિયા માટે</string>
+    <string name="bluetooth_dock_settings_remember">ગોઠવણી યાદ રાખો</string>
+    <string name="nfc_quick_toggle_summary">વાંચન અને ટેગ્ઝ બદલી માટે નિયર ફિલ્ડ કોમ્યુનિકેશનનો ઉપયોગ કરો</string>
+    <string name="nfc_toggle_error" msgid="8998642457947607263">ભૂલ થઇ છે.</string>
+    <string name="wifi_quick_toggle_summary">Wi-Fi  ચાલુ કરો</string>
+    <string name="wifi_settings">Wi-Fi ગોઠવણી</string>
+    <string name="wifi_settings_category">Wi-Fi ગોઠવણી</string>
+    <string name="wifi_settings_summary">આ ગોઠવણી કરો &amp; અને વાયરલેસ પ્રવેશ કેન્દ્રો સંચાલન કરો</string>
+    <string name="wifi_starting">ચાલુ કરો\u2026</string>
+    <string name="wifi_stopping">બંધ કરો\u2026 </string>
+    <string name="wifi_error">ભૂલ</string>
+    <string name="wifi_in_airplane_mode">એરપ્લેન મોડમાં</string>
+    <string name="wifi_fail_to_scan">નેટવર્ક્સ સ્કેન કરવામાં નિષ્ફળ</string>
+    <string name="wifi_notify_open_networks">નેટવર્ક જાહેરાત</string>
+    <string name="wifi_notify_open_networks_summary">ખુલ્લુ નેટવર્ક ઉપલબ્ધ હોય ત્યારે મને જાણ કરો</string>
+    <string name="wifi_add_network">Wi-Fi નેટવર્ક ઉમેરો</string>
+    <string name="wifi_access_points">Wi-Fi નેટવર્ક્સ</string>
+    <string name="wifi_menu_scan">સ્કેન </string>
+    <string name="wifi_menu_advanced">આધુનિક</string>
+    <string name="wifi_menu_connect">નેટવર્ક સાથે જોડાણ કરો</string>
+    <string name="wifi_menu_forget">નેટવર્ક ભૂલી જાવ</string>
+    <string name="wifi_menu_modify">નેટવર્ક બદલાવો</string>
+    <string name="wifi_ssid">નેટવર્ક SSID</string>
+    <string name="wifi_security">સુરક્ષા</string>
+    <string name="wifi_signal">સિગ્નલ મજબૂતી</string>
+    <string name="wifi_status">સ્થિતિ</string>
+    <string name="wifi_speed">જોડાણ ગતિ</string>
+    <string name="wifi_ip_address">IP સરનામું</string>
+    <string name="wifi_eap_method">EAP પદ્ધતિ </string>
+    <string name="please_select_phase2">તબક્કા 2 પ્રમાણીકરણ</string>
+    <string name="wifi_eap_ca_cert">CA સર્ટિફિકેટ</string>
+    <string name="wifi_eap_user_cert">ઉપયોગકર્તા સર્ટિફિકેટ</string>
+    <string name="wifi_eap_identity">ઓળખ</string>
+    <string name="wifi_eap_anonymous">બેનામ ઓળખ</string>
+    <string name="wifi_password">પાસવર્ડ</string>
+    <string name="wifi_show_password">પાસવર્ડ દર્શાવો.</string>
+    <string name="wifi_unchanged">(બદલાયેલ નહીં) </string>
+    <string name="wifi_unspecified">(નક્કી થયેલ નહીં)</string>
+    <string name="wifi_remembered">યાદ રહેલ</string>
+    <string name="wifi_disabled">નિષ્ક્રીય છે</string>
+    <string name="wifi_not_in_range">મર્યાદામાં નથી</string>
+    <string name="wifi_secured"><xliff:g id="wifi_security">%1$s</xliff:g> સાથે સલામત</string>
+    <string name="wifi_secured_with_status"><xliff:g id="wifi_status">%2$s</xliff:g>, <xliff:g id="wifi_security">%1$s</xliff:g> સાથે સલામત છે</string>
+    <string name="wifi_connect">જોડાણ કરો</string>
+    <string name="wifi_forget">ભૂલી જાવ</string>
+    <string name="wifi_save">સંગ્રહ કરો</string>
+    <string name="wifi_cancel">રદ્દ કરવું</string>
+    <string name="wifi_pin_info_first">એન્રોલી PIN દાખલ કરો</string>
+    <string name="wifi_pin_info_second">આગામી બે મીનીટમાં AP પર</string>
+    <string name="wifi_advanced_titlebar">આધુનિક</string>
+    <string name="wifi_setting_num_channels_title">નિયમિત ડોમેઇન</string>
+    <string name="wifi_setting_num_channels_summary">ઉપયોગ માટે ચેનલોની સંખ્યા ગોઠવો</string>
+    <string name="wifi_setting_num_channels_error">રેગ્યુલેટરી ડોમેઇન ગોઠવણીમાં સમસ્યા હતી.</string>
+    <string name="wifi_setting_num_channels_channel_phrase"><xliff:g id="num_channels">%1$d</xliff:g> ચેનલ્સ</string>
+    <string name="wifi_setting_sleep_policy_title">Wi-Fi સ્લીપ પોલીસી</string>
+    <string name="wifi_setting_sleep_policy_summary">Wi-Fi થી મોબાઇલ ડેટા બદલી સમયે નક્કી કરો</string>
+    <string name="wifi_setting_sleep_policy_error">સ્લીપ પોલીસી ગોઠવણીમાં સમસ્યાસ હતી.</string>
+    <string name="wifi_advanced_mac_address_title">Mac સરનામું</string>
+    <string name="wifi_advanced_ip_address_title">IP સરનામું</string>
+    <string name="wifi_ip_settings_titlebar">IP ગોઠવણી</string>
+    <string name="wifi_ip_settings_menu_save">સંગ્રહ કરો</string>
+    <string name="wifi_ip_settings_menu_cancel">રદ્દ કરવું</string>
+    <string name="wifi_ip_settings_invalid_ip">કૃપા કરી માન્ય IP સરનામું ટાઇપ કરો.</string>
+    <string name="wifi_use_static_ip">સ્થિર IP નો ઉપયોગ કરો</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_gateway">ગેટવે</string>
+    <string name="wifi_netmask">નેટમાસ્ક</string>
+    <string name="wifi_wapi_certificates_titlebar">WAPI સર્ટિફિકેટ્સ સંચાલન</string>
+    <string name="wapi_cert_install">સ્થાપિત કરો </string>
+    <string name="wapi_cert_uninstall">સ્થાપન રદ્દ કરવું</string>
+    <string name="wapi_cert_uninstall_summary">WAPI સર્ટિફિકેટ્સ દૂર કરો</string>
+    <string name="wapi_cert_install_summary">WAPI સર્ટિફિકેટ્સ સ્થાપિત કરો</string>
+    <string name="wapi_cert_uninstall_empty">કોઇ સર્ટિફિકેટ ફાઇલ સ્થાપિત નથી </string>
+    <string name="wapi_cert_uninstall_finish">સર્ટિફિકેટ ફાઇલ દૂર થઇ છે</string>
+    <string name="wapi_cert_uninstall_prompt">સ્થાપિત સર્ટિફિકેટ્સ</string>
+    <string name="wifi_tether_checkbox_text">પોર્ટેબલ Wi-Fi હોટસ્પોટ</string>
+    <string name="wifi_tether_enabled_subtext">પોર્ટેબલ હોટસ્પોટ <xliff:g id="network_ssid">%1$s</xliff:g> સક્રિય</string>
+    <string name="wifi_tether_failed_subtext">પોર્ટેબલ Wi-Fi હોટસ્પોટ ભૂલ</string>
+    <string name="wifi_tether_settings_text">પોર્ટેબલ Wi-Fi હોટસ્પોટ ગોઠવણી</string>
+    <string name="wifi_tether_settings_subtext">આ ગોઠવણી કરો &amp; અને પોર્ટેબલ Wi-Fi હોટસ્પોટ સંચાલન કરો</string>
+    <string name="wifi_tether_settings_title">પોર્ટેબલ Wi-Fi હોટસ્પોટ ગોઠવણી</string>
+    <string name="wifi_tether_configure_ap_text">Wi-Fi હોટસ્પોટ સંરચના કરો</string>
+    <string name="wifi_tether_configure_subtext"><xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> પોર્ટેબલ Wi-Fi હોટસ્પોટ</string>
+    <string name="wifi_tether_configure_ssid_default">Android હોટસ્પોટ</string>
+    <string name="sound_settings_title">અવાજ </string>
+    <string name="display_settings_title">ડિસ્પ્લે</string>
+    <string name="sound_settings">અવાજ ગોઠવણી</string>
+    <string name="silent_mode_title">સાઇલન્ટ મોડ</string>
+    <string name="silent_mode_summary">તમામ અવાજો મૌન કરો સિવાય કે આ મીડિયા &amp; એલાર્મ્સ</string>
+    <string name="silent_mode_incl_alarm_summary">મીડિયા સિવાયનો તમામ સાઉન્ડ્ઝ મૌન છે</string>
+    <string name="ringtone_title">ફોન રીંગટોન</string>
+    <string name="ringtone_title_sim1">SIM1 ફોન રીંગટોન</string>
+    <string name="ringtone_title_sim2">SIM2 ફોન રીંગટોન</string>
+    <string name="all_volume_title">વોલ્યુમ</string>
+    <string name="ring_volume_title">રીંગર વોલ્યુમ</string>
+    <string name="vibrate_in_silent_title">સાઇલન્ટ હોય ત્યારે ધ્રુજારી</string>
+    <string name="vibrate_in_silent_summary">સાયલન્ટ મોડમાં ધ્રુજારી સૂચનોને અનુમતિ આપો</string>
+    <string name="vibrate_title">ધ્રુજારી</string>
+    <string name="vibrate_summary">કોલ્સ અને જાણકારીઓ માટે ધ્રુજારી પ્રતિભાવો</string>
+    <string name="profiles_title">પ્રોફાઇલ્સ</string>
+    <string name="profiles_summary">વિવિધ વાતાવરણમાં તમારો ફોન કેવી રીતે કાર્ય કરે છે તે ગોઠવણી દ્વારા તમને પસંદગી કરવા દે છે</string>
+    <string name="profiles_general_summary">સામાન્ય મોડમાં ફોન</string>
+    <string name="profiles_silent_summary">સાઇલન્ટ મોડમાં ફોન</string>
+    <string name="profiles_meeting_summary">મીટિંગ મોડમાં ફોન</string>
+    <string name="profiles_outdoor_summary">આઉટડોર મોડમાં ફોન</string>
+    <string name="profiles_indoor_summary">ઇન્ડોર મોડમાં ફોન</string>
+    <string name="notification_sound_title">જાહેરાત રીંગટોન</string>
+    <string name="notification_pulse_title">સ્પંદન જાણકારી લાઇટ</string>
+    <string name="notification_pulse_summary">નવી જાણકારી માટે સ્પંદન ટ્રેકબોલ વારંવાર પ્રકાશિત થાય છે</string>
+    <string name="incoming_call_volume_title">રીંગટોન</string>
+    <string name="notification_volume_title">જાહેરનામું</string>
+    <string name="checkbox_notification_same_as_incoming_call">જાણકારી માટે આવક કોલ વોલ્યુમનો ઉપયોગ કરો</string>
+    <string name="notification_sound_dialog_title">જાહેરાત રીંગટોન પસંદ કરો</string>
+    <string name="media_volume_title">મીડિયા</string>
+    <string name="media_volume_summary">સંગીત અને વિડીયોઝ માટે વોલ્યુમ ગોઠવો</string>
+    <string name="alarm_volume_title">એલાર્મ </string>
+    <string name="fm_volume_title">એફએમ</string>
+    <string name="incall_volume_title">ઇન-કોલ વોલ્યુમ</string>
+    <string name="dock_settings_summary">એટેચ થયેલ ડોક માટે શ્રાવ્ય ગોઠવણી</string>
+    <string name="dtmf_tone_enable_title">શ્રાવ્ય સ્પર્શ ટોન્સ</string>
+    <string name="dtmf_tone_enable_summary_on">ડાયલ પેડનો ઉપયોગ કરતી વખતે ટોન્સ પ્લે કરો</string>
+    <string name="dtmf_tone_enable_summary_off">ડાયલ પેડનો ઉપયોગ કરતી વખતે ટોન્સ પ્લે કરો</string>
+    <string name="sound_effects_enable_title">શ્રાવ્ય પસંદગી</string>
+    <string name="sound_effects_enable_summary_on">સ્ક્રીન પસંદગી કરતી વખતે અવાજ પ્લે કરો</string>
+    <string name="sound_effects_enable_summary_off">સ્ક્રીન પસંદગી કરતી વખતે અવાજ પ્લે કરો</string>
+    <string name="lock_sounds_enable_title">સ્ક્રીન લોક અવાજ</string>
+    <string name="lock_sounds_enable_summary_on">સ્ક્રીન લોક અને અનલોક થતી વખતે અવાજ પ્લે કરો</string>
+    <string name="lock_sounds_enable_summary_off">સ્ક્રીન લોક અને અનલોક થતી વખતે અવાજ પ્લે કરો</string>
+    <string name="haptic_feedback_enable_title">હેપ્ટીક પ્રતિભાવ</string>
+    <string name="haptic_feedback_enable_summary_on">સોફ્ટ કિઝ દબાવતી વખતે અને ચોક્કસ UI આંતરક્રિયાઓ પર ધ્રુજારી</string>
+    <string name="haptic_feedback_enable_summary_off">સોફ્ટ કિઝ દબાવતી વખતે અને ચોક્કસ UI આંતરક્રિયાઓ પર ધ્રુજારી</string>
+    <string name="audio_record_proc_title">અવાજ રદ્દ</string>
+    <string name="audio_record_proc_summary">બોલતી અથવા રેકોર્ડિંગ સમયે બેકગ્રાઉન્ડ અવાજ દબાવો.</string>
+    <string name="dock_settings">ડોક</string>
+    <string name="dock_settings_title">ડોક ગોઠવણી</string>
+    <string name="dock_audio_settings_title">ઓડિયો</string>
+    <string name="dock_audio_summary_desk">જોડાયેલ ડેસ્કટોપ ડોક માટે ગોઠવણી</string>
+    <string name="dock_audio_summary_car">જોડાયેલ કાર ડોક માટે ગોઠવણી</string>
+    <string name="dock_audio_summary_none">ફોન ડોક પર નથી</string>
+    <string name="dock_audio_summary_unknown">જોડાયેલ ડોક માટે ગોઠવણી</string>
+    <string name="dock_not_found_title">ડોક શોધાયું નથી</string>
+    <string name="dock_not_found_text">ડોક ઓડિયો સંરચના કરવા માટે ફોન ડોક પર હોવો ફરજિયાત છે</string>
+    <string name="dock_sounds_enable_title">ડોક પ્રવેશ અવાજ</string>
+    <string name="dock_sounds_enable_summary_on">ડોક પર ફોન લગાડતી કે તેમાંથી દૂર કરતી વખતે અવાજ પ્લે કરો</string>
+    <string name="dock_sounds_enable_summary_off">ડોકમાં ફોન મૂકતી વખતે કે તેમાંથી લેતી વખતે અવાજ પ્લે કરશો નહીં</string>
+    <string name="sync_settings">ખાતા &amp; સિન્ક</string>
+    <string name="sync_settings_summary">ખાતુ ઉમેરો અથવા દૂર કરો અને ખાતા ગોઠવણ સંપાદિત કરો</string>
+    <string name="search_settings">શોધો</string>
+    <string name="search_settings_summary">શોધ ગોઠવણી અને ઇતિહાસ સંચાલન કરો</string>
+    <string name="display_settings">ગોઠવણીઓ પ્રદર્શિત કરો</string>
+    <string name="animations_title">એનીમેશન</string>
+    <string name="animations_summary_on">એનીમેશન દર્શાવો આ ખોલતી સમયે &amp; વિન્ડોઝ બંધ થાય છે</string>
+    <string name="animations_summary_off">એનીમેશન દર્શાવો આ ખોલતી સમયે &amp; વિન્ડોઝ બંધ થાય છે</string>
+    <string name="accelerometer_title">ઓટો-રોટેટ સ્ક્રીન</string>
+    <string name="accelerometer_summary_on">ફોન ફરતો હોય ત્યારે દિશામાન સ્વયં બદલો</string>
+    <string name="accelerometer_summary_off">ફોન ફરતો હોય ત્યારે દિશામાન સ્વયં બદલો</string>
+    <string name="brightness">બ્રાઇટનેસ</string>
+    <string name="brightness_summary">સ્ક્રીનની બ્રાઇટનેસ ગોઠવણી કરો</string>
+    <string name="screen_timeout">સ્ક્રીન સમયબહાર</string>
+    <string name="screen_timeout_summary">સ્ક્રીન સ્વયં બંધ થાય તે પહેલાં વિલંબ ગોઠવણી કરો</string>
+    <string name="automatic_brightness">સ્વયં પ્રકાશ</string>
+    <string name="sim_lock_settings">SIM કાર્ડ લોક ગોઠવણી</string>
+    <string name="sim_lock_settings_category">SIM કાર્ડ લોક ગોઠવો</string>
+    <string name="sim_lock_settings_title">SIM કાર્ડ લોક</string>
+    <string name="sim_pin_toggle">SIM કાર્ડ લોક કરો</string>
+    <string name="sim_lock_on">ફોનના ઉપયોગ માટે PIN ની આવશ્યકતા</string>
+    <string name="sim_lock_off">ફોનના ઉપયોગ માટે PIN ની આવશ્યકતા</string>
+    <string name="sim_pin_change">SIM PIN બદલાવો</string>
+    <string name="sim_enter_pin">SIM PIN</string>
+    <string name="sim_enable_sim_lock">SIM કાર્ડ લોક કરો</string>
+    <string name="sim_lock_on_succeeded">"સિમ કાર્ડ લોક સફળ થયું છે"</string>
+    <string name="sim_lock_off_succeeded">"SIM કાર્ડ અનલોક સફળ થયું છે"</string>
+    <string name="sim_disable_sim_lock">SIM કાર્ડ અનલોક કરો</string>
+    <string name="sim_enter_old">જૂનો SIM PIN</string>
+    <string name="sim_enter_new">નવો SIM PIN</string>
+    <string name="sim_reenter_new">નવો PIN ફરી-ટાઇપ કરો</string>
+    <string name="sim_change_pin">SIM PIN</string>
+    <string name="sim_bad_pin">ખોટો PIN!</string>
+    <string name="sim_bad_pin_retry" msgid="2746201276896134075">"કૃપા કરી 4-8 PIN કોડ દાખલ કરો!"</string>
+    <string name="sim_pins_dont_match">PINs સમાન થતા નથી！</string>
+    <string name="sim_change_failed">PIN બદલવામાં નિષ્ફળ.\nસંભવિત અયોગ્ય PIN.</string>
+    <string name="sim_change_succeeded">SIM PIN સફળતાપૂર્વક બદલાયું છે</string>
+    <string name="sim_lock_failed">SIM કાર્ડ લોક સ્થિતિ બદલવામાં નિષ્ફળ. \nસંભવિત અયોગ્ય PIN.</string>
+    <string name="sim_enter_ok">ઓકે</string>
+    <string name="sim_enter_cancel">રદ્દ કરવું</string>
+    <string name="device_info_settings">ફોન સ્થિતિ</string>
+    <string name="system_update_settings_list_item_title">સિસ્ટમ અદ્યતનો</string>
+    <string name="firmware_version">Android સંસ્કરણ</string>
+    <string name="model_number">મોડેલ નંબર</string>
+    <string name="baseband_version">બેઝબેન્ડ સંસ્કરણ</string>
+    <string name="kernel_version">કર્નલ સંસ્કરણ</string>
+    <string name="build_number">બિલ્ડ નંબર</string>
+    <string name="hard_version">હાર્ડવેર સંસ્કરણ</string>
+    <string name="soft_version">સોફ્ટવેર સંસ્કરણ</string>
+    <string name="device_info_not_available">ઉપલબ્ધ નથી</string>
+    <string name="device_status_activity_title">સ્થિતિ</string>
+    <string name="device_status">સ્થિતિ</string>
+    <string name="device_status_summary">ફોન નંબર, સિગ્નલ, ઇ.</string>
+    <string name="storage_settings">સંગ્રહ</string>
+    <string name="storage_settings_title">સંગ્રહ સેટિંગ્ઝ</string>
+    <string name="storage_settings_summary" product="nosdcard">USB સંગ્રહ અલગ કરો, ઉપલબ્ધ સંગ્રહ જુઓ</string>
+    <string name="storage_settings_summary" product="default">SD કાર્ડ અલગ કરો, ઉપલબ્ધ સંગ્રહ જુઓ</string>
+    <string name="status_number">SIM ફોન નંબર</string>
+    <string name="status_number_sim2">SIM2 ફોન નંબર</string>
+    <string name="status_number_sim1">SIM1 ફોન નંબર</string>
+    <string name="status_prl_version">PRL સંસ્કરણ</string>
+    <string name="status_network_type">મોબાઇલ નેટવર્ક પ્રકાર</string>
+    <string name="status_network_type_sim1">SIM1 મોબાઇલ નેટવર્ક પ્રકાર</string>
+    <string name="status_network_type_sim2">SIM2 મોબાઇલ નેટવર્ક પ્રકાર</string>
+    <string name="status_data_state">માબાઇલ નટવર્ક સ્થિતિ</string>
+    <string name="status_data_state_sim1">SIM1 મોબાઇલ નેટવર્ક સ્થિતિ</string>
+    <string name="status_data_state_sim2">SIM2 મોબાઇલ નેટવર્ક સ્થિતિ</string>
+    <string name="status_service_state">સેવા સ્થિતિ</string>
+    <string name="status_service_state_sim1">SIM1 સેવા સ્થિતિ</string>
+    <string name="status_service_state_sim2">SIM2 સેવા સ્થિતિ</string>
+    <string name="status_signal_strength">સિગ્નલ મજબૂતી</string>
+    <string name="status_signal_strength_sim1">SIM1 સિગ્નલ મજબૂતી</string>
+    <string name="status_signal_strength_sim2">SIM2 સિગ્નલ મજબૂતી</string>
+    <string name="status_roaming">રોમીંગ</string>
+    <string name="status_roaming_sim1">SIM1 રોમીંગ</string>
+    <string name="status_roaming_sim2">SIM2 રોમીંગ</string>
+    <string name="status_operator">SIM કાર્ડ નેટવર્ક</string>
+    <string name="status_operator_sim2">SIM2 નેટવર્ક</string>
+    <string name="status_operator_sim1">SIM1 નેટવર્ક</string>
+    <string name="status_wifi_mac_address">Wi-Fi MAC સરનામું</string>
+    <string name="status_bt_address">બ્લુટુથ સરનામું</string>
+    <string name="status_unavailable">અનુપલબ્ધ</string>
+    <string name="status_up_time">સમયસર</string>
+    <string name="status_awake_time">સમય સક્રિય કરો</string>
+    <string name="internal_memory">આંતરીક સંગ્રહ </string>
+    <string name="sd_memory" product="nosdcard">USB સંગ્રહ</string>
+    <string name="sd_memory" product="default">SD કાર્ડ</string>
+    <string name="memory_available">ઉપલબ્ધ અવકાશ</string>
+    <string name="memory_size">કુલ અવકાશ</string>
+    <string name="sd_eject" product="default">SD કાર્ડ અલગ કરો</string>
+    <string name="sd_eject_summary" product="nosdcard">આંતરીક USB સંગ્રહ દૂર કરો</string>
+    <string name="sd_eject_summary" product="default">SD કાર્ડ અલગ કરો, જેથી તમે તેને સલામત રીતે દૂર કરી શકો</string>
+    <string name="sel_sub_title">સ્ટેન્ડ બાય SIM કાર્ડ ગોઠવણી</string>
+    <string name="sel_sub_summary">SIM કાર્ડ સક્રિય અથવા નિષ્ક્રીય કરો</string>
+    <string name="sd_insert_summary" product="nosdcard">લગાડવા માટે USB કાર્ડ દાખલ કરો</string>
+    <string name="sd_insert_summary" product="default">લગાડવા માટે SD કાર્ડ દાખલ કરો</string>
+    <string name="sd_mount" product="nosdcard">USB સંગ્રહ જોડો</string>
+    <string name="sd_mount" product="default">SD કાર્ડ જોડો</string>
+    <string name="sd_mount_summary" product="nosdcard">USB સંગ્રહ જોડો</string>
+    <string name="sd_mount_summary" product="default">SD કાર્ડ જોડો</string>
+    <string name="sd_format" product="nosdcard">USB સંગ્રહ સાફ કરો</string>
+    <string name="sd_format" product="default">SD કાર્ડ સાફ કરો</string>
+    <string name="sd_format_summary" product="nosdcard">ફોનના આંતરીક USB સંગ્રહ, જેમ કે સંગીત અથવા ફોટા, પરનો તમામ ડેટા સાફ કરે છે</string>
+    <string name="sd_format_summary" product="default">ફોનના SD કાર્ડ, જેમ કે સંગીત અથવા ફોટા, પરનો તમામ ડેટા સાફ કરે છે</string>
+    <string name="sd_unavailable">અનુપલબ્ધ</string>
+    <string name="read_only">\u0020(વાંચન-માત્ર)</string>
+    <string name="dlg_confirm_unmount_title" product="nosdcard">USB સંગ્રહ અલગ કરો</string>
+    <string name="dlg_confirm_unmount_title" product="default">SD કાર્ડ અલગ કરો</string>
+    <string name="dlg_confirm_unmount_text" product="nosdcard">જો તમે USB સંગ્રહ અલગ કરશો, તો તમે ઉપયોગ કરતા હો તે અમુક અનુપ્રયોગ બંધ થઇ જશે અથવા USB સંગ્રહ તમે ફરી લગાવો નહીં ત્યાં સુધી તે અનુપલબ્ધ બને.</string>
+    <string name="dlg_confirm_unmount_text" product="default">જો તમે SD કાર્ડ અલગ કરશો, તો તમે ઉપયોગ કરતા હો તે અમુક અનુપ્રયોગ બંધ થઇ જશે અથવા SD કાર્ડ તમે ફરી લગાવો નહીં ત્યાં સુધી તે અનુપલબ્ધ બને.</string>
+    <string name="dlg_error_unmount_title" product="nosdcard">USB સંગ્રહ અલગ કરવું નિષ્ફળ</string>
+    <string name="dlg_error_unmount_title" product="default">SD કાર્ડ અલગ કરવું નિષ્ફળ</string>
+    <string name="dlg_error_unmount_text" product="nosdcard">USB સંગ્રહ અલગ થઇ શકશે નહીં. થોડીવાર બાદ પ્રયાસ કરો.</string>
+    <string name="dlg_error_unmount_text" product="default">SD કાર્ડ અલગ થઇ શકશે નહીં. થોડીવાર બાદ પ્રયાસ કરો.</string>
+    <string name="unmount_inform_text" product="nosdcard">USB સંગ્રહ દૂર થશે.</string>
+    <string name="unmount_inform_text" product="default">SD કાર્ડ દૂર થશે.</string>
+    <string name="sd_ejecting_title">અલગ થાય છે</string>
+    <string name="sd_ejecting_summary">દૂર થાય છે</string>
+    <string name="battery_status_title">બેટરી સ્ટેટ્સ</string>
+    <string name="battery_level_title">બેટરી સ્તર</string>
+    <string name="apn_settings">APNs</string>
+    <string name="apn_edit">પ્રવેશ કેન્દ્ર સંપાદિત કરો</string>
+    <string name="apn_not_set">&lt;ગોઠવાયેલ નથી&gt;</string>
+    <string name="apn_name">નામ</string>
+    <string name="apn_apn">APN</string>
+    <string name="apn_http_proxy">અવેજી</string>
+    <string name="apn_http_port">પોર્ટ</string>
+    <string name="apn_user">ઉપયોગકર્તા </string>
+    <string name="apn_password">પાસવર્ડ</string>
+    <string name="apn_server">સર્વર</string>
+    <string name="apn_mmsc">MMSC</string>
+    <string name="apn_mms_proxy">એમએમએસ પ્રોક્ષી</string>
+    <string name="apn_mms_port">એમએમએસ પોર્ટ</string>
+    <string name="apn_mnc">MNC</string>
+    <string name="apn_auth_type">પ્રમાણીકરણ પ્રકાર</string>
+    <string name="apn_auth_type_none">કોઇ નહીં</string>
+    <string name="apn_auth_type_pap">PAP</string>
+    <string name="apn_auth_type_pap_chap">PAP અથવા CHAP</string>
+    <string name="apn_type">APN પ્રકાર</string>
+    <string name="apn_protocol">APN પ્રોટોકોલ</string>
+    <string name="menu_delete">APN ભૂંસો</string>
+    <string name="menu_new">નવું APN</string>
+    <string name="menu_save">સંગ્રહ કરો</string>
+    <string name="menu_cancel">કાઢી નાંખો</string>
+    <string name="error_title">સાવધાન</string>
+    <string name="error_name_empty">નામ ફિલ્ડ ખાલી રહી શકશે નહીં.</string>
+    <string name="error_apn_empty">APN ખાલી રહી શકશે નહીં.</string>
+    <string name="error_mcc_not3">MCC ફિલ્ડ 3 અંકોમાં હોવું ફરજિયાત છે.</string>
+    <string name="error_mnc_not23">MNC ફિલ્ડ 2 અથવા 3 અંકોમાં હોવું ફરજિયાત છે.</string>
+    <string name="restore_default_apn">પૂર્વનિર્ધારીત APN ગોઠવણી પુનઃસ્થાપિત કરો</string>
+    <string name="menu_restore">પૂર્વનિર્ધારીતમાં રીસેટ કરો</string>
+    <string name="restore_default_apn_completed">પૂર્વનિર્ધારીત APN ગોઠવણી રીસેટ સંપૂર્ણ</string>
+    <string name="master_clear_title">ફેક્ટરી ડેટા રીસેટ</string>
+    <string name="master_clear_summary">ફોન પરનો તમામ ડેટા સાફ કરે છે.</string>
+    <string name="master_clear_desc" product="nosdcard">"તમારા ફોનમાંથી આ તમામ ડેટા ભૂંસી નાખશે <b>આંતરીક સંગ્રહ</b>, સહિત:\n\n<li>તમારું Google ઍકાઉન્ટ</li>\n<li>સિસ્ટમ અને અનુપ્રયોગ ડેટા અને ગોઠવણી</li>\n<li>ડાઉનલોડ થયેલ અનુપ્રયોગો</li>\n\n સંગીત, ચિત્રો અને અન્ય વપરાશકર્તા ડેટા સાફ કરવા માટે<b>USB સંગ્રહ</b> ને ભૂંસવાની આવશ્યકતા છે.\n\n" </string>
+    <string name="master_clear_desc" product="default">"તમારા ફોનમાંથી આ તમામ ડેટા ભૂંસી નાખશે <b>આંતરીક સંગ્રહ</b>, સહિત:\n\n<li>તમારું Google ઍકાઉન્ટ</li>\n<li>સિસ્ટમ અને અનુપ્રયોગ ડેટા અને ગોઠવણી</li>\n<li>ડાઉનલોડ થયેલ અનુપ્રયોગો</li>\n\n સંગીત, ચિત્રો અને અન્ય વપરાશકર્તા ડેટા સાફ કરવા માટે<b>SD કાર્ડ</b> ને ભૂંસવાની આવશ્યકતા છે.\n\n" </string>
+    <string name="erase_external_storage" product="nosdcard">USB સંગ્રહ સાફ કરો</string>
+    <string name="erase_external_storage" product="default">SD કાર્ડ સાફ કરો</string>
+    <string name="erase_external_storage_description" product="nosdcard">ફોનના આંતરીક USB સંગ્રહ, જેમ કે સંગીત અથવા ફોટા, પરનો તમામ ડેટા સાફ કરો.</string>
+    <string name="erase_external_storage_description" product="default">ફોનના SD કાર્ડ, જેમ કે સંગીત અથવા ફોટા, પરનો તમામ ડેટા સાફ કરો.</string>
+    <string name="master_clear_button_text">ફોન રીસેટ કરો</string>
+    <string name="master_clear_final_desc">તમારી તમામ વ્યક્તિગત માહિતી અને કોઇ ડાઉનલોડેડ અનુપ્રયોગો સાફ કરવા છે? આ કાર્યમાંથી પરત ફરવું અશક્ય છે!</string>
+    <string name="master_clear_final_button_text">તમામ સાફ કરો</string>
+    <string name="master_clear_gesture_prompt">તમારી અનલોક પેટર્ન તૈયાર કરો</string>
+    <string name="master_clear_gesture_explanation">ફોન રીસેટ માટે તમારી અનલોક પેટર્ન તમારે દોરવી ફરજિયાત છે.</string>
+    <string name="master_clear_failed">કોઇ રીસેટ થયું નથી કારણ કે સિસ્ટમ ક્લીયર સેવા ઉપલબ્ધ નથી.</string>
+    <string name="media_format_title" product="nosdcard">USB સંગ્રહ સાફ કરો</string>
+    <string name="media_format_title" product="default">SD કાર્ડ સાફ કરો</string>
+    <string name="media_format_summary" product="nosdcard">USB સંગ્રહમાં તમામ ડેટા સાફ કરે છે</string>
+    <string name="media_format_summary" product="default">SD કાર્ડ પરના તમામ ડેટા સાફ કરે છે</string>
+    <string name="media_format_desc" product="nosdcard">આ કાર્ડ USB સંગ્રહ ભૂંસી નાખશે. ત્યાં સંગ્રહ થયેલ <b>તમામ</b> ડેટા તમે ગુમાવશો.</string>
+    <string name="media_format_desc" product="default">આ કાર્ડ SD કાર્ડ ભૂંસી નાખશે. કાર્ડ પર <b>તમામ</b> ડેટા તમે ગુમાવશો.</string>
+    <string name="media_format_button_text" product="nosdcard">USB સંગ્રહ સાફ કરો</string>
+    <string name="media_format_button_text" product="default">SD કાર્ડ સાફ કરો</string>
+    <string name="media_format_final_desc" product="nosdcard">USB સંગ્રહમાં સંગ્રહીત તમામ ફાઇલ ભૂંસી નાંખી તેને સાફ કરવું છે? આ કાર્યમાંથી પરત ફરી શકાશે નહીં!</string>
+    <string name="media_format_final_desc" product="default">SD કાર્ડમાં સંગ્રહીત તમામ ફાઇલ ભૂંસી નાંખી તેને સાફ કરવું છે? આ કાર્યમાંથી પરત ફરી શકાશે નહીં!</string>
+    <string name="media_format_final_button_text">તમામ સાફ કરો</string>
+    <string name="media_format_gesture_prompt">તમારી અનલોક પેટર્ન તૈયાર કરો</string>
+    <string name="media_format_gesture_explanation" product="nosdcard">તમે USB સંગ્રહ ભૂંસવા માગો છો તેની ખાતરી કરવા માટે તમારી અનલોક પેટર્ન તમારે દોરવી ફરજિયાત છે.</string>
+    <string name="media_format_gesture_explanation" product="default">તમે SD કાર્ડ ભૂંસવા માગો છો તેની ખાતરી કરવા માટે તમારી અનલોક પેટર્ન તમારે દોરવી ફરજિયાત છે.</string>
+    <string name="call_settings_title">કોલ સેટિંગ્ઝ</string>
+    <string name="call_settings_summary">વોઇઝમેઇલ, કોલ ફોરવાર્ડિંગ, કોલ વેઇટીંગ, કોલર ID ગોઠવો</string>
+    <string name="tether_settings_title_usb">નિયંત્રણ થાય છે</string>
+    <string name="tether_settings_title_wifi">પોર્ટેબલ હોટસ્પોટ</string>
+    <string name="tether_settings_title_both">આ નિયંત્રણ થાય છે &amp; પોર્ટેબલ હોટસ્પોટ</string>
+    <string name="tether_settings_summary_usb">USB મારફતે તમારા મોબાઇલ ફોનનો ડેટા સહિયારા કરો</string>
+    <string name="tether_settings_summary_wifi">પોર્ટેબલ Wi-Fi હોટસ્પોટ તરીકે તમારા મોબાઇલ ફોનનું જોડાણ સહિયારું કરો</string>
+    <string name="tether_settings_summary_both">USB મારફતે અથવા પોર્ટેબલ Wi-Fi હોટસ્પોટ તરીકે તમારા મોબાઇલ ફોનનો ડેટા સહિયારા કરો</string>
+    <string name="usb_title">USB</string>
+    <string name="usb_tethering_button_text">USB નિયંત્રણ</string>
+    <string name="usb_tethering_available_subtext">જોડાયેલ USB,  નિયંત્રણ માટે તપાસ કરો</string>
+    <string name="usb_tethering_active_subtext">નિયંત્રિત</string>
+    <string name="usb_tethering_storage_active_subtext">USB સંગ્રહ ઉપયોગમાં હોય ત્યારે નિયંત્રણ થઇ શકશે નહીં</string>
+    <string name="usb_tethering_unavailable_subtext">USB જોડાયેલ નથી</string>
+    <string name="usb_tethering_errored_subtext">USB નિયંત્રણ ભૂલ</string>
+    <string name="tethering_help_button_text">મદદ</string>
+    <string name="dual_settings_title">SIM કાર્ડ સંચાલન</string>
+    <string name="data_title">ડેટા જોડાણ ગોઠવણ</string>
+    <string name="dual_settings_always_prompt">હંમેશા સૂચન કરો</string>
+    <string name="set_data_subscription_progress">ડેટા સબસ્ક્રીપ્શન ચાલુ છે ગોઠવો</string>
+    <string name="set_dds_success">ડેટા સબસ્ક્રીપ્શન સફળ ગોઠવો</string>
+    <string name="set_dds_failed">સેટ ડેટા સબસ્ક્રીપ્શનમાં ભૂલ. કોઇ હયાત ડેટા જોડાણ સાફ કરો અને ફરીથી પ્રયાસ કરો.</string>
+    <string name="set_data_subscription_error_ok">ઓકે</string>
+    <string name="set_data_subscription_error_title">ભૂલ</string>
+    <string name="set_data_subscription_error">કોઇ SIM નથી, કૃપા કરી તપાસ કરો!</string>
+    <string name="set_data_subscription_timeout">ડેટા જોડાણ સમય બહાર ગોઠવો! </string>
+    <string name="no_need_set_data_subscription">ડેટા સબસ્ક્રીપ્શન ગોઠવણીની કોઇ આવશ્યકતા નથી.</string>
+    <string name="set_data_subscription_database_error">ડેટાબેઝ ભૂલ, કૃપા કરી ફરીથી પ્રયાસ કરો!</string>
+    <string name="network_settings_title">મોબાઇલ નેટવર્ક્સ</string>
+    <string name="network_settings_summary">રોમીંગ, નેટવર્ક્સ, APNs માટે વિકલ્પો ગોઠવો</string>
+    <string name="location_title">મારું સ્થળ</string>
+    <string name="location_network_based">વાયરલેસ નેટવર્ક્સનો ઉપયોગ કરો</string>
+    <string name="location_networks_disabled">વાયરલેસ નેટવર્ક્સનો ઉપયોગ કરી અનુપ્રયોગોમાં (જેમ કે નકશા) તમામ સ્થળો જુઓ</string>
+    <string name="location_neighborhood_level">Wi-Fi અને/અથવા મોબાઇલ નેટવર્ક દ્વારા નક્કી થયેલ સ્થળ</string>
+    <string name="location_gps">GPS સેટેલાઇટનો ઉપયોગ કરો</string>
+    <string name="location_street_level">શોધ સમયે, ચોક્કસ ગલી સ્તર</string>
+    <string name="location_gps_disabled">શેરી-સ્તર પર શોધો (આકાશ દર્શન સાથે વધુ બેટરીની આવશ્યકતા છે)</string>
+    <string name="assisted_gps">GPS સહાયક ઉપયોગ કરો</string>
+    <string name="assisted_gps_enabled">GPS સહાય માટે સર્વરનો ઉપયોગ કરો (નેટવર્ક ઉપયોગ ઘટાડવા માટે અનચેક કરો)</string>
+    <string name="assisted_gps_disabled">GPS સહાય માટે સર્વરનો ઉપયોગ કરો (GPS કાર્યક્ષમતા સુધારવા માટે અનચેક કરો)</string>
+    <string name="about_settings">ફોન વિશે</string>
+    <string name="about_settings_summary">કાનુની માહિતી, ફોન સ્થિતિ, સોફ્ટવેર સંસ્કરણ જુઓ</string>
+    <string name="legal_information">કાનુની માહિતી</string>
+    <string name="contributors_title">વિતરકો</string>
+    <string name="copyright_title">કોપીરાઇટ</string>
+    <string name="license_title">લાયસન્સ</string>
+    <string name="terms_title">શરતો અને બંધનો</string>
+    <string name="system_tutorial_list_item_title">સિસ્ટમ શિક્ષણ</string>
+    <string name="system_tutorial_list_item_summary">તમારો ફોન કેવી રીતે ઉપયોગ કરવો તે શીખો</string>
+    <string name="settings_license_activity_title">સ્ત્રોત લાયસન્સો ખોલો</string>
+    <string name="settings_license_activity_unavailable">લાયસન્સ લોડીંગમાં સમસ્યા છે.</string>
+    <string name="settings_license_activity_loading">લોડ થાય છે\u2026</string>
+    <string name="settings_safetylegal_title">સલામતી માહિતી</string>
+    <string name="settings_safetylegal_activity_title">સલામતી માહિતી</string>
+    <string name="settings_safetylegal_activity_unreachable">ડેટા સર્વિસ સાથે તમારો ફોન જોડાયેલ નથી. આ માહિતી હમણાં જોવા માટે, ઇન્ટરનેટ સાથે જોડાયેલ કોઇ કોમ્પ્યુટરમાંથી %s પર જાવ.</string>
+    <string name="settings_safetylegal_activity_loading">લોડ થાય છે\u2026</string>
+    <string name="lockpassword_choose_your_password_header">તમારો પાસવર્ડ પસંદ કરો</string>
+    <string name="lockpassword_choose_your_pin_header">તમારો PIN પસંદ કરો</string>
+    <string name="lockpassword_confirm_your_password_header">તમારો પાસવર્ડ પુષ્ટિ કરો</string>
+    <string name="lockpassword_confirm_your_pin_header">તમારો PIN પુષ્ટિ કરો</string>
+    <string name="lockpassword_confirm_passwords_dont_match">પાસવર્ડ્ઝ બંધ બેસતા નથી</string>
+    <string name="lockpassword_confirm_pins_dont_match">PINs સમાન થતા નથી</string>
+    <string name="lockpassword_password_set_toast">પાસવર્ડ ગોઠવણી થઇ છે</string>
+    <string name="lockpassword_pin_set_toast">PIN ગોઠવણી થઇ છે</string>
+    <string name="lockpassword_pattern_set_toast">પેટર્નની ગોઠવણી થઇ છે</string>
+    <string name="lock_settings_title">સ્ક્રીન અનલોક</string>
+    <string name="lockpattern_change_lock_pattern_label">અનલોક પેટર્ન બદલાવો</string>
+    <string name="lockpattern_change_lock_pin_label">અનલોક PIN બદલાવો</string>
+    <string name="lockpattern_need_to_unlock">સંગ્રહિત રીત પુષ્ટિ કરો</string>
+    <string name="lockpattern_need_to_unlock_wrong">માફ કરજો, ફરીથી પ્રયાસ કરો</string>
+    <string name="lockpattern_recording_intro_header">અનલોક રીત ખેંચો</string>
+    <string name="lockpattern_recording_intro_footer">મદદ માટે મેનુ દબાવો.</string>
+    <string name="lockpattern_recording_inprogress">પૂર્ણ થાય ત્યારે આંગળી મુક્ત કરો</string>
+    <string name="lockpattern_recording_incorrect_too_short">કમસે કમ <xliff:g id="number">%d</xliff:g> ડોટ્સ જોડાણ કરો. ફારીથી પ્રયાસ કરો:</string>
+    <string name="lockpattern_pattern_entered_header">રેકોર્ડ થયેલ પેટર્ન!</string>
+    <string name="lockpattern_need_to_confirm">પુષ્ટિ માટે ફરીથી પેટર્ન તૈયાર કરો:</string>
+    <string name="lockpattern_pattern_confirmed_header">તમારી નવી અનલોક પેટર્ન:</string>
+    <string name="lockpattern_confirm_button_text">પુષ્ટિ કરો</string>
+    <string name="lockpattern_restart_button_text">ફરી દોરો</string>
+    <string name="lockpattern_retry_button_text">પુનઃપ્રયાસ</string>
+    <string name="lockpattern_continue_button_text">ચાલુ રાખો</string>
+    <string name="lockpattern_settings_title">પેટર્ન અનલોક કરો</string>
+    <string name="lockpattern_settings_enable_title">પેટર્નની આવશ્યકતા</string>
+    <string name="lockpattern_settings_enable_summary">સ્ક્રીન અનલોક કરવા માટે પેટર્ન દોરવી ફરજિયાત છે</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">દ્રશ્ય પેટર્નનો ઉપયોગ કરો</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">સ્પર્શ સૂચનનો ઉપયોગ કરો</string>
+    <string name="lockpattern_settings_choose_lock_pattern">અનલોક પેટર્ન ગોઠવો</string>
+    <string name="lockpattern_settings_change_lock_pattern">અનલોક પેટર્ન બદલાવો</string>
+    <string name="lockpattern_settings_help_how_to_record">અનલોક પેટર્ન કેવી રીતે તૈયાર કરવી</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">વધુ પડતા અયોગ્ય પ્રયાસો!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer"><xliff:g id="number">%d</xliff:g> સેકન્ડ્ઝમાં ફરીથી પ્રયાસ કરો.</string>
+    <string name="skip_button_label">રદ્દ કરવું</string>
+    <string name="next_button_label">આગામી</string>
+    <string name="lock_title">તમારો ફોન સલામત કરે છે</string>
+    <string name="lock_intro_message"><font size="17">વ્યક્તિગત સ્ક્રીન અનલોક રીત તૈયાર  કરી અનધિકૃત ઉપયોગથી તમારા ફોનને બચાવો.
+        \n<font height="17">\n</font><b>1</b>\u00A0 આગામી સ્ક્રીન પર,  એક નમૂનારૂપ રીત તૈયાર થાય તે જુઓ.
+        \n<font height="17">\n</font><b>2</b>\u00A0 તૈયાર થાય ત્યારે, તમારી પોતાની વ્યક્તિગત રીત તૈયાર કરો. વિવિધ રીતો સાથે પ્રયોગ કરો પરંતુ ઓછામાં ઓછા ચાર ટપકાં વડે જોડાણ કરો.
+        \n<font height="17">\n</font><b>3</b>\u00A0 ખાતરી કરવા માટે તમારી રીત ફરી તૈયાર કરો.
+        \n<font height="17">\n</font><b>શરૂ કરવા માટે તૈયાર છો? સ્પર્શ કરો \u2012Cઆગામી\u201D</b>.
+        \n<font height="3">\n</font>તમારા ફોનને અસલામત રાખવા માટે, સ્પર્શ કરો \u201Cરદ્દ કરો\u201D.</font>
+    </string>
+    <string name="lock_example_title">ઉદાહરણ પેટર્ન</string>
+    <string name="lock_example_message">કમસે કમ ચાર ડોટ્સ જોડાણ કરો.\n
+        \nસ્પર્શ\u201Cઆગામી\u201D જ્યારે તમે તમારી પોતાની પેટર્ન દોરવા માટે તૈયાર હો.</string>
+    <string name="manageapplications_settings_title">અનુપ્રયોગો સંચાલન કરો</string>
+    <string name="manageapplications_settings_summary">સ્થાપિત અનુપ્રયોગો સંચાલન અથવા દૂર કરો</string>
+    <string name="applications_settings">અનુપ્રયોગો</string>
+    <string name="applications_settings_summary">અનુપ્રયોગો સંચાલન કરો, ઝડપી લોન્સ શોર્ટક્ટ્સ સેટ કરો</string>
+    <string name="applications_settings_header">અનુપ્રયોગ ગોઠવણી</string>
+    <string name="install_applications">અજ્ઞાત પ્રકારો</string>
+    <string name="install_unknown_applications">નોન-માર્કે અનુપ્રયોગો માટે સ્થાપનને અનુમતિ આપો</string>
+    <string name="install_all_warning">અજ્ઞાત સ્ત્રોતો પરથી અનુપ્રયોગો દ્વારા હુમલા માટે તમારો ફોન અને વ્યક્તિગ ડેટા વધુ હુમલાપાત્ર છે. આ અનુપ્રયોગોના ઉપયોગ કરવાથી કોઇ નુકશાન થાય અથવા ડેટા ગુમ થાય તે માટે તમે સંપૂર્ણ જવાબદાર રહેશો તે માટે તમે સંમત છો.</string>
+    <string name="application_info_label">અનુપ્રયોગ માહિતી</string>
+    <string name="storage_label">સંગ્રહ</string>
+    <string name="auto_launch_label">પૂર્વનિર્ધારીત દ્વારા લોન્ચ કરો</string>
+    <string name="permissions_label">અનુમતિઓ</string>
+    <string name="cache_header_label">કેચ</string>
+    <string name="clear_cache_btn_text">કેચ સાફ કરો</string>
+    <string name="cache_size_label">કેચ</string>
+    <string name="controls_label">નિયંત્રણો</string>
+    <string name="force_stop">ફોર્સ બંધ</string>
+    <string name="total_size_label">કુલ</string>
+    <string name="application_size_label">અનુપ્રયોગ</string>
+    <string name="data_size_label">ડેટા</string>
+    <string name="uninstall_text">સ્થાપન રદ્દ કરવું</string>
+    <string name="disable_text">નિષ્ક્રીય</string>
+    <string name="enable_text">સક્રિય કરવું</string>
+    <string name="clear_user_data_text">ડેટા સાફ કરો</string>
+    <string name="app_factory_reset">અદ્યતનો દૂર કરો</string>
+    <string name="auto_launch_enable_text">અમુક કાર્યો માટે પૂર્વનિર્ધારીત રીતે આ અનુપ્રયોગ લોન્ચ કરવાનું તમે પસંદ કર્યું છે.</string>
+    <string name="auto_launch_disable_text">કોઇ પૂર્વનિર્ધારીત સેટ નથી.</string>
+    <string name="clear_activities">પૂર્વનિર્ધારીત સાફ કરો</string>
+    <string name="unknown">અજ્ઞાત</string>
+    <string name="sort_order_alpha">નામ દ્વારા ગોઠવણ કરો</string>
+    <string name="sort_order_size">કદ દ્વારા ગોઠવણ કરો</string>
+    <string name="show_running_services">ચાલુ સેવાઓ દર્શાવો</string>
+    <string name="show_background_processes">કેશ્ડ પ્રક્રિયાઓ દર્શાવો</string>
+    <string name="manage_space_text">અવકાશ સંચાલન કરો</string>
+    <string name="filter">ફિલ્ટર</string>
+    <string name="filter_dlg_title">ફિલ્ટર વિકલ્પો પસંદ કરો</string>
+    <string name="filter_apps_all">તમામ</string>
+    <string name="filter_apps_third_party">ડાઉનલોડ થયેલ</string>
+    <string name="filter_apps_running">રન થાય છે</string>
+    <string name="filter_apps_onsdcard" product="nosdcard">USB સંગ્રહ</string>
+    <string name="filter_apps_onsdcard" product="default">SD કાર્ડ પર</string>
+    <string name="disabled">નિષ્ક્રીય છે</string>
+    <string name="no_applications">કોઇ અનુપ્રયોગ નથી</string>
+    <string name="internal_storage">આંતરીક સંગ્રહ </string>
+    <string name="sd_card_storage" product="nosdcard">USB સંગ્રહ</string>
+    <string name="sd_card_storage" product="default">SD કાર્ડ સંગ્રહ</string>
+    <string name="recompute_size">કદ ફરી ગણના થાય છે\u2026</string>
+    <string name="clear_data_dlg_title">કાઢી નાંખવું</string>
+    <string name="clear_data_dlg_text">આ અનુપ્રયોગનો તમામ ડેટા કાયમ માટે ભૂંસાઇ જશે, તેમાં તમામ ફાઇલ્સ, ગોઠવણીઓ, ખાતાઓ, ડેટાબેઝીસ અને વધુનો સમાવેશ થાય છે.</string>
+    <string name="dlg_ok">ઓકે</string>
+    <string name="dlg_cancel">રદ્દ કરવું</string>
+    <string name="app_not_found_dlg_title">અનુપ્રયોગ શાધાયું નથી</string>
+    <string name="app_not_found_dlg_text">સ્થાપિત અનુપ્રયોગોની સૂચિમાં અનુપ્રયોગ શોધાયો નથી.</string>
+    <string name="clear_data_failed">અનુપ્રયોગ ડેટા સાફ કરવામાં નિષ્ફળ.</string>
+    <string name="app_factory_reset_dlg_title">અદ્યતનો દૂર કરો</string>
+    <string name="app_factory_reset_dlg_text">આ એન્ડ્રોઇડ સિસ્ટમ અનુપ્રયોગમાં તમામ અદ્યતનો તમે કાઢી નાખવા માગો છો? </string>
+    <string name="clear_failed_dlg_title">ડેટા સાફ કરો</string>
+    <string name="clear_failed_dlg_text">અનુપ્રયોગ માટે ડેટા સાફ કરવામાં નિષ્ફળ</string>
+    <string name="security_settings_desc">તમારા ફોનમાં આ અનુપ્રયોગ નીચે મુજબ પ્રવેશ કરી શકશે:</string>
+    <string name="computing_size">કોમ્પ્યુટીંગ\u2026</string>
+    <string name="invalid_size_value">પેકેજ કદ ગણવામાં નિષ્ફળ</string>
+    <string name="empty_list_msg">તમે ત્રાહિત-પક્ષ અનુપ્રયોગો સ્થાપિત ધરાવતા નથી. </string>
+    <string name="version_text">સંસ્કરણ <xliff:g id="version_num">%1$s</xliff:g></string>
+    <string name="move_app">સ્થળાંતર કરો</string>
+    <string name="move_app_to_internal">ફોનમાં ખસેડો</string>
+    <string name="move_app_to_sdcard" product="nosdcard">USB સંગ્રહમાં ખસેડો</string>
+    <string name="move_app_to_sdcard" product="default">SD કાર્ડમાં ખસેડો</string>
+    <string name="moving">ખસે છે</string>
+    <string name="insufficient_storage">પર્યાપ્ત સંગ્રહ બાકી નથી.</string>
+    <string name="does_not_exist">અનુપ્રયોગ હયાત નથી.</string>
+    <string name="app_forward_locked">અનુપ્રયોગ નકલ-સુરક્ષ‍િત છે. </string>
+    <string name="invalid_location">દર્શાવેલ સ્થાપન સ્થળ માન્ય નથી.</string>
+    <string name="system_package">બાહ્ય મીડિયા પર સિસ્ટમ અદ્યતનો સ્થાપિત થઇ શકશે નહીં. </string>
+    <string name="force_stop_dlg_title">ફોર્સ બંધ</string>
+    <string name="force_stop_dlg_text">અનુપ્રયોગ ફોર્સ બંધ કરવાથી તે તકલીફ કરી શકે છે. તમને ખાતરી છે?</string>
+    <string name="move_app_failed_dlg_title">અનુપ્રયોગ ખસેડો</string>
+    <string name="move_app_failed_dlg_text">અનુપ્રયોગ ખસેડવામાં નિષ્ફળ. <xliff:g id="reason">%1$s</xliff:g></string>
+    <string name="app_install_location_title">પસંદગીનું સ્થળ સ્થાપિત કરો</string>
+    <string name="app_install_location_summary">નવાં અનુપ્રયોગો માટે પસંદગીયુક્ત સ્થાપન સ્થળ બદલાવો.</string>
+    <string name="storageuse_settings_title">સંગ્રહ ઉપયોગ</string>
+    <string name="storageuse_settings_summary">અનુપ્રયોગો દ્વારા ઉપયોગમાં લેવાયેલ સંગ્રહ જુઓ</string>
+    <string name="runningservices_settings_title">સેવાઓ રન થાય છે</string>
+    <string name="runningservices_settings_summary">વર્તમાન ચાલુ સેવાઓ જુઓ અને નિયંત્રણ કરો</string>
+    <string name="service_restarting">ફરી શરૂ થાય છે</string>
+    <string name="cached">કેશ બેકગ્રાઉન્ડ પ્રોસેસ</string>
+    <string name="no_running_services">કોઇ ચાલુ નથી.</string>
+    <string name="service_started_by_app">અનુપ્રયોગ દ્વારા શરૂ થયું.</string>
+    <string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> મુક્ત</string>
+    <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> ઉપયોગ થયો છે</string>
+    <string name="memory">RAM</string>
+    <string name="running_processes_item_description_s_s"><xliff:g id="numprocess">%1$d</xliff:g>
+        પ્રક્રિયા અને <xliff:g id="numservices">%2$d</xliff:g> સેવા</string>
+    <string name="running_processes_item_description_s_p"><xliff:g id="numprocess">%1$d</xliff:g>
+        પ્રક્રિયા અને <xliff:g id="numservices">%2$d</xliff:g> સેવાઓ</string>
+    <string name="running_processes_item_description_p_s"><xliff:g id="numprocess">%1$d</xliff:g>
+        પ્રક્રિયાઓ અને <xliff:g id="numservices">%2$d</xliff:g> સેવા</string>
+    <string name="running_processes_item_description_p_p"><xliff:g id="numprocess">%1$d</xliff:g>
+        પ્રક્રિયાઓ અને <xliff:g id="numservices">%2$d</xliff:g> સેવાઓ</string>
+    <string name="runningservicedetails_settings_title">અનુપ્રયોગ રન થાય છે</string>
+    <string name="no_services">સક્રિય નથી</string>
+    <string name="runningservicedetails_services_title">સેવાઓ</string>
+    <string name="runningservicedetails_processes_title">પ્રક્રિયાઓ</string>
+    <string name="service_stop">બંધ કરો</string>
+    <string name="service_manage">ગોઠવણી</string>
+    <string name="service_stop_description">આ સેવા તેના અનુપ્રયોગ દ્વારા શરૂ થઇ હતી. તેને બંધ કરવાથી અનુપ્રયોગ નિષ્ફળ જઇ શકે છે.</string>
+    <string name="heavy_weight_stop_description">આ અનુપ્રયોગ સલામત રીતે બંધ થઇ શકશે નહીં. આમ કરવાથી તમારું થોડું વર્તમાન કાર્ય ગુમ થઇ જશે.</string>
+    <string name="background_process_stop_description">આ એક જૂની અનુપ્રયોગ પ્રક્રિયા છે જે તેની ફરી આવશ્યકતા ઊભી થાય તેવા કિસ્સામાં વધુ ઝડપ માટે સાચવી રાખવામાં આવી છે. સામાન્ય રીતે તેને અટકાવવાનું કોઇ કારણ નથી.</string>
+    <string name="service_manage_description"><xliff:g id="client_name">%1$s</xliff:g>:
+        હાલ ઉપયોગમાં છે. ‍ તેને નિયંત્રણ માટે ગોઠવણ સ્પર્શ કરો.</string>
+    <string name="main_running_process_description">મુખ્ય પ્રક્રિયા ઉપયોગમાં છે.</string>
+    <string name="process_service_in_use_description"><xliff:g id="comp_name">%1$s</xliff:g> સેવા ઉપયોગમાં છે.</string>
+    <string name="process_provider_in_use_description"><xliff:g id="comp_name">%1$s</xliff:g>પુરસ્કર્તા ઉપયોગમાં છે.</string>
+    <string name="runningservicedetails_stop_dlg_title">સિસ્ટમ સેવા બંધ કરવી છે?</string>
+    <string name="runningservicedetails_stop_dlg_text">આ સિસ્ટમ સેવા તમે બંધ કરવા માટે તમે નિશ્ચિત છો? જો તમે આમ કરો, તો તમારો ફોન બંધ કરી ફરી ચાલુ ન કરો ત્યાં સુધી તમારા ફોનની અમુક સુવિધા યોગ્ય રીતે કાર્ય કરતી બંધ થશે.</string>
+    <string name="language_settings">ભાષા &amp; કિબોર્ડ</string>
+    <string name="language_keyboard_settings_title">ભાષા &amp; કિબોર્ડ ગોઠવણી</string>
+    <string name="language_settings_category">ભાષા સેટિંગ્ઝ</string>
+    <string name="keyboard_settings_category">કિબોર્ડ ગોઠવણી</string>
+    <string name="phone_language">ભાષા પસંદ કરો</string>
+    <string name="auto_replace">સ્વયં-બદલી</string>
+    <string name="auto_replace_summary">ખોટા ટાઇપ થયેલ શબ્દો સુધારો</string>
+    <string name="auto_caps">ઓટો-કેપ</string>
+    <string name="auto_caps_summary">વાક્યોમાં પ્રથમ અક્ષર કેપીટલ કરો</string>
+    <string name="auto_punctuate">ઓટો-પંક્ચ્યુએટ</string>
+    <string name="hardkeyboard_category">ભૌતિક કિબોર્ડ ગોઠવણી</string>
+    <string name="auto_punctuate_summary">દાખલ કરવા માટે સ્પેસ કિ બે વખત દબાવો\u0022.\u0022 </string>
+    <string name="show_password">દ્રશ્યપાત્ર પાસવર્ડ</string>
+    <string name="show_password_summary">તમે ટાઇપ કરો તેમ પાસવર્ડ દર્શાવો</string>
+    <string name="ime_security_warning">પાસવર્ડ અને ક્રેડિટ કાર્ડ નંબર જેવી વ્યક્તિગત માહિતી સહિત, તમે ટાઇપ કરો તે તમામ પાઠ્ય આ પ્રવેશ રીત એકત્ર કરી શકે છે. તે <xliff:g id="ime_application_name">%1$s</xliff:g> અનુપ્રયોગ તરફથી આવે છે. તમારે આ પ્રવેશ રીતનો ઉપયોગ કરવો છે? </string>
+    <string name="user_dict_settings_titlebar">ઉપયોગકર્તા શબ્દકોશ</string>
+    <string name="user_dict_settings_title">ઉપયોગકર્તા શબ્દકોશ</string>
+    <string name="user_dict_settings_add_menu_title">ઉમેરવું</string>
+    <string name="user_dict_settings_add_dialog_title">શબ્દકોષમાં ઉમેરો</string>
+    <string name="user_dict_settings_edit_dialog_title">શબ્દ સંપાદિત કરો</string>
+    <string name="user_dict_settings_context_menu_edit_title">ફેરફાર કરવો</string>
+    <string name="user_dict_settings_context_menu_delete_title">કાઢી નાંખવું</string>
+    <string name="user_dict_settings_empty_text">ઉપયોગકર્તા શબ્દકોશમાં તમે કોઇ શબ્દો ધરાવતા નથી. મેનુ દ્વારા તમે શબ્દ ઉમેરી શકશો.</string>
+    <string name="testing">તપાસ થાય છે</string>
+    <string name="testing_phone_info">ફોન માહિતી</string>
+    <string name="testing_battery_info">બેટરી માહિતી</string>
+    <string name="quick_launch_title">ઝડપી લોન્ચ</string>
+    <string name="quick_launch_summary">અનુપ્રયોગો લોન્ચ કરવા માટે કિબોર્ડ શોર્ટકટ ગોઠવો</string>
+    <string name="quick_launch_assign_application">અનુપ્રયોગ ફાળવો</string>
+    <string name="quick_launch_no_shortcut">કોઇ શોર્ટકટ નહીં</string>
+    <string name="quick_launch_shortcut">શોધો + <xliff:g id="shortcut_letter">%1$s</xliff:g></string>
+    <string name="quick_launch_clear_dialog_title">સાફ</string>
+    <string name="quick_launch_clear_dialog_message"><xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>) માટેનો તમારો શોર્ટકટ સાફ થશે.</string>
+    <string name="quick_launch_clear_ok_button">ઓકે</string>
+    <string name="quick_launch_clear_cancel_button">રદ્દ કરવું</string>
+    <string name="quick_launch_display_mode_applications">અનુપ્રયોગો</string>
+    <string name="quick_launch_display_mode_shortcuts">શોર્ટકટ્સ</string>
+    <string name="input_methods_settings_title">પાઠ્ય પ્રવેશ</string>
+    <string name="input_methods_settings_summary">પાઠ્ય પ્રવેશ વિકલ્પો સંચાલન કરો</string>
+    <string name="input_methods_settings_label_format"><xliff:g id="ime_name">%1$s</xliff:g> ગોઠવણી</string>
+    <string name="onscreen_keyboard_settings_summary">ઓનસ્ક્રીન કિબોર્ડ ગોઠવણી</string>
+    <string name="builtin_keyboard_settings_title">જોડાયેલ કિબોર્ડ</string>
+    <string name="builtin_keyboard_settings_summary">જોડાયેલ, વાસ્તવિક કિબોર્ડ ગોઠવણી</string>
+    <string name="development_settings_title">વિકાસ</string>
+    <string name="development_settings_summary">અનુપ્રયોગ વિકાસ માટે વિકલ્પો ગોઠવો</string>
+    <string name="enable_adb">USB ડિબગીંગ</string>
+    <string name="enable_adb_summary">USB જોડાણ હોય ત્યારે ડિબગ મોડ</string>
+    <string name="keep_screen_on">જાગૃત રહો</string>
+    <string name="keep_screen_on_summary">ચાર્જીંગ સમયે સ્ક્રીન ક્યારેય બંધ થશે નહીં</string>
+    <string name="allow_mock_location">ઉદાહરણ સ્થળોને અનુમતિ આપો</string>
+    <string name="allow_mock_location_summary">ઉદાહરણ સ્થળોને અનુમતિ આપો</string>
+    <string name="adb_warning_title">USB ડિબીગીંગને અનુમતિ આપવી છે?</string>
+    <string name="adb_warning_message">USB ડિબગીંગ માત્ર વિકાસ હેતુઓ માટે છે. તમારા કોમ્પ્યુટર અને તમારા સાધન વચ્ચે ડેટા નકલ કરવા માટે, જાણકારી વિના તમારા સાધનમાં અનુપ્રયોગો સ્થાપિત કરવા માટે, અને લોગ ડેટા વાંચન માટે તેનો ઉપયોગ થઇ શકે છે.</string>
+    <string name="gadget_picker_title">ગેજેટ પસંદ કરો</string>
+    <string name="widget_picker_title">વિજેટ પસંદ કરો</string>
+    <string name="battery_history_days"><xliff:g id="days">%1$d</xliff:g>દિ<xliff:g id="hours">%2$d</xliff:g>ક <xliff:g id="minutes">%3$d</xliff:g>મ <xliff:g id="seconds">%4$d</xliff:g>સે</string>
+    <string name="battery_history_hours"><xliff:g id="hours">%1$d</xliff:g>ક <xliff:g id="minutes">%2$d</xliff:g>મી <xliff:g id="seconds">%3$d</xliff:g>સે</string>
+    <string name="battery_history_minutes"><xliff:g id="minutes">%1$d</xliff:g>મી <xliff:g id="seconds">%2$d</xliff:g>સે</string>
+    <string name="battery_history_seconds"><xliff:g id="seconds">%1$d</xliff:g>સે</string>
+    <string name="usage_stats_label">ઉપયોગ ગણના</string>
+    <string name="testing_usage_stats">ઉપયોગ ગણના</string>
+    <string name="display_order_text">દ્વારા ગોઠવણ કરો:</string>
+    <string name="app_name_label">અનુપ્રયોગ</string>
+    <string name="launch_count_label">ગણના</string>
+    <string name="usage_time_label">ઉપયોગ સમય</string>
+    <string name="accessibility_settings">પ્રવેશક્ષમતા</string>
+    <string name="accessibility_settings_title">પ્રવેશક્ષમતા ગોઠવણી</string>
+    <string name="accessibility_settings_summary">પ્રવેશ વિકલ્પો સંચાલન કરો</string>
+    <string name="toggle_accessibility_title">પ્રવેશક્ષમતા</string>
+    <string name="accessibility_services_category">પ્રવેશક્ષમતા સેવા</string>
+    <string name="no_accessibility_services_summary">કોઇ સ્થાપિત પ્રવેશ સેવાઓ નથી.</string>
+    <string name="accessibility_service_security_warning">પાસવર્ડ વિના વ્યક્તિગત ડેટા ક્રેડિટ કાર્ડ નંબર સહિત તમે ટાઇપ કરો તે તમામ પાઠ્ય આ પ્રવેશ સેવા એકત્ર કરી શકે છે. તમારી ઉપયોગકર્તા આંતરફલક આંતરક્રિયાઓમાં પણ લોગ કરશે. તે  <xliff:g id="accessibility_service_name">%1$s</xliff:g> અનુપ્રયોગ સાથે આવે છે. આ પ્રવેશ સેવાનો ઉપયોગ કરવો છે?</string>
+    <string name="accessibility_service_disable_warning">પ્રવેશક્ષમતા નિષ્ક્રીય કરવી છે?</string>
+    <string name="accessibility_service_no_apps_title">પ્રવેશક્ષમતા સંલગ્ન અનુપ્રયોગ શોધાયો નથી</string>
+    <string name="accessibility_service_no_apps_message">તમે પ્રવેશ સંલગ્ન અનુપ્રયોગો સ્થાપન ધરાવતા નથી.\n\nAndroid Market માંથી તમારા સાધન માટે તમે સ્ક્રીન રીડર ડાઉનલોડ કરી શકશો.\n\nસ્ક્રીન રીડર સ્થાપિત કરવા માટે ઓકે ક્લિક કરો.</string>
+    <string name="accessibility_power_button_category">પાવર બટન</string>
+    <string name="accessibility_power_button_ends_call">પાવર બટન કોલ સમાપ્ત કરે છે</string>
+    <string name="accessibility_power_button_ends_call_summary">કોલ દરમિયાન, પાવર દબાવવાથી સ્ક્રીન બંધ થવાને બદલે કોલ સમાપ્તિ થાય છે</string>
+    <string name="power_usage_summary_title">બેટરી ઉપયોગ</string>
+    <string name="power_usage_summary">બેટરીનો શું ઉપયોગ થયો છે</string>
+    <string name="battery_since_unplugged">અનપ્લગથી બેટરી ઉપયોગ</string>
+    <string name="battery_since_reset">રીસેટથી બેટરી ઉપયોગ</string>
+    <string name="battery_stats_on_battery">બેટરી પર <xliff:g id="time">%1$s</xliff:g> </string>
+    <string name="battery_stats_duration"><xliff:g id="time">%1$s</xliff:g> વિખૂટું થયું ત્યારથી</string>
+    <string name="battery_stats_charging_label">ચાર્જીંગ થાય છે</string>
+    <string name="battery_stats_screen_on_label">સ્ક્રીન ચાલુ</string>
+    <string name="battery_stats_gps_on_label">GPS ચાલુ</string>
+    <string name="battery_stats_wake_lock_label">સક્રિય કરવું</string>
+    <string name="battery_stats_phone_signal_label">ફોન સિગ્નલ</string>
+    <string name="awake">સાધન જાગૃતિ સમય</string>
+    <string name="wifi_on_time">Wi-Fi સમય પર</string>
+    <string name="bluetooth_on_time">Wi-Fi સમય પર</string>
+    <string name="usage_name_percent"><xliff:g id="name">%1$s</xliff:g>" - "
+            <xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g></string>
+    <string name="details_title">બેટરી ઉપયોગ વિગતો</string>
+    <string name="details_subtitle">વિગતો ઉપયોગ કરો</string>
+    <string name="controls_subtitle">પાવર ઉપયોગ વોઠવણી કરો</string>
+    <string name="packages_subtitle">સમાવિષ્ટ પેકેજીસ</string>
+    <string name="power_screen">ડિસ્પ્લે</string>
+    <string name="power_bluetooth">બ્લુટુથ</string>
+    <string name="power_cell">સેલ સ્ટેન્ડ બાય</string>
+    <string name="power_phone">વોઇઝ કોલ્સ</string>
+    <string name="power_idle">ફોન નિષ્ક્રીય</string>
+    <string name="usage_type_cpu">CPU સરવાળો</string>
+    <string name="usage_type_cpu_foreground">CPU ફોરગ્રાઉન્ડ</string>
+    <string name="usage_type_wake_lock">જાગૃત રાખો</string>
+    <string name="usage_type_wifi_running">Wi-Fi ચાલુ છે</string>
+    <string name="usage_type_phone">ફોનીક્સ</string>
+    <string name="usage_type_data_send">ડેટા રવાનગી</string>
+    <string name="usage_type_data_recv">ડેટા પ્રાપ્ત</string>
+    <string name="usage_type_audio">ઓડિયો</string>
+    <string name="usage_type_video">વિડીયો</string>
+    <string name="usage_type_on_time">પર સમય</string>
+    <string name="usage_type_no_coverage">સિગ્નલ વિના સમય</string>
+    <string name="battery_action_stop">ફોર્સ બંધ</string>
+    <string name="battery_action_app_details">અનુપ્રયોગ માહિતી</string>
+    <string name="battery_action_app_settings">અનુપ્રયોગ ગોઠવણી</string>
+    <string name="battery_action_display">ગોઠવણીઓ પ્રદર્શિત કરો</string>
+    <string name="battery_action_wifi">Wi-Fi ગોઠવણી</string>
+    <string name="battery_action_bluetooth">બ્લુટુથ સેટિંગ્ઝ</string>
+    <string name="battery_desc_voice">વોઇઝ કોલ્સ દ્વારા બેટરી ઉપયોગ</string>
+    <string name="battery_desc_standby">ફોન નિષ્ક્રીય હોય ત્યારે બેટરી ઉપયોગ</string>
+    <string name="battery_desc_radio">સેલ રેડિયો દ્વારા બેટરી ઉપયોગ</string>
+    <string name="battery_sugg_radio">કોઇ સેલ કવરેજ ન હોય તેવા વિસ્તારોમાં પાવર બચત માટે એરપ્લેન મોડમાં બદલી કરો</string>
+    <string name="battery_desc_display">ડિસ્પ્લે અને બેકલાઇટ દ્વારા બેટરી ઉપયોગ</string>
+    <string name="battery_sugg_display">સ્ક્રીન પ્રકાશ ઓછો કરો અને/અથવા સ્ક્રીન સમયબહાર</string>
+    <string name="battery_desc_wifi">Wi-Fi દ્વારા બેટરી ઉપયોગ</string>
+    <string name="battery_sugg_wifi">Wi-Fi  ઉપયોગમાં ન હોય અથવા ઉપલબ્ધ ન હોય ત્યારે તેને બંધ કરો</string>
+    <string name="battery_desc_bluetooth">બ્લુટુથ દ્વારા બેટરી ઉપયોગ</string>
+    <string name="battery_sugg_bluetooth_basic">તમે ઉપયોગ કરતા ન હો ત્યારે બ્લુટુથ બંધ કરો</string>
+    <string name="battery_sugg_bluetooth_headset">અલગ બ્લુટુથ સાધન સાથે જોડાણનો પ્રયાસ કરો</string>
+    <string name="battery_desc_apps">અનુપ્રયોગ દ્વારા બેટરી ઉપયોગ</string>
+    <string name="battery_sugg_apps_info">અનુપ્રયોગ બંધ અથવા સ્થાપન દૂર કરો</string>
+    <string name="battery_sugg_apps_gps">"અનુપ્રયોગનો ઉપયોગ અટકાવવા માટે મેન્યુલી GPS નિયંત્રણ કરો"</string>
+    <string name="battery_sugg_apps_settings">બેટરી ઉપયોગ ઘટાડવા માટે અનુપ્રયોગ ગોઠવણી રજુ કરશે</string>
+    <string name="menu_stats_unplugged"><xliff:g id="unplugged">%1$s</xliff:g> વિખૂટું થયું ત્યારથી</string>
+    <string name="menu_stats_last_unplugged"><xliff:g id="unplugged">%1$s</xliff:g> માટે છેલ્લી વખત જૂદું થયું ત્યારે</string>
+    <string name="menu_stats_total">કુલ ઉપયોગ</string>
+    <string name="menu_stats_refresh">રીફ્રેશ</string>
+    <string name="process_kernel_label">Android ઓએસ</string>
+    <string name="process_mediaserver_label">મીડિયાસર્વર</string>
+    <string name="voice_input_output_settings">વોઇઝ પ્રવેશ &amp; જાવક</string>
+    <string name="voice_input_output_settings_title">વોઇઝ પ્રવેશ &amp; જાવક ગોઠવણી</string>
+    <string name="voice_search_settings_title">વોઇઝ શોધ</string>
+    <string name="keyboard_settings_title">Android કિબોર્ડ</string>
+    <string name="voice_input_category">વોઇઝ પ્રવેશ</string>
+    <string name="voice_output_category">વોઇઝ પ્રવેશ</string>
+    <string name="recognizer_title">વોઇઝ ઓળખનાર</string>
+    <string name="recognizer_settings_title">વોઇઝ ઓળખનાર ગોઠવણી</string>
+    <string name="recognizer_settings_summary">\'<xliff:g id="recognizer_name">%s</xliff:g>\' માટે ગોઠવણી</string>
+    <string name="tts_settings">પાઠ્ય-થી-સ્પીચ ગોઠવણી</string>
+    <string name="tts_settings_title">પાઠ્ય-થી-સ્પીચ ગોઠવણી</string>
+    <string name="use_default_tts_settings_title">હંમેશા મારી ગોઠવણો ઉપયોગ કરો</string>
+    <string name="use_default_tts_settings_summary">બિનઅસરકારક અનુપ્રયોગ ગોઠવણી નીચે પૂર્વનિર્ધારીત ગોઠવણી</string>
+    <string name="tts_default_settings_section">પૂર્વનિર્ધારીત ગોઠવણી</string>
+    <string name="tts_default_synth_title">પૂર્વનિર્ધારીત એન્જિન</string>
+    <string name="tts_default_synth_summary">બોલવાના પાઠ્ય માટે ઉપયોગમાં લેવાના બોલી સંયોજન ગોઠવે છે</string>
+    <string name="tts_default_rate_title">સ્પીચ દર</string>
+    <string name="tts_default_rate_summary">પાઠ્ય બોલાય છે ત્યાં ઝડપ</string>
+    <string name="tts_default_pitch_title">તીવ્રતા</string>
+    <string name="tts_default_pitch_summary">બોલાયેલ પાઠ્યના ટોનને અસર કરે છે</string>
+    <string name="tts_default_lang_title">ભાષા</string>
+    <string name="tts_default_lang_summary">બોલવાના પાઠ્ય માટે ભાષા-આધારીત અવાજ ગોઠવે છે</string>
+    <string name="tts_play_example_title">એક ઉદાહરણ સાંભળો</string>
+    <string name="tts_play_example_summary">વાણીનું ટૂંકુ પ્રદર્શન પ્લે કરો</string>
+    <string name="tts_install_data_title">વોઇઝ ડેટા સ્થાપિત કરો</string>
+    <string name="tts_install_data_summary">અવાજ સમન્વય માટે આવશ્યક વોઇઝ ડેટા સ્થાપિત કરો</string>
+    <string name="tts_data_installed_summary">બોલી સંયોજન માટે આવશ્યક અવાજો પહેલાંથી યોગ્ય રીતે સ્થાપિત થયા છે </string>
+    <string name="tts_demo">આ બોલી સંયોજનનું ઉદાહરણ છે.</string>
+    <string name="tts_settings_changed_demo">તમારી ગોઠવણી બદલાઇ છે. તે કેવી રીતે બંધ થાય છે તેનું આ ઉદાહરણ છે.</string>
+    <string name="tts_engine_error">તમે પસંદ કરેલ એન્જીન રન થઇ શકશે નહીં</string>
+    <string name="tts_engine_error_config">સંરચના કરો</string>
+    <string name="tts_engine_error_reselect">અન્ય એન્જન પસંદ કરો</string>
+    <string name="tts_engine_security_warning">પાસવર્ડ અને ક્રેડિટ કાર્ડ નંબર જેવી વ્યક્તિગત માહિતી સહિત, તમે બોલશો તે તમામ પાઠ્ય આ બોલી સંયોજન એકત્ર કરી શકે છે. તે <xliff:g id="tts_plugin_engine_name">%s</xliff:g> એન્જિનમાંથી આવે છે. તમારે આ બોલી સંયોજન સક્રિય કરવી છે? </string>
+    <string name="tts_engines_section">એન્જીન્સ</string>
+    <string name="tts_engine_name_settings"><xliff:g id="tts_plugin_engine_name">%s</xliff:g> ગોઠવણી</string>
+    <string name="tts_engine_name_is_enabled_summary"><xliff:g id="tts_plugin_engine_name">%s</xliff:g> સક્રિય છે</string>
+    <string name="tts_engine_name_is_disabled_summary"><xliff:g id="tts_plugin_engine_name">%s</xliff:g> નિષ્ક્રીય છે</string>
+    <string name="pico_languages_and_voices">ભાષા અને અવાજો</string>
+    <string name="pico_installed">સ્થાપિત </string>
+    <string name="pico_not_installed">સ્થાપિત નથી </string>
+    <string name="pico_voice_summary_female">સ્ત્રી</string>
+    <string name="pico_voice_summary_male">પુરૂષ</string>
+    <string name="tts_notif_engine_install_title">સ્પીચ સંયોજન એન્જીન સ્થાપિત થયું છે </string>
+    <string name="tts_notif_engine_install_message">ઉપયોગ પહેલાં નવું એન્જીન સક્રિય કરો</string>
+    <string name="gadget_title">પાવર નિયંત્રણ</string>
+    <string name="gadget_toggle_wifi">Wi-Fi ગોઠવણી અદ્યતન થાય છે</string>
+    <string name="gadget_toggle_bluetooth">બ્લુટુથ ગોઠવણી અદ્યતન થાય છે</string>
+    <string name="vpn_settings_activity_title">VPN ગોઠવણીઓ</string>
+    <string name="vpn_connect_to"><xliff:g id="name" example="Work Network">%s</xliff:g>માં જોડાણ કરો</string>
+    <string name="vpn_username_colon">ઉપયોગકર્તા ：</string>
+    <string name="vpn_password_colon">પાસવર્ડ:</string>
+    <string name="vpn_a_username">વપરાશકર્તાનામ</string>
+    <string name="vpn_a_password">પાસવર્ડ</string>
+    <string name="vpn_save_username">ઉપયોગકર્તાનામ યાદ રાખો</string>
+    <string name="vpn_connect_button">જોડાણ કરો</string>
+    <string name="vpn_yes_button">હા</string>
+    <string name="vpn_no_button">ના</string>
+    <string name="vpn_back_button">પાછળ</string>
+    <string name="vpn_mistake_button">ના</string>
+    <string name="vpn_menu_done">સંગ્રહ કરો</string>
+    <string name="vpn_menu_cancel">રદ્દ કરવું</string>
+    <string name="vpn_menu_revert">પરત ફરવું</string>
+    <string name="vpn_menu_connect">નેટવર્ક સાથે જોડાણ કરો</string>
+    <string name="vpn_menu_disconnect">નેટવર્કમાંથી છૂટું કરો</string>
+    <string name="vpn_menu_edit">નેટવર્ક સંપાદિત કરો</string>
+    <string name="vpn_menu_delete">નેટવર્ક કાઢી નાંખો</string>
+    <string name="vpn_error_miss_entering">તમારે <xliff:g id="code">%s</xliff:g> દાખલ કરવું ફરજિયાત છે.</string>
+    <string name="vpn_error_miss_selecting">તમારે <xliff:g id="option">%s</xliff:g> પસંદ કરવું ફરજિયાત છે.</string>
+    <string name="vpn_error_duplicate_name">\'<xliff:g id="name" example="Home Network">%s</xliff:g>\' VPN નામ પહેલાંથી હયાત છે કૃપા કરી અન્ય નામ શોધો.</string>
+    <string name="vpn_confirm_profile_deletion">આ VPN ભૂંસવા માટે તમે નિશ્ચ‍િત છો?</string>
+    <string name="vpn_confirm_add_profile_cancellation">આ પ્રોફાઇલ તૈયાર ન કરવા વિશે તમે નિશ્ચિત છો?</string>
+    <string name="vpn_confirm_edit_profile_cancellation">આ પ્રોફાઇલમાં કરેલ ફેરફારો દૂર કરવા વિશે તમે નિશ્ચિત છો?</string>
+    <string name="vpn_confirm_reconnect">નેટવર્ક સાથે જોડાણમાં નિષ્ફળ. તમે ફરીથી પ્રયાસ કરવા માગો છો?</string>
+    <string name="vpn_reconnect_from_lost">જોડાણ ગૂમ. તમે ફરીથી જોડાણ કરવા માગો છો?</string>
+    <string name="vpn_unknown_server_dialog_msg">સર્વર નામનું નિવારણ થશે નહીં. તમારા સર્વર નામની ગોઠવણી તમે તપાસવા માગો છો?</string>
+    <string name="vpn_challenge_error_dialog_msg">ચેલેન્જ ભૂલ. તમારી ખાનગી ગોઠવણી તમે તપાસવા માગો છો?</string>
+    <string name="vpn_secret_not_set_dialog_msg">આ VPN સંરચનામાં એક અથવા વધુ રહસ્યો ગુમ છે.  તમારી ગુપ્ત ગોઠવણી તમે ચેક કરવા માગો છો?</string>
+    <string name="vpn_auth_error_dialog_msg">તમે દાખલ કરેલ ઉપયોગકર્તાનામ અથવા પાસવર્ડ ખોટો છે. તમે ફરીથી પ્રયાસ કરવા માગો છો?</string>
+    <string name="vpn_remote_hung_up_error_dialog_msg">સર્વર હેંગ થયું છે. તમે દાખલ કરેલ ઉપયોગકર્તાનામ અથવા પાસવર્ડ ખોટો હોઇ શકે છે. તમે ફરીથી પ્રયાસ કરવા માગો છો?</string>
+    <string name="vpn_remote_ppp_hung_up_error_dialog_msg">સર્વર હેંગ થયું છે. સર્વર સાથે તમારું જોડાણ અટકાવતી ફાયરવોલની પાછળ હો તેવી શક્યતા છે. તમે ફરીથી પ્રયાસ કરવા માગો છો?</string>
+    <string name="vpn_ppp_negotiation_failed_dialog_msg">સર્વર સમાધાન નિષ્ફળ. તમારા એન્ક્રીપ્શન વિકલ્પ સાથે સર્વર સંમત નથી. તમારી એન્ક્રીપ્શન ગોઠવણી તમે તપાસવા માગો છો?</string>
+    <string name="vpn_type_title">VPN ઉમેરો</string>
+    <string name="vpn_add_new_vpn">VPN ઉમેરો</string>
+    <string name="vpn_edit_title_add"><xliff:g id="name">%s</xliff:g> VPN ઉમેરો </string>
+    <string name="vpn_edit_title_edit"><xliff:g id="name">%s</xliff:g> વિગતો</string>
+    <string name="vpns">VPNs</string>
+    <string name="vpn_connecting">જોડાણ થાય છે…</string>
+    <string name="vpn_disconnecting">જોડાણ છૂટું થાય છે...</string>
+    <string name="vpn_connected">જોડાણ થયેલ</string>
+    <string name="vpn_connect_hint">નેટવર્ક સાથે જોડાણ કરો</string>
+    <string name="vpn_name">VPN નામ</string>
+    <string name="vpn_a_name">VPN નામ</string>
+    <string name="vpn_profile_added">\'<xliff:g id="name">%s</xliff:g>\' ઉમેરાયું છે</string>
+    <string name="vpn_profile_replaced">\'<xliff:g id="name">%s</xliff:g>\' માં ફેરફારો કરવામાં આવ્યાં છે</string>
+    <string name="vpn_user_certificate_title">ઉપયોગકર્તા સર્ટિફિકેટ ગોઠવો</string>
+    <string name="vpn_user_certificate">ઉપયોગકર્તા સર્ટિફિકેટ</string>
+    <string name="vpn_a_user_certificate">વપરાશકર્તા સર્ટિફિકેટ</string>
+    <string name="vpn_ca_certificate_title">CA સર્ટિફિકેટ ગોઠવો</string>
+    <string name="vpn_ca_certificate">સર્ટિફિકેટ ઓથોરીટી (CA) સર્ટિફિકેટ</string>
+    <string name="vpn_a_ca_certificate">CA સર્ટિફિકેટ</string>
+    <string name="vpn_l2tp_secret_string_title">L2TP રહસ્ય ગોઠવો</string>
+    <string name="vpn_l2tp_secret">L2TP રહસ્ય</string>
+    <string name="vpn_a_l2tp_secret">L2TP રહસ્ય</string>
+    <string name="vpn_pptp_encryption_title">એન્ક્રીપ્શન</string>
+    <string name="vpn_pptp_encryption">PPTP અન્ક્રીપ્શન</string>
+    <string name="vpn_ipsec_presharedkey_title">IPSec પૂર્વે-વહેચાયેલ કિ ગોઠવો</string>
+    <string name="vpn_ipsec_presharedkey">IPSec પૂર્વે-વહેચાયેલ કિ</string>
+    <string name="vpn_a_ipsec_presharedkey">IPSec પૂર્વે-વહેચાયેલ કિ</string>
+    <string name="vpn_vpn_server_title">VPN સર્વર ગોઠવો</string>
+    <string name="vpn_vpn_server">VPN સર્વર</string>
+    <string name="vpn_a_vpn_server">VPN સર્વર</string>
+    <string name="vpn_vpn_server_dialog_title">VPN સર્વર નામ</string>
+    <string name="vpn_dns_search_list_title">DNS શોધ ડોમેઇન્સ</string>
+    <string name="vpn_dns_search_list">DNS શોધ ડોમેઇન્સ</string>
+    <string name="vpn_field_is_set"><xliff:g id="value">%s</xliff:g> ગોઠવાયેલ છે</string>
+    <string name="vpn_field_not_set"><xliff:g id="value">%s</xliff:g> ગોઠવાયેલ નથી</string>
+    <string name="vpn_field_not_set_optional"><xliff:g id="value">%s</xliff:g> ગોઠવાયેલ નથી (વૈકલ્પ‍િક)</string>
+    <string name="vpn_enable_field">સક્રિય કરવું <xliff:g id="option">%s</xliff:g></string>
+    <string name="vpn_disable_field">નિષ્ક્રીય<xliff:g id="option">%s</xliff:g></string>
+    <string name="vpn_is_enabled"><xliff:g id="option">%s</xliff:g> સક્રિય છે</string>
+    <string name="vpn_is_disabled"><xliff:g id="option">%s</xliff:g> નિષ્ક્રીય છે</string>
+    <string name="vpn_settings_title">VPN ગોઠવણીઓ</string>
+    <string name="vpn_settings_summary">આ ગોઠવણી કરો &amp; અને વર્ચ્યુલ પ્રાઇવેટ નેટવર્ક (VPNs) સંચાલન કરો</string>
+    <string name="vpn_secret_unchanged">(બદલાયેલ નહીં) </string>
+    <string name="vpn_secret_not_set">(કોઇ ગોઠવણ નહીં)</string>
+    <string name="credentials_category">ક્રેડેન્શીયલ સંગ્રહ</string>
+    <string name="credentials_access">સલામત ક્રેડેન્શીયલ્સનો ઉપયોગ કરો</string>
+    <string name="credentials_access_summary">સિક્યોર સર્ટીફિકેટ્સ અને અન્ય ક્રેડેન્શીયલ્સ પ્રવેશ માટે અનપ્રયોગોને અનુમતિ આપો</string>
+    <string name="credentials_unlock">પાસવર્ડ દાખલ કરો</string>
+    <string name="credentials_unlock_hint">ક્રેડેન્શીયલ સંગ્રહ પાસવર્ડ દાખલ કરો</string>
+    <string name="credentials_install_certificates" product="nosdcard">USB સંગ્રહમાંથી સ્થાપિત કરો</string>
+    <string name="credentials_install_certificates" product="default">SD કાર્ડમાંથી સ્થાપિત કરો</string>
+    <string name="credentials_install_certificates_summary" product="nosdcard">USB સંગ્રહમાંથી એન્ક્રીપ્ટેડ સર્ટિફિકેટ્સ સ્થાપિત કરો </string>
+    <string name="credentials_install_certificates_summary" product="default">SD કાર્ડમાંથી એન્ક્રીપ્ટેડ સર્ટિફિકેટ્સ સ્થાપિત કરો </string>
+    <string name="credentials_set_password">પાસવર્ડ ગોઠવો</string>
+    <string name="credentials_set_password_summary">ક્રેડેન્શીયલ સંગ્રહ માટે પાસવર્ડ ગોઠવો અથવા બદલાવો</string>
+    <string name="credentials_reset">સંગ્રહ સાફ કરો</string>
+    <string name="credentials_reset_summary">તમામ સામગ્રીઓના ક્રેડેન્શીયલ્સ સંગ્રહ સાફ કરો અને તેના પાસવર્ડ રીસેટ કરો</string>
+    <string name="credentials_reset_hint">તમામ ક્રેડન્શીયલ્સ ભૂંસવા માટે અને ક્રેડેન્શીયલ સંગ્રહ પાસવર્ડ રીસેટ કરવા માટે તમે નિશ્ચિત છો?</string>
+    <string name="credentials_old_password">વર્તમાન પાસવર્ડ: </string>
+    <string name="credentials_new_password">નવો પાસવર્ડ:</string>
+    <string name="credentials_confirm_password">નવો પાસવર્ડ પુષ્ટિ કરો</string>
+    <string name="credentials_first_time_hint">ક્રેડેન્શીયલ સંગ્રહ માટે પાસવર્ડ ગોઠવણી કરો (કમસે કમ 8 અક્ષરો).</string>
+    <string name="credentials_wrong_password">કૃપા કરી સાચો પાસવર્ડ દાખલ કરો.</string>
+    <string name="credentials_reset_warning">કૃપા કરી સાચો પાસવર્ડ દાખલ કરો. ક્રેડેન્શીયલ સંગ્રહ ભૂંસાઇ જાય તે પહેલાં સાચો પાસવર્ડ દાખલ કરવા માટે તમે વધુ એક પ્રયાસ ધરાવો છો.</string>
+    <string name="credentials_reset_warning_plural">કૃપા કરી સાચો પાસવર્ડ દાખલ કરો. ક્રેડેન્શીયલ સંગ્રહ ભૂંસાઇ જાય તે પહેલાં સાચો પાસવર્ડ દાખલ કરવા માટે તમે <xliff:g id="number" example="5">%1$d</xliff:g> વધુ પ્રયાસો ધરાવો છો.</string>
+    <string name="credentials_passwords_mismatch">પાસવર્ડ્ઝ બંધ બેસતા નથી.</string>
+    <string name="credentials_passwords_empty">તમારે પાસવર્ડ દાખલ કરવો અને ખાતરી કરવી ફરજિયાત છે.</string>
+    <string name="credentials_password_empty">કૃપા કરી પાસવર્ડ દાખલ કરો. </string>
+    <string name="credentials_password_too_short">પાસવર્ડમાં કમસે કમ 8 અક્ષરો હોવા ફરજિયાત છે.</string>
+    <string name="credentials_erased">ક્રેડેન્શીયલ સંગ્રહ ભૂંસાયા છે.</string>
+    <string name="credentials_enabled">ક્રેડેન્શીયલ સંગ્રહ સક્રિય છે.</string>
+    <string name="credentials_disabled">ક્રેડેન્શીયલ સંગ્રહ નિષ્ક્રીય છે.</string>
+    <string name="encrypted_fs_category">એન્ક્રીપ્ટેડ ફાઇલ સિસ્ટમ્સ</string>
+    <string name="encrypted_fs_enable">ખાનગી ઉપયોગકર્તા માહિતી એન્ક્રીપ્ટ કરો</string>
+    <string name="encrypted_fs_enable_summary">આ સાધનમાં ખાનગી ઉપયોગકર્તા ડેટા માટે એન્ક્રીપ્ટ ફાઇલ સિસ્ટમ સક્રિય કરો</string>
+    <string name="encrypted_fs_enable_dialog">એન્ક્રીપ્ટેડ ફાઇલ સિસ્ટમ સક્રિયતાને સાધન ડેટા વાઇપની આવશ્યકતા છે.</string>
+    <string name="encrypted_fs_disable_dialog">એન્ક્રીપ્ટેડ ફાઇલ સિસ્ટમ નિષ્ક્રીયતાને સાધન ડેટા વાઇપની આવશ્યકતા છે.</string>
+    <string name="encrypted_fs_enable_button">સક્રિય કરવું</string>
+    <string name="encrypted_fs_disable_button">નિષ્ક્રીય</string>
+    <string name="encrypted_fs_cancel_button">રદ્દ કરવું</string>
+    <string name="encrypted_fs_cancel_confirm">એન્ક્રીપ્ટેડ ફાઇલ સિસ્ટમ્સ મોડ બદલી રદ્દ.</string>
+    <string name="encrypted_fs_alert_dialog_title">એન્ક્રીપ્ટેડ ફાઇલ સિસ્ટમ્સ ચેતવણી.</string>
+    <string name="emergency_tone_title">ઇમરજન્સી ટોન</string>
+    <string name="emergency_tone_summary">ઇમરજન્સી કોલ મૂકવામાં આવે ત્યારે વર્તણૂક ગોઠવો</string>
+    <string name="privacy_settings">ગુપ્તતા</string>
+    <string name="privacy_settings_title">પ્રાથમિક ગોઠવણી</string>
+    <string name="backup_section_title">બેકઅપ અને પુનઃસ્થાપન</string>
+    <string name="personal_data_section_title">વ્યક્તિગત ડેટા</string>
+    <string name="backup_data_title">મારા ડેટાનું બેકઅપ લો</string>
+    <string name="backup_data_summary">અનુપ્રયોગ ડેટા, Wi-Fi પાસવર્ડ્ઝ, અને Google સર્વર્સની અન્ય ગોઠવણી બેકઅપ કરો</string>
+    <string name="auto_restore_title">સ્વયં પુનઃસ્થાપન</string>
+    <string name="auto_restore_summary">જો હું કોઇ અનુપ્રયોગ ફરી સ્થાપિત કરું, તો બેકઅપ ગોઠવણી અને અન્ય ડેટા પુનઃસ્થાપન કરો</string>
+    <string name="backup_erase_dialog_title">બેકઅપ</string>
+    <string name="backup_erase_dialog_message">તમારા Wi-Fi પાસવર્ડ્ઝ, બુકમાર્ક્સ, અને અન્ય ગોઠવણી અને અનુપ્રયોગ ડેટા બેક અપ બંધ કરવા અને Goggle સર્વર્સ પરની તમામ નકલો ભૂંસવા માટે તમે નિશ્ચિત છો?</string>
+    <string name="device_admin_settings_title">સાધન સંચાલન ગોઠવણી</string>
+    <string name="active_device_admin_msg">સાધન સંચાલક</string>
+    <string name="remove_device_admin">નિષ્ક્રીય કરો</string>
+    <string name="select_device_admin_msg">સાધન સંચાલકો</string>
+    <string name="no_device_admins">સાધન સંચાલકો ઉપલબ્ધ નથી</string>
+    <string name="add_device_admin_msg">સાધન સંચાલક સક્રિય કરવું છે?</string>
+    <string name="add_device_admin">સક્રિય કરવું</string>
+    <string name="device_admin_add_title">સાધન સંચાલક</string>
+    <string name="device_admin_warning">આ સંચાલક સક્રિય કરવાથી આ અનુપ્રયોગને અનુમતિ આપશે <xliff:g id="app_name">%1$s</xliff:g> નીચેના કાર્યો કરવા માટે:</string>
+    <string name="device_admin_status">આ સંચાલક સક્રિય છે અને નીચે મુજબના કાર્યો કરવા માટે <xliff:g id="app_name">%1$s</xliff:g> અનુપ્રયોગ અનુમતિ આપે છે:</string>
+    <string name="untitled_apn">શીર્ષકવિહીન</string>
+    <string name="sound_category_sound_title">સામાન્ય</string>
+    <string name="sound_category_calls_title">આવક કોલ્સ</string>
+    <string name="sound_category_notification_title">જાણકારીઓ</string>
+    <string name="sound_category_message_title">એમએમએસ</string>
+    <string name="message_sound_title">એમએમએસ રીંગટોન</string>
+    <string name="sound_category_feedback_title">પ્રતિસાદ</string>
+    <string name="usb_settings">USB ગોઠવણી</string>
+    <string name="usb_settings_summary">USB જોડાણ ગોઠવો</string>
+    <string name="usb_storage">USB સંગ્રહ</string>
+    <string name="usb_storage_summary">USB  સમુદાય સંગ્રહ સક્રિય કરો</string>
+    <string name="modem_debug">મોડેમ ડિબગ</string>
+    <string name="modem_debug_summary">મોડેમ ડિબગ મોડ ખોલો</string>
+    <string name="SensorLevelCalibration">સેન્સર સ્તર કેલીબ્રેશન</string>
+    <string name="SensorLevelLevelCalibration">સ્તર કેલિબ્રેશન</string>
+    <string name="SensorLevelOrientationCalibration">દિશામાન કેલીબ્રેશન</string>
+    <string name="SensorLevelClearAllCalibration">તમામ કેલીબ્રેશન સાફ કરો</string>
+    <string name="SensorLevelOrientationCalibrationPrompt">ચુંબકીય ક્ષેત્રોથી દૂર રાખો, અને 8-આકારમાં મોબાઇલ ફોનને હલાવો, સિસ્ટમ સ્વયં કેલીબ્રેટ થશે.</string>
+    <string name="SensorLevelExit">બહાર</string>
+    <string name="wifi_mac">Mac સરનામું</string>
+    <string name="wifi_auto_connect_titile">સ્વયં જોડાણ</string>
+    <string name="wifi_auto_connect_summary">Wi-Fi ખૂલે ત્યારે સ્વયં અનુપ્રયોગ જોડાણ</string>
+    <string name="wifi_trusted_ap">વિશ્વસનીય AP</string>
+    <string name="wifi_trusted_ap_category">વિશ્વસનીય AP અને પ્રાથમિકતા</string>
+    <string name="wifi_trusted_ap_summary">વિશ્વસનીય AP અને પ્રાથમિકતા જુઓ</string>
+    <string name="wifi_trusted_ap_null_summary">વિશ્વસનીય AP ધારવતુ નથી</string>
+    <string name="wifi_add_ap_trustlist">વિશ્વસનીય સૂચિમાં AP ઉમેરો</string>
+    <string name="wifi_remove_ap_trustlist">વિશ્વસનીય સૂચિમાં AP દૂર કરો</string>
+    <string name="wifi_select_trust">આ AP પર વિશ્વાસ કરો</string>
+    <string name="wifi_move_ap_up">ઉપર </string>
+    <string name="wifi_move_ap_down">નીચે</string>
+    <string name="wifi_remove_ap">દૂર કરો</string>
+    <string name="wifi_proxy_address_str">અવેજી સરનામું</string>
+    <string name="wifi_proxy_port_str">અવેજી પોર્ટ</string>
+    <string name="wifi_proxy_list_str">નીચેના અક્ષરોનું સરનામું પ્રોક્ષી સર્વરનો ઉપયોગ કરતુ નથી</string>
+    <string name="wifi_proxy_show_check">પ્રોક્સીનો ઉપયોગ કરો</string>
+    <string name="wifi_check_tip">Wi-Fi સિગ્નલ શોધાયું છે, ડેટા વ્યવસાય વિક્ષેપનો ભાગ નેટવર્ક ઉપયોગ કરે છે</string>
+    <string name="sim_lock_tip">SIM કાર્ડ ગૂમ અથવા લોક છે</string>
+    <string name="wifi_cellular_wlan_title">સેલ્યુલર નેટવર્ક->WLAN નેટવર્ક</string>
+    <string name="wifi_cellular_wlan_category">નેટવર્ક ડાયલોગ પસંદ કરો</string>
+    <string name="wifi_cellular_wlan_error">સેલ્યુલર ગોઠવણીમાં સમસ્યા હતી</string>
+    <string name="gprs_access">GPRS પ્રવેશ</string>
+    <string name="wlan_access">WLAN પ્રવેશ</string>
+    <string name="select_net_access_type">નેટવર્ક પસંદગી ટીપ્સ, કૃપા કરી તમારો નેટવર્ક પ્રવેશ પસંદ કરો</string>
+    <string name="select_trusted_ap_access">ટ્રસ્ટ પ્રવેશ કેન્દ્ર AP માટે આ શોધાયું છે</string>
+    <string name="select_trusted_ap_connect">જોડાણ કરો</string>
+    <string name="download_wifi_unaviliable">ઇન્ટરનેટ પર મોબાઇલ નેટવર્ક ઉપયોગ માટે, WLAN નેટવર્ક જોડાણ રદ્દ થયું છે</string>
+    <string name="download_select_gprs_yes">હા</string>
+    <string name="download_select_gprs_no">ના</string>
+    <string name="wlan_not_available">WLAN અનુપલબ્ધ છે, મોબાઇલ નેટવર્કનો ઉપયોગ કરવો છે કે કે</string>
+    <string name="mobile_net_yes">હા</string>
+    <string name="mobile_net_no">ના</string>
+    <string name="mobile_choice">મોબાઇલ નેટ પસંદગી</string>
+    <string name="download_wifi_found1">WLAN સિગ્નલની શોધ</string>
+    <string name="download_wifi_found2">આંશિક ડેટા વ્યવસાય વિક્ષેપ કરે છે તે નેટવર્કનો ઉપયોગ કરી, WLAN નેટવર્કનો ઉપયોગ કરવો છે?</string>
+    <string name="gps_to_wifi_yes">હા</string>
+    <string name="gps_to_wifi_no">ના</string>
+    <string name="download_wifi_title">વિશ્વસનીય WLAN AP પર શોધો</string>
+    <string name="download_complete_filename">ડાઉનલોડ સંપૂર્ણ થયું છે, ફાઇલ પાથ સંગ્રહ કરો:</string>
+    <string name="sim_retries_left">પુનઃપ્રયાસો બાકી</string>
+    <string name="usb_charge_only">માત્ર ચાર્જ કરો</string>
+    <string name="usb_charge_only_summary">USB જોડાયેલ હોય ત્યારે જ માત્ર ચાર્જ મોડ ઉપયોગ કરો</string>
+    <string name="usb_charge_only_storage_active_subtext">USB સંગ્રહ ઉપયોગમાં હોય ત્યારે ચાર્જ થશે નહીં</string>
+    <string name="usb_charge_only_tethering_active_subtext">USB ટેથરીંગ સંગ્રહ ઉપયોગમાં હોય ત્યારે ચાર્જ થશે નહીં</string>
+    <string name="usb_tethering_charge_only_active_subtext">ચાર્જ સમયે માત્ર ઉપયોગમાં હોય ત્યારે નિયંત્રણ થઇ શકશે નહીં</string>
+    <string name="usb_storage_charge_only_active_subtext">ચાર્જ સમયે માત્ર ઉપયોગમાં હોય ત્યારે USB સંગ્રહ ઉપયોગ થઇ શકશે નહીં</string>
+    <string name="usb_storage_tethering_active_subtext">નિયંત્રણ સમયે ઉપયોગમાં હોય ત્યારે USB સંગ્રહ ઉપયોગ થઇ શકશે નહીં</string>
+    <string name="cdrom_shared">સીડીરોમ</string>
+    <string name="cdrom_shared_summary">સીડીરોમ ઉપયોગ કરો</string>
+    <string name="remember_choice">મારી પસંદગી યાદ રાખો </string>
+    <string name="remember_choice_summary">મારી પસંદગી યાદ રાખો અને આગામી સમયે પોપ અપ રદ્દ કરો</string>
+    <string name="ums_settings">"UMS ગોઠવણી"</string>
+    <string name="ums_mounted_setting">"હમણાં PCમાં Uએમએસ આરૂઢ થાય છે, કૃપા કરી રાહ જુઓ..."  </string>
+    <string name="ums_unmounted_setting">"હવે PC માંથી ums દૂર કરો, કૃપા કરી રાહ જુઓ….."</string>
+    <string name="key_index">"કિ ઇન્ડેક્સ"</string>
+    <string name="wimax_settings">4G ગોઠવણી</string>
+    <string name="wimax_settings_summary">આ ગોઠવણી કરો &amp; અને 4G નેટવર્ક અને મોડેમ સંચાલન કરો</string>
+    <string name="status_wimax_mac_address">4G MAC સરનામું</string>
+    <string name="additional_system_update_settings_list_item_title">અધિક સિસ્ટમ અદ્યતનો</string>
+    <string name="status_other">અન્ય</string>
+    <string name="icc_lock_settings">SIM કાર્ડ લોક ગોઠવણી</string>
+    <string name="icc1_lock_settings">SIM1 કાર્ડ લોક ગોઠવણી</string>
+    <string name="icc2_lock_settings">SIM2 કાર્ડ લોક ગોઠવણી</string>
+    <string name="icc3_lock_settings">SIM3 કાર્ડ લોક ગોઠવણી</string>
+    <string name="icc_lock_settings_category">SIM કાર્ડ લોક ગોઠવો</string>
+    <string name="icc_lock_settings_category1">SIM1 કાર્ડ લોક ગોઠવો</string>
+    <string name="icc_lock_settings_category2">SIM2 કાર્ડ લોક ગોઠવો</string>
+    <string name="icc_lock_settings_title">SIM કાર્ડ લોક</string>
+    <string name="icc_pin_toggle">SIM કાર્ડ લોક કરો</string>
+    <string name="icc1_pin_toggle">SIM1 કાર્ડ લોક કરો</string>
+    <string name="icc2_pin_toggle">SIM2 કાર્ડ લોક કરો</string>
+    <string name="icc3_pin_toggle">SIM3 કાર્ડ લોક કરો</string>
+    <string name="icc_lock_on">ફોનના ઉપયોગ માટે PIN ની આવશ્યકતા</string>
+    <string name="icc_lock_off">ફોન ઉપયોગ માટે PIN ની આવશ્યકતા નથી</string>
+    <string name="icc_pin_change">SIM PIN બદલાવો</string>
+    <string name="icc1_pin_change">SIM1 PIN બદલાવો</string>
+    <string name="icc2_pin_change">SIM2 PIN બદલાવો</string>
+    <string name="icc3_pin_change">SIM3 PIN બદલાવો</string>
+    <string name="icc_enter_pin">SIM PIN</string>
+    <string name="icc1_enter_pin">SIM1 PIN</string>
+    <string name="icc2_enter_pin">SIM2 PIN</string>
+    <string name="icc3_enter_pin">SIM3 PIN</string>
+    <string name="icc_enable_icc_lock">SIM કાર્ડ લોક કરો</string>
+    <string name="icc1_enable_icc_lock">SIM1 કાર્ડ લોક કરો</string>
+    <string name="icc2_enable_icc_lock">SIM2 કાર્ડ લોક કરો</string>
+    <string name="icc3_enable_icc_lock">SIM3 કાર્ડ લોક કરો</string>
+    <string name="icc_disable_icc_lock">SIM કાર્ડ અનલોક કરો</string>
+    <string name="icc1_disable_icc_lock">SIM1 કાર્ડ અનલોક કરો</string>
+    <string name="icc2_disable_icc_lock">SIM2 કાર્ડ અનલોક કરો</string>
+    <string name="icc3_disable_icc_lock">SIM3 કાર્ડ અનલોક કરો</string>
+    <string name="icc_enter_old">જૂનો SIM PIN</string>
+    <string name="icc1_enter_old">જૂનો SIM1 PIN</string>
+    <string name="icc2_enter_old">જૂનો SIM2 PIN</string>
+    <string name="icc3_enter_old">જૂનો SIM3 PIN</string>
+    <string name="icc_enter_new">નવો SIM PIN</string>
+    <string name="icc1_enter_new">નવો SIM1 PIN કોડ</string>
+    <string name="icc2_enter_new">નવો SIM2 PIN કોડ</string>
+    <string name="icc3_enter_new">નવો SIM3 PIN કોડ</string>
+    <string name="icc_reenter_new">નવો PIN ફરી-ટાઇપ કરો</string>
+    <string name="icc_change_pin">SIM PIN</string>
+    <string name="icc1_change_pin">SIM1 PIN</string>
+    <string name="icc2_change_pin">SIM2 PIN</string>
+    <string name="icc3_change_pin">SIM3 PIN</string>
+    <string name="icc_bad_pin">ખોટો PIN!</string>
+    <string name="icc_pins_dont_match">PINs સમાન થતા નથી！</string>
+    <string name="icc_change_failed">PIN બદલવામાં નિષ્ફળ.\nસંભવિત અયોગ્ય PIN.</string>
+    <string name="icc_change_succeeded">SIM PIN સફળતાપૂર્વક બદલાયું છે</string>
+    <string name="icc_lock_failed">SIM કાર્ડ લોક સ્થિતિ બદલવામાં નિષ્ફળ. \nસંભવિત અયોગ્ય PIN.</string>
+    <string name="icc1_lock_failed">SIM1 કાર્ડ લોક સ્થિતિ બદલવામાં નિષ્ફળ. \nસંભવિત અયોગ્ય PIN.</string>
+    <string name="icc2_lock_failed">SIM2 કાર્ડ લોક સ્થિતિ બદલવામાં નિષ્ફળ. \nસંભવિત અયોગ્ય PIN.</string>
+    <string name="icc3_lock_failed">SIM3 કાર્ડ લોક સ્થિતિ બદલવામાં નિષ્ફળ. \nસંભવિત અયોગ્ય PIN.</string>
+    <string name="icc_enter_ok">ઓકે</string>
+    <string name="icc_enter_cancel">રદ્દ કરવું</string>
+    <string name="icc_change_failed_enable_icc_lock">SIM PIN બદલવામાં નિષ્ફળ.\n SIM LOCK સક્રિય કરો.</string>
+    <string name="icc1_change_failed_enable_icc_lock">SIM1 PIN બદલવામાં નિષ્ફળ.\n SIM1 LOCK સક્રિય કરો.</string>
+    <string name="icc2_change_failed_enable_icc_lock">SIM2 PIN બદલવામાં નિષ્ફળ.\n SIM2 LOCK સક્રિય કરો.</string>
+    <string name="icc3_change_failed_enable_icc_lock">SIM3 PIN બદલવામાં નિષ્ફળ.\n SIM3 LOCK સક્રિય કરો.</string>
+    <string name="icc_lock_change_not_supported">SIM લોક બદલવામાં નિષ્ફળ.\n SIM તેને સહાયક નથી.</string>
+    <string name="icc1_lock_change_not_supported">SIM1 લોક બદલવામાં નિષ્ફળ.\n SIM1 તેને સહાયક નથી.</string>
+    <string name="icc2_lock_change_not_supported">SIM2 લોક બદલવામાં નિષ્ફળ.\n SIM2 તેને સહાયક નથી.</string>
+    <string name="icc3_lock_change_not_supported">SIM3 લોક બદલવામાં નિષ્ફળ.\n SIM3 તેને સહાયક નથી.</string>
+    <string name="icc_pin_attempts">\nપ્રયાસો બાકી :</string>
+    <string name="icc_pin_enabled">SIM PIN1 સક્રિય!</string>
+    <string name="icc1_pin_enabled">SIM1 PIN1 સક્રિય!</string>
+    <string name="icc2_pin_enabled">SIM2 PIN1 સક્રિય!</string>
+    <string name="icc3_pin_enabled">SIM3 PIN1 સક્રિય!</string>
+    <string name="icc_pin_disabled">SIM PIN1 નિષ્ક્રીય!</string>
+    <string name="icc1_pin_disabled">SIM1 PIN1 નિષ્ક્રીય!</string>
+    <string name="icc2_pin_disabled">SIM2 PIN1 નિષ્ક્રીય!</string>
+    <string name="icc3_pin_disabled">SIM3 PIN1 નિષ્ક્રીય!</string>
+    <string name="voice_setting_title">"વોઇઝ કોલ ગોઠવણી"</string>
+    <string name="video_setting_title">"વિડીયો કોલ ગોઠવણી"</string>
+    <string name="mms_setting_title">"એમએમએસ સેટિંગ્ઝ"</string>
+    <string name="audio_profiles">પ્રોફાઇલ્સ</string>
+    <string name="predefined_audio_profiles">પૂર્વનિર્ધારીત ઓડિયો પ્રોફાઇલ્સ</string>
+    <string name="user_defined_audio_profiles">ઉપયોગકર્તા નિર્ધારીત ઓડિયો પ્રોફાઇલ્સ</string>
+    <string-array name="profile_display_name" translatable="true">
+		<item>સામાન્ય</item>
+		<item>શાંત</item>
+		<item>ધ્રુજારી</item>
+		<item>આઉટડોર</item>
+	</string-array>
+    <string name="add_profile">ઉમેરવું</string>
+    <string name="use_profile">ઉપયોગ કરો</string>
+    <string name="rename_profile">પુનઃનામ</string>
+    <string name="reset_profile">રીસેટ</string>
+    <string name="delete_profile">કાઢી નાંખવું</string>
+    <string name="empty_name_dialog">નામ ખાલી રહેશે નહીં</string>
+    <string name="duplicate_display_name_dialog">નામ પહેલાંથી હયાત છે</string>
+    <string name="add_profile_msg">કૃપા કરી નવું પ્રોફાઇલ નામ દાખલ કરો</string>
+    <string name="rename_profile_msg">કૃપા કરી નવું પ્રોફાઇલ નામ દાખલ કરો</string>
+    <string name="delete_profile_msg"><xliff:g id="name">%s</xliff:g> પ્રોફાઇલ ભૂંસાઇ જશે</string>
+    <string name="reset_profile_msg">તમામ ઓડિયો પ્રોફાઇલ ગોઠવણીઓ પૂર્વનિર્ધારીતમાં રીસેટ થશે</string>
+    <string name="date_set_out">તારીખ સિસ્ટમ મર્યાદા બહાર છે ગોઠવો!</string>
+    <string name="swtichmachine">"ટાઇમર સ્વીચ મશીન"</string>
+    <string name="power_on">"પાવર ચાલુ"</string>
+    <string name="power_off">"પાવર બંધ"</string>
+    <string name="every_day">દરરોજ</string>
+    <string name="never">ક્યારેય નહીં</string>
+    <string name="done">ડન</string>
+    <string name="revert">પરત ફરવું</string>
+    <string name="time">સમય</string>
+    <string name="alarm_repeat">પુનરાવર્તન</string>
+    <string name="set_alarm">એલાર્મ સેટ કરો</string>
+    <string name="day">"1 દિવસ"</string>
+    <string name="days">"<xliff:g id="days">%s</xliff:g>દિવસો"</string>
+    <string name="hour">1 કલાક</string>
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> કલાકો</string>
+    <string name="minute">"1 મીનીટ"</string>
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> મીનીટ્સ"</string>
+    <string name="alarm_klaxon_service_desc">ડેસ્કક્લોકમાં એલાર્મ્સ ગોઠવણી માટે અવાજ પ્લેબેક સેવા.</string>
+    <string name="alarm_alread_exist">એલાર્મ <xliff:g id="time">%s</xliff:g> પહેલાંથી હયાત છે, કૃપા કરી અન્ય સમય ગોઠવણી કરો</string>
+    <string name="anr_auto_restart_app">ANR ઉદ્દભવે ત્યારે અનુપ્રયોગ ફરી શરૂ કરો</string>
+    <string name="anr_auto_restart_app_summary">ANR થાય અથવા ન થાય ત્યારે અનુપ્રયોગ ફરી ચાલુ થાય તો</string>
+    <string name="sim_name_setting_title">SIM નામ સંપાદિત કરો</string>
+    <string name="sim_color_setting_title">SIM બેકગ્રાઉન્ડ રંગ ગોઠવો</string>
+</resources>

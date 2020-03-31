@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ਪੈਕੇਜ ਇੰਸਟਾਲਰ</string>
+    <string name="install">ਇੰਸਟਾਲ ਕਰੋ</string>
+    <string name="done">ਹੋ ਗਿਆ</string>
+    <string name="security_settings_desc">ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇਸ ਲਈ ਅਨੁਮਤੀ ਦਿਓ:</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="unknown">ਅਗਿਆਤ</string>
+    <string name="installing">ਇੰਸਟਾਲ ਹੋ ਰਿਹਾ ਹੈ\u2026</string>
+    <string name="install_done">ਅਨੁਪ੍ਰਯੋਗ ਇੰਸਟਾਲ ਹੋ ਗਿਆ</string>
+    <string name="install_confirm_question">ਕੀ ਤੁਸੀਂ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="install_failed">ਅਨੁਪ੍ਰਯੋਗ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਇਆ</string>
+    <string name="install_failed_invalid_apk">ਪੈਕੇਜ ਕਰਪਟ ਜਾਪਦਾ ਹੈ।</string>
+    <string name="install_failed_inconsistent_certificates">ਇੱਕ ਸਮਾਨ ਨਾਂ ਵਾਲਾ ਮੌਜੂਦਾ ਪੈਕੇਜ ਅਸੰਗਤ ਹਸਤਾਖਰ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਇੰਸਟਾਲ ਹੈ।</string>
+    <string name="install_failed_older_sdk">ਪੈਕੇਜ ਕੇਵਲ ਐਂਡਰੋਇਡ ਦੇ ਨਵੇਂ ਵਰਜਨ ਤੇ ਕੰਮ ਕਰਦਾ ਹੈ। </string>
+    <string name="install_failed_cpu_abi_incompatible" product="tablet">ਇਹ ਅਨੁਪ੍ਰਯੋਗ ਇਸ ਟੈਬਲੇਟ ਦੇ CPU ਦੇ ਅਨੁਕੂਲ ਨਹੀਂ ਹੈ। </string>
+    <string name="install_failed_cpu_abi_incompatible" product="default">ਇਹ ਅਨੁਪ੍ਰਯੋਗ ਇਸ ਫੋਨ ਦੇ CPU ਦੇ ਅਨੁਕੂਲ ਨਹੀਂ ਹੈ। </string>
+    <string name="install_failed_file_not_found">ਨਿਰਦਿਸ਼ਟ ਪੈਕੇਜ ਪਹਿਲਾਂ ਮਿਟਾਇਆ ਗਿਆ ਸੀ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।  </string>
+    <string name="install_failed_verify_failed">ਪੈਕੇਜ ਨੇ ਪ੍ਰਮਾਣੀਕਰਨ ਪਾਸ ਨਹੀਂ ਕੀਤਾ ਅਤੇ ਇਸਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। </string>
+    <string name="install_failed_verify_timeout">ਇਸ ਪੈਕੇਜ ਦੀ ਤਸਦੀਕ ਕਰਨ ਵੇਲੇ ਇੱਕ ਟਾਈਮਆਊਟ ਵਾਪਰਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ। 
+</string>
+    <string name="install_failed_msg" product="tablet"><xliff:g id="app_name">%1$s</xliff:g> ਨੂੰ ਇਸ ਟੈਬਲੇਟ ਤੇ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</string>
+    <string name="install_failed_msg" product="default"><xliff:g id="app_name">%1$s</xliff:g> ਨੂੰ ਇਸ ਫੋਨ ਤੇ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</string>
+    <string name="launch">ਖੋਲ੍ਹੋ</string>
+    <string name="unknown_apps_dlg_title">ਇੰਸਟਾਲ ਰੁਕ ਗਈ</string>
+    <string name="unknown_apps_dlg_text" product="tablet">ਸੁਰੱਖਿਆ ਲਈ, ਤੁਹਾਡਾ ਟੈਬਲੇਟ ਐਂਡਰੋਇਡ ਮਾਰਕਿਟ ਤੋਂ ਪ੍ਰਾਪਤ ਨਾ ਹੋਏ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੇ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਰੋਕਣ ਲਈ ਸੈਟ ਹੈ। </string>
+    <string name="unknown_apps_dlg_text" product="default">ਸੁਰੱਖਿਆ ਲਈ, ਤੁਹਾਡਾ ਫੋਨ ਐਂਡਰੋਇਡ ਮਾਰਕਿਟ ਤੋਂ ਪ੍ਰਾਪਤ ਨਾ ਹੋਏ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੇ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਰੋਕਣ ਲਈ ਸੈਟ ਹੈ। </string>
+    <string name="ok">ਓਕੇ</string>
+    <string name="settings">ਸੈਟਿੰਗਸ</string>
+    <string name="allow_source_dlg_title">ਕੀ ਅਨੁਪ੍ਰਯੋਗਾਂ ਲਈ ਨਵੇਂ ਸ੍ਰੋਤਾਂ ਨੂੰ ਅਨੁਮਤੀ ਦਿੰਦੇ ਹੋ?</string>
+    <string name="allow_source_dlg_text"><xliff:g id="app_name">%1$s</xliff:g> ਦੂਜੇ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ।\n\nਕੀ ਇਸਨੂੰ ਹੁਣ ਜਾਂ ਭਵਿੱਖ ਵਿੱਚ ਅਨੁਮਤੀ ਦਿੰਦੇ ਹੋ?</string>
+    <string name="manage_applications">ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="dlg_app_replacement_title">ਅਨੁਪ੍ਰਯੋਗ ਬਦਲੋ</string>
+    <string name="dlg_app_replacement_statement">ਜੋ ਅਨੁਪ੍ਰਯੋਗ ਤੁਸੀਂ ਇੰਸਟਾਲ ਕਰ ਰਹੇ ਹੋ ਉਹ ਦੂਜੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਬਦਲੇਗਾ। \n\nਸਾਰਾ ਪਿਛਲਾ ਉਪਯੋਗਕਰਤਾ ਡੇਟਾ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਜਾਏਗਾ।</string>
+    <string name="dlg_sys_app_replacement_statement">ਇਹ ਇੱਕ ਸਿਸਟਮ ਅਨੁਪ੍ਰਯੋਗ ਹੈ। ਕੀ ਤੁਸੀਂ ਅਜੇ ਵੀ ਇਸਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?\n\nਸਾਰਾ ਪਿਛਲਾ ਉਪਯੋਗਕਰਤਾ ਡੇਟਾ ਸੁਰੱਖਿਅਤ ਕਰ ਲਿਆ ਜਾਏਗਾ। </string>
+    <string name="out_of_space_dlg_title">ਖਾਲੀ ਸਥਾਨ ਤੋਂ ਬਾਹਰ</string>
+    <string name="out_of_space_dlg_text"><xliff:g id="app_name">%1$s</xliff:g> ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਕੁਝ ਸਥਾਨ ਖਾਲੀ ਕਰੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="dlg_ok">ਓਕੇ</string>
+    <string name="app_not_found_dlg_title">ਅਨੁਪ੍ਰਯੋਗ ਨਹੀਂ ਮਿਲਿਆ</string>
+    <string name="app_not_found_dlg_text">ਅਨੁਪ੍ਰਯੋਗ ਇੰਸਟਾਲ ਕੀਤੇ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਨਹੀਂ ਮਿਲਿਆ ਸੀ।</string>
+    <string name="uninstall_application_title">ਅਨੁਪ੍ਰਯੋਗ ਅਣਇੰਸਟਾਲ ਕਰੋ</string>
+    <string name="uninstall_update_title">ਅਪਡੇਟ ਅਣਇੰਸਟਾਲ ਕਰੋ</string>
+    <string name="uninstall_activity_text"><xliff:g id="activity_name">%1$s</xliff:g> ਹੇਠਾਂ ਲਿਖੇ ਅਨੁਪ੍ਰਯੋਗ ਦਾ ਹਿੱਸਾ ਹੈ:</string>
+    <string name="uninstall_application_text">ਇਹ ਅਨੁਪ੍ਰਯੋਗ ਅਣਇੰਸਟਾਲ ਕਰ ਦਿੱਤਾ ਜਾਏਗਾ। </string>
+    <string name="uninstall_update_text">ਅਨੁਪ੍ਰਯੋਗ ਫੈਕਟਰੀ ਵਰਜਨ ਨਾਲ ਬਦਲਿਆ ਜਾਏਗਾ।</string>
+    <string name="uninstalling">ਅਣਇੰਸਟਾਲ ਹੋ ਰਿਹਾ ਹੈ\u2026</string>
+    <string name="uninstall_done">ਅਣਇੰਸਟਾਲ ਪੂਰਾ ਹੋ ਗਿਆ</string>
+    <string name="uninstall_failed">ਅਣਇੰਸਟਾਲ ਸਫਲ ਨਹੀਂ ਹੋਇਆ</string>
+    <string name="uninstall_failed_device_policy_manager">ਅਨਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦਾ: ਇਹ ਪੈਕੇਜ ਇੱਕ ਸਕ੍ਰਿਏ ਡਿਵਾਈਸ ਪ੍ਰਬੰਧਕ ਹੈ।</string>
+    <string name="manage_device_administrators">ਡਿਵਾਈਸ ਪ੍ਰਬੰਧਕਾਂ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="uninstall_failed_msg"><xliff:g id="app_name">%1$s</xliff:g> ਨੂੰ ਅਨਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</string>
+    <string name="Parse_error_dlg_title">ਪਾਰਸ ਅਸ਼ੁੱਧੀ</string>
+    <string name="Parse_error_dlg_text">ਪੈਕੇਜ ਨੂੰ ਪਾਰਸਿੰਗ ਕਰਨ ਵਿੱਚ ਇੱਕ ਸਮੱਸਿਆ ਹੈ। </string>
+    <string name="next">"ਅਗਲਾ"</string>
+     <string name="install_confirm_question_no_perms">"ਕੀ ਤੁਸੀਂ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸਨੂੰ ਕਿਸੇ ਖਾਸ ਪਹੁੰਚ ਦੀ ਲੋੜ ਨਹੀਂ।"</string>
+     <string name="install_confirm_question_update">"ਕੀ ਤੁਸੀਂ ਇਸ ਮੌਜੂਦਾ ਅਨੁਪ੍ਰਯੋਗ ਵਿੱਚ ਇੱਕ ਅਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਡੇਟਾ ਨਸ਼ਟ ਹੋ ਜਾਏਗਾ। ਅਪਡੇਟ ਕੀਤਾ ਅਨੁਪ੍ਰਯੋਗ ਇਸ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰੇਗਾ:"</string>
+     <string name="install_confirm_question_update_system">"ਕੀ ਤੁਸੀਂ ਇਸ ਬਿਲਟ-ਇਨ ਅਨੁਪ੍ਰਯੋਗ ਵਿੱਚ ਇੱਕ ਅਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਡੇਟਾ ਨਸ਼ਟ ਹੋ ਜਾਏਗਾ। ਅਪਡੇਟ ਕੀਤਾ ਅਨੁਪ੍ਰਯੋਗ ਇਸ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰੇਗਾ: "</string>
+     <string name="install_confirm_question_update_no_perms">"ਕੀ ਤੁਸੀਂ ਇਸ ਮੌਜੂਦਾ ਅਨੁਪ੍ਰਯੋਗ ਲਈ ਇੱਕ ਅਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਡੇਟਾ ਨਸ਼ਟ ਨਹੀਂ ਹੋਵੇਗਾ। ਇਸ ਲਈ ਕਿਸੇ ਖਾਸ ਪਹੁੰਚ ਦੀ ਲੋੜ ਨਹੀਂ ਹੁੰਦੀ।"</string>
+     <string name="install_confirm_question_update_system_no_perms">"ਕੀ ਤੁਸੀਂ ਇਸ ਬਿਲਟ-ਇਨ ਅਨੁਪ੍ਰਯੋਗ ਲਈ ਇੱਕ ਅਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਡੇਟਾ ਨਸ਼ਟ ਨਹੀਂ ਹੋਵੇਗਾ। ਇਸ ਲਈ ਕਿਸੇ ਖਾਸ ਪਹੁੰਚ ਦੀ ਲੋੜ ਨਹੀਂ ਹੁੰਦੀ।"</string>
+     <string name="uninstall_application_text_all_users">"ਕੀ ਤੁਸੀਂ <b>ਸਾਰੇ</b>ਉਪਯੋਗਕਰਤਾਵਾਂ ਲਈ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਅਣਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਅਨੁਪ੍ਰਯੋਗ ਅਤੇ ਇਸਦਾ ਡੇਟਾ ਡਿਵਾਈਸ ਤੇ <b>ਸਾਰੇ</b>ਉਪਯੋਗਕਰਤਾਵਾਂ ਵਿੱਚੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਏਗਾ।"</string>
+     <string name="newPerms">"ਨਵਾਂ"</string>
+     <string name="allPerms">"ਸਾਰੇ"</string>
+     <string name="privacyPerms">"ਗੁਪਤਤਾ"</string>
+     <string name="devicePerms">"ਡਿਵਾਈਸ ਪਹੁੰਚ"</string>
+     <string name="no_new_perms">"ਇਸ ਅਪਡੇਟ ਨੂੰ ਕਿਸੇ ਨਵੀਆਂ ਅਨੁਮਤੀਆਂ ਦੀ ਲੋੜ ਨਹੀਂ।"</string>
+     <string name="grant_confirm_question">"ਕੀ ਤੁਸੀਂ ਇਹ ਅਨੁਮਤੀਆਂ ਦੇ ਅਨੁਮਤੀ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਹਨਾਂ ਤੱਕ ਇਸਦੀ ਪਹੁੰਚ ਹੋਵੇਗੀ:"</string>
+     <string name="toast_application_is_not_exists">"ਅਨੁਪ੍ਰਯੋਗ ਅਣਇੰਸਟਾਲ ਹੋਵੇਗਾ।"</string>
+</resources>

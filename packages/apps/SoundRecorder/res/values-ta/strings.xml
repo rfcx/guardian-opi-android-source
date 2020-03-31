@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ஒலிப்பதிவுக்கருவி</string>
+    <string name="record_your_message">உங்கள் செய்தி பதிவு செய்யவும்</string>
+    <string name="message_recorded">செய்தி பதிவு செய்யப்பட்டது</string>
+    <string name="review_message">செய்தி பாடல் வரிகள்</string>
+    <string name="recording">ரிகார்ட் செய்தல்</string>
+    <string name="recording_stopped">பதிவு நிறுத்தப்பட்டது</string>
+    <string name="recording_save">பதிவு சேமிக்கப்பட்டது</string>
+    <string name="recording_nosave">பதிவு சேமிக்கப்பட்வில்லை</string>
+    <string name="storage_is_full">சேமிப்பகம் நிறைந்தது</string>
+    <string name="max_length_reached">அதிகபட்ச நீளம் அடைந்தது</string>
+    <string name="insert_sd_card">தயவு செய்து ஒரு SD கார்டு செருகவும்</string>
+    <string name="phone_message">அழைக்கும்போது ஒலிப்பதிவினை ஆன் செய்ய இயலவில்லை.</string>
+    <string name="min_available"><xliff:g id="minutes">%d</xliff:g> குறைந்தபட்சம் கிடைப்பவை</string>
+    <string name="sec_available"><xliff:g id="seconds">%d</xliff:g>கிடைக்கின்றன</string>
+    <string name="accept">சேமி</string>
+    <string name="discard">ஒதுக்கிவிடுக</string>
+    <string name="button_ok">ஓகே</string>
+    <string name="press_record">பதிவு செய்க அழுத்தவும்</string>
+    <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+    <string name="audio_db_artist_name">உங்கள் ஒலிப்பதிவுகள்</string>
+    <string name="audio_db_album_name">ஆடியோ பதிவுகள்</string>
+    <string name="audio_db_playlist_name">எனது ஒலிப்பதிவுகள்</string>
+    <string name="error_sdcard_access">SD கார்டை அணுக முடியவில்லை</string>
+    <string name="error_app_internal">உள்ளக அப்ளிகேஷன் பிழை</string>
+    <string name="error_mediadb_new_record">பதிவு செய்யப்பட்ட ஆடியோவை சேமிக்க இயலவில்லை</string>
+    <string name="select_file_type">பதிவு கோப்பு வகையை தேர்ந்தெடுக்கவும்</string>
+    <string name="record_amr">amr வகை</string>
+    <string name="menu_info">இந்த மெனு தேர்ந்தெடுக்கப்பட்டுள்ளது</string>
+    <string name="list_recorder_delete_alert_title">நீக்கவா</string>
+    <string name="list_recorder_delete_alert_message">அழிக்க உறுதி%1$s ?</string>
+    <string name="button_delete">நீக்கவா</string>
+    <string name="button_cancel">ரத்து</string>
+    <string name="list_recorder_toast_delete_success">பதிவு அழிக்கப்பட்டது</string>
+    <string name="list_recorder_toast_database_failed">தரவுத்தள கோப்பினை அழிக்க தவறியது</string>
+    <string name="list_recorder_toast_file_failed">தரவுத்தள பதிவு செய்யும் கோப்பினை அழிக்க தவறியது</string>
+    <string name="list_recorder_item_time_format">%1$s \n %2$s</string>
+    <string name="list_recorder_item_size_format_b">%1$s\u0020B</string>
+    <string name="list_recorder_item_size_format_kb">%1$s\u0020KB</string>
+    <string name="list_recorder_item_size_format_mb">%1$s\u0020MB</string>
+    <string name="menu_recorder_list">ப்திவுசெய்வதன் பட்டியல்</string>
+    <string name="menu_recorder_ring">மணியோசை அமைப்பு</string>
+    <string name="menu_recorder_ring_success">மணியோசை அமைப்பு வெற்றி</string>
+    <string name="menu_recorder_ring_failed">மணியோசை அமைப்பு தவறியது</string>
+    <string name="menu_recorder_default_type">பதிவுசெய்யும் கோப்பு வகை</string>
+    <string name="list_empty_value">பட்டியல் காலிசெய்யவும்</string>
+    <string name="confirm_del">கோப்புகளை நீங்கள் அழிப்பது உறுதியா?</string>
+    <string name="menu_unselect_all">அனைத்து தேர்வினையும் நீக்கவும்</string>
+    <string name="save">சேமிக்கவும்</string>
+    <string name="record_3gpp">3gpp வகை</string>
+    <string name="menu_list">பதிவுசெய்பவர் பட்டியல்</string>
+    <string name="menu_recorder_blue">புளூடூத்</string>
+    <string name="menu_recorder_mms">எம் எம் எஸ்</string>
+    <string name="menu_recorder_email">மின்னஞ்சல்</string>
+    <string name="menu_select_all">அனைத்தையும் தெரிவு செய்யவும்</string>
+    <string name="menu_delete">அழிக்கவும்</string>
+    <string name="dialog_title">மணியோசையாக பயன்படுத்தவும்</string>
+    <string name="dialog_item_sim1">சிம் 1 தொலைபேசி மணியோசை</string>
+    <string name="dialog_item_sim2">சிம் 2 தொலைபேசி மணியோசை</string>
+    <string name="menu_recorder_filepath">பாதை சேமிக்கவும்</string>
+    <string name="browser">உலாவி</string>
+</resources>

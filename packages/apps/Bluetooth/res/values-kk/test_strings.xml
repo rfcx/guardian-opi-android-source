@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Әлемге сәлем</string>
+    <string name="app_name">Bluetooth Share</string>
+    <string name="insert_record">Жазбаны қою</string>
+    <string name="update_record">Жазбаны растау</string>
+    <string name="ack_record">Жазбаны бекіту</string>
+    <string name="deleteAll_record">Барлық жазбаларды жою</string>
+    <string name="ok_button">OK</string>
+    <string name="delete_record">Жазбаны жою</string>
+    <string name="start_server">TCP серверін іске қосу</string>
+    <string name="notify_server">TCP серверін хабарландыру</string>
+</resources>

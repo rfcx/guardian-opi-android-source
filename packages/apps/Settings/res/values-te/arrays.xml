@@ -1,0 +1,279 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="character_set_entries">
+        <item>E.1</item>
+        <item>E.2</item>
+        <item>E.3</item>
+    </string-array>
+    <string-array name="fm_band_entries">
+        <item>యూరోపియన్/సంయుక్త బ్యాండ్</item>
+        <item>జాపనీస్ బ్యాండ్     </item>
+    </string-array>
+    <string-array name="timezone_filters">
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+        <item>అమెరికా</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+        <item>యూరోప్ </item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+        <item>ఆఫ్రికా</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+        <item>ఆసియా</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+        <item>ఆస్ట్రేలియా</item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+        <item>పసిఫిక్        </item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+        <item>అన్ని</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>యానిమేషన్స్ లేవు </item>
+        <item>కొన్ని యానిమేషన్లు</item>
+        <item>అన్ని యానిమేషన్లు</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>విండో యానిమేషన్ ప్రదర్శితం కాలేదు </item>
+        <item>కొన్ని విండో యానిమేషన్లు చూపించబడుతున్నాయి</item>
+        <item>అన్ని విండో యానిమేషన్లు కనిపిస్తాయి</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15లు</item>
+        <item>30లు</item>
+        <item>1 నిమిషం</item>
+        <item>2 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>చాలా నెమ్మదిగా</item>
+        <item>నిదానం</item>
+        <item>సాధారణం</item>
+        <item>త్వరగా</item>
+        <item>చాలా శీఘ్రంగా</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>చాలా తక్కువ</item>
+        <item>తక్కువ</item>
+        <item>సాధారణం</item>
+        <item>ఎక్కువ</item>
+        <item>అత్యధికంగా</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>అమెరికన్ ఆంగ్లం</item>
+        <item>బ్రిటిష్ ఆంగ్లం</item>
+        <item>ఫ్రెంచ్</item>
+        <item>జర్మన్</item>
+        <item>ఇటాలియన్</item>
+        <item>స్పానిష్</item>
+    </string-array>
+    <string-array name="tts_lang_values">
+        <item>ఇంగ్లాండ్-అమెరికా సంయుక్త</item>
+        <item>ఇంగ్లాండ్-GBR</item>
+        <item>ఎఫ్ ఆర్ ఎ-ఎఫ్ ఆర్ ఎ</item>
+        <item>డి ఇయు-డి ఇయు</item>
+        <item>ita-ITA</item>
+        <item>స్పా-ESP</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>ఇది ఆంగ్లంలో స్పీచ్  మాటలకు ఒక ఉదాహరణ.</item>
+        <item>ఇది ఆంగ్లంలో స్పీచ్  మాటలకు ఒక ఉదాహరణ.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>ఎస్టేలో ఇఎస్ యుఎన్ ఇజెంప్లో డి సింటెసిస్ డి వోజ్ ఎన్ ఎస్పనోల్.</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>టీ టీ ఎస్ ను అందుకోండి </item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>కామ్.ఎస్ విఒ ఎక్స్.పి ఐసిఒ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <!-- Status message of Wi-Fi when it is idle. -->
+        <item></item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>స్కానింగ్\u2026</item>
+        <!-- Status message of Wi-Fi when it is connecting. -->
+        <item>అనుసంధానిస్తోంది\u2026</item>
+        <!-- Status message of Wi-Fi when it is authenticating. -->
+        <item>\u2026 ప్రమాణీకరించే</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+        <item>IP చిరునామా కనుగొనడానికి\u2026</item>
+        <!-- Status message of Wi-Fi when it is connected. -->
+        <item>కనెక్ట్ అయినది </item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>సస్పెండ్ చేయబడింది</item>
+        <!-- Status message of Wi-Fi when it is disconnecting. -->
+        <item>డిస్ కనెక్ట్ అవుచున్నది\u2026</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>డిస్ కనెక్ట్ అయినది</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item>విజయవంతం కాని</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <!-- Status message of Wi-Fi when it is idle. -->
+        <item></item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>స్కానింగ్\u2026</item>
+        <!-- Status message of Wi-Fi when it is connecting to a network. -->
+        <item>కు అనుసంధానించబడుతోంది <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+        <item>తో ప్రమాణీకరిచబడుతోంది <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+        <item>నుండి IP అడ్రస్ <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <!-- Status message of Wi-Fi when it is connected to a network. -->
+        <item>కు అనుసంధానించబడింది <xliff:g id="network_name">%1$s</xliff:g></item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>సస్పెండ్ చేయబడింది</item>
+        <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+        <item>నుండి అనుసంధానం తొలగించడం<xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>డిస్ కనెక్ట్ అయినది</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item>విజయవంతం కాని</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <!-- The Wi-Fi network does not have any security. -->
+        <item>ఓపెన్</item>
+        <!-- Do not translate. -->
+        <item>WEP</item>
+        <!-- Do not translate. -->
+        <item>WPA/WPA2 PSK</item>
+        <!-- Do not translate. -->
+        <item>802.1x EAP</item>  
+    </string-array>
+    <string-array name="wifi_wapi_security">
+        <!-- The Wi-Fi network has WAPI PSK authentication protocol. -->
+        <item>WAPI PSK</item>        
+        <!-- The Wi-Fi network has WAPI Certificate authentication protocol. -->
+        <item>WAPI CERT</item>        
+    </string-array>
+    <string-array name="wapi_psk_input_type">
+        <item>ASCII</item>
+        <item>హెక్సా</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <!-- Do not translate. -->
+        <item>PEAP</item>
+        <!-- Do not translate. -->
+        <item>TLS</item>
+        <!-- Do not translate. -->
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>పేద</item>
+        <item>ఫెయిర్ ఇష్టాంశాలు</item>
+        <item>గుడ్</item>
+        <item>అత్యుత్తమమైన</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <!-- Wi-Fi should go to sleep when the screen turns off. -->
+        <item>స్క్రీన్ ఆఫ్ అయినప్పుడు </item>
+        <!-- When plugged in, never go to sleep.  When on battery, go to sleep when screen turns off. -->
+        <item>ప్లగ్ ఇన్ లో ఎప్పుడూ లేదు</item>
+        <!-- Never go to sleep. -->
+        <item>ఎన్నడూ లేదు</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>వాడుక సమయం</item>
+        <item>గణన ప్రారంభం     </item>
+        <item>అప్లికేషన్ పేరు</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ఏదీ కాదు</item>
+        <item>పాప్</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_wps_methods">
+        <item>WPS- PIN</item>
+        <item>WPS-పుష్ బటన్</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>ఆపు</item>
+        <item>హెచ్చరిక</item>
+        <item>వైబ్రేట్</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>ఏదీ కాదు</item>
+        <item>పాప్</item>
+        <item>గరగరలాడునట్టు చేయు</item>
+        <item>పాప్ లేదా చాప్          </item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>అంతర్గత పరికరం నిల్వ</item>
+        <item>తీసివేయగలిగే SD కార్డు</item>
+        <item>సిస్టమ్ నిర్ణయించుకోనివ్వండి  </item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>ఎప్పుడు</item>
+        <item>ఎన్నడూ లేదు</item>
+        <item>సైలెంట్ మోడ్ లో మాత్రమే </item>
+        <item>సైలెంట్ మోడ్ లో  లేనప్పుడు మాత్రమే </item>
+    </string-array>
+    <string-array name="dualsim_summaries">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="dualsim_entries">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="profiles_entries">
+        <item>సాధారణ</item>
+        <item>సైలెంట్</item>
+        <item>సమావేశం</item>
+        <item>ఔట్ డోర్</item>
+        <!-- add by liguxiang 10-31-11 for NEWMS00135255 begin -->
+        <!-- 
+        <item>Indoor</item>
+        -->
+        <!-- add by liguxiang 10-31-11 for NEWMS00135255 end -->
+    </string-array>
+    <string-array name="wifi_cellular_wlan">
+		<item>స్వయంచాలకంగా కనెక్టు అవు</item>
+		<item>మాన్యువల్ గా అనుసంధానించు</item>
+		<item>ఎల్లప్పుడూ అడగండి</item>
+	</string-array>
+    <string-array name="dualsim_other_summaries">
+        <item> SIM1</item>
+        <item> SIM2</item>
+        <item> ఎల్లప్పుడూ అడగండి</item>
+    </string-array>
+    <string-array name="dualsim_other_entries">
+        <item></item>
+        <item></item>
+        <item>ఎల్లప్పుడూ అడగండి</item>
+    </string-array>
+    <string-array name="disable_forcing_stop">
+        <item>ఆండ్రాయిడ్</item>
+        <item>కామ్.ఆండ్రాయిడ్.లాంచర్</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 నిముషం</item>
+        <item>5 నిముషం</item>
+        <item>1 గంట</item>
+        <item>ఎప్పుడు వద్దు</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>ఇది ఇప్పటి నుండి 1 నిముషం కంటే తక్కువకు సెట్ చేయబడినది.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ఇప్పటి నుండి.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ఇప్పటి నుండి.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> మరియు <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ఇప్పటి నుండి.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ఇప్పటి నుండి.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> మరియు <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ఇప్పటి నుండి.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> మరియు <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ఇప్పటి నుండి.</item>
+        <item>ఇది సెట్ చేయబడినది <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, మరియు <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ఇప్పటి నుండి.</item>
+    </string-array>
+</resources>

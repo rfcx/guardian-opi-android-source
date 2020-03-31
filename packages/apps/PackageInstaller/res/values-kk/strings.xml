@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Буманы орнату бағдарламасы</string>
+    <string name="next">Келесі</string>
+    <string name="install">Орнату</string>
+    <string name="done">Дайын</string>
+    <string name="security_settings_desc">Рұқсат тізімі:</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="unknown">Белгісіз</string>
+    <string name="installing">Орнату\u2026</string>
+    <string name="install_done">Бағдарлама орнатылды.</string>
+    <string name="install_confirm_question">Бұл бағдарлама төменде көрсетілген мәліметтерге кіру мүмкіндігіне ие болады. Оны орнату керек пе? </string>
+    <string name="install_confirm_question_no_perms">Бұл бағдарлама арнайы рұқсатты талап етпейді. Оны орнату керек пе?</string>
+    <string name="install_confirm_question_update">Жаңартқаннан кейін бұл қолданыстағы қолданба төменде көрсетілген мәліметтерге кіру мүмкіндігіне ие болады. Сонымен бірге, ағымдағы ақпарат сақталып қалады. Жаңарту керек пе?</string>
+    <string name="install_confirm_question_update_system">Жаңартқаннан кейін бұл бекітілген қолданба төменде көрсетілген мәліметтерге кіру мүмкіндігіне ие болады. Сонымен бірге, ағымдағы ақпарат сақталып қалады. Жаңарту керек пе?</string>
+    <string name="install_confirm_question_update_no_perms">Бұл бағдарлама жаңартуын орнату керек пе? Ағымдағы ақпарат жоғалмайды. Арнайы кіру рұқсатын талап етпейді.</string>
+    <string name="install_confirm_question_update_system_no_perms">Бұл бекітілген бағдарлама жаңартуын орнату керек пе? Ағымдағы ақпарат жоғалмайды. Арнайы кіру рұқсатын талап етпейді.</string>
+    <string name="install_failed">Бағдарлама орнатылған жоқ.</string>
+    <string name="install_failed_invalid_apk">Бума зақымдалған сияқты.</string>
+    <string name="install_failed_inconsistent_certificates">Мұндай атауы мен қайшылықты қолтаңбасы бар бума орнатылып қойған.</string>
+    <string name="install_failed_older_sdk">Бұл бума тек Android жүйесінің жаңа нұсқаларында ғана жұмыс істейді.</string>
+    <string name="install_failed_cpu_abi_incompatible" product="tablet">Бұл бағдарлама сіздің планшетіңізбен үйлесімді емес.</string>
+    <string name="install_failed_cpu_abi_incompatible" product="default">Бұл бағдарлама сіздің телефоныңызбен үйлесімді емес.</string>
+    <string name="install_failed_file_not_found">Берілген бума орнату аяқталғанша жойылды.</string>
+    <string name="install_failed_verify_failed">Бума тексерілген жоқ және оны орнату мүмкін емес.</string>
+    <string name="install_failed_verify_timeout">Буманы тексеру кезінде күту уақыты орын алды. Кейінірек қайта орнатып көріңіз.</string>
+    <string name="install_failed_msg" product="tablet"><xliff:g id="app_name">%1$s</xliff:g> бағдарламасын планшетіңізге орнату мүмкін болмады.</string>
+    <string name="install_failed_msg" product="default"><xliff:g id="app_name">%1$s</xliff:g> бағдарламасын телефоныңызға орнату мүмкін болмады.</string>
+    <string name="launch">Ашу</string>
+    <string name="unknown_apps_dlg_title">Орнату құлыпталған</string>
+    <string name="unknown_apps_dlg_text" product="tablet">Қауіпсіздік үшін планшетіңізде белгісіз көздерден бағдарламаларды орнату құлыпталған.</string>
+    <string name="unknown_apps_dlg_text" product="default">Қауіпсіздік үшін телефоныңызда белгісіз көздерден бағдарламаларды орнату құлыпталған.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Параметрлер</string>
+    <string name="allow_source_dlg_title">Бағдарламаларға арналған жаңа көз</string>
+    <string name="allow_source_dlg_text"><xliff:g id="app_name">%1$s</xliff:g> басқа бағдарламаларды орнатуды қалайды.\n\nРұқсат беру және таңдауды сақтау керек пе?</string>
+    <string name="manage_applications">Бағдарламаларды басқару</string>
+    <string name="dlg_app_replacement_title">Бағдарламаны ауыстыру керек пе?</string>
+    <string name="dlg_app_replacement_statement">Сіз орнатып отырған бағдарлама басқа бағдарламаны ауыстырады.\n\nБарлық алдыңғы пайдаланушы деректері сақталады.</string>
+    <string name="dlg_sys_app_replacement_statement">Бұл жүйелік бағдарлама.\n\nБарлық алдыңғы пайдаланушы деректер сақталады.</string>
+    <string name="out_of_space_dlg_title">Бос орын жеткіліксіз</string>
+    <string name="out_of_space_dlg_text"><xliff:g id="app_name">%1$s</xliff:g> бағдарламасын орнату мүмкін болмады. Орынды босатып, қайта орнатып көріңіз.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Бағдарлама табылмады</string>
+    <string name="app_not_found_dlg_text">Қолданба орнатылған қолданбалар тізімінен табылмады.</string>
+    <string name="uninstall_application_title">Бағдарламаны жою</string>
+    <string name="uninstall_update_title">Жаңартуды жою</string>
+    <string name="uninstall_activity_text"><xliff:g id="activity_name">%1$s</xliff:g> келесі бағдарламаның бөлігі:</string>
+    <string name="uninstall_application_text">Бағдарламаны жою керек пе?</string>
+    <string name="uninstall_application_text_all_users">Осы бағдарламаны <b>барлық</b> пайдаланушылар үшін жою керек пе? Бағдарлама мен оның деректері құрылғыдағы <b>барлық</b> пайдаланушыларданжойылады.</string>
+    <string name="uninstall_update_text">Осы бағдарламаны зауыттық нұсқамен ауыстыру керек пе?</string>
+    <string name="uninstalling">Жою\u2026</string>
+    <string name="uninstall_done">Жою аяқталды.</string>
+    <string name="uninstall_failed">Жою орындалмады.</string>
+    <string name="uninstall_failed_device_policy_manager">Бума белсенді құрылғы әкімшісі болғандықтан, оны орнату мүмкін емес.</string>
+    <string name="manage_device_administrators">Құрылғы әкімшілерін басқару</string>
+    <string name="uninstall_failed_msg"><xliff:g id="app_name">%1$s</xliff:g> бағдарламасын жою мүмкін болмады.</string>
+    <string name="Parse_error_dlg_title">Талдау қатесі</string>
+    <string name="Parse_error_dlg_text">Буманы талдауда мәселе туындады.</string>
+    <string name="newPerms">Жаңа хабар жазу</string>
+    <string name="allPerms">Барлығы</string>
+    <string name="privacyPerms">Құпиялылық</string>
+    <string name="devicePerms">Құрылғыға кіру</string>
+    <string name="no_new_perms">Бұл жаңартуды орнату арнайы рұқсаттарды талап етпейді.</string>
+    <string name="grant_confirm_question">Келесі рұқсаттарды рұқсат ету қажет пе? Ол келесіге қатынаса алады:</string>
+</resources>

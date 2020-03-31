@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2006 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="people">Адамдар</string>
+    <string name="contactsList">Контактілер</string>
+    <string name="shortcutContact">Контакт</string>
+    <string name="shortcutMessageContact">Тікелей хабар алмасу</string>
+    <string name="shortcutActivityTitle">Жылдам қоңырау шалу контактісін таңдау</string>
+    <string name="callShortcutActivityTitle">Қоңырау шалу нөмірін таңдау</string>
+    <string name="messageShortcutActivityTitle">Хабар жіберу нөмірін таңдау</string>
+    <string name="starredList">Белгіленген</string>
+    <string name="frequentList">Жиі қоңырау шалатын</string>
+    <string name="viewContactTitle">Контак туралы дерек</string>
+    <string name="viewContactDesription">Контактіні көру</string>
+    <string name="editContactDescription">Контактіні өңдеу</string>
+    <string name="insertContactDescription">Контактіні құру</string>
+    <string name="contactDetailAbout">Ақпарат</string>
+    <string name="searchHint">Контактілерді іздеу</string>
+    <string name="menu_viewContact">Контактіні көру</string>
+    <string name="menu_addStar">Таңдаулылар қатарына қосу</string>
+    <string name="menu_removeStar">Сүйіктілерден жою</string>
+    <string name="menu_editContact">Өңдеу</string>
+    <string name="menu_deleteContact">Жою</string>
+    <string name="menu_create_contact_shortcut">Бастапқы экранға орнату</string>
+    <string name="menu_call">Контактіге қоңырау шалу</string>
+    <string name="menu_sendSMS">Контактіге хабар жіберу</string>
+    <string name="menu_splitAggregate">Бөлу</string>
+    <string name="menu_editGroup">Өңдеу</string>
+    <string name="menu_deleteGroup">Жою</string>
+    <string name="menu_new_group_action_bar">Топ қосу</string>
+    <string name="splitConfirmation_title">Контактіні бөлу керек пе?</string>
+    <string name="splitConfirmation">Бұл контакт көпшілік контактілерге бөлінеді.</string>
+    <string name="menu_joinAggregate">Біріктіру</string>
+    <string name="showAllContactsJoinItem">Барлық контактілерді көрсету</string>
+    <string name="separatorJoinAggregateAll">Барлық контактілер</string>
+    <string name="contactsJoinedMessage">Контактілер бірікті</string>
+    <string name="readOnlyContactDeleteConfirmation">Бұл контакт туралы ақпарат көпшілік тіркелгіде бар. Тек оқылатын тіркелгілердегі ақпарат жойылмайды, контактілер тізімінде жасырылады.</string>
+    <string name="multipleContactDeleteConfirmation">Бұл контактіні жойсаңыз, көпшілік тіркелгіден ақпарат жойылады.</string>
+    <string name="deleteConfirmation">Бұл контакт жойылады.</string>
+    <string name="menu_discard">Қабылдамау</string>
+    <string name="createContactShortcutSuccessful">Контакт виджеті бастапқы экранға қосылды.</string>
+    <string name="pickerNewContactHeader">Жаңа контак құру</string>
+    <string name="pickerNewContactText">Жаңа контак құру</string>
+    <string-array name="otherLabels">
+        <item>Ұйым</item>
+        <item>Ескертпе</item>
+    </string-array>
+    <string name="photoPickerNotFoundText" product="tablet">Планшетте суреттер қолжетімді емес.</string>
+    <string name="customLabelPickerTitle">Теңшелетін жапсырма атауы</string>
+    <string name="send_to_voicemail_checkbox">Қоңырауды тікелей дауыстық поштаға жіберу</string>
+    <string name="noContacts">Контактілер жоқ.</string>
+    <string name="contactSavedToast">Контакт сақталды.</string>
+    <plurals name="listFoundAllContacts">
+        <item quantity="one">1 табылды</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> табылды</item>
+    </plurals>
+    <string name="listFoundAllContactsZero">Контактілер жоқ</string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">1 табылды</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> табылды</item>
+    </plurals>
+    <string name="contactsAllLabel">Барлық контактілер</string>
+    <string name="contactsGroupsLabel">Топтар</string>
+    <string name="callBack">Қайта қоңырау шалу</string>
+    <string name="callAgain">Қайта қоңырау шалу</string>
+    <string name="returnCall">Кері қоңырау шалу</string>
+    <string name="search_settings_description">Контактілер аттары</string>
+    <string name="quickcontact_missing_app">Бұл әрекетті орындау үшін қолданба табылмады.</string>
+    <string name="menu_share">Бөлісу</string>
+    <string name="share_via">Контактімен осы арқылы бөлісу</string>
+    <string name="dialog_new_group_account">Тіркелгіде топ құру</string>
+    <string name="add_connection_button">Байланысу амалын қосу</string>
+    <string name="use_photo_as_primary">Осы фотосуретті таңдау</string>
+    <string name="display_options_sort_list_by">Тізімді осы арқылы сұрыптау</string>
+    <string name="display_options_sort_by_given_name">Берілген ат</string>
+    <string name="display_options_sort_by_family_name">Тегі</string>
+    <string name="display_options_view_given_name_first">Алдымен берілген атымен</string>
+    <string name="display_options_view_family_name_first">Алдымен әкесінің атымен</string>
+    <string name="take_photo">Суретке түсіру</string>
+    <string name="pick_photo">Суретті галереядан таңдау</string>
+    <string name="pick_new_photo">Жаңа суретті галереядан таңдау</string>
+    <string name="locale_change_in_progress">Тілдің өзгергендігін көрсету үшін контакт тізімі жаңартылды</string>
+    <string name="upgrade_in_progress">Контакт тізімі жаңартылды.</string>
+    <string name="upgrade_out_of_memory_retry">Жаңарту әрекетін қайта орындап көру</string>
+    <string name="menu_select_all">Барлығын белгілеу</string>
+    <string name="add_field">Басқа өріс қосу</string>
+    <string name="add_new_entry_for_section">Жаңасын қосу</string>
+    <string name="add_organization">Ұйым қосу</string>
+    <string name="group_edit_field_hint_text">Топ атауы</string>
+    <string name="edit_contact">Контактіні өңдеу</string>
+    <string name="aggregation_suggestion_edit_dialog_message">Таңдалған контактіні өңдеуге өту керек пе? Енгізген ақпарат көшіріледі.</string>
+    <string name="menu_copyContact">Менің контактілерім қалтасына көшіру</string>
+    <string name="add_to_my_contacts">"Менің контактілерім" қалтасына қосу</string>
+    <string name="activity_title_settings">Параметрлер</string>
+    <string name="menu_settings" msgid="377929915873428211">Параметрлер</string>
+    <string name="menu_help">Анықтама</string>
+    <string name="preference_displayOptions">Көрсету опциялары</string>
+    <string name="organization_company_and_title"><xliff:g id="company" example="TechnicalProgramManager">%2$s</xliff:g>, <xliff:g id="company" example="GoogleInc.">%1$s</xliff:g></string>
+    <string name="activity_title_confirm_add_detail">Контактіге қосу</string>
+    <string name="non_phone_close">Жабу</string>
+    <string name="widget_name_and_phonetic"><xliff:g id="display_name" example="JohnHuber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)</string>
+    <string name="social_widget_label">Контакт</string>
+    <string name="social_widget_loading">Жүктеу\u2026</string>
+    <string name="contacts_unavailable_add_account">Тіркелгіге кіру</string>
+    <string name="contacts_unavailable_import_contacts">Контактілерді импорттау</string>
+    <string name="create_group_dialog_title">Жаңа топ құру</string>
+    <string name="create_group_item_label">Жаңа топ құру</string>
+    <string name="copy_text">Аралық сақтағышқа көшіру</string>
+    <string name="clear_default">Әдепкі бойынша жою</string>
+    <string name="generic_no_account_prompt_title">Тіркелгі қосыңыз</string>
+    <string name="add_account">Аккаунтты қосу</string>
+    <string name="add_new_account">Жаңа тіркелгіні қосу</string>
+    <string name="menu_export_database">Дерекқор файлдарын экспорттау</string>
+</resources>

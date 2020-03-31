@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="exchange_name_alternate">ਮਾਈਕ੍ਰੋਸੌਫਟ ਐਕਸਚੇਂਜ ਐਕਟਿਵ ਸਿੰਕ</string>
+  <string name="meeting_accepted">
+        ਸਵੀਕ੍ਰਿਤ:
+        <xliff:g id="subject">%s</xliff:g>
+    </string>
+  <string name="meeting_declined">
+        ਅਸਵੀਕ੍ਰਿਤ:
+        <xliff:g id="subject">%s</xliff:g>
+    </string>
+  <string name="meeting_tentative">
+        ਅੰਤਰਿਮ:
+        <xliff:g id="subject">%s</xliff:g>
+    </string>
+  <string name="meeting_canceled">
+        ਰੱਦ ਹੋ ਗਿਆ:
+        <xliff:g id="subject">%s</xliff:g>
+    </string>
+  <string name="meeting_updated">
+       ਅਪਡੇਟ ਹੋ ਗਿਆ:
+        <xliff:g id="subject">%s</xliff:g>
+    </string>
+  <string name="meeting_when">
+        ਜਦੋਂ:
+        <xliff:g id="when">%s</xliff:g>
+    </string>
+  <string name="meeting_where">
+        ਜਿੱਥੇ:
+        <xliff:g id="where">%s</xliff:g>
+    </string>
+  <string name="meeting_recurring">
+        ਜਦੋਂ:
+        <xliff:g id="eventdate" example="Tue, Mar 10, 2010 at 2:30 pm">%s</xliff:g>
+        (ਵਾਰ-ਵਾਰ ਹੋਣਾ)
+    </string>
+  <string name="meeting_allday">
+        ਜਦੋਂ:
+        <xliff:g id="eventdate" example="Tue, Mar 10, 2010 ">%s</xliff:g>
+        (ਪੂਰਾ ਦਿਨ)
+    </string>
+  <string name="meeting_allday_recurring">
+        ਜਦੋਂ:
+        <xliff:g id="eventdate" example="Tue, Mar 10, 2010 ">%s</xliff:g>
+        (ਪੂਰਾ ਦਿਨ, ਵਾਰ-ਵਾਰ ਹੋਣਾ)
+    </string>
+  <string name="notification_exchange_calendar_added">ਜੋੜੇ ਗਏ ਕੈਲੰਡਰ ਨੂੰ ਬਦਲੋ</string>
+  <string name="app_name">ਸੇਵਾਵਾਂ ਬਦਲੋ</string>
+  <string name="exception_cancel">
+        ਇਹ ਘਟਨਾ ਹੇਠਾਂ ਦਿੱਤੇ ਲਈ ਰੱਦ ਕਰ ਦਿੱਤੀ ਗਈ ਹੈ:
+        <xliff:g id="date">%s</xliff:g>
+    </string>
+  <string name="exception_updated">
+        ਇਸ ਘਟਨਾ ਦੇ ਵੇਰਵੇ ਹੇਠਾਂ ਦਿੱਤੇ ਲਈ ਬਦਲ ਦਿੱਤੇ ਗਏ ਹਨ:
+        <xliff:g id="date">%s</xliff:g>
+    </string>
+  <string name="policy_dont_allow_attachments">ਅਟੈਚਮੈਂਟਸ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_storage_cards">ਸਟੋਰੇਜ ਕਾਰਡਸ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_unsigned_apps">ਅਨਅਸਾਈਨ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_unsigned_installers">ਅਨਅਸਾਈਨ ਅਨੁਪ੍ਰਯੋਗ ਇੰਸਟਾਲਰਸ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_wifi">ਵਾਈਫਾਈ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_text_messaging">ਟੈਕਸਟ ਸੁਨੇਹਿਆਂ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_pop_imap">POP3 ਜਾਂ IMAP ਖਾਤਿਆਂ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_irda">ਇਨਫਰੇਰਿਡ ਗੱਲਬਾਤਾਂ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_html">HTML ਈਮੇਲ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_browser">ਬ੍ਰਾਊਜਰਸ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_consumer_email">ਉਪਭੋਗਤਾ ਈਮੇਲ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_dont_allow_internet_sharing">ਇੰਟਰਨੈਟ ਸ਼ੇਅਰਿੰਗ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦਿਓ</string>
+  <string name="policy_require_smime">SMIME ਸੁਨੇਹਿਆਂ ਦੀ ਲੋੜ</string>
+  <string name="policy_require_manual_sync_roaming">ਰੋਮਿੰਗ ਵੇਲੇ ਕੇਵਲ ਮੈਨੂਅਲ ਸਿੰਕ ਦੀ ਅਨੁਮਤੀ ਦਿਓ</string>
+  <string name="policy_bluetooth_restricted">ਬਲੂਟੁੱਥ ਪ੍ਰਯੋਗ ਪ੍ਰਤੀਬੰਧਤ ਕਰੋ</string>
+  <string name="policy_app_blacklist">ਨਿਰਦਿਸ਼ਟ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਅਸਵੀਕਾਰ ਕਰੋ</string>
+  <string name="policy_app_whitelist">ਕੇਵਲ ਨਿਰਦਿਸ਼ਟ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੀ ਅਨੁਮਤੀ ਦਿਓ</string>
+  <string name="policy_text_truncation">ਟੈਕਸਟ ਈਮੇਲ ਅਕਾਰ ਪ੍ਰਤੀਬੰਧਤ ਕਰੋ</string>
+  <string name="policy_html_truncation">HTML ਈਮੇਲ ਅਕਾਰ ਪ੍ਰਤੀਬੰਧਤ ਕਰੋ</string>
+  <string name="policy_max_attachment_size">ਅਟੈਚਮੈਂਟ ਅਕਾਰ ਪ੍ਰਤੀਬੰਧਤ ਕਰੋ</string>
+  <string name="policy_require_encryption">ਡਿਵਾਈਸ ਐਨਕਰਿਪਸ਼ਨ ਦੀ ਲੋੜ</string>
+  <string name="policy_require_sd_encryption">sd ਕਾਰਡ ਐਨਕਰਿਪਸ਼ਨ ਦੀ ਲੋੜ</string>
+  <string name="account_setup_options_mail_window_auto">ਸਵੈਚਾਲਤ</string>
+  <string name="account_setup_options_mail_window_1day">ਇੱਕ ਦਿਨ</string>
+  <string name="account_setup_options_mail_window_3days">ਤਿੰਨ ਦਿਨ</string>
+  <string name="account_setup_options_mail_window_1week">ਇੱਕ ਹਫਤਾ</string>
+  <string name="account_setup_options_mail_window_2weeks">ਦੋ ਹਫਤੇ</string>
+  <string name="account_setup_options_mail_window_1month">ਇੱਕ ਮਹੀਨਾ</string>
+  <string name="account_setup_options_mail_window_all">ਸਾਰੇ</string>
+    <string name="auth_error_notification_title">"ਪ੍ਰਮਾਣੀਕਰਨ ਅਸ਼ੁੱਧੀ"</string>
+     <string name="auth_error_notification_text">"<xliff:g id="account">%s</xliff:g> ਲਈ ਖਾਤਾ ਸੈਟਿੰਗਸ ਸੰਪਾਦਿਤ ਕਰਨ ਲਈ ਛੋਹਵੋ"</string>
+</resources>

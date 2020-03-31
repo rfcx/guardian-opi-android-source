@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="permission_read_attachment_label">ਈਮੇਲ ਅਟੈਚਮੈਂਟਸ ਪੜ੍ਹੋ</string>
+  <string name="permission_read_attachment_desc">ਤੁਹਾਡੀਆਂ ਈਮੇਲ ਅਟੈਚਮੈਂਟਸ ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ।</string>
+  <string name="permission_access_provider_label">ਈਮੇਲ ਪ੍ਰਦਾਤਾ ਡੇਟਾ ਤੱਕ ਪਹੁੰਚ</string>
+  <string name="permission_access_provider_desc">ਪ੍ਰਾਪਤ ਸੁਨੇਹਿਆਂ, ਭੇਜੇ ਗਏ ਸੁਨੇਹਿਆਂ, ਉਪਯੋਗਕਰਤਾ ਨਾਂਵਾਂ, ਤੇ ਪਾਸਵਰਡਾਂ ਸਮੇਤ, ਤੁਹਾਡੇ ਈਮੇਲ ਡੇਟਾਬੇਸ ਤੱਕ ਪਹੁੰਚ ਲਈ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ।</string>
+  <string name="app_name">ਈਮੇਲ</string>
+  <string name="debug_title">ਡੀਬਗ</string>
+  <string name="next_action">ਅਗਲਾ</string>
+  <string name="okay_action">ਓਕੇ</string>
+  <string name="cancel_action">ਰੱਦ ਕਰੋ</string>
+  <string name="previous_action">ਪਿਛਲਾ</string>
+  <string name="done_action">ਹੋ ਗਿਆ</string>
+  <string name="create_action">ਨਵਾਂ ਬਣਾਓ</string>
+  <string name="quick_responses_empty_view">ਕੋਈ ਤੁਰੰਤ ਜਵਾਬ ਨਹੀਂ</string>
+  <string name="account_settings_action">ਖਾਤਾ ਸੈਟਿੰਗਸ</string>
+  <string name="status_network_error">ਕਨੈਕਸ਼ਨ ਸਮੱਸਿਆ।</string>
+  <string name="cannot_move_protocol_not_supported_toast">POP3 ਖਾਤਿਆਂ ਤੇ ਮੂਵ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।
+        </string>
+  <string name="cannot_move_multiple_accounts_toast">ਅੱਗੇ ਨਹੀਂ ਜਾ ਸਕਦਾ ਕਿਉਂਕਿ ਸਲੈਕਸ਼ਨ ਵਿੱਚ ਮਲਟੀਪਲ ਖਾਤੇ ਹਨ। </string>
+  <string name="cannot_move_special_mailboxes_toast">ਡ੍ਰਾਫਟਸ, ਆਊਟਬੌਕਸ ਅਤੇ ਭੇਜੇ ਗਏ ਵਿਚਲੇ ਸੁਨੇਹਿਆਂ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। </string>
+  <string name="mailbox_name_display_inbox">ਇਨਬੌਕਸ</string>
+  <string name="mailbox_name_display_outbox">ਆਊਟਬੌਕਸ</string>
+  <string name="mailbox_name_display_drafts">ਡ੍ਰਾਫਟ</string>
+  <string name="mailbox_name_display_trash">ਟ੍ਰੈਸ਼</string>
+  <string name="mailbox_name_display_sent">ਭੇਜਿਆ ਗਿਆ</string>
+  <string name="mailbox_name_display_junk">ਜੰਕ</string>
+  <string name="account_folder_list_summary_inbox">ਇਨਬੌਕਸ</string>
+  <string name="account_folder_list_summary_starred">ਸਟਾਰਡ</string>
+  <string name="account_folder_list_summary_drafts">ਡ੍ਰਾਫਟ</string>
+  <string name="account_folder_list_summary_outbox">ਆਊਟਬੌਕਸ</string>
+  <string name="mailbox_list_account_selector_combined_view">ਕੰਬਾਈਨਡ ਦ੍ਰਿਸ਼</string>
+  <string name="message_compose_fwd_header_fmt">\n\n-------- ਵਾਸਤਵਿਕ ਸੁਨੇਹਾ --------\nSubject: <xliff:g id="subject">%1$s</xliff:g>\nFrom: <xliff:g id="sender">%2$s</xliff:g>\nTo: <xliff:g id="to">%3$s</xliff:g>\nCC: <xliff:g id="cc">%4$s</xliff:g>\n\n</string>
+  <string name="message_compose_insert_quick_response_list_title">ਤੁਰੰਤ ਜਵਾਬ ਦਰਜ ਕਰੋ</string>
+  <string name="message_view_attachment_background_load">ਨੋਟ: ਤੁਹਾਡੇ ਫਾਰਵਰਡ ਕੀਤੇ ਸੁਨੇਹੇ ਵਿੱਚ ਇੱਕ ਜਾਂ ਵੱਧ ਅਟੈਚਮੈਂਟਸ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਡਾਊਨਲੋਡ ਹੋ ਜਾਣਗੀਆਂ।</string>
+  <string name="attachment_not_found">ਅਟੈਚਮੈਂਟ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ।</string>
+  <string name="message_decode_error">ਸੁਨੇਹੇ ਨੂੰ ਡੀਕੋਡ ਕਰਨ ਵੇਲੇ ਇੱਕ ਅਸ਼ੁੱਧੀ ਸੀ। </string>
+  <string name="forward_download_failed_ticker">ਇੱਕ ਜਾਂ ਵੱਧ ਅਟੈਚਮੈਂਟਸ ਫਾਰਵਰਡ ਨਹੀਂ ਕਰ ਸਕਿਆ।</string>
+  <string name="forward_download_failed_title">ਅਟੈਚਮੈਂਟ ਫਾਰਵਰਡ ਨਹੀਂ ਹੋਈ</string>
+  <string name="login_failed_ticker"> \' <xliff:g id="account_name">%s</xliff:g> ਸਾਈਨ ਇਨ ਅਸਫਲ।</string>
+  <string name="login_failed_title">ਸਾਈਨ ਇਨ ਨਹੀਂ ਕਰ ਸਕਿਆ</string>
+  <string name="account_setup_basics_title">ਖਾਤਾ ਸੈਟਅਪ</string>
+  <string name="account_setup_basics_headline">ਈਮੇਲ ਖਾਤਾ</string>
+  <string name="accounts_welcome">ਤੁਸੀਂ ਕੇਵਲ ਕੁਝ ਸਟੈਪਸ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਖਾਤਿਆਂ ਲਈ ਈਮੇਲ ਸੈਟ ਅਪ ਕਰ ਸਕਦੇ ਹੋ।</string>
+  <string name="account_setup_basics_email_label">ਈਮੇਲ ਪਤਾ</string>
+  <string name="account_setup_basics_password_label">ਪਾਸਵਰਡ</string>
+  <string name="account_setup_basics_manual_setup_action">ਮੈਨੁਅਲ ਸੈਟਅਪ</string>
+  <string name="account_setup_username_password_toast"> ਇੱਕ ਪ੍ਰਮਾਣਿਤ ਈਮੇਲ ਪਤਾ ਅਤੇ ਪਾਸਵਰਡ ਟਾਈਪ ਕਰੋ।</string>
+  <string name="account_duplicate_dlg_title">ਡੁਪਲੀਕੇਟ ਖਾਤਾ</string>
+  <string name="account_duplicate_dlg_message_fmt">
+       ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਖਾਤੇ ਲਈ ਇਹ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਪ੍ਰਯੋਗ ਕਰ ਰਹੇ ਹੋ \"<xliff:g id="duplicate">%s</xliff:g>\".
+    </string>
+  <string name="account_password_spaces_error">ਇਹ ਪਾਸਵਰਡ ਇੱਕ ਜਾਂ ਵੱਧ ਖਾਲੀ ਸਥਾਨ ਅੱਖਰਾਂ ਨਾਲ ਸ਼ੁਰੂ ਜਾਂ ਖਤਮ ਹੁੰਦਾ ਹੈ। ਕਈ ਸਰਵਰ ਖਾਲੀ ਸਥਾਨਾਂ ਵਾਲੇ ਪਾਸਵਰਡਾਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ। </string>
+  <string name="account_setup_check_settings_retr_info_msg">
+    ਖਾਤਾ ਜਾਣਕਾਰੀ ਮੁੜ ਪ੍ਰਾਪਤ ਹੋ ਰਹੀ ਹੈ\u2026</string>
+  <string name="account_setup_check_settings_check_incoming_msg">
+    ਇਨਕਮਿੰਗ ਸਰਵਰ ਸੈਟਿੰਗਸ ਦੀ ਜਾਂਚ ਹੋ ਰਹੀ ਹੈ \u2026</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">
+    ਆਊਟਗੋਇੰਗ ਸਰਵਰ ਸੈਟਿੰਗਸ ਦੀ ਜਾਂਚ ਹੋ ਰਹੀ ਹੈ \u2026</string>
+  <string name="account_setup_names_title">ਖਾਤਾ ਸੈਟਅਪ</string>
+  <string name="account_setup_names_headline">
+       ਤੁਹਾਡਾ ਖਾਤਾ ਤਿਆਰ ਹੈ, ਅਤੇ ਈਮੇਲ ਤਿਆਰ ਹੋਣ ਵਾਲੀ ਹੈ!</string>
+  <string name="account_setup_names_account_name_label">   ਇਸ ਖਾਤੇ ਨੂੰ ਕੋਈ ਨਾਂ ਦਿਓ (ਵਿਕਲਪਕ)</string>
+  <string name="account_setup_names_user_name_label">
+        ਤੁਹਾਡਾ ਨਾਂ (ਆਊਟਗੋਇੰਗ ਸੁਨੇਹਿਆਂ ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ)</string>
+  <string name="account_setup_names_user_name_empty_error">ਇਹ ਖੇਤਰ ਖਾਲੀ ਨਹੀਂ ਛੱਡਿਆ ਜਾ ਸਕਦਾ। </string>
+  <string name="account_setup_account_type_title">ਖਾਤਾ ਸੈਟਅਪ</string>
+  <string name="account_setup_account_type_headline">ਖਾਤਾ ਪ੍ਰਕਾਰ</string>
+  <string name="account_setup_account_type_instructions">ਇਹ ਕਿਸ ਪ੍ਰਕਾਰ ਦਾ ਖਾਤਾ ਹੈ?</string>
+  <string name="account_setup_incoming_title">ਖਾਤਾ ਸੈਟਅਪ</string>
+  <string name="account_setup_incoming_headline">ਇਨਕਮਿੰਗ ਸਰਵਰ ਸੈਟਿੰਗਸ</string>
+  <string name="account_setup_incoming_username_label">ਉਪਯੋਗਕਰਤਾ ਨਾਂ</string>
+  <string name="account_setup_incoming_password_label">ਪਾਸਵਰਡ</string>
+  <string name="account_setup_incoming_port_label">ਪੋਰਟ</string>
+  <string name="account_setup_incoming_security_label">ਸੁਰੱਖਿਆ ਪ੍ਰਕਾਰ</string>
+  <string name="account_setup_incoming_security_none_label">ਕੋਈ ਨਹੀਂ</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">  SSL/TLS (ਸਾਰੇ ਸਰਟੀਫਿਕੇਟਾਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰੋ)</string>
+  <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">   STARTTLS (ਸਾਰੇ ਸਰਟੀਫਿਕੇਟਾਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰੋ)</string>
+  <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+  <string name="account_setup_incoming_delete_policy_label">ਸਰਵਰ ਤੋਂ ਈਮੇਲ ਮਿਟਾਓ</string>
+  <string name="account_setup_incoming_delete_policy_never_label">ਕਦੇ ਨਹੀਂ</string>
+  <string name="account_setup_incoming_delete_policy_delete_label"> ਜਦੋਂ ਮੈਂ ਇਨਬੌਕਸ ਵਿੱਚੋਂ ਮਿਟਾਵਾਂ</string>
+  <string name="account_setup_incoming_imap_path_prefix_label">IMAP ਮਾਰਗ ਪ੍ਰੀਫਿਕਸ</string>
+  <string name="account_setup_incoming_imap_path_prefix_hint">ਵਿਕਲਪਕ</string>
+  <string name="account_setup_outgoing_title">ਖਾਤਾ ਸੈਟਅਪ</string>
+  <string name="account_setup_outgoing_headline">ਆਊਟਗੋਇੰਗ ਸਰਵਰ ਸੈਟਿੰਗਸ</string>
+  <string name="account_setup_outgoing_smtp_server_label">SMTP ਸਰਵਰ</string>
+  <string name="account_setup_outgoing_port_label">ਪੋਰਟ</string>
+  <string name="account_setup_outgoing_security_label">ਸੁਰੱਖਿਆ ਪ੍ਰਕਾਰ</string>
+  <string name="account_setup_outgoing_require_login_label">ਸਾਈਨ-ਇਨ ਦੀ ਲੋੜ</string>
+  <string name="account_setup_outgoing_username_label">ਉਪਯੋਗਕਰਤਾ ਨਾਂ</string>
+  <string name="account_setup_outgoing_password_label">ਪਾਸਵਰਡ</string>
+  <string name="account_setup_exchange_certificate_title">ਕਲਾਈਂਟ ਸਰਟੀਫਿਕੇਟ</string>
+  <string name="account_setup_exchange_select_certificate">ਸਲੈਕਟ ਕਰੋ</string>
+  <string name="account_setup_exchange_use_certificate">ਕਲਾਈਂਟ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਯੋਗ ਕਰੋ</string>
+  <string name="account_setup_exchange_remove_certificate">ਮਿਟਾਓ</string>
+  <string name="account_setup_exchange_no_certificate">ਕੋਈ ਨਹੀਂ</string>
+  <string name="account_setup_exchange_device_id_label">ਮੋਬਾਈਲ ਡਿਵਾਈਸ ID</string>
+  <string name="account_setup_options_title">ਖਾਤਾ ਸੈਟਿੰਗਸ</string>
+  <string name="account_setup_options_headline">ਖਾਤਾ ਚੋਣਾਂ</string>
+  <string name="account_setup_options_mail_check_frequency_label">ਇਨਬੌਕਸ ਦੇਖਣ ਦੀ ਬਾਰੰਬਾਰਤਾ</string>
+  <string name="account_setup_options_mail_check_frequency_never">ਕਦੇ ਨਹੀਂ</string>
+  <string name="account_setup_options_mail_check_frequency_push">ਸਵੈਚਾਲਤ (ਪੁਸ਼)</string>
+  <string name="account_setup_options_mail_check_frequency_5min">ਹਰੇਕ 5 ਮਿਨਟ</string>
+  <string name="account_setup_options_mail_check_frequency_10min">ਹਰੇਕ 10 ਮਿਨਟ</string>
+  <string name="account_setup_options_mail_check_frequency_15min">ਹਰੇਕ 15 ਮਿਨਟ</string>
+  <string name="account_setup_options_mail_check_frequency_30min">ਹਰੇਕ 30 ਮਿਨਟ</string>
+  <string name="account_setup_options_mail_check_frequency_1hour">ਹਰੇਕ ਘੰਟਾ</string>
+  <string name="account_setup_options_notify_label">ਜਦੋਂ ਈਮੇਲ ਆਵੇ ਤਾਂ ਮੈਨੂੰ ਸੂਚਨਾ ਦਿਓ। </string>
+  <string name="account_setup_options_sync_contacts_label">ਇਸ ਖਾਤੇ ਵਿੱਚੋਂ ਸੰਪਰਕ ਸਿੰਕ ਕਰੋ।
+    </string>
+  <string name="account_setup_options_sync_calendar_label">ਇਸ ਖਾਤੇ ਵਿੱਚੋਂ ਕੈਲੰਡਰ ਸਿੰਕ ਕਰੋ।
+    </string>
+  <string name="account_setup_options_sync_email_label">ਇਸ ਖਾਤੇ ਵਿੱਚੋਂ ਈਮੇਲ ਸਿੰਕ ਕਰੋ।
+    </string>
+  <string name="account_setup_options_background_attachments_label">       ਆਟੋਮੈਟਿਕ ਰੂਪ ਨਾਲ ਅਟੈਚਮੈਂਟਸ ਜਦੋਂ ਵਾਈ-ਫਾਈ ਨਾਲ ਜੁੜ ਗਿਆ</string>
+  <string name="account_setup_failed_dlg_title">ਸਮਾਪਤ ਨਹੀਂ ਕਰ ਸਕਿਆ</string>
+  <string name="account_setup_options_mail_window_label">ਸਿੰਕ ਲਈ ਦਿਨ</string>
+  <string name="account_setup_options_mail_window_auto">ਸਵੈਚਾਲਤ</string>
+  <string name="account_setup_options_mail_window_1day">ਇੱਕ ਦਿਨ</string>
+  <string name="account_setup_options_mail_window_3days">ਤਿੰਨ ਦਿਨ</string>
+  <string name="account_setup_options_mail_window_1week">ਇੱਕ ਹਫਤਾ</string>
+  <string name="account_setup_options_mail_window_2weeks">ਦੋ ਹਫਤੇ</string>
+  <string name="account_setup_options_mail_window_1month">ਇੱਕ ਮਹੀਨਾ</string>
+  <string name="account_setup_options_mail_window_all">ਸਾਰੇ</string>
+  <string name="account_setup_options_mail_window_default">ਖਾਤੇ ਦਾ ਡਿਫਾਲਟ ਪ੍ਰਯੋਗ ਕਰੋ</string>
+  <string name="account_setup_failed_dlg_auth_message">ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।</string>
+  <string name="account_setup_failed_dlg_auth_message_fmt">ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।\n(<xliff:g id="error">%s</xliff:g>)</string>
+  <string name="account_setup_failed_dlg_certificate_message">ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ। </string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ। \n(<xliff:g id="error">%s</xliff:g>)</string>
+  <string name="account_setup_failed_certificate_required">ਕਲਾਈਂਟ ਸਰਟੀਫਿਕੇਟ ਦੀ ਲੋੜ ਹੈ। ਕੀ ਕਲਾਈਂਟ ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਸਰਵਰ ਨੂੰ ਕਨੈਕਟ ਕਰਨਾ ਹੈ?</string>
+  <string name="account_setup_failed_certificate_inaccessible">ਸਰਟੀਫਿਕੇਟ ਅਪ੍ਰਮਾਣਿਕ ਜਾਂ ਪਹੁੰਚਯੋਗ ਨਹੀਂ ਹੈ।</string>
+  <string name="account_setup_failed_check_credentials_message">
+         ਸਰਵਰ ਨੇ ਇੱਕ ਅਸ਼ੁੱਧੀ ਨਾਲ ਜਵਾਬ ਦਿੱਤਾ ਹੈ। ਆਪਣੇ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਤੇ ਪਾਸਵਰਡ ਦੀ ਜਾਂਚ ਕਰੋ
+        ਫਿਰ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+  <string name="account_setup_failed_dlg_server_message">ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ।</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ। \n(<xliff:g id="error">%s</xliff:g>)</string>
+  <string name="account_setup_failed_tls_required">TLS ਦੀ ਲੋਡ਼ ਹੈ ਪਰੰਤੂ ਸਰਵਰ ਵੱਲੋਂ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ</string>
+  <string name="account_setup_failed_auth_required">ਪ੍ਰਮਾਣੀਕਰਨ ਵਿਧੀਆਂ ਸਰਵਰ ਵੱਲੋਂ ਸਮਰਥਿਤ ਨਹੀਂ ਹਨ।</string>
+  <string name="account_setup_failed_security">ਸੁਰੱਖਿਆ ਅਸ਼ੁੱਧੀ ਕਾਰਨ ਸਰਵਰ ਨਾਲ ਕਨੈਕਸ਼ਨ ਨੂੰ ਖੋਲ੍ਹ ਨਹੀਂ ਸਕਿਆ। </string>
+  <string name="account_setup_failed_ioerror">ਸਰਵਰ ਨਾਲ ਕਨੈਕਸ਼ਨ ਨੂੰ ਖੋਲ੍ਹ ਨਹੀਂ ਸਕਿਆ। </string>
+  <string name="account_setup_failed_protocol_unsupported">
+        ਤੁਸੀਂ ਇੱਕ ਗਲਤ ਸਰਵਰ ਪਤਾ ਟਾਈਪ ਕੀਤਾ ਹੈ ਜਾਂ ਸਰਵਰ ਨੂੰ ਉਸ ਪ੍ਰੋਟੋਕੌਲ ਵਰਜਨ ਦੀ ਲੋੜ ਹੈ ਜੋ ਈਮੇਲ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।
+         </string>
+  <string name="account_setup_failed_access_denied">
+        ਤੁਹਾਨੂੰ ਇਸ ਸਰਵਰ ਨਾਲ ਸਿੰਕ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਨਹੀਂ ਹੈ। ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਸਰਵਰ ਦੇ ਪ੍ਰਬੰਧਕ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।
+        </string>
+  <string name="account_setup_security_required_title">ਰਿਮੋਟ ਸੁਰੱਖਿਆ ਪ੍ਰਬੰਧਨ</string>
+  <string name="account_setup_security_policies_required_fmt"> 
+         ਸਰਵਰ <xliff:g id="server">%s</xliff:g> ਚਾਹੁੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸਨੂੰ ਤੁਹਾਡੀ ਐਂਡਰੋਇਡ ਡਿਵਾਈਸ ਦੀਆਂ ਕੁਝ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਦੂਰ ਤੋਂ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਦਿਓ। ਕੀ ਤੁਸੀਂ ਇਸ ਖਾਤੇ ਦੇ ਸੈਟ ਅਪ ਨੂੰ ਸਮਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+  <string name="account_setup_failed_security_policies_unsupported">
+         ਇਸ ਸਰਵਰ ਨੂੰ ਅਜਿਹੀਆਂ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਲੋੜ ਹੈ ਜਿਹਨਾਂ ਦਾ ਤੁਹਾਡੀ ਐਂਡਰੋਇਡ ਡਿਵਾਈਸ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੀ,                                                 ਇਹਨਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਹਨ: <xliff:g id="error">%s</xliff:g></string>
+  <string name="account_setup_username_uneditable_error">ਤੁਸੀਂ ਕਿਸੇ ਖਾਤੇ ਦਾ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਨਹੀਂ ਬਦਲ ਸਕਦੇ। 
+         ਇੱਕ ਵੱਖ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਨਾਲ ਇੱਕ ਖਾਤਾ ਜੋਡ਼ਨ ਲਈ, ਖਾਤਾ ਜੋਡ਼ੋ ਨੂੰ ਛੋਹਵੋ। </string>
+  <string name="disable_admin_warning">ਚੇਤਾਵਨੀ: ਈਮੇਲ ਨੂੰ ਨਿਸ਼ਕ੍ਰਿਏ ਕਰਨ ਨਾਲ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਲਈ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਅਥਾਰਿਟੀ ਸਾਰੇ ਈਮੇਲ ਖਾਤੇ ਜਿਹਨਾਂ ਨੂੰ ਇਸਦੀ ਲੋਡ਼ ਹੈ, ਨਾਲ ਹੀ ਉਹਨਾਂ ਦੀ ਈਮੇਲ, ਸੰਪਰਕਾਂ, ਕੈਲੰਡਰ ਘਟਨਾਵਾਂ, ਅਤੇ ਦੂਜੇ ਡੇਟੇ ਨੂੰ ਮਿਟਾ ਦੇਵੇਗੀ।</string>
+  <string name="account_security_dialog_title">ਸੁਰੱਖਿਆ ਅਪਡੇਟ</string>
+  <string name="account_security_dialog_content_fmt">
+         <xliff:g id="account">%s</xliff:g> ਚਾਹੁੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੀਆਂ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਸ ਨੂੰ ਅਪਡੇਟ ਕਰੋ।</string>
+  <string name="account_security_title">ਡਿਵਾਈਸ ਸੁਰੱਖਿਆ</string>
+  <string name="account_security_policy_explanation_fmt"> 
+         ਸਰਵਰ <xliff:g id="server">%s</xliff:g> ਚਾਹੁੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸਨੂੰ ਤੁਹਾਡੀ ਐਂਡਰੋਇਡ ਡਿਵਾਈਸ ਦੀਆਂ ਕੁਝ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਦੂਰ ਤੋਂ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਦਿਓ। </string>
+  <string name="account_setup_failed_dlg_edit_details_action">ਵੇਰਵਿਆਂ ਦਾ ਸੰਪਾਦਨ ਕਰੋ</string>
+  <string name="password_expire_warning_ticker_fmt">
+            \"<xliff:g id="account">%s</xliff:g>\" ਚਾਹੁੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣਾ ਲੌਕ ਸਕ੍ਰੀਨ ਪਿਨ ਜਾਂ ਪਾਸਵਰਡ ਬਦਲੋ।
+       </string>
+  <string name="password_expire_warning_content_title">ਲੌਕ ਸਕ੍ਰੀਨ ਪਾਸਵਰਡ ਦੀ ਮਿਆਦ ਸਮਾਪਤ ਹੋ ਰਹੀ ਹੈ</string>
+  <string name="password_expired_ticker">ਤੁਹਾਡੇ ਲੌਕ ਸਕ੍ਰੀਨ ਪਿਨ ਜਾਂ ਪਾਸਵਰਡ ਦੀ ਮਿਆਦ ਸਮਾਪਤ ਹੋ ਗਈ ਹੈ।</string>
+  <string name="password_expired_content_title">ਲੌਕ ਸਕ੍ਰੀਨ ਪਾਸਵਰਡ ਦੀ ਮਿਆਦ ਸਮਾਪਤ</string>
+  <string name="password_expire_warning_dialog_title">ਲੌਕ ਸਕ੍ਰੀਨ ਪਾਸਵਰਡ ਦੀ ਮਿਆਦ ਸਮਾਪਤ ਹੋ ਰਹੀ ਹੈ</string>
+  <string name="password_expire_warning_dialog_content_fmt">
+       ਤੁਹਾਨੂੰ ਜਲਦੀ ਹੀ ਆਪਣਾ ਲੌਕ ਸਕ੍ਰੀਨ ਪਿਨ ਜਾਂ ਪਾਸਵਰਡ ਬਦਲਣਾ ਪਏਗਾ, ਜਾਂ 
+         <xliff:g id="account">%s</xliff:g> ਲਈ ਡੇਟਾ ਮਿਟਾ ਦਿੱਤਾ ਜਾਏਗਾ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+  <string name="password_expired_dialog_title">ਲੌਕ ਸਕ੍ਰੀਨ ਪਾਸਵਰਡ ਦੀ ਮਿਆਦ ਸਮਾਪਤ</string>
+  <string name="password_expired_dialog_content_fmt">
+          <xliff:g id="account">%s</xliff:g> ਲਈ ਡੇਟਾ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੋਂ ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ।
+         ਤੁਸੀਂ ਆਪਣਾ ਲੌਕ ਸਕ੍ਰੀਨ ਪਿਨ ਜਾਂ ਪਾਸਵਰਡ ਬਦਲ ਕੇ ਇਸਨੂੰ ਮੁੜ ਸਟੋਰ ਕਰ ਸਕਦੇ ਹੋ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਇਸਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+  <string name="account_settings_exit_server_settings">ਕੀ ਸੁਰੱਖਿਅਤ ਨਾ ਕੀਤੇ ਬਦਲਾਵਾਂ ਨੂੰ ਡਿਸਕਾਰਡ ਕਰਨਾ ਹੈ?</string>
+  <string name="account_settings_login_dialog_title">ਸਾਈਨ ਇਨ ਨਹੀਂ ਕਰ ਸਕਿਆ</string>
+  <string name="account_settings_login_dialog_content_fmt">
+          <xliff:g id="account">%s</xliff:g> ਲਈ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ।
+         ਕੀ ਤੁਸੀਂ ਹੁਣ ਇਸਨੂੰ ਅਪਡੇਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+  <string name="account_settings_background_attachments_label">   ਅਟੈਚਮੈਂਟਸ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  <string name="account_settings_background_attachments_summary">       ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਨਵੇਂ ਸੁਨੇਹਿਆਂ ਲਈ ਆਟੋ-ਡਾਊਨਲੋਡ ਅਟੈਚਮੈਂਟਸ</string>
+  <string name="account_settings_notify_label">ਈਮੇਲ ਸੂਚਨਾਵਾਂ</string>
+  <string name="account_settings_summary">ਸਿੰਕ ਬਾਰੰਬਾਰਤਾ, ਸੂਚਨਾਵਾਂ ਆਦਿ</string>
+  <string name="account_settings_notify_summary">ਜਦੋਂ ਈਮੇਲ ਆਵੇ ਤਾਂ ਸਿਸਟਮ ਬਾਰ ਵਿੱਚ ਸੂਚਨਾ ਦਿਓ</string>
+  <string name="account_settings_mail_check_frequency_label">ਇਨਬੌਕਸ ਦੇਖਣ ਦੀ ਬਾਰੰਬਾਰਤਾ</string>
+  <string name="account_settings_incoming_label">ਇਨਕਮਿੰਗ ਸੈਟਿੰਗਸ</string>
+  <string name="account_settings_incoming_summary"> ਉਪਯੋਗਕਰਤਾ ਨਾਂ, ਪਾਸਵਰਡ, ਅਤੇ ਹੋਰ ਇਨਕਮਿੰਗ ਸਰਵਰ ਸੈਟਿੰਗਸ</string>
+  <string name="account_settings_outgoing_label">ਆਊਟਗੋਇੰਗ ਸੈਟਿੰਗਸ</string>
+  <string name="account_settings_outgoing_summary"> ਉਪਯੋਗਕਰਤਾ ਨਾਂ, ਪਾਸਵਰਡ, ਅਤੇ ਹੋਰ ਆਊਟਗੋਇੰਗ ਸਰਵਰ ਸੈਟਿੰਗਸ</string>
+  <string name="account_settings_description_label">ਖਾਤਾ ਨਾਂ</string>
+  <string name="account_settings_name_label">ਤੁਹਾਡਾ ਨਾਂ</string>
+  <string name="account_settings_edit_quick_responses_label">ਤੁਰੰਤ ਜਵਾਬ</string>
+  <string name="account_settings_edit_quick_responses_summary">
+       ਉਸ ਟੈਕਸਟ ਦਾ ਸੰਪਾਦਨ ਕਰੋ ਜੋ ਤੁਸੀਂ ਈਮੇਲਾਂ ਲਿਖਦੇ ਸਮੇਂ ਅਕਸਰ ਦਰਜ ਕਰਦੇ ਹੋ</string>
+  <string name="account_settings_notifications">ਸੂਚਨਾ ਸੈਟਿੰਗਸ</string>
+  <string name="account_settings_data_usage">ਡੇਟਾ ਪ੍ਰਯੋਗ</string>
+  <string name="edit_quick_response_dialog">ਤੁਰੰਤ ਜਵਾਬ ਦਾ ਸੰਪਾਦਨ ਕਰੋ</string>
+  <string name="save_action">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+  <string name="account_settings_sync_contacts_enable">ਸੰਪਰਕ ਸਿੰਕ ਕਰੋ</string>
+  <string name="account_settings_sync_contacts_summary">ਇਸ ਖਾਤੇ ਲਈ ਸੰਪਰਕ ਸਿੰਕ ਕਰੋ</string>
+  <string name="account_settings_sync_calendar_enable">ਕੈਲੰਡਰ ਸਿੰਕ ਕਰੋ</string>
+  <string name="account_settings_sync_calendar_summary">ਇਸ ਖਾਤੇ ਲਈ ਕੈਲੰਡਰ ਸਿੰਕ ਕਰੋ</string>
+  <string name="account_settings_sync_email_enable">ਈਮੇਲ ਸਿੰਕ ਕਰੋ</string>
+  <string name="account_settings_sync_email_summary">ਇਸ ਖਾਤੇ ਲਈ ਈਮੇਲ ਸਿੰਕ ਕਰੋ</string>
+  <string name="account_settings_vibrate_when_label">ਵਾਈਬ੍ਰੇਟ</string>
+  <string name="account_settings_ringtone">ਰਿੰਗਟੋਨ ਚੁਣੋ</string>
+  <string name="account_settings_servers">ਸਰਵਰ ਸੈਟਿੰਗਸ</string>
+  <string name="account_delete_dlg_title">ਖਾਤਾ ਮਿਟਾਓ</string>
+  <string name="account_delete_dlg_instructions_fmt">
+    ਖਾਤਾ \"<xliff:g id="account">%s</xliff:g>\" ਈਮੇਲ ਵਿੱਚੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਏਗਾ।</string>
+  <string name="account_settings_category_delete_account">ਖਾਤਾ ਮਿਟਾਓ</string>
+  <string name="account_settings_delete_account_label">ਖਾਤਾ ਮਿਟਾਓ</string>
+  <string name="mailbox_settings_activity_title">ਵਿਕਲਪਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ</string>
+  <string name="mailbox_settings_activity_title_with_mailbox"> ਵਿਕਲਪਾਂ (<xliff:g example="Family" id="mailboxx_name">%s</xliff:g>) ਨੂੰ ਸਿੰਕ ਕਰੋ</string>
+  <string name="mailbox_settings_mailbox_sync_window_label">ਸਿੰਕ ਲਈ ਦਿਨ</string>
+  <string name="provider_note_live">POP ਪਹੁੰਚ ਸਮੇਤ ਕੇਵਲ ਕੁਝ \"Plus\" ਖਾਤੇ ਇਸ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਕਨੈਕਟ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦੇ ਹਨ। ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੇ ਸਹੀ ਈਮੇਲ ਪਤੇ ਤੇ ਪਾਸਵਰਡ ਨਾਲ ਸਾਈਨ ਨਹੀਂ ਕਰ ਪਾਉਂਦੇ ਹੋ, ਤਾਂ ਸ਼ਾਇਦ ਤੁਹਾਡਾ ਕੋਈ ਪੇਡ \"Plus\" ਖਾਤਾ ਨਹੀਂ ਹੈ। ਇਹਨਾਂ ਮੇਲ ਖਾਤਿਆਂ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਵੈਬ ਬ੍ਰਾਊਜਰ ਲਾਂਚ ਕਰੋ।</string>
+  <string name="provider_note_t_online">ਇਸ ਖਾਤੇ ਨੂੰ ਸੈਟਅਪ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ,  T-ਔਨਲਾਈਨ ਵੈਬਸਾਈਟ ਤੇ ਜਾਓ ਅਤੇ POP3 ਈਮੇਲ ਪਹੁੰਚ ਲਈ ਇੱਕ ਪਾਸਵਰਡ ਬਣਾਓ। </string>
+  <string name="exchange_name">ਕਾਰਪੋਰੇਟ</string>
+  <string name="exchange_name_alternate">ਮਾਈਕ੍ਰੋਸੌਫਟ ਐਕਸਚੇਂਜ ਐਕਟਿਵ ਸਿੰਕ</string>
+  <string name="system_account_create_failed">ਖਾਤਾ ਨਹੀਂ ਬਣਾ ਸਕਿਆ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+  <string name="device_admin_label">ਈਮੇਲ</string>
+  <string name="device_admin_description">ਸਰਵਰ-ਨਿਰਦਿਸ਼ਟ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਨੂੰ ਸਕ੍ਰਿਏ ਕਰਦਾ ਹੈ</string>
+  <string name="settings_activity_title">ਸੈਟਿੰਗਸ</string>
+  <string name="header_label_general_preferences">ਸਧਾਰਨ</string>
+  <string name="general_preference_text_zoom_label">ਸੁਨੇਹਾ ਟੈਕਸਟ ਅਕਾਰ</string>
+  <string name="general_preference_text_zoom_dialog_title">ਸੁਨੇਹਾ ਟੈਕਸਟ ਅਕਾਰ</string>
+  <string name="general_preference_text_zoom_tiny">ਛੋਟਾ</string>
+  <string name="general_preference_text_zoom_small">ਛੋਟਾ</string>
+  <string name="general_preference_text_zoom_normal">ਸਧਾਰਨ</string>
+  <string name="general_preference_text_zoom_large">ਵੱਡਾ</string>
+  <string name="general_preference_text_zoom_huge">ਵੱਡਾ</string>
+  <string name="more_than_999">999+</string>
+  <string name="search_hint">ਈਮੇਲ ਦੀ ਖੋਜ ਕਰੋ</string>
+  <string name="require_manual_sync_message">ਰੋਮਿੰਗ ਦੇ ਸਮੇਂ\ ਖਾਤੇ ਲਈ ਪਿੱਛੇ ਵੱਲ ਦਾ ਸਿੰਕ ਨਿਸ਼ਕ੍ਰਿਏ ਹੈ।</string>
+  <string name="account_name_error">ਖਾਤਾ ਨਾਂ ਗਲਤ ਹੈ!</string>
+  <plurals name="move_messages">
+<item quantity="one">"ਸੁਨੇਹਾ ਮੂਵ ਕਰੋ"</item>
+<item quantity="other">"ਸੁਨੇਹੇ ਮੂਵ ਕਰੋ"</item>
+</plurals>
+  <plurals name="message_view_attachment_bytes">
+<item quantity="other">"<xliff:g id="size_in_bytes" example="279">%d</xliff:g>B"</item>
+</plurals>
+  <plurals name="message_view_attachment_kilobytes">
+<item quantity="other">"<xliff:g id="size_in_kilobytes" example="279">%d</xliff:g>KB"</item>
+</plurals>
+  <plurals name="message_view_attachment_megabytes">
+<item quantity="other">"<xliff:g id="size_in_megabytes" example="279">%d</xliff:g>MB"</item>
+</plurals>
+  <plurals name="message_view_attachment_gigabytes">
+<item quantity="other">"<xliff:g id="size_in_gigabytes" example="279">%d</xliff:g>GB"</item>
+</plurals>
+  <string-array name="general_preference_text_zoom_summary_array">
+<item>"ਛੋਟਾ ਟੈਕਸਟ"</item>
+<item>"ਛੋਟਾ ਟੈਕਸਟ"</item>
+<item>"ਸਧਾਰਨ-ਸਾਈਜ਼ ਟੈਕਸਟ"</item>
+<item>"ਵੱਡਾ ਟੈਕਸਟ"</item>
+<item>"ਵਿਸ਼ਾਲ ਟੈਕਸਟ"</item>
+</string-array>
+  <string name="account_type_display_others">"ਹੋਰ"</string>
+    <string name="menu_folder_options">"ਵਿਕਲਪਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ"</string>
+     <string name="mailbox_name_display_starred">"ਸਟਾਰਡ"</string>
+     <string name="mailbox_name_display_unread">"ਬਿਨਾਂ ਪੜ੍ਹਿਆ"</string>
+     <string name="message_compose_insert_quick_response_menu_title">"ਤੁਰੰਤ ਜਵਾਬ ਦਰਜ ਕਰੋ"</string>
+     <string name="account_setup_creating_account_msg">"ਖਾਤਾ ਬਣਾ ਰਿਹਾ ਹੈ\u2026"</string>
+     <string name="account_setup_incoming_server_label">"ਸਰਵਰ"</string>
+     <string name="account_setup_autodiscover_dlg_authfail_title">"ਖਾਤਾ ਸੈਟਅਪ ਨਾਲ ਸਮੱਸਿਆ"</string>
+     <string name="account_setup_autodiscover_dlg_authfail_message">"ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਉਪਯੋਗਕਰਤਾ ਨਾਂ, ਪਾਸਵਰਡ, ਅਤੇ ਖਾਤਾ ਸੈਟਿੰਗਸ ਸਹੀ ਹਨ।"</string>
+     <string name="security_unsupported_ticker_fmt">" ਖਾਤਾ \"<xliff:g id="account">%s</xliff:g>\" ਸੁਰੱਖਿਆ ਲੋੜਾਂ ਕਾਰਨ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।"</string>
+     <string name="security_needed_ticker_fmt">" ਖਾਤੇ \<xliff:g id="account">%s</xliff:g>\ ਨੂੰ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਸ ਅਪਡੇਟ ਦੀ ਲੋੜ ਹੈ।"</string>
+     <string name="security_changed_ticker_fmt">" ਖਾਤੇ \"<xliff:g id="account">%s</xliff:g>\" ਨੇ ਆਪਣੀਆਂ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਸ ਬਦਲੀਆਂ ਹਨ; ਕੋਈ ਉਪਯੋਗਕਰਤਾ ਕਿਰਿਆ ਲੋੜੀਂਦੀ ਨਹੀਂ।"</string>
+     <string name="security_notification_content_update_title">"ਸੁਰੱਖਿਆ ਅਪਡੇਟ ਲੋੜੀਂਦਾ"</string>
+     <string name="security_notification_content_change_title">"ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਬਦਲ ਗਈਆਂ ਹਨ"</string>
+     <string name="security_notification_content_unsupported_title">"ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਨੂੰ ਬੀਮੈਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"</string>
+     <string name="account_settings_login_dialog_reason_fmt">"<xliff:g id="account">%s</xliff:g>  ਤੇ ਤੁਹਾਡਾ ਲੌਗਇਨ ਅਸਫਲ ਹੋ ਗਿਆ; ਸਰਵਰ ਨੇ ਸੰਕੇਤ ਕੀਤਾ: <xliff:g id="reason">%s</xliff:g> ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਅਤੇ/ਜਾਂ ਪਾਸਵਰਡ ਅਪਡੇਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="account_settings_enforced_label">"ਨੀਤੀਆਂ ਲਾਗੂ ਕੀਤੀਆਂ"</string>
+     <string name="account_settings_enforced_summary">"ਕੋਈ ਨਹੀਂ"</string>
+     <string name="account_settings_unsupported_label">"ਅਸਮਰੱਥਿਤ ਨੀਤੀਆਂ"</string>
+     <string name="account_settings_unsupported_summary">"ਕੋਈ ਨਹੀਂ"</string>
+     <string name="account_settings_retry_label">"ਸਿੰਕ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ"</string>
+     <string name="account_settings_retry_summary">"ਇਸ ਖਾਤੇ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਇੱਥੇ ਛੋਹਵੋ"</string>
+     <string name="account_settings_policies">"ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ"</string>
+     <string name="system_folders_title">"ਸਿਸਟਮ ਫੋਲਡਰ"</string>
+     <string name="system_folders_trash_title">"ਟ੍ਰੈਸ਼ ਫੋਲਡਰ"</string>
+     <string name="system_folders_trash_summary">"ਆਪਣੇ ਸਰਵਰ ਦਾ ਟ੍ਰੈਸ਼ ਫੋਲਡਰ ਚੁਣੋ"</string>
+     <string name="system_folders_trash_dlg">"ਆਪਣੇ ਸਰਵਰ ਦਾ ਟ੍ਰੈਸ਼ ਫੋਲਡਰ ਚੁਣੋ"</string>
+     <string name="system_folders_sent_title">"ਆਈਟਮਸ ਫੋਲਡਰ ਭੇਜਿਆ"</string>
+     <string name="system_folders_sent_summary">"ਆਪਣੇ ਸਰਵਰ ਦੇ ਭੇਜੇ ਗਏ ਆਈਟਮਸ ਫੋਲਡਰ ਨੂੰ ਚੁਣੋ"</string>
+     <string name="system_folders_sent_dlg">"ਆਪਣੇ ਸਰਵਰ ਦੇ ਭੇਜੇ ਗਏ ਆਈਟਮਸ ਫੋਲਡਰ ਨੂੰ ਚੁਣੋ"</string>
+     <string name="mailbox_settings_sync_enabled_label">"ਇਸ ਫੋਲਡਰ ਨੂੰ ਸਿੰਕ ਕਰੋ"</string>
+     <string name="mailbox_settings_sync_enabled_summary">"ਕਨੈਕਟ ਕੀਤੇ ਜਾਣ ਤੇ ਸੁਨੇਹੇ ਡਾਊਨਲੋਡ ਹੋਣਗੇ"</string>
+     <string name="prefDialogTitle_conversationListIcon">"ਭੇਜਣ ਵਾਲੇ ਦਾ ਚਿੱਤਰ"</string>
+     <string name="general_preference_confirm_delete_label">"ਮਿਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ"</string>
+     <string name="general_preference_confirm_delete_summary">"ਸੁਨੇਹੇ"</string>
+     <string name="general_preference_confirm_send_label">"ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ"</string>
+     <string name="general_preference_confirm_send_summary">"ਸੁਨੇਹੇ"</string>
+     <string name="policy_dont_allow_camera">"ਡਿਵਾਈਸ ਦੇ ਕੈਮਰੇ ਦੇ ਪ੍ਰਯੋਗ ਨੂੰ ਅਸਵੀਕਾਰ ਕਰੋ"</string>
+     <string name="policy_require_password">"ਡਿਵਾਈਸ ਪਾਸਵਰਡ ਲੋੜੀਂਦਾ"</string>
+     <string name="policy_password_history">"ਨਵੇਂ ਪਾਸਵਰਡਾਂ ਦੇ ਮੁੜ ਪ੍ਰਯੋਗ ਨੂੰ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰੋ"</string>
+     <string name="policy_password_expiration">"ਸਮਾਪਤ ਕਰਨ ਲਈ ਪਾਸਵਰਡ ਲੋੜੀਂਦੇ"</string>
+     <string name="policy_screen_timeout">"ਇਸਦੀ ਸਕ੍ਰੀਨ ਨੂੰ ਲੌਕ ਕਰਨ ਲਈ ਇੱਕ ਨਿਸ਼ਕ੍ਰਿਏ ਡਿਵਾਈਸ ਲੋੜੀਂਦੀ"</string>
+     <string name="policy_calendar_age">"ਸਿੰਕ ਕੀਤੀਆਂ ਕੈਲੰਡਰ ਘਟਨਾਵਾਂ ਦੀ ਸੰਖਿਆ ਸੀਮਿਤ ਕਰੋ"</string>
+     <string name="policy_email_age">"ਸਿੰਕ ਕੀਤੀਆਂ ਈਮੇਲਾਂ ਦੀ ਸੰਖਿਆ ਸੀਮਿਤ ਕਰੋ"</string>
+     <string name="quick_1">"ਧੰਨਵਾਦ!"</string>
+     <string name="quick_2">"ਮੇਰੇ ਲਈ ਚੰਗਾ ਹੈ!"</string>
+     <string name="quick_3">"ਮੈਂ ਇਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪੜ੍ਹਾਂਗਾ ਅਤੇ ਤੁਹਾਨੂੰ ਜਵਾਬ ਦੇਵਾਂਗਾ।"</string>
+     <string name="quick_4">"ਆਓ ਇਸ ਤੇ ਚਰਚਾ ਕਰਨ ਲਈ ਇੱਕ ਮੀਟਿੰਗ ਸਥਾਪਿਤ ਕਰੀਏ।"</string>
+     <string name="confirm_response">"ਜਵਾਬ ਭੇਜ ਰਿਹਾ ਹੈ&amp;#8230;"</string>
+     <string name="no_conversations">"ਕੋਈ ਸੁਨੇਹੇ ਨਹੀਂ।"</string>
+     <string name="folder_picker_title">"ਫੋਲਡਰ ਚੋਣਕਰਤਾ"</string>
+     <string name="trash_folder_selection_title">"<xliff:g id="account">%s</xliff:g> ਲਈ ਸਰਵਰ ਟ੍ਰੈਸ਼ ਫੋਲਡਰ ਚੁਣੋ"</string>
+     <string name="sent_folder_selection_title">"<xliff:g id="account">%s</xliff:g> ਲਈ ਸਰਵਰ ਦੀਆਂ ਭੇਜੀਆਂ ਗਈਆਂ ਆਈਟਮਾਂ ਫੋਲਡਰ ਚੁਣੋ"</string>
+     <string name="account_waiting_for_folders_msg">"ਫੋਲਡਰ ਸੂਚੀ ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ&amp;#8230;"</string>
+     <string name="account_setup_guide_title">"ਖਾਤਾ ਸੈਟਅਪ"</string>
+     <string name="account_type_display_126">"NetEase 126"</string>
+     <string name="account_type_display_163">"NetEase 163"</string>
+     <string name="account_type_display_sina">"Sina"</string>
+     <string name="account_type_display_sohu">"Sohu"</string>
+     <string name="account_setup_username_uneditable_warning">"ਤੁਸੀਂ ਕਿਸੇ ਖਾਤੇ ਦਾ ਉਪਯੋਗਕਰਤਾ ਨਾਂ ਨਹੀਂ ਬਦਲ ਸਕਦੇ।"</string>
+     <string name="account_name_contain_file_separatorchar">"ਇਸ ਖੇਤਰ ਵਿੱਚ ਫਾਈਲ ਸੈਪਰੇਟਰ ਚਾਰ ਨਹੀਂ ਹੋ ਸਕਦਾ"</string>
+     <string name="title_too_long">"ਇਨਪੁਟ ਬਹੁਤ ਜ਼ਿਆਦਾ ਲੰਬਾ ਹੈ।"</string>
+    <string name="account_setup_failed_socket_close_message">"ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ, ਕਿਰਪਾ ਕਰਕੇ 5 ਸਕਿੰਟ ਬਾਅਦ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="account_type_display_139">"139"</string>
+    <string name="account_username_spaces_error">"ਇਹ ਪ੍ਰਯੋਗਕਰਤਾ ਨਾਮ ਇੱਕ ਜਾਂ ਵੱਧ ਸਪੇਸ ਅੱਖਰਾਂ ਤੋਂ ਸ਼ੁਰੂ ਜਾਂ ਸਮਾਪਤ ਹੁੰਦਾ ਹੈ। ਕਈ ਸਰਵਰ ਸਪੇਸਿਜ ਵਾਲੇ ਪ੍ਰਯੋਗਕਰਤਾ ਨਾਮ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ।"</string>
+</resources>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2008 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permission_read_attachment_label">Электрондық хат тіркемелерін оқу</string>
+    <string name="permission_read_attachment_desc">Бағдарламаға электрондық пошта тіркемелерін оқуға мүмкіндік береді.</string>
+    <string name="permission_access_provider_label">Электрондық хат провайдерінің дерегіне қатынасу</string>
+    <string name="permission_access_provider_desc">Қолданбаға электрондық пошта дерекқорына, оның ішінде қабылданған хабарламаларға, жіберілген хабарламаларға, пайдаланушы аттарына және құпия сөздерге кіруге мүмкіндік береді.</string>
+    <string name="app_name">Электрондық пошта</string>
+    <string name="debug_title">Түзету</string>
+    <skip/>
+    <string name="next_action">Келесі</string>
+    <string name="okay_action">OK</string>
+    <string name="cancel_action">Болдырмау</string>
+    <string name="previous_action">Алдыңғы</string>
+    <string name="done_action">Дайын</string>
+    <string name="create_action">Жаңа хабар</string>
+    <string name="quick_responses_empty_view">Жылдам жауаптар жоқ.</string>
+    <string name="account_settings_action">Тіркелгі параметрлері</string>
+    <string name="menu_folder_options">Синхрондау опциялары</string>
+    <string name="status_network_error">Байланыс ақаулығы.</string>
+    <plurals name="move_messages">
+        <item quantity="one">Хабардың орнын ауыстыру</item>
+        <item quantity="other">Хабарлардың орнын ауыстыру</item>
+    </plurals>
+    <string name="cannot_move_protocol_not_supported_toast">POP3 тіркелгілерінде орнын ауыстыру мүмкін емес.</string>
+    <string name="cannot_move_multiple_accounts_toast">Бірнеше тіркелгі таңдалғандықтан орнын ауыстыру мүмкін емес.</string>
+    <string name="cannot_move_special_mailboxes_toast">Нобайлар, Шығыс қалта және Жіберілгендер қалталарындағы хабарлардың орнын ауыстыру мүмкін емес.</string>
+    <string name="mailbox_name_display_inbox">Кіріс жәшігі</string>
+    <string name="mailbox_name_display_outbox">Шығыс жәшігі</string>
+    <string name="mailbox_name_display_drafts">Нобайлар</string>
+    <string name="mailbox_name_display_trash">Себет</string>
+    <string name="mailbox_name_display_sent">Жіберілгендер</string>
+    <string name="mailbox_name_display_junk">Спам</string>
+    <string name="mailbox_name_display_starred">Белгіленген</string>
+    <string name="mailbox_name_display_unread">Оқылмағандар</string>
+    <string name="account_folder_list_summary_inbox">Кіріс жәшігі</string>
+    <string name="account_folder_list_summary_starred">Белгіленген</string>
+    <string name="account_folder_list_summary_drafts">Нобайлар</string>
+    <string name="account_folder_list_summary_outbox">Шығыс жәшігі</string>
+    <string name="mailbox_list_account_selector_combined_view">Біріккен көрініс</string>
+    <string name="message_compose_fwd_header_fmt">\n\n-------- Түпнұсқа хабар--------\nSubject: <xliff:g id="subject">%1$s</xliff:g>\nFrom: <xliff:g id="sender">%2$s</xliff:g>\nTo: <xliff:g id="to">%3$s</xliff:g>\nCC: <xliff:g id="cc">%4$s</xliff:g>\n\n</string>
+    <string name="message_compose_insert_quick_response_list_title">Жылдам жауап енгізу</string>
+    <string name="message_compose_insert_quick_response_menu_title">Жылдам жауап енгізу</string>
+    <string name="message_view_attachment_background_load">Бағыты өзгертілген хабарламаңыздың бір немесе бірнеше тіркемесі жіберілмес бұрын сақталады.</string>
+    <string name="attachment_not_found">Тіркемені жүктеп алу мүмкін болмады.</string>
+    <string name="message_decode_error">Хабарды шифрдан шығару кезінде қате пайда болды.</string>
+    <string name="forward_download_failed_ticker">Бір немесе бірнеше тіркеменің бағытын өзгерту мүмкін болмады.</string>
+    <string name="forward_download_failed_title">Тіркеменің бағыты өзгертілмеді</string>
+    <string name="login_failed_ticker"><xliff:g id="account_name">%s</xliff:g> тіркелуі сәтсіз аяқталды.</string>
+    <string name="login_failed_title">Кіру мүмкін болмады</string>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="one"><xliff:g id="size_in_bytes" example="1">%d</xliff:g>Б</item>
+        <item quantity="other"><xliff:g id="size_in_bytes" example="279">%d</xliff:g>Б</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="one"><xliff:g id="size_in_kilobytes" example="1">%d</xliff:g>Кб</item>
+        <item quantity="other"><xliff:g id="size_in_kilobytes" example="279">%d</xliff:g>Кб</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="one"><xliff:g id="size_in_megabytes" example="1">%d</xliff:g>Мб</item>
+        <item quantity="other"><xliff:g id="size_in_megabytes" example="279">%d</xliff:g>Мб</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="one"><xliff:g id="size_in_gigabytes" example="1">%d</xliff:g>Гб</item>
+        <item quantity="other"><xliff:g id="size_in_gigabytes" example="279">%d</xliff:g>Гб</item>
+    </plurals>
+    <string name="account_setup_basics_title">Тіркелгіні баптау</string>
+    <string name="account_setup_basics_headline">Электрондық пошта тіркелгісі</string>
+    <string name="accounts_welcome">Бірнеше қадамды орындау арқылы өз тіркелгіңізді орната аласыз.</string>
+    <string name="account_setup_basics_email_label">Электрондық пошта мекенжайы</string>
+    <string name="account_setup_basics_password_label">Құпия сөз</string>
+    <string name="account_setup_basics_manual_setup_action">Қолмен баптау</string>
+    <string name="account_setup_username_password_toast">Жарамды электрондық пошта мекенжайы мен құпия сөзді теріңіз.</string>
+    <string name="account_duplicate_dlg_title">Тіркелгінің көшірмесін жасау</string>
+    <string name="account_duplicate_dlg_message_fmt">Тіркелгі үшін бұл пайдаланушы атын пайдаланғансыз \"<xliff:g id="duplicate">%s</xliff:g>\".</string>
+    <string name="account_password_spaces_error">Құпия сөз бос орын таңбаларынан басталып, аяқталады. Көптеген серверлер бос орны бар құпия сөздерді қабылдамайды.</string>
+    <string name="account_setup_check_settings_retr_info_msg">Тіркелгі туралы ақпарат алу\u2026</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Сервер параметрлерін растау\u2026</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">SMTP параметрлерін растау\u2026</string>
+    <string name="account_setup_creating_account_msg">Тіркелгі жасау\u2026</string>
+    <string name="account_setup_names_title">Тіркелгіні баптау</string>
+    <string name="account_setup_names_headline">Сіздің тіркелгіңіз орнатылды, хабарламаны жақын арада аласыз!</string>
+    <string name="account_setup_names_account_name_label">Тіркелгіге ат қойыңыз (міндетті емес)</string>
+    <string name="account_setup_names_user_name_label">Атыңыз (шығыс хабарларда көрсетіледі)</string>
+    <string name="account_setup_names_user_name_empty_error">Бұл өріс бос болмауы қажет.</string>
+    <string name="account_setup_account_type_title">Тіркелгіні баптау</string>
+    <string name="account_setup_account_type_headline">Тіркелгі түрі</string>
+    <string name="account_setup_account_type_instructions">Бұл тіркелгінің қай түрі?</string>
+    <string name="account_setup_incoming_title">Тіркелгіні баптау</string>
+    <string name="account_setup_incoming_headline">Кіріс сервер параметрлері</string>
+    <string name="account_setup_incoming_username_label">Пайдаланушы аты</string>
+    <string name="account_setup_incoming_password_label">Құпия сөз</string>
+    <string name="account_setup_incoming_server_label">Сервер</string>
+    <string name="account_setup_incoming_port_label">Порт</string>
+    <string name="account_setup_incoming_security_label">Қауіпсіздік түрі</string>
+    <string name="account_setup_incoming_security_none_label">Жоқ</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (барлық сертификатты қабылдау)</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (барлық сертификатты қабылдау)</string>
+    <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+    <string name="account_setup_incoming_delete_policy_label">Электрондық хатты серверден жою</string>
+    <string name="account_setup_incoming_delete_policy_never_label">Ешқашан</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">Кіріс қалтасынан жойған кезде</string>
+    <string name="account_setup_incoming_imap_path_prefix_label">IMAP жолының префиксі</string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">Міндетті емес</string>
+    <string name="account_setup_outgoing_title">Тіркелгіні баптау</string>
+    <string name="account_setup_outgoing_headline">Шығыс сервер параметрлері</string>
+    <string name="account_setup_outgoing_smtp_server_label">SMTP сервері</string>
+    <string name="account_setup_outgoing_port_label">Порт</string>
+    <string name="account_setup_outgoing_security_label">Қауіпсіздік түрі</string>
+    <string name="account_setup_outgoing_require_login_label">Тіркелуді сұрау</string>
+    <string name="account_setup_outgoing_username_label">Пайдаланушы аты</string>
+    <string name="account_setup_outgoing_password_label">Құпия сөз</string>
+    <string name="account_setup_exchange_certificate_title">Клиент сертификаты</string>
+    <string name="account_setup_exchange_select_certificate">Таңдау</string>
+    <string name="account_setup_exchange_use_certificate">Клиент сертификатын пайдалану</string>
+    <string name="account_setup_exchange_remove_certificate">Жою</string>
+    <string name="account_setup_exchange_no_certificate">Жоқ</string>
+    <string name="account_setup_exchange_device_id_label">Мобильдік құрылғы идентификаторы</string>
+    <string name="account_setup_options_title">Тіркелгі параметрлері</string>
+    <string name="account_setup_options_headline">Тіркелгі опциялары</string>
+    <string name="account_setup_options_mail_check_frequency_label">Кіріс қалтасын тексеру жиілігі</string>
+    <string name="account_setup_options_mail_check_frequency_never">Ешқашан</string>
+    <string name="account_setup_options_mail_check_frequency_push">Автоматты (мәжбүрлеу)</string>
+    <string name="account_setup_options_mail_check_frequency_5min">Әр 5 минут сайын</string>
+    <string name="account_setup_options_mail_check_frequency_10min">Әр 10 минут сайын</string>
+    <string name="account_setup_options_mail_check_frequency_15min">Әр 15 минут сайын</string>
+    <string name="account_setup_options_mail_check_frequency_30min">Әр 30 минут сайын</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">Сағат сайын</string>
+    <string name="account_setup_options_notify_label">Электрондық хабар келгенде мені хабардар ету</string>
+    <string name="account_setup_options_sync_contacts_label">Осы тіркелгіден контактілерді синхрондау</string>
+    <string name="account_setup_options_sync_calendar_label">Осы тіркелгіден күнтізбені синхрондау</string>
+    <string name="account_setup_options_sync_email_label">Осы тіркелгіден электрондық поштаны синхрондау</string>
+    <string name="account_setup_options_background_attachments_label">Wi-Fi желісіне қосылған кезде тіркемелерді автоматты түрде жүктеу</string>
+    <string name="account_setup_failed_dlg_title">Аяқтау мүмкін болмады</string>
+    <string name="account_setup_options_mail_window_label">Синхрондау кезеңі</string>
+    <string name="account_setup_options_mail_window_auto">Автоматты</string>
+    <string name="account_setup_options_mail_window_1day">Соңғы күн</string>
+    <string name="account_setup_options_mail_window_3days">Соңғы үш күн</string>
+    <string name="account_setup_options_mail_window_1week">Соңғы апта</string>
+    <string name="account_setup_options_mail_window_2weeks">Соңғы екі апта</string>
+    <string name="account_setup_options_mail_window_1month">Соңғы ай</string>
+    <string name="account_setup_options_mail_window_all">Барлығы</string>
+    <string name="account_setup_options_mail_window_default">Тіркелгінің әдепкі мәндерін пайдалану</string>
+    <string name="account_setup_failed_dlg_auth_message">Пайдаланушы аты немесе құпия сөз дұрыс емес.</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">Жүйеге кіру сәтсіз аяқталды.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">Тіркелгі орнатудағы мәселе</string>
+    <string name="account_setup_autodiscover_dlg_authfail_message">Пайдаланушы атының, құпия сөздің және параметрлердің дұрыстығын растаңыз.</string>
+    <string name="account_setup_failed_dlg_certificate_message">Серверге қауіпсіз түрде қосылу мүмкін емес.</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">Серверге қауіпсіз түрде қосылу мүмкін емес.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_certificate_required">Клиент сертификаты қажет. Клиент сертификаты бар серверге қосылу қажет пе?</string>
+    <string name="account_setup_failed_certificate_inaccessible">Сертификат жарамсыз немесе кіру мүмкін емес.</string>
+    <string name="account_setup_failed_check_credentials_message">Серверден қате туралы жауап келді. Пайдаланушы атыңыз бен құпия сөзіңізді тексеріңіз, содан кейін қайталаңыз.</string>
+    <string name="account_setup_failed_dlg_server_message">Серверге қосылу мүмкін емес.</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">Серверге қосылу мүмкін емес.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_tls_required">TLS қажет, бірақ сервер тарапынан қолдау көрсетілмейді.</string>
+    <string name="account_setup_failed_auth_required">Түпнұсқалығын растау әдістері сервер тарапынан қолдау көрсетілмейді.</string>
+    <string name="account_setup_failed_security">Қауіпсіздік қатесіне байланысты сервер байланысын ашу мүмкін болмады.</string>
+    <string name="account_setup_failed_ioerror">Сервер байланысын ашу мүмкін болмады.</string>
+    <string name="account_setup_failed_protocol_unsupported">Сервер мекенжайын дұрыс жазбадыңыз немесе сервер электрондық пошта қабылдамайтын протокол нұсқасын талап етеді.</string>
+    <string name="account_setup_failed_access_denied">Бұл сервермен синхрондау рұқсатыңыз жоқ. Толық ақпарат алу үшін сервер әкімшісіне хабарласыңыз.</string>
+    <string name="account_setup_security_required_title">Қашықтықтағы қауіпсіздік әкімшілігі</string>
+    <string name="account_setup_security_policies_required_fmt"><xliff:g id="server">%s</xliff:g> сервері сіздің Android құрылғыңыздың кейбір функцияларын қашықтан басқаруға рұқсат сұрайды. Бұл тіркелгіні орнатуды аяқтау қажет пе?</string>
+    <string name="account_setup_failed_security_policies_unsupported">Сервер Android құрылғысы қолдау көрсетпейтін қауіпсіздік функцияларын талап етеді. Ол: <xliff:g id="error">%s</xliff:g></string>
+    <string name="account_setup_username_uneditable_error">Тіркелгінің пайдаланушы атын өзгерту мүмкін емес. Басқа пайдаланушы атын пайдаланып, тіркелгі қосу үшін, "Тілкелгі қосу" бөлімін түртіңіз.</string>
+    <string name="disable_admin_warning">ЕСКЕРТУ: құрылғыңызды басқару үшін электрондық пошта қолданбасының өкілеттігін өшіру барлық электрондық пошта тіркелгілерін жояды, олармен бірге электрондық хаттар, контактілер, күнтізбелік оқиғалар және басқа да деректер жойылады.</string>
+    <string name="account_security_dialog_title">Қауіпсіздікті жаңарту</string>
+    <string name="account_security_dialog_content_fmt"><xliff:g id="account">%s</xliff:g> сіздің қауіпсіздік параметрлеріңізді жаңартуыңызды талап етеді.</string>
+    <string name="security_unsupported_ticker_fmt">\"<xliff:g id="account">%s</xliff:g>\" тіркелгісін қауіпсіздік талаптарына байланысты синхрондау мүмкін емес.</string>
+    <string name="security_needed_ticker_fmt">\"<xliff:g id="account">%s</xliff:g>\" тіркелгісі қауіпсіздік параметрлерінің жаңартылуын қажет етеді.</string>
+    <string name="security_changed_ticker_fmt">\"<xliff:g id="account">%s</xliff:g>\" тіркелгісі қауіпсіздік параметрлерін өзгертті; пайдаланушы әрекеті қажет емес. </string>
+    <string name="security_notification_content_update_title">Қауіпсіздікті жаңарту қажет.</string>
+    <string name="security_notification_content_change_title">Қауіпсіздік саясаты өзгертілді.</string>
+    <string name="security_notification_content_unsupported_title">Қауіпсіздік саясатына сәйкес келмейді.</string>
+    <string name="account_security_title">Құрылғы қауіпсіздігі</string>
+    <string name="account_security_policy_explanation_fmt"><xliff:g id="server">%s</xliff:g> сервері Android құрылғысындағы кейбір функцияларды қашықтықтан басқаруға рұқсат етуіңізді талап етеді. </string>
+    <string name="account_setup_failed_dlg_edit_details_action">Мәліметтерді өңдеу</string>
+    <string name="password_expire_warning_ticker_fmt">\"<xliff:g id="account">%s</xliff:g>\" сіздің құлыптау экранының PIN кодын немесе құпия сөзді өзгертуді талап етеді.</string>
+    <string name="password_expire_warning_content_title">Құпия сөздің жарамдылық мерзімі аяқталуда</string>
+    <string name="password_expired_ticker">Экранды құлыптау PIN коды мен құпия сөздің жарамдылық мерзімі өтіп кетті.</string>
+    <string name="password_expired_content_title">Экранды құлыптау құпия сөзінің жарамдылық мерзімі өтіп кетті</string>
+    <string name="password_expire_warning_dialog_title">Құпия сөздің жарамдылық мерзімі аяқталуда</string>
+    <string name="password_expire_warning_dialog_content_fmt">Құлыптау экраныңыздың PIN кодын немесе құпия сөзін тез арада өзгертуіңіз қажет, әйтпесе <xliff:g id="account">%s</xliff:g> арналған дерек жойылады. Қазір өзгерту қажет пе?</string>
+    <string name="password_expired_dialog_title">Экранды құлыптау құпия сөзінің жарамдылық мерзімі өтіп кетті</string>
+    <string name="password_expired_dialog_content_fmt"><xliff:g id="account">%s</xliff:g> арналған дерек сіздің құрылғыңздан жойылуда. Құлыптау экраныңыздың PIN кодын немесе құпия сөзді өзгерту арқылы деректі қалпына келтіре аласыз. Қазір өзгерту қажет пе?</string>
+    <string name="account_settings_exit_server_settings">Сақталмаған өзгерістерден бас тарту қажет пе?</string>
+    <string name="account_settings_login_dialog_title">Кіру мүмкін болмады</string>
+    <string name="account_settings_login_dialog_content_fmt"><xliff:g id="account">%s</xliff:g> тіркелгісіне арналған пайдаланушы аты немесе құпия сөз дұрыс емес. Оларды қазір жаңарту қажет пе? </string>
+    <string name="account_settings_login_dialog_reason_fmt"><xliff:g id="account">%s</xliff:g> тіркелгісіне кіру сәтсіз аяқталды; себебі: <xliff:g id="reason">%s</xliff:g> Пайдаланушы атыңызды және/немесе құпия сөзіңізді жаңарту қажет пе?</string>
+    <string name="account_settings_background_attachments_label">Тіркемелерді жүктеп алу</string>
+    <string name="account_settings_background_attachments_summary">Соңғы хабарлардағы тіркемелерді автоматты түрде Wi-Fi алқылы жүктеп алу</string>
+    <string name="account_settings_notify_label">Электрондық пошта арқылы хабарландыру</string>
+    <string name="account_settings_summary">Синхрондау, хабарландыру және т.с.с. жиілігі</string>
+    <string name="account_settings_notify_summary">Электрондық хабарлама келгенде хабарландыру жіберу</string>
+    <string name="account_settings_mail_check_frequency_label">Синхрондау жиілігі</string>
+    <string name="account_settings_incoming_label">Кіріс хабарлар параметрлері</string>
+    <string name="account_settings_incoming_summary">Пайдаланушы аты, құпия сөз және кіріс хабарлар серверінің параметрлері</string>
+    <string name="account_settings_outgoing_label">Шығыс хабарлар параметрлері</string>
+    <string name="account_settings_outgoing_summary">Пайдаланушы аты, құпия сөз және шығыс хабарлар серверінің параметрлері</string>
+    <string name="account_settings_enforced_label">Міндеттелген саясаттар</string>
+    <string name="account_settings_enforced_summary">Жоқ</string>
+    <string name="account_settings_unsupported_label">Қолдау көрсетілмейтін саясаттар</string>
+    <string name="account_settings_unsupported_summary">Жоқ</string>
+    <string name="account_settings_retry_label">Синхрондап көру</string>
+    <string name="account_settings_retry_summary">Бұл тіркелгіні синхрондау үшін мына жерді түртіңіз</string>
+    <string name="account_settings_description_label">Тілкелгі аты</string>
+    <string name="account_settings_name_label">Өз атыңыз</string>
+    <string name="account_settings_edit_quick_responses_label">Жылдам жауаптар</string>
+    <string name="account_settings_edit_quick_responses_summary">Электрондық хабарлама жазғанда жиі қолданатын мәтінді өңдеу</string>
+    <string name="account_settings_notifications">Хабарландыру параметрлері</string>
+    <string name="account_settings_data_usage">Деректер қолданысы</string>
+    <string name="account_settings_policies">Қауіпсіздік саясаттары</string>
+    <string name="system_folders_title">Жүйе қалталары</string>
+    <string name="system_folders_trash_title">Қоқыс қалтасы</string>
+    <string name="system_folders_trash_summary">Серверіңіздің қоқыс қалтасын таңдаңыз</string>
+    <string name="system_folders_trash_dlg">Серверіңіздің қоқыс қалтасын таңдаңыз</string>
+    <string name="system_folders_sent_title">Жіберілген хабарламалар қалтасы</string>
+    <string name="system_folders_sent_summary">Серверіңіздің жіберілген хабарламалар қалтасын таңдаңыз</string>
+    <string name="system_folders_sent_dlg">Серверіңіздің жіберілген хабарламалар қалтасын таңдаңыз</string>
+    <string name="edit_quick_response_dialog">Жылдам жауап</string>
+    <string name="save_action">Сақтау</string>
+    <string name="account_settings_sync_contacts_enable">Контактілерді синхрондау</string>
+    <string name="account_settings_sync_contacts_summary">Осы тіркелгіге арналған контактілерді синхрондау</string>
+        <string name="account_settings_sync_calendar_enable">Күнтізбені синхрондау</string>
+    <string name="account_settings_sync_calendar_summary">Бұл тіркелгіге арналған күнтізбе оқиғасын синхрондау</string>
+    <string name="account_settings_sync_email_enable">Электрондық поштаны синхрондау</string>
+    <string name="account_settings_sync_email_summary">Осы тіркелгіге арналған электрондық поштаны синхрондау</string>
+    <string name="account_settings_vibrate_when_label">Діріл</string>
+    <string name="account_settings_ringtone">Рингтон таңдау</string>
+    <string name="account_settings_servers">Сервер параметрлері</string>
+    <string name="mailbox_settings_activity_title">Синхрондау опциялары</string>
+    <string name="mailbox_settings_activity_title_with_mailbox">Синхрондау опциялары (<xliff:g id="mailboxx_name" example="Family">%s</xliff:g>)</string>
+    <string name="mailbox_settings_sync_enabled_label">Осы қалтаны синхрондау</string>
+    <string name="mailbox_settings_sync_enabled_summary">Хабарламалар қосылған кезде жүктеледі</string>
+    <string name="mailbox_settings_mailbox_sync_window_label">Электрондық поштаны синхрондауға арналған күндер</string>
+    <string name="prefDialogTitle_conversationListIcon">Жіберуші кескіні</string>
+    <string name="provider_note_live">Кейбір \"Plus\" тіркелгілерінде осы бағдарламаның қосылуына мүмкіндік беретін POP қатынасу рұқсаты болуы мүмкін. Егер өзіңіздің электрондық мекенжайыңыз бен құпия сөзіңіз арқылы кіре алмасаңыз, сіздің \"Plus\" тіркелгіңіз ақылы болуы мүмкін. Бұл электрондық пошта тіркелгілеріне қатынасу рұқсатын алу үшін веб браузерді іске қосыңыз.</string>
+    <string name="provider_note_t_online">Бұл электрондық пошта тіркелгісін баптамас бұрын, T-Online торабына кіріп, POP3 электрондық поштаға қатынасу рұқсаты үшін құпия сөз жасаңыз.</string>
+    <string name="exchange_name">Корпоративтік</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="system_account_create_failed">Тіркелгіні жасау мүмкін емес. Әрекетті қайталаңыз.</string>
+    <string name="device_admin_label">Электрондық пошта</string>
+    <string name="device_admin_description">Серверге тән қауіпсіздік саясатын іске қосады</string>
+    <string name="settings_activity_title">Параметрлер</string>
+    <string name="header_label_general_preferences">Жалпы параметрлер</string>
+    <string name="general_preference_confirm_delete_label">Жоймас бұрын растау</string>
+    <string name="general_preference_confirm_delete_summary">Хабарлар</string>
+    <string name="general_preference_confirm_send_label">Жібермес бұрын растау</string>
+    <string name="general_preference_confirm_send_summary">Хабарлар</string>
+    <string name="general_preference_text_zoom_label">Хабар қарпінің көлемі</string>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Ұсақ мәтін</item>
+        <item>Кішкентай мәтін</item>
+        <item>Қалыпты өлшемдегі мәтін</item>
+        <item>Үлкен мәтін</item>
+        <item>Өте үлкен мәтін</item>
+    </string-array>
+    <string name="general_preference_text_zoom_dialog_title">Хабар қарпінің көлемі</string>
+    <string name="general_preference_text_zoom_tiny">Өте кіші</string>
+    <string name="general_preference_text_zoom_small">Кіші</string>
+    <string name="general_preference_text_zoom_normal">Қалыпты</string>
+    <string name="general_preference_text_zoom_large">Үлкен</string>
+    <string name="general_preference_text_zoom_huge">Өте үлкен</string>
+    <string name="more_than_999">999+</string>
+    <string name="search_hint">Электрондық поштадан іздеу</string>
+    <string name="policy_dont_allow_camera">Құрылғы камерасын рұқсат етілмеген мақсатта қолдану</string>
+    <string name="policy_require_password">Құрылғының құпия сөзін сұрау</string>
+    <string name="policy_password_history">Жақында қолданылған құпия сөздерді қайта қолдануға тыйым салу</string>
+    <string name="policy_password_expiration">Құпия сөздердің мерзімін өткізуді сұрау</string>
+    <string name="policy_screen_timeout">Жұмыс істемей тұрған құрылғының экранын құлыптауды сұрау</string>
+    <string name="policy_calendar_age">Синхрондалған күнтізбе оқиғаларының санын шектеу</string>
+    <string name="policy_email_age">Синхрондалған электрондық поштаның санын шектеу</string>
+    <string name="quick_1">Рахмет!</string>
+    <string name="quick_2">Құлаққа жағымды естіледі екен!</string>
+    <string name="quick_3">Кейінірек оқып, өзім хабарласамын.</string>
+    <string name="quick_4">Мұны талқылау үшін бір жерде кездесейік.</string>
+    <string name="require_manual_sync_message">Роуминг кезінде осы тіркелгіге арналған өңдік синхрондау өшірілді.</string>
+    <string name="confirm_response">Sending response…</string>
+    <string name="no_conversations">Хабарлама жоқ.</string>
+    <string name="imap_name">IMAP</string>
+    <string name="pop3_name">POP3</string>
+    <string name="folder_picker_title">Folder picker</string>
+    <string name="trash_folder_selection_title"> <xliff:g id="account">%s</xliff:g> тіркелгісіне арналған сервердің қоқыс қалтасын таңдаңыз</string>
+    <string name="sent_folder_selection_title"><xliff:g id="account">%s</xliff:g> тіркелгісіне арналған жіберілген хабарламалар қалтасын таңдаңыз</string>
+    <string name="account_waiting_for_folders_msg">Loading folder list…</string>
+</resources>

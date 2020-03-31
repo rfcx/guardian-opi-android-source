@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- vdetect -->
+	<string name="gy_accessibility_switch_to_vdetect">switch to V Gesture Detect</string>
+	<string name="gy_gesture_guide_capture">V Gesture Detect</string>
+	<!-- beauty -->
+	<string name="gy_accessibility_switch_to_faceart">switch to FaceBeauty</string>
+	<string name="gy_faceart_guide_capture">FaceBeauty</string>
+        <string name="gy_faceart_guide_capture_off">FaceBeauty off</string>
+	<!-- beauty level -->
+	<string name="gy_exposure_tips">Beautify Skin Level</string>
+        <string name="pref_gybeauty_entry_off">off</string>
+        <string name="pref_gybeauty_entry_on">on</string>
+</resources>

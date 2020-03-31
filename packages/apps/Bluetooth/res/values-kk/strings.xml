@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permlab_bluetoothShareManager">Жүктеу басқарушысына кіру.</string>
+    <string name="permdesc_bluetoothShareManager">Бағдарламаға BluetoothShare реттеушісіне қатынасу рұқсатын беру және файлдарды тасымалдау үшін оны пайдалану.</string>
+    <string name="permlab_bluetoothWhitelist">Bluetooth құралына қатынасудың ұсыныстар тізімі.</string>
+    <string name="permdesc_bluetoothWhitelist">Бағдарламаға Bluetooth құралын уақытша ұсыныстар тізіміне қосуды және осы құралға пайдаланушы растауынсыз файлдар жіберуді рұқсат ету.</string>
+    <string name="permlab_handoverStatus">BT беріліс тасымалдауының таратылымын қабылдау.</string>
+    <string name="permdesc_handoverStatus">Bluetooth беріліс тасымалдауының күй ақпаратын қабылдауды рұқсат етеді.</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknownNumber">Белгісіз</string>
+    <string name="airplane_error_title">Ұшақ режимі</string>
+    <string name="airplane_error_msg">Ұшу режимінде Bluetooth пайдалану мүмкін емес.</string>
+    <string name="bt_enable_title"/>
+    <string name="bt_enable_line1">Bluetooth қызметтерін пайдалану үшін алдымен Bluetooth қосу қажет.</string>
+    <string name="bt_enable_line2">Bluetooth қазір қосу қажет пе?</string>
+    <string name="bt_enable_cancel">Болдырмау</string>
+    <string name="bt_enable_ok">Қосу</string>
+    <string name="incoming_file_confirm_title">Файлды тасымалдау</string>
+    <string name="incoming_file_confirm_content">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 сізге <xliff:g id="file">%2$s</xliff:g> (<xliff:g id="size">%3$s</xliff:g>) файлын жібермек. \n\n Файлды қабылдау қажет пе?</string>
+    <string name="incoming_file_confirm_cancel">Қабылдамау</string>
+    <string name="incoming_file_confirm_ok">Қабылдау</string>
+    <string name="incoming_file_confirm_timeout_ok">OK</string>
+    <string name="incoming_file_confirm_timeout_content">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 тарапынан кіріс файлын қабылдау кезінде кідіріс орын алды</string>
+    <string name="incoming_file_confirm_Notification_title">Bluetooth арқылы ортақтасу: Кіріс файлы</string>
+    <string name="incoming_file_confirm_Notification_caption">Бұл файлды қабылдау қажет пе?</string>
+    <string name="incoming_file_toast_msg">Басқа құрылғыдан қабылданатын кіріс файлы. Бұл файлды қабылдау қажеттілігін растаңыз.</string>
+    <string name="notification_receiving">Bluetooth арқылы ортақтасу: <xliff:g id="file">%1$s</xliff:g> қабылдау</string>
+    <string name="notification_received">Bluetooth арқылы ортақтасу: <xliff:g id="file">%1$s</xliff:g> қабылданды</string>
+    <string name="notification_received_fail">Bluetooth арқылы ортақтасу: <xliff:g id="file">%1$s</xliff:g> қабылданбады</string>
+    <string name="notification_sending">Bluetooth арқылы ортақтасу: <xliff:g id="file">%1$s</xliff:g> жіберу</string>
+    <string name="notification_sent">Bluetooth арқылы ортақтасу: <xliff:g id="file">%1$s</xliff:g> жіберілді</string> 
+    <string name="notification_sent_complete">100% орындалды</string>
+    <string name="notification_sent_fail">Bluetooth арқылы ортақтасу: <xliff:g id="file">%1$s</xliff:g> жіберілмеді</string>
+    <string name="download_title">Файлды тасымалдау</string>
+    <string name="download_line1">Қайдан: \u0022<xliff:g id="sender">%1$s</xliff:g>\u0022</string>
+    <string name="download_line2">Файл: <xliff:g id="file">%1$s</xliff:g></string>
+    <string name="download_line3">Файл өлшемі: <xliff:g id="size">%1$s</xliff:g></string>
+    <string name="download_line4"/>
+    <string name="download_line5">Файлды қабылдау\u2026</string>
+    <string name="download_cancel">Тоқтату</string>
+    <string name="download_ok">Жасыру</string>
+    <string name="download_fail_line1">Файл қабылданбады</string>
+    <string name="download_fail_line2">Файл: <xliff:g id="file">%1$s</xliff:g></string>
+    <string name="download_fail_line3">Себебі: <xliff:g id="reason">%1$s</xliff:g></string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_succ_line5">Файл қабылданды</string>
+    <string name="download_succ_ok">Ашу</string>
+    <string name="upload_line1">Қайда: \u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022</string>
+    <string name="upload_line3">Файл түрі: <xliff:g id="type">%1$s</xliff:g> (<xliff:g id="size">%2$s</xliff:g>)</string>
+    <string name="upload_line5">Файлды жіберу\u2026</string>
+    <string name="upload_succ_line5">Файл жіберілді</string>
+    <string name="upload_succ_ok">OK</string>
+    <string name="upload_fail_line1">Файл \u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022 жіберілмеді.</string>
+    <string name="upload_fail_line1_2">Файл: <xliff:g id="file">%1$s</xliff:g></string>
+    <string name="upload_fail_ok">Әрекетті қайталаңыз</string>
+    <string name="upload_fail_cancel">Жабу</string>
+    <string name="bt_error_btn_ok">OK</string>
+    <string name="unknown_file">Белгісіз файл</string>
+    <string name="unknown_file_desc">Файлдың бұл түрін өңдеу бағдарламасы қолжетімсіз. \n</string>
+    <string name="not_exist_file">Файл жоқ</string>
+    <string name="not_exist_file_desc">Файл жоқ. \n</string>
+    <string name="enabling_progress_title">Күте тұрыңыз\u2026</string>
+    <string name="enabling_progress_content">Bluetooth қосу\u2026</string>
+    <string name="bt_toast_1">Файл қосылады. Орындалу барысын Хабарландырылулар тақтасында тексеріңіз.</string>
+    <string name="bt_toast_2">Файл қабылдана алмайды.</string>
+    <string name="bt_toast_3">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 тарапынан файлды қабылдау тоқтатылды</string>
+    <string name="bt_toast_4">Файлды \u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022 жіберу</string>
+    <string name="bt_toast_5"><xliff:g id="number">%1$s</xliff:g> файлды \u0022<xliff:g id="recipient">%2$s</xliff:g>\u0022 жіберу</string>
+    <string name="bt_toast_6">\u0022<xliff:g id="recipient">%1$s</xliff:g>\u0022 файлды жіберу тоқтатылды</string>
+    <string name="bt_sm_2_1" product="nosdcard">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 тарапынан жіберілген файлды сақтау үшін USB жадында бос орын жоқ</string>
+    <string name="bt_sm_2_1" product="default">\u0022<xliff:g id="sender">%1$s</xliff:g>\u0022 тарапынан жіберілген файлды сақтау үшін SD картасында бос орын жоқ</string>
+    <string name="bt_sm_2_2">Бос орын қажет: <xliff:g id="size">%1$s</xliff:g></string>
+    <string name="ErrorTooManyRequests">Өңделетін сұраулар саны өте көп. Кейінірек қайта әрекеттеніп көріңіз.</string>
+    <string name="status_pending">Файлды тасымалдау әлі басталған жоқ.</string>
+    <string name="status_running">Файлды тасымалдау орындалуда.</string>
+    <string name="status_success">Файлды тасымалдау сәтті орындалды.</string>
+    <string name="status_not_accept">Мазмұнға қолдау көрсетілмейді.</string>
+    <string name="status_forbidden">Тасымалдау мақсатты құрылғы тарапынан үзілді.</string>
+    <string name="status_canceled">Тасымалдау пайдаланушы тарапынан болдырылмады.</string>
+    <string name="status_file_error">Жады ақаулығы.</string>
+    <string name="status_no_sd_card" product="nosdcard">USB жадысы жоқ.</string>
+    <string name="status_no_sd_card" product="default">SD картасы жоқ. Тасымалданатын файлдарды сақтау үшін SD картасын енгізіңіз.</string>
+    <string name="status_connection_error">Байланыс сәтсіз.</string>
+    <string name="status_protocol_error">Сұрау тиісінше орындала алмайды.</string>
+    <string name="status_unknown_error">Белгісіз қате.</string>
+    <string name="btopp_live_folder">Bluetooth арқылы қабылданды</string>
+    <string name="download_success"><xliff:g id="file_size">%1$s</xliff:g> арқылы қабылдау орындалды.</string>
+    <string name="upload_success"><xliff:g id="file_size">%1$s</xliff:g> жіберу орындалды.</string>
+    <string name="inbound_history_title">Кіріс тасымалдаулары</string>
+    <string name="outbound_history_title">Шығыс тасымалдаулары</string>
+    <string name="no_transfers">Тасымалдау тарихы бос.</string>
+    <string name="transfer_clear_dlg_msg">Барлық элементтер тізімнен өшіріледі.</string>
+    <string name="outbound_noti_title">Bluetooth арқылы ортақтасу: Жіберілген файлдар</string>
+    <string name="inbound_noti_title">Bluetooth арқылы ортақтасу: Қабылданған файлдар</string>
+    <string name="noti_caption"><xliff:g id="successful_number">%1$s</xliff:g> сәтті, <xliff:g id="unsuccessful_number">%2$s</xliff:g> сәтсіз.</string>
+    <string name="transfer_menu_clear_all">Тізімді өшіру</string>
+    <string name="transfer_menu_open">Ашу</string>
+    <string name="transfer_menu_clear">Тізімнен өшіру</string>
+    <string name="transfer_clear_dlg_title">Тазалау</string>
+    <string name="bluetooth_share_file_name" translate="false">bluetooth_content_share</string>
+    <string name="sharedUserId" translate="false"><xliff:g id="x"/></string>
+    <string name="process" translate="false"><xliff:g id="x"/></string>
+</resources>

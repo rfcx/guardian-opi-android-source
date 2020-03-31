@@ -1,0 +1,437 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name">உலாவி</string>
+    <string name="choose_upload">தரவேற்றம் செய்ய கோப்பினை தெரிவு செய்க</string>
+    <string name="new_tab">புதிய விண்டோ</string>
+    <string name="active_tabs">விண்டோக்கள்</string>
+    <string name="tab_bookmarks">புத்தகக்குறிகள்</string>
+    <string name="tab_most_visited">அதிகம் வருகை புரிந்த்து</string>
+    <string name="tab_history">வரலாறு</string>
+    <string name="added_to_bookmarks">புத்தக்க் குறிகளுக்கு சேர்க்கப்பட்டது </string>
+    <string name="removed_from_bookmarks">புத்தக்குறிகளில் இருந்து நீக்கப்பட்டது</string>
+    <string name="sign_in_to"><xliff:g id="hostname">%s1</xliff:g> \"<xliff:g id="realm">%s2</xliff:g>\" உள் நுழையவும்</string>
+    <string name="username">பெயர்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="action">சைன் இன்</string>
+    <string name="bookmarks_search">உலாவி</string>
+    <string name="memory_warn">சேமிப்பக காலியிட எச்சரிப்பு</string>
+    <string name="cancel">ரத்து</string>
+    <string name="ok">ஓகே</string>
+    <string name="type_no_support">இந்த வகைக்கு சிஸ்டம் துணை நிற்காது</string>
+    <string name="type_message">இந்த வகை கோப்பினைசிஸ்டம் திறக்க முடியாது, தயவு செய்து ‘தரவிறக்கம் தொடர்க’ அல்லது ’தரவிறக்கம் நிராகரிக்கவும்’ தேர்வு செய்க!</string>
+    <string name="content_size">உட்பொருள் அளவு:</string>
+    <plurals name="matches_found">
+        <!-- Case of no matches -->
+        <item quantity="zero">பொருத்தமானவைகள் இல்லை</item>
+        <!-- Case of one match -->
+        <item quantity="one">1 பொருத்தம்</item>
+        <!-- Case of "few" (two) matches -->
+        <item quantity="few"><xliff:g id="number" example="2">%d</xliff:g> பொருத்தங்கள்</item>
+        <!-- Case of several matches -->
+        <item quantity="other"><xliff:g id="number" example="137">%d</xliff:g> பொருத்தங்கள்</item>
+    </plurals>
+    <string name="title_bar_loading">நினைவேற்றுகிறது\u2026</string>
+    <string name="page_info">பக்க தகவல்</string>
+    <string name="page_info_view">பக்க தகவல் பார்வையிடவும்</string>
+    <string name="page_info_address">முகவரி:</string>
+    <string name="ssl_warnings_header">இந்த தளத்திற்கான பாதுகாப்பு சான்றிதழில் பிரச்சனைகள் உள்லன.</string>
+    <string name="ssl_continue">தொடர்</string>
+    <string name="security_warning">பாதுகாப்பு எச்சரிக்கை</string>
+    <string name="view_certificate">சான்றிதழ் பார்வையிடவும்</string>
+    <string name="ssl_untrusted">இந்த சான்றிதழ் நம்பகமான அதிகாரியிடமிருந்து வரவில்லை.</string>
+    <string name="ssl_mismatch">தளத்தின் பெயர் சான்றிதழில் இருக்கும் பெயருடன் பொருந்தவில்லை.</string>
+    <string name="ssl_expired">இந்த சான்றிதழ் காலாவதியாகி விட்டது.</string>
+    <string name="ssl_not_yet_valid">இந்த சான்றிதழ் இன்னும் செல்லுபடியாக்கப்படவில்லை.</string>
+    <string name="ssl_certificate">பாதுகப்பு சான்றிதழ்</string>
+    <string name="ssl_certificate_is_valid">இந்த சான்றிதல் செல்லத்தக்கது.</string>
+    <string name="issued_to">வழஙகப்பட்டவர்:</string>
+    <string name="common_name">பொதுவான பெயர்:</string>
+    <string name="org_name">நிறுவனம்</string>
+    <string name="org_unit">நிறுவன ரீதியான பிரிவு:</string>
+    <string name="issued_by">வழங்கியவர்:</string>
+    <string name="validity_period">செல்லுபடியாகும்தனமை:</string>
+    <string name="issued_on">வழங்கிய நாள்:</string>
+    <string name="expires_on">காலாவதியாகும் நாள்:</string>
+    <string name="stopping">ஐ நிறுத்துகிறது\u2026</string>
+    <string name="stop">நிறுத்து</string>
+    <string name="reload">புதுப்பி</string>
+    <string name="back">பின்னே</string>
+    <string name="forward">முன்னனுப்பு</string>
+    <string name="save">ஓகே</string>
+    <string name="do_not_save">ரத்து</string>
+    <string name="location">இடம்</string>
+    <string name="name">பெயர்</string>
+    <string name="http">http://</string>
+    <string name="save_to_bookmarks">புத்தகக்குறி சேர்</string>
+    <string name="edit_bookmark">பக்ககுறி தொகு</string>
+    <string name="create_shortcut_bookmark">முகப்பு பக்கத்திற்கு குறுக்கு வழி சேர்க்கவும்</string>
+    <string name="open_bookmark">திற</string>
+    <string name="remove_bookmark">புத்தகக்குறி நீக்கு</string>
+    <string name="remove_from_bookmarks">புத்தகக்குறிகளில் இருந்து நீக்கவும்</string>
+    <string name="remove_history_item">வரலாற்றில் இருந்து நீக்கவும்</string>
+    <string name="set_as_homepage">முகப்புப்பக்கமாக அமை</string>
+    <string name="bookmark_saved">புத்தக்ககுறிகளுக்கு சேமிக்கப்பட்ட்து.</string>
+    <string name="bookmark_not_saved">புத்தகக்குறியை சேமிக்க இயலவில்லை.</string>
+    <string name="homepage_set">முகப்பு பக்க அமைப்பு</string>
+    <string name="bookmark_needs_title">"புத்தகக்குறி ஒரு பெயரைக் கொண்டிருக்க வேண்டும்."</string>
+    <string name="bookmark_needs_url">"புத்தகக்குறி ஒரு அமைவிடத்தைக் கொண்டிருக்க வேண்டும்."</string>
+    <string name="bookmark_url_not_valid">URL செல்லத்தக்கதல்ல.</string>
+    <string name="bookmark_cannot_save_url">இந்த புத்தகக்குறியிட முடியாது.</string>
+    <string name="delete_bookmark">நீக்கவா</string>
+    <string name="bookmark_page">புத்தகக்குறி கடைசியாக பார்வையிட்ட பக்கம்</string>
+    <string name="switch_to_thumbnails">சிறியதான பார்வைக்காக</string>
+    <string name="switch_to_list">பட்டியல் பார்வை</string>
+    <string name="current_page">இதில் இருந்து\u0020</string>
+    <string name="delete_bookmark_warning">புத்தகக்குறி \"<xliff:g id="bookmark">%s</xliff:g>\"அழிக்கப்படும்.</string>
+    <string name="open_in_new_window">புதிய விண்டோ திறக்கவும்</string>
+    <string name="goto_dot">செல்க</string>
+    <string name="find_dot">பக்கத்தில் காண்க</string>
+    <string name="select_dot">வாசகம் தெரிவு செய்க</string>
+    <string name="tab_picker_title">நடப்பு விண்டோக்கள்</string>
+    <string name="tab_picker_remove_tab">மூடு</string>
+    <string name="bookmarks">புத்தகக்குறிகள்</string>
+    <string name="shortcut_bookmark">புத்தகக்குறிகள்</string>
+    <string name="history">வரலாறு</string>
+    <string name="menu_view_download">தரவிறக்கங்கள்</string>
+    <string name="copy_page_url">பக்க  url நகலெடுக்கவும்</string>
+    <string name="share_page">பக்கத்தை பகிர்க</string>
+    <string name="contextmenu_openlink">திற</string>
+    <string name="contextmenu_openlink_newwindow">புதிய விண்டோ திறக்கவும்</string>
+    <string name="contextmenu_bookmark_thislink">புத்தக்ககுறி தொடர்பு</string>
+    <string name="contextmenu_savelink">சங்கிலி இணைப்பு சேமிக்கவும்</string>
+    <string name="contextmenu_sharelink">லின்க் பகிர்க</string>
+    <string name="contextmenu_copy">நகலெடு</string>
+    <string name="contextmenu_copylink">இணைப்பு URL நகலெடுக்கவும்</string>
+    <string name="contextmenu_download_image">படத்தை சேமி</string>
+    <string name="contextmenu_view_image">பிம்பம் பார்வையிடவும்</string>
+    <string name="contextmenu_set_wallpaper">சுவர் தாளாக அமை</string>
+    <string name="contextmenu_dial_dot">டயல்\u2026</string>
+    <string name="contextmenu_add_contact">தொடர்பை சேர்க்கவும்</string>
+    <string name="contextmenu_send_mail">மின்னஞ்சல் அனுப்புக</string>
+    <string name="contextmenu_map">பூகோள வரைபடம்</string>
+    <string name="choosertitle_sharevia">மூலம் பகிர்க</string>
+    <string name="clear">தெளிவான</string>
+    <string name="replace">மாற்றிடு</string>
+    <string name="browser_bookmarks_page_bookmarks_text">புத்தகக்குறிகள்</string>
+    <string name="menu_preferences">அமைப்புகள்</string>
+    <string name="pref_content_title">பக்க உட்கருத்து அமைப்புக்கள்</string>
+    <string name="pref_content_load_images">பிம்பங்கள் ஏற்றவும்</string>
+    <string name="pref_content_load_images_summary">வலைப்பக்கங்களில் உள்ல பிம்பங்களை திரையிடவும்</string>
+    <string name="pref_content_block_popups">பாப்-அப் விண்டோ வை தடுக்கவும்</string>
+    <string name="pref_content_javascript">ஜாவா ஸ்க்கிரிப்ட் செயல்படச் செய்</string>
+    <string name="pref_content_open_in_background">பின்னணியில் திறக்கவும்</string>
+    <string name="pref_content_plugins">பிளக்-இன்ஸ் செயல்படச் செய்</string>
+    <string-array name="pref_content_plugins_choices">
+        <item>எப்போதும் நிகழ்</item>
+        <item>தேவைப்படி</item>
+        <item>ஆஃப்</item>
+    </string-array>
+    <string name="pref_content_open_in_background_summary">நடப்பில் இருக்கும் ஒன்றுக்குப் பின்னால் புதிய விண்டோக்களைத் திறக்கவும்</string>
+    <string name="pref_content_homepage">முகப்பு பக்கம் அமைக்கவும்</string>
+    <string name="pref_content_search_engine">தேடல் எஞ்சின் அமைக்கவும்</string>
+    <string name="pref_content_search_engine_summary">ஒரு தேடல் எஞ்சின் தேர்ந்தெடுக்கவும்</string>
+    <string name="pref_use_current">தற்போதைய பக்கம் பயன்படுத்தவும்</string>
+    <string name="pref_content_autofit">தன்னியக்க பக்கங்கள் பொருத்தல்</string>
+    <string name="pref_content_autofit_summary">திரைக்கு பொருந்தசெய்ய வலைப்பக்கங்களை ஃபார்மட் செய்க</string>
+    <string name="pref_content_landscape_only">நிலவடிவம் மட்டும் திரையிடவும்</string>
+    <string name="pref_content_landscape_only_summary">அகலமான், லேன்ஸ்கேப் திரையிடும் முறைகளில் மட்டுமே பக்கங்களைத் திரையிடவும்</string>
+    <string name="pref_privacy_title">அந்தரங்க அமைப்புக்கள்</string>
+    <string name="pref_privacy_clear_cache">தேக்ககம் அழி</string>
+    <string name="pref_privacy_clear_cache_summary">உள்ளகத்தில் கேச்சி செய்யப்பட்ட உட்பொருள் மற்றும் தரவுத்தளங்களை நீக்கவும்</string>
+    <string name="pref_privacy_clear_cache_dlg">ஸ்தலத்தில் கேச்சி செய்யப்பட்ட உட்பொருள் மற்றும் தரவுத்தளங்கள் அழிக்கப்படும்.</string>
+    <string name="pref_privacy_clear_cookies">அனைத்து குக்கி தரவுகளை நீக்கவும்</string>
+    <string name="pref_privacy_clear_cookies_summary">அனைத்து ப்ரவுசர் குக்கிகளை நீக்கவும்</string>
+    <string name="pref_privacy_clear_cookies_dlg">அனைத்து குக்கிகளும் அழிக்கப்படும்.</string>
+    <string name="pref_privacy_clear_history">சரித்திரம் நீக்கவும்</string>
+    <string name="pref_privacy_clear_history_summary">ப்ரவுசர் நேவிகேஷன் சரித்திரம் நீக்கவும்</string>
+    <string name="pref_privacy_clear_history_dlg">ப்ரவுசர் உலவும் வரலாறு அழிக்கப்படும்.</string>
+    <string name="pref_privacy_clear_form_data">தரவிலிருந்து துடை</string>
+    <string name="pref_privacy_clear_form_data_summary">அனைத்து சேமிக்கப்பட்ட தரவுகளை நீக்கவும்</string>
+    <string name="pref_privacy_clear_form_data_dlg">தரவுகளில் இருந்து செமித்த அனைத்தும் அழிக்கப்படும்.</string>
+    <string name="pref_privacy_clear_passwords">கடவுச்சொற்களை நீக்கவும்</string>
+    <string name="pref_privacy_clear_passwords_summary">அனைத்து சேமிக்கப்பட்ட கடவுச்சொற்களை நீக்கவும்</string>
+    <string name="pref_privacy_clear_passwords_dlg">அனைத்து சேமிக்கப்பட்ட கடவுச்சொற்கள் அழிக்கப்படும்.</string>
+    <string name="pref_privacy_enable_geolocation">அமைவிடம் செயல்படச் செய்</string>
+    <string name="pref_privacy_enable_geolocation_summary">உங்கள் அமைவிடத்தை அணுக வேண்டுகோள் விடுக்க தளங்களை அனுமதிக்கவும்  </string>
+    <string name="pref_privacy_clear_geolocation_access">அமைவிட அணுகலை நீக்கவும்</string>
+    <string name="pref_privacy_clear_geolocation_access_summary">அனைத்து வலைத்தளங்களுக்குமான உள்ளக அணுகலை நீக்கவும்</string>
+    <string name="pref_privacy_clear_geolocation_access_dlg">அனைத்து வலைத்தளங்களுக்குமான உள்ளக அணுகலை நீக்கவும்</string>
+    <string name="pref_security_title">பாதுகாப்பு அமைப்புகள்</string>
+    <string name="pref_security_remember_passwords">கடவுச்சொற்களை நினைவு கொள்ளவும்</string>
+    <string name="pref_security_remember_passwords_summary">வலைத்தளங்களுக்காக பயனர் பெயர் மற்றும் கடவுச்சொற்களை சேமிக்கவும்</string>
+    <string name="pref_security_save_form_data">தரவில் இருந்து நினைவு கொள்ளவும்</string>
+    <string name="pref_security_save_form_data_summary">பின்னதான பயன்பாட்டுக்கு நான் தரவுகளை டைப் செய்வதை நினைவு கொள்ளவும்</string>
+    <string name="pref_security_show_security_warning">பாதுகாப்பு எச்சரிக்கைகள் காட்டவும்</string>
+    <string name="pref_security_show_security_warning_summary">தளத்தின் பாதுகாப்பு பற்றிய பிரச்சனை இருந்தால் எச்சரிக்கை காட்டவும்</string>
+    <string name="pref_security_accept_cookies">குக்கிகளை ஏற்றுக்கொள்க</string>
+    <string name="pref_security_accept_cookies_summary">\”குக்கீ\” தரவுகளை சேமிக்கவும் படிக்கவும் தளங்களை அனுமதிக்கவும் </string>
+    <string name="pref_text_size">வாசக அளவு</string>
+    <string-array name="pref_text_size_choices">
+        <item>நுண்ணிய</item>
+        <item>சிறிய</item>
+        <item>இயல்பான</item>
+        <item>பெரிது</item>
+        <item>மிக அதிகமான</item>
+    </string-array>
+    <string name="pref_text_size_dialogtitle">வாசக அளவு</string>
+    <string name="pref_text_format">வாசக வடிவுரு</string>
+    <string-array name="pref_text_format_choices">
+		<item>"சான்ஸ்-செரிஃப்"</item>
+		<item>"மோனோஸ்பேஸ்"</item>
+		<item>"செரிஃப்"</item>
+		<item>ஏரியல்</item>
+		<item>ஹெல்வெட்டிக்கா</item>
+		<item>டஹோமா</item>
+		<item>வெர்டானா</item>
+		<item>times new roman</item>
+		<item>கூரியர் புதியது</item>
+		<item>பாலாட்டினோ</item>
+	</string-array>
+    <string name="pref_default_zoom">இயல்பான ஜூம்</string>
+    <string-array name="pref_default_zoom_choices">
+        <item>தூரம்</item>
+        <item>நடுநிலை</item>
+        <item>மூடு</item>
+    </string-array>
+    <string name="pref_default_zoom_dialogtitle">இயல்பான ஜூம்</string>
+    <string name="pref_content_load_page">மேலோட்ட்த்தில் இருக்கும் பக்கங்களை திறக்கவும்</string>
+    <string name="pref_content_load_page_summary">புதிதாகத் திறக்கப்பட்ட பக்கங்களின் மேலோட்டமான பார்வையை காட்டவும்</string>
+    <string name="pref_extras_title">தேர்ந்த அமைப்புகள்</string>
+    <string name="pref_extras_website_settings">வலைத்ள அமைப்புகள்</string>
+    <string name="pref_extras_website_settings_summary">தனித்தனி வலைத்தளங்களுக்கு முன்னணி அமைப்புக்கள் </string>
+    <string name="pref_extras_reset_default">இயல்பானவைகளுக்கு மறு அமைப்பு செய்க</string>
+    <string name="pref_extras_reset_default_summary">முன்னிருப்பு அமைப்பை மறுபடிஅமை</string>
+    <string name="pref_extras_reset_default_dlg">அமைப்புக்கள் இயல்பான மதிப்புகளுக்கு திரும்ப சென்றுவிடும்.</string>
+    <string name="pref_extras_reset_default_dlg_title">இயல்பானவைகளுக்கு மறு அமைப்பு செய்க</string>
+    <string name="pref_development_title">டீ பக் செய்க</string>
+    <string name="pref_default_text_encoding">வாசகம் குறியீடு செய்கிறது</string>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>லத்தின்-1 (ISO-8859-1)</item>
+        <item>யூனிகோட்(UTF-8)</item>
+        <item>சீனம்(GBK)</item>
+        <item>சீனம் (Big5)</item>
+        <item>ஜப்பானீஸ் (ISO-2022-JP)</item>
+        <item>ஜப்பானீஸ்(SHIFT_JIS)</item>
+        <item>ஜப்பானீஸ் (EUC-JP)</item>
+        <!-- TODO: We should add a lot more encodings.  -->
+        <item>ஜப்பானிய (EUC-JP)</item>
+    </string-array>
+    <string name="pref_default_text_encoding_dialogtitle">வாசகம் குறியீடு செய்கிறது</string>
+    <string name="browserFrameNetworkErrorLabel">தரவு இணைப்புத்தன்மை பிரச்சனை</string>
+    <string name="browserFrameFileErrorLabel">கோப்பில் பிரச்னை</string>
+    <string name="browserFrameFormResubmitLabel">உறுதி செய்க</string>
+    <string name="browserFrameFormResubmitMessage">நீங்கள் பார்க்க முயற்சிக்கும் பக்கம் ஏற்கெனவே சமர்ப்பிக்கப்பட்டுவிட்ட தரவுகளை கொண்டிருக்கிறது (\"தரவு போடுக\"). நீங்கள் தரவுகளை திரும்பவும் அனுப்பினால், ஏற்கெனவே உள்ள  இந்தப்பக்கத்தின் செயல்பாடுகள் மீண்டும் மேற்கொள்ளப்படும்(தேடுதல் அல்லது ஆன்லைன் பொருள் வாங்குதல் போன்றவை).</string>
+    <string name="loadSuspendedTitle">வலை அமைப்பு இணைப்பு இல்லை</string>
+    <string name="loadSuspended">இணையதள இணைப்பு இல்லாததால் ப்ரவுசர் இந்தப் பக்கத்தை ஏற்றம் செய்ய இயலவில்லை.</string>
+    <string name="clear_history">சரித்திரம் நீக்கவும்</string>
+    <string name="browser_history">சமீபத்தில் வருகை தந்த பக்கங்கள்</string>
+    <string name="empty_history">ப்ரவுசர் சரித்திரம் காலியாக உள்ளது.</string>
+    <string name="add_new_bookmark">புத்தகக்குறி சேர்...</string>
+    <string name="add_bookmark_short">சேர்</string>
+    <string name="search_hint">தேடுக அல்லது URL டைப் செய்க</string>
+    <string name="search_button_text">செல்க</string>
+    <string name="search_settings_description">புத்தகக்குறிகள் மற்றும் வலை சரித்திரம்</string>
+    <string name="attention">கவனம் தேவை</string>
+    <string name="popup_window_attempt">இந்தத்தளம் ஒரு பாப் அப் விண்டோவைத்திறக்க முயற்சிக்கிறது. </string>
+    <string name="allow">அனுமதிக்கவும்</string>
+    <string name="block">தடுக்கவும்</string>
+    <string name="too_many_windows_dialog_title">விண்டோ வரம்பு அடைந்தது</string>
+    <string name="too_many_windows_dialog_message">நீங்கள் ஏற்கெனெவே அதிகபட்ச விண்டோக்களை திறந்திருப்பதால் புதிய ஒரு விண்டொவை திறக்க முடியாது.</string>
+    <string name="too_many_subwindows_dialog_title">பாப் அப் ஏற்கெனவே திறந்துள்ளது</string>
+    <string name="too_many_subwindows_dialog_message">அதிக பட்சம் ஒரு பாப்-அப்  விண்டோ மட்டுமே திறக்க முடியும் என்பதால் புதிய ஒன்றை திறக்க முடியாது.</string>
+    <string name="download_title">தரவிறக்க சரித்திரம்</string>
+    <string name="download_unknown_filename">&lt;தெரியாதது&gt;</string>
+    <string name="download_menu_open">திற</string>
+    <string name="download_menu_clear">பட்டியலில் இருந்து நீக்கவும்</string>
+    <string name="download_menu_delete">நீக்கவா</string>
+    <string name="download_menu_cancel">பதிவிறக்கத்தை விடுவிக்கவா</string>
+    <string name="download_menu_cancel_all">அனைத்து தரவிறக்கங்களை ரத்து செய்க</string>
+    <string name="download_cancel_dlg_title">தரவிறக்கங்களை ரத்து செய்க</string>
+    <string name="download_cancel_dlg_msg">அனைத்து<xliff:g id="download_count">%d</xliff:g>தரவிறக்கங்களும் தரவிறக்க சரித்திரத்தில் இருந்து நீக்கப்பட்டு அகற்றப்படும்.</string>
+    <string name="download_delete_file">கோப்பு அழிக்கப்படும்</string>
+    <string name="download_file_error_dlg_title">காலியிடத்துக்கு வெளியில்</string>
+    <string name="download_file_error_dlg_msg"><xliff:g id="filename">%s</xliff:g> தரவிறக்கபட முடியாது.\nஉங்கள் தொலைபேசியில் சிறிது காலியிடம் விட்டு மீண்டும் முயலவும்.</string>
+    <string name="download_failed_generic_dlg_title">தரவிறக்கம் வெற்றிகரம்</string>
+    <string name="download_no_sdcard_dlg_msg" product="nosdcard"><xliff:g id="filename">%s</xliff:g> தரவிறக்கம் செய்ய USB சேமிப்பகம் தேவைப்படுகிறது.</string>
+    <string name="download_no_sdcard_dlg_msg" product="default"><xliff:g id="filename">%s</xliff:g>ஐ தரவிறக்க ஒரு SD கார்டு தேவைப்படுகிறது.</string>
+    <string name="download_sdcard_busy_dlg_msg" product="nosdcard">USB சேமிப்பகம் பிஸியாக உள்ளது. தரவிறக்கங்களை அனுமதிக்க, அறிவிக்கையில் இருக்கும் \"USB சேமிப்பகத்தை அணைக்கவும்\" தேர்வு செய்யவும்.</string>
+    <string name="download_sdcard_busy_dlg_msg" product="default">கார்டு பிஸியாக உள்ளது. தரவிறக்கங்களை அனுமதிக்க அறிவிக்கையில் \"USB சேமிப்பகத்தை அணைத்துவிடவும்\" தேர்வு செய்யவும்.</string>
+    <string name="download_no_application_title">கோப்பினை திறக்க முடியவில்லை</string>
+    <string name="retry">மறுபடி முயலுக</string>
+    <string name="no_downloads">தரவிறக்க சரித்திரம் காலி.</string>
+    <string name="download_error">தரவிறக்கம் வெற்றிகரம்</string>
+    <string name="download_success"><xliff:g id="file">%s</xliff:g>தரவிறக்கம் பூர்த்தி.</string>
+    <string name="download_running">பதிவிறக்கப்படுகிறது\u2026</string>
+    <string name="download_pending">தரவிறக்கம் துவங்குகிறது\u2026</string>
+    <string name="download_pending_network">தரவு இணைப்புக்காக காத்திருக்கிறது\u2026</string>
+    <string name="download_running_paused">தரவு இணைப்புக்காக காத்திருக்கிறது\u2026</string>
+    <string name="download_canceled">தரவிறக்கம் நிராகரிக்கப்பட்டது.</string>
+    <string name="download_not_acceptable">இணைக்க முடியாது. உட்பொருளுக்கு இந்த தொலைபேசி துணை நிற்கவில்லை.</string>
+    <string name="download_file_error">தரவிறக்கம் முடிக்க முடியாது. அடிப்படை டைரக்டரி உருவாக்க முடியாது.</string>
+    <string name="download_length_required">இணைக்க முடியாது. விஷயத்தின் அளவு தீர்மானிக்க முடியாது.</string>
+    <string name="download_precondition_failed">தரவிறக்கம் இடைமறிப்பு. மீண்டும் தொடர இயலாது.</string>
+    <string name="search_the_web">வலையை தேடுக</string>
+    <string name="webstorage_outofspace_notification_title">ப்ரவுசர் சேமிப்பகம் நிறைந்தது</string>
+    <string name="webstorage_outofspace_notification_text">இடம் காலியாக வை கிளிக் செய்யவும்.</string>
+    <string name="webstorage_clear_data_title">சேமிக்கப்பட்ட தரவுகளை நீக்கவும்</string>
+    <string name="webstorage_clear_data_dialog_title">சேமிக்கப்பட்ட தரவுகளை நீக்கவும்</string>
+    <string name="webstorage_clear_data_dialog_message">இந்த வலைத்தளத்தினால் சேமிக்கப்பட்ட தரவுகளும் அழிக்கப்படும்</string>
+    <string name="webstorage_clear_data_dialog_ok_button">அனைத்தையும் அழி</string>
+    <string name="webstorage_clear_data_dialog_cancel_button">ரத்து</string>
+    <string name="webstorage_origin_summary_mb_stored">MB உங்கள் தொலைபேசியில் சேமிக்கப்பட்டுள்ளது</string>
+    <string name="loading_video">விடியோ ஏற்றுகிறது</string>
+    <string name="geolocation_permissions_prompt_message"><xliff:g id="website origin" example="maps.google.com">%s</xliff:g> உங்கள் அமைவிடத்தை தெரிந்து கொள்ள விரும்புகிறார்</string>
+    <string name="geolocation_permissions_prompt_share">அமைவிடம் பகிர்க</string>
+    <string name="geolocation_permissions_prompt_dont_share">மறுத்துவிடு</string>
+    <string name="geolocation_permissions_prompt_remember">முன்னுரிமைகளை நினைவு கொள்ளவும்</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">இந்தத் தளம் உங்கள் அமைவிடத்தை அணுக இயலும். இதனை அமைப்புகள் -&gt; வலைத்தள அமைப்புக்கள் இல் மாற்றவும்</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">இந்தத் தளம் உங்கள் அமைவிடத்தை அணுக இயலாது. இதனை அமைப்புகள் -&gt; வலைத்தள அமைப்புகள் இல் மாற்றவும்</string>
+    <string name="geolocation_settings_page_title">அமைவிட அணுகலை நீக்கவும்</string>
+    <string name="geolocation_settings_page_summary_allowed">இந்தத் தளம் தற்போது உங்கள் அமைவிடத்தை அணுக இயலும்</string>
+    <string name="geolocation_settings_page_summary_not_allowed">இந்தத் தளம் தற்போது உங்கள் அமைவிடத்தை அணுக இயலாது</string>
+    <string name="geolocation_settings_page_dialog_title">அமைவிட அணுகலை நீக்கவும்</string>
+    <string name="geolocation_settings_page_dialog_message">இந்த வலைத்தளத்திற்கான அமைவிட அணுகல் கொடுக்கப்படும்</string>
+    <string name="geolocation_settings_page_dialog_ok_button">அணுகல் விலக்கவும்</string>
+    <string name="geolocation_settings_page_dialog_cancel_button">ரத்து</string>
+    <string name="website_settings_clear_all">அனைத்தையும் அழி</string>
+    <string name="website_settings_clear_all_dialog_title">அனைத்து வலைத்தள அமைப்புக்களை நீக்கவா?</string>
+    <string name="website_settings_clear_all_dialog_message">அனைத்து வலைத்தள தரவுகள் மற்றும் அமைவிட அனுமதிகள் அழிக்கப்படும்.</string>
+    <string name="website_settings_clear_all_dialog_ok_button">அனைத்து தரவுகளை அழிக்கவும்</string>
+    <string name="website_settings_clear_all_dialog_cancel_button">ரத்து</string>
+    <string name="progress_dialog_setting_wallpaper">வால்பேப்பர் அமைத்துக்கொண்டிருக்கிறது...</string>
+    <string name="goto_homepage">முகப்புப் பக்கம் செல்க</string>
+    <string name="menu_view_full_screen">முழுத்திரை மாற்று கருவி</string>
+    <string name="add_new_catalog">புதிய கேட்டலாக்</string>
+    <string name="edit_bookmarks_catalog">கேட்டலாக் திருத்தவும்</string>
+    <string name="delete_bookmarks_catalog">கேட்டலாக் அழிக்கவும்</string>
+    <string name="move_bookmark">புத்தகக்குறியை நகர்த்தவும்</string>
+    <string name="move_bookmark_dialog_title">இதற்கு புத்தகக்குறியை நகர்த்தவும்...</string>
+    <string name="catalog">கேட்டலாக்</string>
+    <string name="override_bookmark">அதே ஒரு புத்தகக்குறியை மேலே மேலே எழுதவா?</string>
+    <string name="failed_edit_bookmark">இந்தப்பெயர் அல்லதுஅமைவிடத்துடன் ஒரு புத்தக்குறி உள்ளது. தயவு செய்து வேறொன்றை பயன்படுத்தவும்</string>
+    <string name="failed_edit_bookmark_catalog">இந்தப்பெயருடன் ஒரு கேட்டலாக் உள்ளது. தயவு செய்து வேறொன்றை பயன்படுத்தவும்</string>
+    <string name="failed_edit_bookmark_title">இயக்கம் தவறியது</string>
+    <string name="delete_bookmark_warning2">"இந்த புத்தக்குறியை அழிப்பது உறுதியா?"</string>
+    <string name="clear_today_history">இன்றைய சரித்திரம் அகற்றவும்</string>
+    <string name="pref_search_engine_settings">தேடல் எஞ்சின் அமைப்பு</string>
+    <string-array name="pref_search_engine_choices">
+      <item>139 தேடல்கள்</item>
+      <item>பைடு தேடல்</item>
+    </string-array>
+    <string name="pref_extras_saveasto_settings">அமைவிடம் சேமிக்கவும்</string>
+    <string name="menu_path_save">பாதை சேமிப்பு</string>
+    <string name="new_file">புதிய கோப்பினை உருவாக்கவும்</string>
+    <string name="title_new">கோப்பினை உருவாக்கவும்</string>
+    <string name="download_interupter_error">வலை அமைப்பு கிடைக்கவில்லை </string>
+    <string name="download_interupter_error_no_network">வலை அமைப்பு கிடைக்கவில்லை இன்னொரு வலை அமைப்புக்கு மாறுகிறது</string>
+    <string name="radio_controls_title">2G/3G வலை அமைப்பு அமைப்புகள்</string>
+    <string name="pick_wifi_message">Wlan கிடைக்கப்பெறவில்லை, அணுகல் புள்ளிகளுடன் இணைக்கவா?</string>
+    <string name="ok_filename">சேமி</string>
+    <string name="browser">உலாவி</string>
+    <string name="selected_download_path">தரவிறக்க பாதை</string>
+    <string name="save_page">பக்கம் சேமிக்கவும்</string>
+    <string name="lookoffline_page">ஆஃப்லைன் பக்கம் பார்க்கவும்</string>
+    <string name="save_error_info">வலைபக்கத்தை சேமிக்க தவறியது!</string>
+    <string name="save_pending">சேமிக்கத் துவங்குகிறது\u2026</string>
+    <string name="nomore_free_space">SD கார்டில், போதுமான காலியிடம் இல்லை\nஉங்கள் தொலைபேசியில் சிறிது காலியிடம் ஏற்படுத்தி மீண்டும் முயலவும்.</string>
+    <string name="save_finish">வலைப்பக்கத்தை சேமிப்பது முடிக்கப்பட்டது!</string>
+    <string name="save_page_local">இந்தப் பக்கம் தொலைபேசியில் இருந்திருக்கிறது.</string>
+    <string name="save_page_info">தகவல்</string>
+    <string name="oma_download_error">OMA தரவிறக்க பிழை</string>
+    <string name="oma_download_descriptor">OMA தரவிறக்க விவரிப்பாளர்</string>
+    <string name="free_space">போதுமானபடியில்லாத நினைவகம்! ஏற்கெனவே இருக்கும் சில கோப்புகளை அழிக்க நீங்கள் விரும்புகிறீர்களா?</string>
+    <string name="file_toolong">இலக்கு வைத்த கோப்பு மிகப்பெரியது, சர்வர் செயல்முறைப்படுத்தக்கூடிய அளவினைத் தாண்டியது.</string>
+    <string name="download">பதிவிறக்கம்</string>
+    <string name="download_fail">தரவிறக்கம் தோல்வி.</string>
+    <string name="oma_audio_title">ஆடியோ</string>
+    <string name="oma_image_title">படம்</string>
+    <string name="menu_view_oma_download">Oma தரவிறக்கம்</string>
+    <string name="oma_download_title">Oma தரவிறக்க வரலாறு</string>
+    <string name="no_oma_downloads">Oma தரவிறக்க வரலாறு காலியாக உள்ளது.</string>
+    <string name="oma_dd_description_size_zero">செல்லுபடியாகாத விவரிப்பாளர்</string>
+    <string name="oma_dd_description_error">செல்லுபடியாகாத விவரிப்பாளர்</string>
+    <string name="oma_download_file_not_found">கோப்பு காணப்படவில்லை</string>
+    <string name="oma_download_success">900 வெற்றி</string>
+    <string name="oma_download_Insufficient_memory">901 நினைவகம் போதுமானதில்லை</string>
+    <string name="oma_download_File_toobig">413 கோப்பு மிகவும் பெரிது</string>
+    <string name="oma_download_user_cancelled">902 பயனர் நீக்கப்பட்டது</string>
+    <string name="oma_download_loss_service">903 சேவை இழப்பு</string>
+    <string name="oma_download_attribute_mismatch">905 பொருத்தமின்மைக்கு சாட்டிவிடவும்</string>
+    <string name="oma_download_invalid_descripter">906செல்லுபடியாகாத விவரிப்பாளர்</string>
+    <string name="oma_download_invalid_ddversion">951 செல்லுபடியாகாத DD பதிப்பு</string>
+    <string name="oma_download_device_aborted">952 கருவி கைவிடப்பட்டது</string>
+    <string name="oma_download_non_acceptablecontent">எற்றுக்கொள்ள இயலாத உட்பொருள்</string>
+    <string name="oma_download_default_error">954 ஏற்றுபவர் பிழை</string>
+    <string name="oma_name">பெயர்:</string>
+    <string name="oma_type">வகை:</string>
+    <string name="oma_size">அளவு:</string>
+    <string name="oma_vendor">சில்லறைவியாபாரி:</string>
+    <string name="select_open_download">திற அல்லது தரவிறக்குக தெரிவு செய்க</string>
+    <string name="open_download">இந்த வகை கோப்புகள் திறக்கப்பட முடியும்; ’திறக்க’ அல்லது ’தரவிறக்க’ தெரிவு செய்யவும்</string>
+    <string name="mopen">திற</string>
+    <string name="mdownload">பதிவிறக்கம்</string>
+    <string name="oma_description">விளக்கம்:</string>
+    <string name="oma_drm_view_not_exist">DRM காட்சி இருக்கவில்லை!</string>
+    <string name="apn_setting">APN அமைப்பு</string>
+    <string-array name="apn_setting_items" translatable="false">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
+    <string name="mobile_data_connect_disable">துண்டிக்கவும்</string>
+    <string name="wifi_aps_unavailable_message">WLAN வலை அமைப்பு எந்த அணுகல் புள்ளிகளையும் கொண்டிருக்கவில்லை.  3G வழியாக இணைக்கவா? உங்களுக்கு ஒரு தரவு பிளான் இல்லையென்றால், இது கூடுதல் கட்டணங்கள் விதிக்க ஏதுவாகும்.</string>
+    <string name="wifi_aps_unavailable_check">கேட்க வேண்டாம்</string>
+    <string name="download_file_path">இதற்கு கோப்பு தரவிறக்கப்பட்டது:</string>
+    <string name="remove_bookmark_catalog_msg">"இந்த கேட்டலாகினை அழிப்பது உறுதியா?"</string>
+    <string name="saved_pages">எனது விருப்பமானவை</string>
+    <string name="memory_full">சேமிப்பக காலியிடம் நிறைவு</string>
+    <string name="exit_dot">வெளியேறுக</string>
+    <string name="pref_content_open_sensor">பின்னணியில் திறக்கவும்</string>
+    <string name="pref_content_open_sensor_summary">முன்தள்ளுதல்/பின்செல்லுதல் நிகழச்செய்ய சென்ஸாருக்கு உதவவும்</string>
+    <string name="pref_text_format_dialogtitle">வாசக வடிவுரு</string>
+    <string name="download_no_sdcard_dlg_title" product="nosdcard">USB சேமிப்பகம் கிடைக்கப்பெறவில்லை</string>
+    <string name="download_no_sdcard_dlg_title" product="default">SD கார்டு இல்லை</string>
+    <string name="download_sdcard_busy_dlg_title" product="nosdcard">USB சேமிப்பகம் கிடைக்கப்பெறவில்லை</string>
+    <string name="download_sdcard_busy_dlg_title" product="default">SD கார்டு கிடைக்கப்பெறவில்லை</string>
+    <string name="exit">வெளியேறுக</string>
+    <string name="default_catalog_name">எனது விருப்பம்</string>
+    <string name="menu_new_file">கோப்புறை உருவாக்கவும்</string>
+    <string name="menu_path_cancel">நிராகரிக்கவும்</string>
+    <string name="title_rename">மறுபெயரிடுக</string>
+    <string name="button_ok">சரி</string>
+    <string name="button_cancel">நிராகரிக்கவும்</string>
+    <string name="pref_network_title">வலை அமைப்பு அமைப்புக்கள்</string>
+    <string name="pick_wifi_title">அறிவிப்பு</string>
+    <string name="pick_wifi_yes">ஆம்</string>
+    <string name="pick_wifi_no">இல்லை</string>
+    <string name="download_path">தரவிறக்க பாதை</string>
+    <string name="cancel_download">நிராகரிக்கவும்</string>
+    <string name="sdcard">SD கார்டு</string>
+    <string name="internal_storage">உள்ளக சேமிப்பகம்</string>
+    <string name="save_page_error">பிழை</string>
+    <string name="mobile_data_connect_enable">இணைக்கவும்</string>
+    <string name="wifi_aps_unavailable_title">அறிவிப்பு</string>
+    <string name="delete_offline_page">அழிக்கவும்</string>
+    <string name="home_view_title">வழிகாட்டுதல்</string>
+    <string name="edit_favorite">விருப்பங்கள் திருத்துக</string>
+    <string name="add_favorite">விருப்பங்கள் சேர்க்கவும்</string>
+    <string name="favorite_saved">விருப்பங்களுக்கு சேமிக்கப்பட்டது.</string>
+    <string name="favorite_not_saved">விருப்பமானவை-க்கு சேமிக்க இயலவில்லை.</string>
+    <string name="favorite_needs_title">"விருப்பங்கள் ஒரு பெயரைக் கொண்டிருக்கவேண்டும்."</string>
+    <string name="favorite_needs_url">"விருப்பங்கள் ஒரு அமைவிடத்தைக் கொண்டிருக்கவேண்டும்."</string>
+    <string name="favorite_cannot_save_url">இந்த URL விருப்பமானவையாக இருக்க முடியாது.</string>
+    <string name="download_exist">தரவிறக்கம் ஏற்கெனவே தரவிறக்க பட்டியலில் உள்ளது, இன்னமும் புதிய தரவிறக்கம் துவங்கவா?</string>
+    <string name="open">திறக்கவும்</string>
+    <string name="edit">திருத்துக</string>
+    <string name="delete">அழிக்கவும்</string>
+    <string-array name="default_bookmarks_favorite">
+        <item></item>
+        <item>store.png</item>
+        <item></item>
+        <item>ரீடர்.png</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

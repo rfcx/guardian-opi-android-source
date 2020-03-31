@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hct_bg_app_wrap" translatable="false">
+        <item>app_icon_bg1</item>
+        <item>app_icon_bg2</item>
+        <item>app_icon_bg3</item>
+        <item>app_icon_bg4</item>
+    </string-array>
+
+
+    <string-array name="hct_custom_apkIcon" translatable="false">
+        <!-- 1 - 5 -->
+        <item>com.mediatek.videoplayer.MovieListActivity|ic_launcher_video</item>
+        <item>com.mediatek.notebook.NotesList|ic_launcher_notes</item>
+        <item>com.mediatek.filemanager.FileManagerOperationActivity|ic_launcher_filemanager</item>
+        <item>com.mediatek.StkSelection.StkSelection|ic_launcher_sim</item>
+        <item>com.mediatek.FMRadio.FMRadioActivity|ic_launcher_fmradio</item>
+
+        <!-- 6 - 10 -->
+        <item>com.android.soundrecorder.SoundRecorder|ic_launcher_soundrecorder</item>
+        <item>com.android.settings.Settings|ic_launcher_settings</item>
+        <item>com.android.quicksearchbox.SearchActivity|ic_launcher_quicksearch</item>
+        <item>com.android.providers.downloads.ui.DownloadList|ic_launcher_download</item>
+        <item>com.android.contacts.activities.DialtactsActivity|ic_launcher_phone</item>
+	    <item>com.android.dialer.DialtactsActivity|ic_launcher_phone</item>
+
+        <!-- 11 - 15 -->
+        <item>com.android.music.MusicBrowserActivity|ic_launcher_music</item>
+        <item>com.v5music.view.activity.SplashActivity|ic_launcher_music</item>
+        <item>com.android.mms.ui.BootActivity|ic_launcher_smsmms</item>
+        <item>com.android.gallery3d.app.Gallery|ic_launcher_gallery</item>
+        <item>com.android.email.activity.Welcome|ic_launcher_email</item>
+        <item>com.android.deskclock.DeskClock|ic_launcher_deskclock</item>
+	    <item>com.android.gallery3d.app.GalleryActivity|ic_launcher_gallery</item>
+
+        <!-- 16 - 20 -->
+        <item>com.android.contacts.activities.PeopleActivity|ic_launcher_contacts</item>
+        <item>com.android.contacts.AllContactsActivity|ic_launcher_contacts</item>
+        <item>com.android.camera.CameraLauncher|ic_launcher_camera</item>
+        <item>com.android.calendar.AllInOneActivity|ic_launcher_calendar</item>
+        <item>com.android.calculator2.Calculator|ic_launcher_calculator</item>
+        <item>com.android.browser.BrowserActivity|ic_launcher_browser</item>
+        <item>com.mediatek.todos.TodosActivity|ic_launcher_todo</item>
+        
+        <item>com.android.runyee.torch.TotalActivity|ic_launcher_torch</item>
+    </string-array>
+   
+
+    <!-- old words | new words -->
+    <string-array name="hct_custom_apkName" translatable="false">
+        <item>Opera Mini|Good One</item>
+    </string-array>
+
+</resources>

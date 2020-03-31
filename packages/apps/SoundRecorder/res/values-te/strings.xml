@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">సౌండ్ రికార్డర్</string>
+    <string name="record_your_message">మీ సందేశాన్ని రికార్డు చేస్తుంది</string>
+    <string name="message_recorded">సందేశం రికార్డు కాబడింది </string>
+    <string name="review_message">లిరిక్స్ సందేశం     </string>
+    <string name="recording">రికార్డింగ్</string>
+    <string name="recording_stopped">రికార్డింగ్ నిలిపివేయబడింది</string>
+    <string name="recording_save">రికార్డింగ్ సేవ్ చేయబడింది</string>
+    <string name="recording_nosave">రికార్డింగ్ సేవ్ చేయబడ లేదు</string>
+    <string name="storage_is_full">నిల్వ నిండింది</string>
+    <string name="max_length_reached">గరిష్ఠ పొడవు చేరుకుంది</string>
+    <string name="insert_sd_card">దయచేసి SD కార్డు ని ఇన్ సెర్ట్ చేయండి</string>
+    <string name="phone_message">కాల్ సమయంలో సౌండ్ రికార్డర్ ని ఆన్  చేయడం సాధ్యం కాదు.</string>
+    <string name="min_available"><xliff:g id="minutes">%d</xliff:g> నిముషాలు అందుబాటులో</string>
+    <string name="sec_available"><xliff:g id="seconds">%d</xliff:g> యొక్క అందుబాటులో</string>
+    <string name="accept">సేవ్</string>
+    <string name="discard">వదిలివేయడం</string>
+    <string name="button_ok">సరి</string>
+    <string name="press_record">రికార్డు నొక్కండి</string>
+    <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+    <string name="audio_db_artist_name">మీ రికార్డింగులు </string>
+    <string name="audio_db_album_name">ఆడియో రికార్డింగులు</string>
+    <string name="audio_db_playlist_name">నా రికార్డింగ్       </string>
+    <string name="error_sdcard_access">SD కార్డు యాక్సెస్ చేయడం సాధ్యం కాలేదు</string>
+    <string name="error_app_internal">అంతర్గత అప్లికేషన్ లోపం</string>
+    <string name="error_mediadb_new_record">రికార్డ్ ఆడియో సేవ్ చేయడం సాధ్యం కాలేదు</string>
+    <string name="select_file_type">రికార్డు ఫైలు రకాన్ని ఎంచుకోండి</string>
+    <string name="record_amr">ఎఎంర్ రకం</string>
+    <string name="menu_info">ఈ మెనూ ఎంపిక చేయబడింది </string>
+    <string name="list_recorder_delete_alert_title">తొలగించాలా</string>
+    <string name="list_recorder_delete_alert_message">ఖచ్చితంగా తొలగించాలి %1$s ?</string>
+    <string name="button_delete">తొలగించాలా</string>
+    <string name="button_cancel">రద్దు</string>
+    <string name="list_recorder_toast_delete_success">తొలగించిన రికార్డింగ్</string>
+    <string name="list_recorder_toast_database_failed">డేటాబేస్ ఫైలు తొలగించడంలో విఫలమైంది</string>
+    <string name="list_recorder_toast_file_failed">రికార్డింగ్ ఫైల్ తొలగించడంలో విఫలమైంది   </string>
+    <string name="list_recorder_item_time_format">%1$s \n %2$s</string>
+    <string name="list_recorder_item_size_format_b">%1$s\u0020B</string>
+    <string name="list_recorder_item_size_format_kb">%1$s\u0020KB</string>
+    <string name="list_recorder_item_size_format_mb">%1$s\u0020MB</string>
+    <string name="menu_recorder_list">రికార్డర్ జాబితా</string>
+    <string name="menu_recorder_ring">సెట్ రింగ్టోన్</string>
+    <string name="menu_recorder_ring_success">సెట్ రింగ్టోన్ విజయం </string>
+    <string name="menu_recorder_ring_failed">సెట్ రింగ్టోన్ విఫలమైంది</string>
+    <string name="menu_recorder_default_type">రికార్డ్ ఫైల్ రకం</string>
+    <string name="list_empty_value">ఖాళీ జాబితా</string>
+    <string name="confirm_del">మీరు ఫైళ్లను తొలగించేందుకు భావిస్తున్నారా?</string>
+    <string name="menu_unselect_all">అన్ని ఎంపికలను తొలగించండి</string>
+    <string name="save">సేవ్</string>
+    <string name="record_3gpp">3gpp టైప్</string>
+    <string name="menu_list">రికార్డర్ జాబితా</string>
+    <string name="menu_recorder_blue">బ్లూటూత్</string>
+    <string name="menu_recorder_mms">MMS</string>
+    <string name="menu_recorder_email">ఈమెయిల్</string>
+    <string name="menu_select_all">అన్నీ ఎంపిక చేయండి</string>
+    <string name="menu_delete">తొలగించు</string>
+    <string name="dialog_title">రింగ్టోన్ వలె ఉపయోగించుము</string>
+    <string name="dialog_item_sim1">SIM1 ఫోన్ రింగ్టోన్</string>
+    <string name="dialog_item_sim2">SIM2 ఫోన్ రింగ్టోన్</string>
+    <string name="menu_recorder_filepath">పాత్ ను సేవ్ చేయుము</string>
+    <string name="browser">బ్రౌజర్</string>
+</resources>

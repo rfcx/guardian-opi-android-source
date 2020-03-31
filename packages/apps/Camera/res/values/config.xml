@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Phone app resources that may need to be customized
+     for different hardware or product builds. -->
+<resources>
+
+<!-- picture quality parameter-->
+<bool name="config_modified_camera_values">true</bool>
+<string name="picture_size_main">2560x1920</string>
+<!--设置前后摄预览大小为4:3，0为前摄4:3后摄全屏，1为后摄4:3前摄全屏，3为前后摄都改为4:3-->
+<integer name="config_changeto_4_3_cameraId">0</integer>
+<!--0前后摄均为全屏，1以上面为准（0不管上面如何都会默认为全屏，1就以上面为准）-->
+<integer name="config_camera_type">0</integer>
+<!-- Add by liyu 2014.11.25 -->
+<bool name="config_hide_face_beauty">true</bool>
+<!-- Add end -->
+
+</resources>

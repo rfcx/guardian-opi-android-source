@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">ਸਿਮ1 ਟੂਲਕਿਟ</string>
+  <string name="app_name_mono_card">ਸਿਮ ਟੂਲਕਿਟ</string>
+  <string name="menu_end_session">ਸੈਸ਼ਨ ਸਮਾਪਤ ਕਰੋ</string>
+  <string name="help">ਮਦਦ</string>
+  <string name="menu_back">ਵਾਪਸ</string>
+  <string name="service_name">ਸੇਵਾ ਨਾਂ</string>
+  <string name="stk_no_service">ਕੋਈ ਸੇਵਾ ਉਪਲਬਧ ਨਹੀਂ</string>
+  <string name="button_ok">ਓਕੇ</string>
+  <string name="button_cancel">ਰੱਦ ਕਰੋ</string>
+  <string name="button_yes">ਹਾਂ</string>
+  <string name="button_no">ਕੋਈ ਨਹੀਂ</string>
+  <string name="alphabet">ਅੱਖਰ</string>
+  <string name="digits">ਅੰਕ (0-9, *, #, +)</string>
+  <string name="default_call_setup_msg">ਕਾਲ ਇਨ ਪ੍ਰੋਗਰੈਸ\u2026</string>
+  <string name="stk_app_state">ਅਨੁਪ੍ਰਯੋਗ ਸਥਿੱਤੀ</string>
+  <string name="enable_app">ਸਕ੍ਰਿਏ ਹੋ ਗਿਆ</string>
+  <string name="disable_app">ਨਿਸ਼ਕ੍ਰਿਏ ਕੀਤਾ</string>
+  <string name="input_length_error">ਨਿਊਨਤਮ ਇਨਪੁਟ ਲੰਬਾਈ ਹੈ: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+  <string name="input_type_error">ਅੱਖਰ ਪ੍ਰਕਾਰ ਅਸ਼ੁੱਧੀ</string>
+  <string name="action_setup_call">ਇੱਕ ਕਾਲ ਕਰੋ</string>
+  <string name="action_launch_browser">ਬ੍ਰਾਊਜਰ ਸ਼ੁਰੂ ਕਰੋ</string>
+  <string name="incall_error_call_failed">ਕਾਲ ਨਹੀਂ ਭੇਜੀ ਗਈ।</string>
+  <string name="channel_connecting">ਚੈਨਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ ...</string>
+</resources>

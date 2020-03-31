@@ -1,0 +1,194 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ptt_main_fragment_bg"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/channel_added_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/channel_edit_title"
+        android:textColor="@color/white"
+        android:textSize="@dimen/channel_list_title_size" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/settings_title_color" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channel_name_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/channel_name_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/channel_list_title_size" />
+
+        <EditText
+            android:id="@+id/channel_name_content"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/channel_list_edittext_height"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:maxLength="25"
+            android:paddingLeft="12dp"
+            android:textColor="@color/white"
+            android:textCursorDrawable="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channel_tx_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/channel_tx_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/channel_list_title_size_small" />
+
+        <EditText
+            android:id="@+id/channel_tx_content"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/channel_list_edittext_height"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:digits="0123456789."
+            android:inputType="phone"
+            android:maxLength="8"
+            android:paddingLeft="12dp"
+            android:textColor="@color/white"
+            android:textCursorDrawable="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channel_rx_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/channel_rx_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/channel_list_title_size_small" />
+
+        <EditText
+            android:id="@+id/channel_rx_content"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/channel_list_edittext_height"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:digits="0123456789."
+            android:inputType="phone"
+            android:maxLength="8"
+            android:paddingLeft="12dp"
+            android:textColor="@color/white"
+            android:textCursorDrawable="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channel_sq_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/channel_sq_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/channel_list_title_size" />
+
+        <EditText
+            android:id="@+id/channel_sq_content"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/channel_list_edittext_height"
+            android:background="@drawable/ptt_settings_item_bg"
+            android:digits="012345678"
+            android:gravity="center"
+            android:inputType="phone"
+            android:maxLength="1"
+            android:paddingLeft="12dp"
+            android:textColor="@color/white"
+            android:textCursorDrawable="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channel_ctcss_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/channel_ctcss_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/channel_list_title_size" />
+
+        <TextView
+            android:id="@+id/channel_ctcss_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="12dp"
+            android:paddingRight="25dp"
+            android:text="@string/channel_ctcss_content"
+            android:textColor="@color/white"
+            android:textSize="@dimen/channel_list_title_size" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/channel_numpicker"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="right"
+                android:layout_marginRight="15dp"
+                android:scaleType="center"
+                android:src="@drawable/ptt_setting_icon_ctcss_up" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/channel_save"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/channel_list_button_height"
+            android:layout_weight="1"
+            android:background="@drawable/button_pressed_bg"
+            android:text="@string/save"
+            android:textSize="@dimen/channel_list_button_textsize" />
+
+        <Button
+            android:id="@+id/channel_back"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/channel_list_button_height"
+            android:layout_weight="1"
+            android:background="@drawable/button_pressed_bg"
+            android:text="@string/back"
+            android:textSize="@dimen/channel_list_button_textsize" />
+    </LinearLayout>
+
+</LinearLayout>

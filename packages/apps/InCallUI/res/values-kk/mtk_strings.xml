@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Add for VoLTE conference Call  -->
+    <string name="volte_add_conference_member_title">Конференцияға қосу</string>
+    <string name="add_member_msg">Нөмір немесе атауды теру</string>
+    <string name="card_title_incoming_conference">Конференцияға шақыру</string>
+    <string name="addConferenceMemeberText">Мүше қосу</string>
+    <string name="add_conference_member_limit">Бір ретте тек бір нөмірді қосуға болады.</string>
+    <string name="conference_member_join"><xliff:g id="member_name">%s</xliff:g> конференцияға қосылды.</string>
+    <string name="conference_member_leave"><xliff:g id="member_name">%s</xliff:g> конференциядан шықты.</string>
+    <string name="conference_member_adding"><xliff:g id="member_name">%s</xliff:g>  қосылуда...</string>
+    <string name="conference_member_add_fail"><xliff:g id="member_name">%s</xliff:g>  қосу мүмкін болмады.</string>
+
+    <!-- Text for VoLTE conference "remove conference member" button -->
+    <string name="removeMember">Жою</string>
+
+    <!-- Text for VoLTE conference "status" indication -->
+    <string name="memberStatus">Күй</string>
+
+    <!-- Add for VoLTE SS Indication -->
+    <string name="volte_call_waiting_indication_text">Басқа тарап қоңырау шалуда, күте тұрыңыз...</string>
+
+</resources>

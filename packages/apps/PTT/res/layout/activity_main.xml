@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <FrameLayout
+        android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/ptt_main_fragment_bg" >
+    </FrameLayout>
+
+    <RadioGroup
+        android:id="@+id/tab_menu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/menu_bg"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_txRx"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/button_pressed"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/menu_txrx"
+            android:gravity="center" />
+
+        <RadioButton
+            android:id="@+id/rb_settings"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/button_pressed"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_settings"
+            android:gravity="center" />
+
+        <RadioButton
+            android:id="@+id/rb_channelList"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/button_pressed"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_channellist"
+            android:gravity="center" />
+
+        <RadioButton
+            android:id="@+id/rb_help"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/button_pressed"
+            android:button="@null"
+            android:drawableTop="@drawable/menu_help"
+            android:gravity="center" />
+    </RadioGroup>
+
+</LinearLayout>

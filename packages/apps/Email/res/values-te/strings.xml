@@ -1,0 +1,319 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="provider_note_yahoo">మెయిల్ బాక్స్ యాక్సెస్ కి కొన్ని రకాల  Yahoo! మెయిల్ ఖాతాల మద్దతు లేదు. మీకు కనెక్ట్ అవడంలో సమస్య ఉంటే, yahoo.com ని సందర్శించండి.</string>
+    <string name="provider_note_yahoo_uk">"ఈ ఇమెయిల్ ఖాతాను ఏర్పాటు ముందు, దయచేసి  Yahoo! వెబ్ సైట్  ని సందర్శించండి. మరియు ఈ ఖాతా కోసం POP3 ఇమెయిల్ ఎనేబుల్ చెయ్యాలి. "</string>
+    <string name="read_attachment_label">పరిచయ సమాచారాన్ని చదవండి</string>
+    <string name="read_attachment_desc">ఈ అప్లికేషన్ మీ ఇమెయిల్ అటాచ్ మెంట్లను చదవడానికి అనుమతిస్తుంది. </string>
+    <string name="permission_access_provider_label">ఇమెయిల్ ప్రొవైడర్ డేటాని యాక్సెస్ చేయి</string>
+    <string name="permission_access_provider_desc">ఈ అప్లికేషన్ అందుకున్న సందేశాలు, పంపిన సందేశాలు, యూజర్ పేర్లు మరియ పాస్వర్డ్ లతో సహా మీ ఇమెయిల్  డేటాబేస్ ని యాక్సెస్ చెయ్యడానికి అనుమతిస్తుంది.</string>
+    <string name="app_name">ఇమెయిల్</string>
+    <string name="compose_title">భాగాలుగా కలిగియుండు</string>
+    <string name="debug_title">యంత్రంలో లోపాలను సవరించు</string>
+    <string name="next_action">తదుపరి</string>
+    <string name="okay_action">సరి</string>
+    <string name="cancel_action">రద్దు</string>
+    <string name="send_action">పంపు</string>
+    <string name="reply_action">రిప్లే</string>
+    <string name="reply_all_action">అందరికీ రిప్లై ఇవ్వు</string>
+    <string name="delete_action">తొలగించాలా</string>
+    <string name="forward_action">పార్వార్డ్</string>
+    <string name="done_action">జరిగినది</string>
+    <string name="discard_action">వదిలివేయడం</string>
+    <string name="save_draft_action">డ్రాఫ్ట్ గా సేవ్ చెయ్యి</string>
+    <string name="read_unread_action">చదివిన /చదవని</string>
+    <string name="read_action">చదివినవి గుర్తు పెట్టు   </string>
+    <string name="unread_action">చదవనిదిగా గుర్తు పెట్టు </string>
+    <string name="favorite_action">ఇష్టాంశాలు</string>
+    <string name="set_star_action">నక్షత్రాన్ని చేర్చు</string>
+    <string name="remove_star_action">నక్షత్రాన్ని తొలగించు</string>
+    <string name="refresh_action">రిఫ్రెష్</string>
+    <string name="add_account_action">ఖాతా జోడించండి</string>
+    <string name="deselect_all_action">అన్ని ఎంపికను తొలగించండి</string>
+    <string name="compose_action">భాగాలుగా కలిగియుండు</string>
+    <string name="search_action">వెతుకు</string>
+    <string name="open_action">ఓపెన్</string>
+    <string name="account_settings_action">ఖాతా ఏర్పాట్లు</string>
+    <string name="remove_account_action">ఖాతా తొలగించు</string>
+    <string name="folders_action">ఫోల్డర్లు</string>
+    <string name="accounts_action">అకౌంట్స్</string>
+    <string name="mark_as_read_action">చదివినవి గుర్తు పెట్టు </string>
+    <string name="mark_as_unread_action">చదవనిదిగా గుర్తు పెట్టు</string>
+    <string name="add_cc_bcc_action">Cc/Bcc జోడించండి </string>
+    <string name="add_attachment_action">అటాచ్మెంట్ జోడించండి</string>
+    <string name="dump_settings_action">డంప్ సెట్టింగులు </string>
+    <string name="choose_attachment_dialog_title">అటాచ్ మెంట్ ని ఎంచుకోండి</string>
+    <string name="status_loading_more">లోడ్ అవుతోంది సందేశాలను\u2026</string>
+    <string name="status_sending_messages">సందేశాలను పంపబడుతున్నాయి\u2026</string>
+    <string name="status_network_error">కనెక్షన్ లోపం </string>
+    <string name="notification_new_title">క్రొత్త మెయిల్ </string>
+    <string name="error_loading_message_body">ఊహించని లోపం సందేశం టెక్స్ట్ లోడ్ చేస్తున్నప్పుడు. సందేశం వీక్షించడానికి చాలా పెద్దదిగా ఉండవచ్చు. </string>
+    <plurals name="notification_new_one_account_fmt">
+        <!-- Case of one new message. -->
+        <item quantity="one"><xliff:g id="unread_message_count" example="1">%1$d</xliff:g>చదవబడని(<xliff:g id="account">%2$s</xliff:g>)</item>
+
+        <!-- Case of "few" (small number of) new messages. -->
+        <item quantity="few"><xliff:g id="unread_message_count" example="2">%1$d</xliff:g>చదవబడని(<xliff:g id="account">%2$s</xliff:g>)</item>
+
+        <!-- Case of a plural number of new messages. -->
+        <item quantity="other"><xliff:g id="unread_message_count" example="279">%1$d</xliff:g>చదవబడని(<xliff:g id="account">%2$s</xliff:g>)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <!-- Case of "few" (small number of) accounts with unread messages. -->
+        <item quantity="few">లో <xliff:g id="number_accounts" example="2">%d</xliff:g> అకౌంట్లు</item>
+        <!-- Case of plural number of accounts with unread messages. -->
+        <item quantity="other">లో <xliff:g id="number_accounts" example="10">%d</xliff:g> అకౌంట్లు</item>
+    </plurals>
+    <!-- 
+    <string name="mailbox_name_server_inbox">ఇన్ బాక్స్</string>
+    <string name="mailbox_name_server_outbox">అవుట్‌బాక్స్</string>
+    <string name="mailbox_name_server_drafts">డ్రాఫ్ట్‌లు</string>
+    <string name="mailbox_name_server_trash">ట్రాష్</string>
+    <string name="mailbox_name_server_sent">పంపడమైనది</string>
+    <string name="mailbox_name_server_junk">చెత్త</string>
+     -->
+    <string name="mailbox_name_display_inbox">ఇన్ బాక్స్</string>
+    <string name="mailbox_name_display_outbox">అవుట్‌బాక్స్</string>
+    <string name="mailbox_name_display_drafts">డ్రాఫ్ట్‌లు</string>
+    <string name="mailbox_name_display_trash">ట్రాష్</string>
+    <string name="mailbox_name_display_sent">పంపడమైనది</string>
+    <string name="mailbox_name_display_junk">చెత్త</string>
+    <string name="debug_version_fmt">పాఠాంతరము:  <xliff:g id="version">%s</xliff:g></string>
+    <string name="account_folder_list_separator_accounts">అకౌంట్స్</string>
+    <string name="account_folder_list_summary_inbox">ఇన్ బాక్స్ కలిపి ఉంది</string>
+    <string name="account_folder_list_summary_starred">నక్షత్రం ఉంచబడింది</string>
+    <string name="account_folder_list_summary_drafts">డ్రాఫ్ట్‌లు</string>
+    <string name="account_folder_list_summary_outbox">అవుట్‌బాక్స్</string>
+    <string name="account_folder_list_refresh_toast">దయచేసి ఒక ఖాతాను రిఫ్రెష్ చేయడానికి దీర్ఘంగా ప్రెస్ చేయండి</string>
+    <string name="mailbox_list_title">మెయిల్ బాక్స్  </string>
+    <string name="message_list_load_more_messages_action">మరిన్ని సందేశాలను లోడ్</string>
+    <string name="message_list_send_pending_messages_action">అవుట్ గోయింగ్ సందేశాలను పంపండి</string>
+    <string name="message_compose_to_hint">గ్రహీత</string>
+    <string name="message_compose_cc_hint">సిసి</string>
+    <string name="message_compose_bcc_hint">బిసిసి</string>
+    <string name="message_compose_subject_hint">విషయం</string>
+    <string name="message_compose_body_hint">మెయిల్ కంపోజ్</string>
+    <string name="message_compose_fwd_header_fmt">\n\n-------- వాస్తవ సందేశం --------\nవిషయం: <xliff:g id="subject">%1$s</xliff:g>\nFrom: <xliff:g id="sender">%2$s</xliff:g>\nTo: <xliff:g id="to">%3$s</xliff:g>\nCC: <xliff:g id="cc">%4$s</xliff:g>\n\n</string>
+    <string name="message_compose_reply_header_fmt">\n\n<xliff:g id="sender">%s</xliff:g> రాశారు:\n\n</string>
+    <string name="message_compose_quoted_text_label">ఉల్లేఖించిన పాఠం</string>
+    <string name="message_compose_error_no_recipients">మీరు కనీసం ఒక గ్రహీతని చేర్చాలి.</string>
+    <string name="message_compose_error_invalid_email">కొన్ని ఇమెయిల్ చిరునామాలను చెల్లవు.</string>
+    <string name="message_compose_attachments_skipped_toast">డౌన్లోడ్ కాలేదు కాబట్టి కొన్ని అటాచ్ మెంట్లు ఫార్వార్డ్ చేయడం సాధ్యం కాదు.</string>
+    <string name="message_compose_attachment_size">మొత్తం అటాచ్ మెంట్ పరిమాణం 5M కంటే ఎక్కువగా ఉంటుంది, అటాచ్ చేయడం సాధ్యం కాదు.</string>
+    <string name="message_compose_display_name"><xliff:g id="name" example="John">%1$s</xliff:g> మరియు  <xliff:g id="number" example="27">%2$d</xliff:g>  ఇతరులు</string>
+    <string name="message_view_to_label">గ్రహీత:</string>
+    <string name="message_view_cc_label">సిసి:</string>
+    <string name="message_view_attachment_info2">జోడింపు పరిమాణం %s కంటే ఎక్కువ, తెరవడం మరియు సేవ్ చేయడం సాధ్యం కాదు</string>
+    <string name="message_view_attachment_view_action">ఓపెన్</string>
+    <string name="message_view_attachment_download_action">సేవ్</string>
+    <string name="message_view_status_attachment_saved">జోడింపు సేవ్
+<xliff:g id="filename">%s</xliff:g>. </string>
+    <string name="message_view_status_attachment_not_saved">SD కార్డు వరకు అటాచ్ మెంట్ సేవ్ చేయడం సాధ్యం కాలేదు.</string>
+    <string name="message_view_show_pictures_instructions">ఎంబెడెడ్ చిత్రాలు ప్రదర్శించేందుకు \"చిత్రాలను చూపించు\" ఎంచుకోండి.</string>
+    <string name="message_view_show_pictures_action">చిత్రాలు చూపించు</string>
+    <string name="message_view_fetching_attachment_toast">అటాచ్మెంట్ పొందుతోంది.</string>
+    <string name="message_view_fetching_attachment_progress">పొందిన అటాచ్ మెంట్ <xliff:g id="filename">%s</xliff:g></string>
+    <string name="message_view_invite_view">క్యాలెండర్ లో చూడండి »</string>
+    <string name="message_view_invite_title">క్యాలెండర్ ఆహ్వానించండి</string>
+    <string name="message_view_invite_text">వెళ్తున్నారా?</string>
+    <string name="message_view_invite_accept">అవును</string>
+    <string name="message_view_invite_maybe">బహుశా</string>
+    <string name="message_view_invite_decline">వద్దు</string>
+    <string name="message_view_invite_toast_yes">మీరు ఈ ఆహ్వానాన్ని అంగీకరించారు</string>
+    <string name="message_view_invite_toast_maybe">మీరు  దీనిని ఆహ్వానానికి \"బహుశా \" అని బదులిచ్చారు </string>
+    <string name="message_view_invite_toast_no">మీరు ఈ ఆహ్వానాన్ని నిరాకరించారు</string>
+    <plurals name="message_deleted_toast">
+        <item quantity="one">సందేశం  తొలగించారు.    </item>
+        <item quantity="other">మీ సందేశాలు తొలగించడమైనది.                       </item>
+    </plurals>
+    <string name="message_discarded_toast">సందేశం పంపబడలేదు. </string>
+    <string name="message_saved_toast">సందేశం డ్రాఫ్ట్ గా సేవ్ చేయబడింది.        </string>
+    <string name="message_view_display_attachment_toast">ఈ జోడింపు ప్రదర్శించబడే సాధ్యం కాదు.</string>
+    <string name="account_setup_basics_title">ఇమెయిల్ సెటప్ చెయ్యి</string>
+    <string name="account_setup_basics_exchange_title">"ఒక ఎక్స్చేంజ్ ఖాతాని  జోడించు"</string>
+    <string name="account_setup_basics_exchange_title_alternate">"ఒక ఎక్స్చేంజ్ యాక్టివ్ సిమ్క్ ఖాతా జోడించు"</string>
+    <string name="accounts_welcome">"మీరు కేవలం కొన్ని సోపానాల్లో  ఎక్కువ ఇమెయిల్  ఖాతాలను ఆకృతీకరించవచ్చు."</string>
+    <string name="accounts_welcome_exchange">"మీరు కేవలం కొన్ని సోపానాల్లో ఒక ఎక్స్చేంజ్ ఖాతాని ఆకృతీకరించవచ్చు."</string>
+    <string name="accounts_welcome_exchange_alternate">"మీరు కేవలం కొన్ని సోపానాల్లో ఒక ఎక్స్చేంజ్ యాక్టివ్ సిమ్క్ ఖాతా ఆకృతీకరించవచ్చు."</string>
+    <string name="account_setup_basics_email_hint">ఇమెయిల్ అడ్రసు</string>
+    <string name="account_setup_basics_password_hint">పాస్ వర్డ్</string>
+    <string name="account_setup_basics_default_label">అప్రమేయంగా ఈ ఖాతా నుండి ఇమెయిల్ పంపండి</string>
+    <string name="account_setup_basics_manual_setup_action">మాన్యువల్ సెటప్        </string>
+    <string name="account_setup_username_password_toast">దయచేసి ఒక చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామా మరియు పాస్వర్డ్ ని  టైప్ చెయ్యండి.</string>
+    <string name="account_duplicate_dlg_title">నకిలీ ఖాతా</string>
+    <string name="account_duplicate_dlg_message_fmt">
+        ఈ లాగిన్ ఖాతా కోసం ఇప్పటికే వాడుకలో ఉంది \"<xliff:g id="duplicate">%s</xliff:g>\".                                                                                         </string>
+    <string name="account_setup_check_settings_retr_info_msg">ఖాతా సమాచారం పొందటం\u2026</string>
+    <string name="account_setup_check_settings_check_incoming_msg">ఇన్ కమింగ్ సర్వర్ అమర్పులు తనిఖీ చేస్తోంది\u2026 </string>
+    <string name="can_not_enter_more_characters">"ఇంకా ఎంటరు కాదు!"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">అవుట్ గోయింగ్ సర్వర్ అమర్పులు తనిఖీ చేస్తోంది\u2026 </string>
+    <string name="account_setup_check_settings_canceling_msg">క్యాన్సలింగ్....</string>
+    <string name="account_setup_names_title">ఇమెయిల్ సెటప్ చెయ్యి</string>
+    <string name="account_setup_names_instructions">మీ ఖాతా సెటప్ చేయబడింది, మరియు ఇమెయిల్ దాని మార్గంలో ఉంది!</string>
+    <string name="account_setup_names_account_name_label">ఖాతాకు  ఒక పేరు (ఆప్షనల్) ఇవ్వండి</string>
+    <string name="account_setup_names_user_name_label">మీ పేరు (అవుట్ గోయింగ్ సందేశాలను ప్రదర్శించబడడం) </string>
+    <string name="account_setup_account_type_title">కొత్త ఇమెయిల్ ఖాతాను జోడించండి</string>
+    <string name="account_setup_account_type_instructions">ఇది ఏ రకం ఖాతాకి చెందింది?</string>
+    <string name="account_setup_account_type_pop_action">POP3</string>
+    <string name="account_setup_account_type_imap_action">IMAP</string>
+    <string name="account_setup_account_type_exchange_action">మార్పిడి</string>
+    <string name="account_setup_account_type_exchange_action_alternate">మైక్రోసాఫ్ట్ ఎక్చేంజ్ యాక్టివ్ సిమ్క్ </string>
+    <string name="account_setup_incoming_title">ఇన్ కమింగ్ సర్వర్ సెట్టింగ్స్  </string>
+    <string name="account_setup_incoming_username_label">యూజర్ పేరు</string>
+    <string name="account_setup_incoming_password_label">పాస్ వర్డ్</string>
+    <string name="account_setup_incoming_pop_server_label">POP3 సర్వర్</string>
+    <string name="account_setup_incoming_imap_server_label">IMAPసర్వర్  </string>
+    <string name="account_setup_incoming_port_label">పోర్ట్</string>
+    <string name="account_setup_incoming_security_label">సెక్యూరిటీ రకం</string>
+    <string name="account_setup_incoming_security_none_label">ఏదీ కాదు</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL (అన్ని సర్టిఫికేట్లు అంగీకరించు)</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">TLS (అన్ని సర్టిఫికేట్లు అంగీకరించు)</string>
+    <string name="account_setup_incoming_security_tls_label">TLS</string>
+    <string name="account_setup_incoming_delete_policy_label">సర్వర్ నుండి ఇమెయిల్ తొలగించు</string>
+    <string name="account_setup_incoming_delete_policy_never_label">ఎన్నడూ లేదు</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">నేను ఇన్ బాక్స్ నుండి తొలగించినా</string>
+    <string name="account_setup_incoming_imap_path_prefix_label">IMAP మార్గం ఆదిప్రత్యయం   </string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">ఎంపిక </string>
+    <string name="account_setup_outgoing_title">అవుట్ గోయింగ్ సర్వర్ అమర్పులు        </string>
+    <string name="account_setup_outgoing_smtp_server_label">SMTP సర్వర్</string>
+    <string name="account_setup_outgoing_port_label">పోర్ట్</string>
+    <string name="account_setup_outgoing_security_label">సెక్యూరిటీ రకం</string>
+    <string name="account_setup_outgoing_require_login_label">సైన్ ఇన్ అవసరం.</string>
+    <string name="account_setup_outgoing_username_label">యూజర్ పేరు</string>
+    <string name="account_setup_outgoing_password_label">పాస్ వర్డ్</string>
+    <string name="account_setup_exchange_title">సర్వర్ అమర్పులు</string>
+    <string name="account_setup_exchange_server_label">సెర్వర్</string>
+    <string name="account_setup_exchange_username_label">డొమైన్\\యూజర్పేరు</string>
+    <string name="account_setup_exchange_ssl_label">సురక్షిత కనెక్షన్ ని (SSL) ఉపయోగించండి</string>
+    <string name="account_setup_exchange_trust_certificates_label">అన్ని SSL సర్టిఫికెట్లను అంగీకరించు</string>
+    <string name="account_setup_options_title">ఖాతా ఎంపికలు</string>
+    <string name="account_setup_options_mail_check_frequency_label">ఇమెయిల్ తనిఖీని ఫ్రీక్వెన్సీ</string>
+    <string name="account_setup_options_mail_check_frequency_never">ఎన్నడూ లేదు</string>
+    <string name="account_setup_options_mail_check_frequency_push">స్వయంచాలక (పుష్)</string>
+    <string name="account_setup_options_mail_check_frequency_5min">ప్రతి 5 నిమిషాలు</string>
+    <string name="account_setup_options_mail_check_frequency_10min">ప్రతి 10 నిమిషాలు</string>
+    <string name="account_setup_options_mail_check_frequency_15min">ప్రతి 15 నిమిషాలు</string>
+    <string name="account_setup_options_mail_check_frequency_30min">ప్రతి 30 నిమిషాలు</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">ప్రతి గంట </string>
+    <string name="account_setup_options_default_label">అప్రమేయంగా ఈ ఖాతా నుండి ఇమెయిల్ పంపండి</string>
+    <string name="account_setup_options_notify_label">ఈ మెయిల్ వచినప్పుడు నన్ను గమనించండి. </string>
+    <string name="account_setup_options_sync_contacts_label">ఈ ఖాతా నుండి పరిచయాలను సమకాలీకరించు.</string>
+    <string name="account_setup_options_sync_calendar_label">ఈ ఖాతా నుండి క్యాలెండర్ సమకాలీకరించు.
+</string>
+    <string name="account_setup_failed_dlg_title">సెటప్ ముగించలేకపోతున్నాము</string>
+    <string name="account_setup_options_mail_window_label">సమకాలీకరించడానికి మొత్తం</string>
+    <string name="account_setup_options_mail_window_1day">ఒక రోజు </string>
+    <string name="account_setup_options_mail_window_3days">మూడు రోజులు</string>
+    <string name="account_setup_options_mail_window_1week">ఒక వారం</string>
+    <string name="account_setup_options_mail_window_2weeks">రెండు వారాల</string>
+    <string name="account_setup_options_mail_window_1month">ఒక నెల </string>
+    <string name="account_setup_failed_dlg_auth_message">యూజర్ పేరు లేదా పాస్ వర్డ్ తప్పు.</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">యుజర్ పేరు లేదా పాస్ వర్డ్ తప్పు. \n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_dlg_certificate_message">సురక్షితంగా సర్వర్ కి కనెక్ట్ చేయడంసాధ్యం కాదు.</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">సురక్షితంగా సర్వర్ కనెక్ట్ కాలేదు \n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_dlg_server_message">సర్వర్ కి కనెక్ట్ చేయడంసాధ్యం కాదు.</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">సర్వర్ కనెక్ట్ కాలేదు. \n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_tls_required">TLS అవసరం కానీ సర్వర్ మద్దతు ఇవ్వడం లేదు.</string>
+    <string name="account_setup_failed_auth_required">ప్రామాణీకరణ పద్ధతులకు సర్వర్ మద్దతు లేదు.</string>
+    <string name="account_setup_failed_security">భద్రతా లోపం కారణంగా సర్వర్ కి కనెక్షన్ స్క్రీన్వడం సాధ్యం కాలేదు.</string>
+    <string name="account_setup_failed_ioerror">సర్వర్ కి కనెక్షన్ స్క్రీన్ిచి సాధ్యం కాలేదు.</string>
+    <string name="account_setup_security_required_title">రిమోట్ భద్రతా యంత్రాంగం</string>
+    <string name="account_setup_security_policies_required_fmt">
+    ఈ సర్వర్  <xliff:g id="server">%s</xliff:g>కి మీరు సుదూరంగా నియంత్రించడానికి అనుమతించడం అవసరం.
+          మీ ఫోన్ యొక్క కొన్ని భద్రతా లక్షణాలు. మీరు ఈ ఖాతా ఏర్పాటుని పూర్తి చేయాలని అనుకుంటున్నారా?
+          </string>
+    <string name="account_setup_failed_security_policies_unsupported">దీనిని సర్వర్ కి కావలసిన భద్రతా లక్షణాలకి మీ ఫోన్ మద్దతునివ్వదు.</string>
+    <string name="security_notification_ticker_fmt">        ఖాతా \"<xliff:g id="account">%s</xliff:g>\" భద్రతా అమర్పుల నవీకరణ అవసరం.
+     </string>
+    <string name="security_notification_content_title">భద్రత సెట్టింగులు నవీకరించండి</string>
+    <string name="account_security_title">పరికర సెక్యూరిటీ</string>
+    <string name="account_security_policy_explanation_fmt">
+        మీ ఫోన్ కి ఉన్న కొన్ని భద్రతా లక్షణాల వల్ల  ‌ఈ  సెర్వర్ <xliff:g id="server">%s</xliff:g> మీరు సుదూరంగా నియంత్రించడానికి అనుమతించే అవసరం.   </string>
+    <string name="account_setup_failed_dlg_edit_details_action">వివరాలను సవరించు</string>
+    <string name="account_settings_title_fmt">సాధారణ సెట్టింగులు</string>
+    <string name="account_settings_default_label">డిఫాల్ట్ ఖాతా</string>
+    <string name="account_settings_default_summary">అప్రమేయంగా ఈ ఖాతా నుండి ఇమెయిల్ పంపండి</string>
+    <string name="account_settings_notify_label">ఇమెయిల్ ప్రకటనలు</string>
+    <string name="account_settings_exchange_summary">సింక్ ఫ్రీక్వెన్సీ, నోటిఫికేషన్లు, మొదలైనవి.</string>
+    <string name="account_settings_notify_summary">ఈ మెయిల్ వచినప్పుడు స్టేటస్ బార్ ను గమనించండి  </string>
+    <string name="account_settings_mail_check_frequency_label">చెక్ ఫ్రీక్వెన్సీ ఇమెయిల్</string>
+    <string name="account_settings_incoming_label">ఇన్ కమింగ్ సెట్టింగ్స్   </string>
+    <string name="account_settings_outgoing_label">అవుట్ గోయింగ్ అమర్పులు         </string>
+    <string name="account_settings_description_label">ఖాతా పేరు</string>
+    <string name="account_settings_name_label">మీ పేరు </string>
+    <string name="account_settings_signature_label">సంతకము</string>
+    <string name="account_settings_signature_hint">నీవు పంపిన సందేశాలకు టెక్స్ట్ జోడించు</string>
+    <string name="account_settings_notifications">నోటిఫికేషన్  సెట్టింగులు </string>
+    <string name="account_settings_sync_contacts_enable">సింక్ పరిచయాలు</string>
+    <string name="account_settings_sync_contacts_summary">ఈ ఖాతా నుండి పరిచయాలను సమకాలీకరించడానికి కూడా </string>
+    <string name="account_settings_sync_calendar_enable">సింక్ క్యాలెండర్</string>
+    <string name="account_settings_sync_calendar_summary">ఈ ఖాతా నుండి క్యాలెండర్ సమకాలీకరించడానికి కూడా </string>
+    <string name="account_settings_vibrate_when_label">వైబ్రేట్</string>
+    <string name="account_settings_vibrate_when_summary">ఇమెయిల్ వచ్చినపుడు కంపింపజేసేందుకు కూడా</string>
+    <string name="account_settings_vibrate_when_always">ఎప్పుడు</string>
+    <string name="account_settings_vibrate_when_silent">సైలెంట్ లో మాత్రమే</string>
+    <string name="account_settings_vibrate_when_never">ఎన్నడూ లేదు</string>
+    <string name="account_settings_vibrate_when_dlg_title">వైబ్రేట్</string>
+    <string name="account_settings_ringtone">రింగ్‌టోన్ ఎంచుకో</string>
+    <string name="account_settings_servers">సర్వర్ అమర్పులు</string>
+    <string name="account_delete_dlg_title">ఖాతా తొలగించు</string>
+    <string name="account_delete_dlg_instructions_fmt">ఖాతా \"<xliff:g id="account">%s</xliff:g>\" ఈమెయిల్ నుండి తొలగించబడుతుంది.</string>
+    <string name="upgrade_accounts_title">ఖాతాలు అప్ గ్రేడ్ చేయండి</string>
+    <string name="upgrade_accounts_error">ఖాతా అప్ గ్రేడ్ సాధ్యం కాలేదు</string>
+    <string name="provider_note_live">కేవలం కొన్ని \"ప్లస్ \" ఖాతాలను ఈ ప్రోగ్రామ్ కనెక్ట్ అనుమతిస్తూ POP యాక్సెస్ ఉన్నాయి. మీరు సైన్ ఇన్ చేయలేక పోతే మీ సరైన ఇమెయిల్ చిరునామా మరియు పాస్వర్డ్తో, మీరు ఒక చెల్లింపు \"ప్లస్ \" ఖాతా కలిగి ఉండవు. ఈ మెయిల్ ఖాతాలు పొందటం చాలా వెబ్ బ్రౌజర్ లాంచ్ చెయ్యండి.</string>
+    <string name="provider_note_t_online">ఈ ఇమెయిల్ ఖాతాను ఏర్పాటు చేసే ముందు, T-ఆన్ లైన్ వెబ్ సైట్ ని దర్శించండి మరియు POP3 ఇమెయిల్ యాక్సెస్ కోసం ఒక పాస్వర్డ్ ని సృష్టించండి.</string>
+    <string name="exchange_name">కార్పొరేట్</string>
+    <string name="exchange_name_alternate">మైక్రో సాఫ్ట్ ఎక్చేంజ్ యాక్టివ్ సిమ్క్ </string>
+    <string name="meeting_accepted">అంగీకరించబడింది:<xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_declined">నిరాకరించబడింది:<xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_tentative">తాత్కాలిక: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_canceled">రద్దు:<xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_updated">నవీకరించబడింది: <xliff:g id="subject">%s</xliff:g></string>
+    <string name="meeting_when">చేసినప్పుడు:<xliff:g id="when">%s</xliff:g></string>
+    <string name="meeting_where">ఎక్కడ: <xliff:g id="where">%s</xliff:g></string>
+    <string name="meeting_recurring">చేసినప్పుడు:<xliff:g id="eventdate"
+         example="Tue, Mar 10, 2010 at 2:30 pm">%s</xliff:g> (మరల) "
+</string>
+    <string name="exception_cancel">ఈ ఘటన రద్దు చెయ్యబడింది
+          కోసం: <xliff:g id="date">%s</xliff:g> </string>
+    <string name="exception_updated">ఈ ఈవెంట్ యొక్క వివరాలను మార్చబడింది చేయబడ్డాయి
+         కోసం: <xliff:g id="date">%s</xliff:g></string>
+    <string name="system_account_create_failed">అకౌంట్ మేనేజర్ ఖాతా సృష్టించుకోవడం సాధ్యం కాదు; మళ్ళీ ప్రయత్నించండి.</string>
+    <string name="device_admin_label">ఇమెయిల్</string>
+    <string name="device_admin_description">సర్వర్ కి కావలసిన భద్రతా విధానాలను ప్రారంభిస్తుంది</string>
+    <string name="notification_exchange_calendar_added">ఎక్స్చేంజ్ క్యాలెండర్ జోడించిన</string>
+    <string name="emails_operations_successful">మెయిల్ విజయవంతంగా పంపబడింది!</string>
+    <string name="compose_send_error"> పంపిన మెయిల్ విఫలమైంది.</string>
+    <string name="gal_searching_fmt"><xliff:g id="domain">%s</xliff:g> శోధిస్తోంది\u2026 </string>
+    <plurals name="gal_completed_fmt">
+        <!-- Case of one result from server. -->
+        <item quantity="one"><xliff:g id="results" example="1">%1$d</xliff:g>ఫలితాలు<xliff:g id="results" example="20">%1$d</xliff:g> </item>
+
+        <!-- Case of multiple results from server -->
+        <item quantity="other"><xliff:g id="results" example="20">%1$d</xliff:g>ఫలితాలు<xliff:g id="results" example="20">%1$d</xliff:g> </item>
+    </plurals>
+    <string name="gal_completed_limited_fmt">మొదటి <xliff:g id="results" example="20">%1$d</xliff:g>
+      ఫలితాల నుండి  <xliff:g id="domain">%2$s</xliff:g></string>
+    <string name="can_not_open">"స్థానిక ఫైలు లేదు"</string>
+    <string name="account_setup_toast">ఏ ఇమెయిల్ ఖాతా ఉంది, ఒక అమరిక దయచేసి.</string>
+    <string name="use_default_account_toast">అప్రమేయ ఖాతా ఉపయోగించి మెయిల్ పంపండి.</string>
+    <string name="memory_full">నిల్వ స్థలాన్ని చాలని ఉంది మెయిల్ తొలగించండి</string>
+    <string name="error_aireplane_mode">ఒక సందేశాన్ని పంపేందుకు, మొదట ఎయిర్ ప్లేన్  మోడ్ ని ఆపాలి</string>
+    <string name="error_mode">నెట్ వర్క్ కనెక్షన్ లేదు </string>
+    <string name="error_out_of_service">"ఇంటర్నెట్ కనెక్షన్ లేదు గనుక ఇ మెయిల్ పంపలేదు."</string>
+    <string name="loading_draft">లోడింగ్.....</string>
+    <string name="account_setup_incoming_email_max_port">మెయిల్ పోర్ట్ పరిధి దాటింది.</string>
+    <string name="account_setup_basics_163_exchange">చెల్లుబాటు అయ్యే ఎక్చేంజ్ ఎకౌంట్ ని జతపరచండి </string>
+    <string name="attach_image">చిత్రాలు  </string>
+    <string name="attach_video">వీడియోలు</string>
+    <string name="attach_sound">ఆడియో</string>
+    <string name="attach_other">ఇతరాలు</string>
+    <string name="add_attachment">జోడింపు</string>
+    <string name="load_msg_content">లోడింగ్.....</string>
+    <string name="add_attachment_progress">అనుసంధానించబడిన సమాచారాన్ని పొందడం, దయచేసి వేచి ఉండండి ...</string>
+    <string name="account_setup_options_mail_window_more">మరిన్ని</string>
+    <string name="memory_warn">స్టోరేజి ప్రదేశం కొరకు హెచ్చరిక</string>
+    <string name="cancel">రద్దు చెయ్యి</string>
+    <string name="ok">సరి</string>
+</resources>

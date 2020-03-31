@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete_selected_calls">మీరు ఎంచుకున్న కాల్స్ తొలగించాలని మీరు అనుకుంటున్నారా?</string>
+    <string name="selected_deleted_ok">ఎంపిక కాల్స్ తొలగించారు.</string>
+    <string name="call_log_delete">కాల్ లాగ్ తొలగించండి </string>
+    <string name="call_log_display_option">కాల్ లాగ్ ప్రదర్శన ఎంపిక</string>
+    <string name="recentCalls_diplayOptions">ఐచ్ఛికాలు ప్రదర్శించు</string>
+    <string name="all_select">అన్నీ ఎంపిక చేయండి</string>
+    <string name="all_select_cancel">రద్దు చెయ్యి</string>
+    <string name="delete_calls">తొలగించు</string>
+    <string name="recentCalls_delete">తొలగించు</string>
+    <string name="callLogDisplayOptionsAll">అందరూ</string>
+    <string name="callLogDisplayOptionsPhone">ఫోన్</string>
+    <string name="callLogDisplayOptionsSIM1">SIM1</string>
+    <string name="callLogDisplayOptionsSIM2">SIM2</string>
+</resources>

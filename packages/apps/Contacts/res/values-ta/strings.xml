@@ -1,0 +1,700 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="edit_group_info">குழுக்கள் திருத்தவும்</string>
+    <string name="rename_contact_group_name">மறுபெயரிடு</string>
+    <string name="no_contacts_group_name">குழுப்பெயர் இல்லை</string>
+    <string name="contacts_group_name_exist">ஏற்கெனவே இருக்கும் குழு பெயர்</string>
+    <string name="sure">உறுதி</string>
+    <string name="contacts_group">குழு</string>
+    <string name="divided_group_to">பிரிக்கவும்</string>
+    <string name="add_group">குழுவாக்கலை சேர்க்கவும்</string>
+    <string name="please_add_group">குழுவாக்கலை சேர்க்கவும்</string>
+    <string name="delete">நீக்கவா</string>
+    <string name="deleted">அழிக்கப்பட்டது</string>
+    <string name="group_name_empty">காலி குழு</string>
+    <string name="all_selected">அனைத்தையும் தேர்வு செய்க</string>
+    <string name="group_new">புதிய குழு</string>
+    <string name="save">சேமி</string>
+    <string name="menu_memory_query">நினைவக விசாரிப்பு</string>
+    <string name="contactor_will_be"><xliff:g id="COUNT">%1$d</xliff:g>  தொடர்பு <xliff:g id="OPTERATOR">%2$s</xliff:g>ஆக இருக்கும்</string>
+    <string name="imported">இறக்குமதி செய்யப்பட்டது</string>
+    <string name="exported">ஏற்றுமதி செய்யப்பட்டது</string>
+    <string name="selected">தேர்ந்தெடுக்கப்பட்ட</string>
+    <string name="sharedUserLabel">ஆண்டிராய்டு உட்கரு அப்ளிகேஷன்கள்</string>
+    <string name="contactsList">தொடர்புகள்</string>
+    <string name="launcherDialer">தொலைபேசி</string>
+    <string name="shortcutContact">தொடர்பு கொள்க</string>
+    <string name="shortcutDialContact">நேரடி டயல்</string>
+    <string name="shortcutMessageContact">நேரடி செய்தி</string>
+    <string name="shortcutActivityTitle">ஒரு குறுக்குவழி தொடர்பை தேர்ந்தெடுக்கவும்</string>
+    <string name="callShortcutActivityTitle">அழைக்க ஒரு எண்ணை தேர்வு செய்க</string>
+    <string name="messageShortcutActivityTitle">செய்தி அனுப்ப ஒரு எண்ணை தேர்வு செய்க</string>
+    <string name="starredList">நட்சத்திரக் குறியிட்டவை</string>
+    <string name="frequentList">அடிக்கடி</string>
+    <string name="strequentList">பிடித்தவை</string>
+    <string name="viewContactTitle">தொடர்பு விபரங்கள்</string>
+    <string name="viewContactDesription">தொடர்பு பார்வையிடவும்</string>
+    <string name="editContactDescription">தொடர்பு திருத்துக</string>
+    <string name="insertContactDescription">தொடர்பை உருவாக்கவும்</string>
+    <string name="searchHint">தொடர்புகள் தேடுக</string>
+    <string name="menu_search">தேடு</string>
+    <string name="menu_newContact">புதிய தொடர்பு</string>
+    <string name="menu_viewContact">தொடர்பு பார்வையிடவும்</string>
+    <string name="menu_callNumber">அழைப்பு <xliff:g id="name">%s</xliff:g></string>
+    <string name="menu_addStar">பிடித்ததில் சேர்</string>
+    <string name="menu_removeStar">விருப்பங்களில் இருந்து நீக்கவும் </string>
+    <string name="menu_showBarcode">பார்கோட் காண்பிக்கவும்</string>
+    <string name="menu_editContact">தொடர்பு திருத்துக</string>
+    <string name="menu_deleteContact">தொடர்பு அழிக்கவும்</string>
+    <string name="menu_call">தொடர்பை அழைக்கவும்</string>
+    <string name="menu_video_call">வீடியோ அழைப்பு</string>
+    <string name="menu_sendSMS">செய்தி அனுப்பு</string>
+    <string name="menu_sendEmail">மின்னஞ்சல் அனுப்புக</string>
+    <string name="menu_viewAddress">பூகோள வரைபட முகவரி</string>
+    <string name="menu_makeDefaultNumber">இயல்பான எண் செய்யவும்</string>
+    <string name="menu_makeDefaultEmail">இயல்பான மின்னஞ்சல்  செய்க</string>
+    <string name="menu_splitAggregate">தனி</string>
+    <string name="contactsSplitMessage">தொடர்புகள் பிரிக்கப்பட்டன</string>
+    <string name="splitConfirmation_title">தனி தொடர்பு </string>
+    <string name="splitConfirmation">இந்த ஒற்றை தொடர்பினை பல தொடர்புகளாக பிரிக்க நீங்கள் விரும்புவது உறுதிதானா:ஒன்று சேர்க்கப்பட்ட ஒவ்வொரு தொகுப்பு தொடர்பு தகவலுக்கும் ஒன்ரு என?</string>
+    <string name="menu_joinAggregate">சேர்க்கவும்</string>
+    <string name="menu_showSources">ஆதாரங்களைக் காண்பிக்கவும்</string>
+    <string name="menu_hideSources">ஆதாரங்களை மறைக்கவும்</string>
+    <string name="titleJoinAggregate">தொடர்பிடன் சேரவும்</string>
+    <string name="titleJoinContactDataWith">தொடர்புகள் சேர்க்கவும்</string>
+    <string name="blurbJoinContactDataWith">நீங்கள் சேர விரும்பும் தொடர்பினை தேர்ந்தெடுக்கவும்<xliff:g id="name">%s</xliff:g>.</string>
+    <string name="showAllContactsJoinItem">அனைத்து குறுக்கு வழிகளை காட்டவும்</string>
+    <string name="separatorJoinAggregateSuggestions">யோசனையளிக்கப்பட்ட தொடர்புகள்</string>
+    <string name="separatorJoinAggregateAll">அனைத்து தொடர்புகள்</string>
+    <string name="contactsJoinedMessage">தொடர்புகள் ஒன்று சேர்ந்தன</string>
+    <string name="menu_contactOptions">வசதிகள்</string>
+    <string name="contactOptionsTitle">வசதிகள்</string>
+    <string name="deleteConfirmation_title">நீக்கவா</string>
+    <string name="readOnlyContactWarning">படிக்க மட்டும் கணக்குகளில்  இருந்து தொடர்புகளை நீங்கள் அழிக்க முடியாது, ஆனால் தொடர்புகள் பட்டியலில் நீங்கள் அவற்றை மறைக்க முடியும்.</string>
+    <string name="readOnlyContactDeleteConfirmation">பலமுனைக் கணக்குகளில் இருந்து தகவல்களை இந்த்த் தொடர்பு கொண்டுள்ளது. படிக்க மட்டுமே கணக்குகளின் தகவல்கள் உங்கள் தொடர்புகள் பட்டியலில் மறைக்கப்படும்.</string>
+    <string name="multipleContactDeleteConfirmation">இந்த்த் தொடர்பினை அழிப்பதால் பல கணக்குகளில் இருந்து தகவல்களை அழித்துவிடும்</string>
+    <string name="deleteConfirmation">இந்தத் தொடர்பு அழிக்கப்படும்.</string>
+    <string name="menu_done">செய்தாயிற்று</string>
+    <string name="menu_doNotSave">பழைய நிலைக்கு செல்க</string>
+    <string name="editContact_title_edit">தொடர்பு திருத்துக</string>
+    <string name="editContact_title_insert">புதிய தொடர்பு</string>
+    <string name="menu_addItem">அதிக தகவல்கள்</string>
+    <string name="label_phonetic_name">உச்சரிப்புமுறை</string>
+    <string name="label_notes">குறிப்புக்கள்</string>
+    <string name="label_sip_address">இணைய தள அழைப்பு</string>
+    <string name="label_ringtone">ரிங்டோன்</string>
+    <string name="group_list">, <xliff:g id="groupName">%s</xliff:g></string>
+    <string name="menu_viewGroup">குழுக்கள் திருத்தவும்</string>
+    <string name="ghostData_name">முதலாவது மற்றும் கடைசி</string>
+    <string name="ghostData_phonetic_name">உச்சரிப்பு முறைப் பெயர்</string>
+    <string name="ghostData_company">கம்பெனி</string>
+    <string name="ghostData_title">தலைப்பு</string>
+    <string name="ghostData_im">IM பெயர்</string>
+    <string name="ghostData_notes">எனது குறிப்பு</string>
+    <string name="ghostData_phone">தொலைபேசி எண்</string>
+    <string name="ghostData_group">குழு திரையிடவும்</string>
+    <string name="invalidContactMessage">தொடர்பு இருக்கவில்லை.</string>
+    <string name="pickerNewContactHeader">புதிய தொடர்பை உருவாக்கவும்</string>
+    <string name="selectLabel">லேபல் தெரிவு செய்க</string>
+    <string name="phoneLabelsGroup">தொலைபேசி</string>
+    <string name="emailLabelsGroup">மின்னஞ்சல்</string>
+    <string name="imLabelsGroup">IM</string>
+    <string name="postalLabelsGroup">தபால் முகவரி</string>
+    <string-array name="otherLabels">
+        <!-- An organization associated with a contact -->
+        <item>நிறுவனம்</item>
+        <!-- A note associated with a contact -->
+        <item>குறிக்கவும்</item>
+    </string-array>
+    <string name="errorDialogTitle">படங்கள் எதுவும் கிடைக்கவில்லை</string>
+    <string name="photoPickerNotFoundText">தொலைபேசியில் படங்கள் கிடைக்கவில்லை.</string>
+    <string name="attachToContact">தொடர்பு உருவகம்</string>
+    <string name="customLabelPickerTitle">வழக்கமான லேபல் பெயர்</string>
+    <string name="menu_displayGroup">காட்சி விருப்பத்தேர்வுகள்</string>
+    <string name="displayGroups">காட்சி விருப்பத்தேர்வுகள்</string>
+    <string name="syncGroupPreference">சின்க் குழுக்கள் திருத்துக</string>
+    <string name="importFromSim">தொடர்புகளை இறக்குமதி செய்யவும்</string>
+    <string name="send_to_voicemail_checkbox">குரல் அஞ்சலுக்கு அழிப்புகளை நேரடியாக அனுப்புக</string>
+    <string name="send_to_voicemail_view">அழைப்புக்கள் நேரடியாக குரல் அஞ்சலுக்கு அனுப்பப்படுகிறது.</string>
+    <string name="default_ringtone">முன்னிருப்பு</string>
+    <string name="addPicture">உருவகத்தை சேர்க்கவும்</string>
+    <string name="changePicture">உருவகத்தை மாற்றுக</string>
+    <string name="removePicture">உருவகத்தை நீக்கவும்</string>
+    <string name="noContacts">தொடர்புகள் இல்லை.</string>
+    <string name="noMatchingContacts">பொருத்தமான தொடர்புகள் காணப்படவில்லை.</string>
+    <string name="noContactsWithPhoneNumbers">தொலைபேசி எண்களுடன் தொடர்புகள் எதுவும் இல்லை.</string>
+    <string name="noFavorites">விருப்பமானவைகள் இல்லை.</string>
+    <string name="groupEmpty">உங்களுடைய \"<xliff:g id="groupName">%s</xliff:g>\"குழு காலியாக இருக்கிறது.</string>
+    <string name="showFilterPhones">தொலைபேசிகளுடனான தொடர்புகள் மட்டும்</string>
+    <string name="showFilterPhonesDescrip">தொலைபேசி எண்கள்  கொண்ட தொடர்புகளை மட்டும் திரையிடும் </string>
+    <string name="headerContactGroups">தொடர்புகளை திரையிட தெரிவு செய்க</string>
+    <plurals name="groupDescrip">
+        <item quantity="other"><xliff:g id="count">%0$d</xliff:g> தொடர்புகள்</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g>தொடர்புகள்,<xliff:g id="countWithPhones">%2$d</xliff:g>தொலைபேசிகளுடன் </item>
+    </plurals>
+    <string name="syncAllGroups">அனைத்து தொடர்புகளையும் சின்க் செய்க </string>
+    <string name="groupNameMyContacts">எனது தொடர்புகள்</string>
+    <string name="groupNameWithPhones">தொலைபேசி எண்களுடன் தொடர்புகள்</string>
+    <string name="starredInAndroid">ஆண்டிராய்டில் ஸ்டார் குறியிடப்பட்டது</string>
+    <string name="savingContact">தொடர்பு ஐ சேமிக்கிறது\u2026</string>
+    <string name="savingDisplayGroups">திரையிடும் விருப்பத்தெரிவுகள் சேமிக்கிறது\u2026</string>
+    <string name="contactCreatedToast">தொடர்பு உருவாக்கப்பட்டது.</string>
+    <string name="contactSavedToast">தொடர்பு சேமிக்கப்பட்டது.</string>
+    <string name="contactDeletedToast">தொடர்பு அழிக்கப்பட்டது.</string>
+    <string name="contactSavedErrorToast">பிழைதொடர்பு மாற்றங்கள் சேமிக்க இயலவில்லை.</string>
+    <string name="listSeparatorCallNumber">டயல் எண்</string>
+    <string name="listSeparatorCallNumber_edit">தொலைபேசி எண்கள்</string>
+    <string name="number_empty">"தொலைபேசி எண் காலியாக உள்ளது, நுழைக்க முடியாது"</string>
+    <string name="listSeparatorSendSmsMms">வாசகம் அனுப்பவும்</string>
+    <string name="listSeparatorSendEmail_edit">மின்னஞ்சல் முகவரிகள்</string>
+    <string name="listSeparatorSendIm">உடனடி செய்தி அனுப்பவும்</string>
+    <string name="listSeparatorSendIm_edit">அரட்டை முகவரிகள்</string>
+    <string name="listSeparatorMapAddress_edit">அஞ்சல் முகவரி</string>
+    <string name="listSeparatorOrganizations">நிறுவனங்கள்</string>
+    <string name="listSeparatorGroups">குழுக்கள்</string>
+    <string name="listSeparatorOtherInformation">இதர தகவல்கள்</string>
+    <string name="listSeparatorOtherInformation_edit">இதர விருப்பத்தெரிவுகள்</string>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="one">தொலைபேசி எண்ணுடன் 1 தொடர்பு திரையிடுகிறது</item>
+        <item quantity="other">தொலைபேசி எண்களுடன்<xliff:g id="count">%d</xliff:g>தொடர்புகளை திரையிடுகிறது</item>
+    </plurals>
+    <string name="listTotalPhoneContactsZero">தொலைபேசி எண்களுடன் பார்வையில்படும் தொடர்புகள் இல்லை</string>
+    <plurals name="listTotalAllContacts">
+        <item quantity="one">1 தொடர்பு திரையிடுகிறது</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>தொடர்புகளை திரையிடுகிறது</item>
+    </plurals>
+    <string name="listTotalAllContactsZero">பார்வையில்படும் தொடர்புகள் இல்லை</string>
+    <plurals name="listFoundAllContacts">
+        <item quantity="one">1 தொடர்பு காணப்பட்ட்து</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>தொடர்புகள் காணப்பட்டன</item>
+    </plurals>
+    <string name="listFoundAllContactsZero">தொடர்பு காணப்படவில்லை</string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">1 தொடர்பு</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>தொடர்புகள்</item>
+    </plurals>
+    <string name="socialStreamIconLabel">சமூக</string>
+    <string name="contactsIconLabel">தொடர்புகள்</string>
+    <string name="contactsFavoritesLabel">பிடித்தவை</string>
+    <string name="dialerIconLabel">தொலைபேசி</string>
+    <string name="recentCallsIconLabel">அழைப்பு லாக்</string>
+    <string name="liveFolderAll">அனைத்து தொடர்புகள்</string>
+    <string name="liveFolderFavorites">நட்சத்திரக் குறியிட்ட தொடர்புகள்</string>
+    <string name="liveFolderPhone">தொலைபேசி எண்களுடன் தொடர்புகள்</string>
+    <string name="menu_sendTextMessage">செய்தி அனுப்பு</string>
+    <string name="recentCalls_callNumber">அழைப்பு <xliff:g id="name">%s</xliff:g></string>
+    <string name="recentCalls_editNumberBeforeCall">அழைப்புக்கு முன் எண்ணை திருத்துக</string>
+    <string name="recentCalls_addToContact">தொடர்புகளில் சேர்</string>
+    <string name="recentCalls_removeFromRecentList">அழைப்பு லாக் இல் இருந்து நீக்கவும்</string>
+    <string name="recentCalls_deleteAll">அழைப்பு  லாக் நீக்கவும்</string>
+    <string name="recentCalls_deleteSome">சில கால் லாகினை நீக்கவும்</string>
+    <string name="recentCalls_Answered">உள்வரும்_வகை</string>
+    <string name="recentCalls_NOT_Answered">தவறவிடப்பட்ட_வகை</string>
+    <string name="recentCalls_Connected">வெளியேறும் வகை</string>
+    <string name="recentCalls_Alltypes">அனைத்து வகைகள்</string>
+    <string name="intent_to_firewall">ஃபயர்வால்</string>
+    <string name="recentCalls_Confirm_delete">அழிப்பதை உறுதி செய்க</string>
+    <string name="recentCalls_Cancel_delete">அழிப்பதை ரத்து செய்க</string>
+    <string name="recentCalls_button_Confirm_delete">அழிப்பதை உறுதி செய்க</string>
+    <string name="recentCalls_button_Cancel">ரத்து</string>
+    <string name="recent_Call_log_checkbox_selecte_all">அனைத்தையும் தேர்வு செய்க</string>
+    <string name="recentCalls_empty">அழைப்பு லாக் காலியாக உள்ளது.</string>
+    <string name="clearCallLogConfirmation_title">அழைப்பு  லாக் நீக்கவும்</string>
+    <string name="clearCallLogConfirmation">அழைப்பு லாக்-இனை சுத்தம் செய்ய நீங்கள் விரும்புவது உறுதிதானா?</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
+    <string name="voicemail">குரல் மின்னஞ்சல்</string>
+    <string name="unknown">தெரியாதது</string>
+    <string name="private_num">அந்தரங்க எண்</string>
+    <string name="payphone">பணம் செலுத்தும் தொலைபேசி</string>
+    <string name="dialerKeyboardHintText">டயல் செய்ய கீபோர்டு பயன்படுத்தவும்</string>
+    <string name="dialerDialpadHintText">அழைப்பை சேர்க்க டயல் செய்க</string>
+    <string name="simContacts_emptyLoading">சிம் கார்டிலிருந்து ஏற்றுகிறது\u2026</string>
+    <string name="simContacts_title">சிம் கார்டு தொடர்புகள்</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">"திரையிடுவதற்கு எந்த தொடர்புகளும் உங்களிடம் இல்லை. (ஒரு கணக்கை சற்று முன்னர் நீங்கள் சேர்த்திருந்தால், தொடர்புகளை ஒருங்கிணைக்க சில சிமிடங்கள் எடுக்கும்.)"</string>
+    <string name="noContactsHelpTextForCreateShortcut">"திரையில் காட்ட எந்த தொடர்புகளும் உங்களுக்கு இல்லை."</string>
+    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">உங்கள் கூகிள் தொடர்புகளை சின்க் செய்யவும்!</font>
+    \nஉங்கள் தொலைபேசிக்கு ஒருங்கிணைப்பு செய்தபின்னர், நீங்கள் எங்கு சென்றாலும் உங்களுடைய தொடர்புகள் உங்களுக்குக் கிடைக்கப்பெறும்.</string>
+    <string name="noContactsHelpText">"திரையிடுவதற்கு உங்களுக்கு தொடர்புகள் ஏதுவும் இல்லை.\n\nதொடர்புகளைச் சேர்க்க, அழுத்தவும் <font fgcolor="#ffffffff"><b>மெனு</b></font> மற்றும் தொடவும்:\n
+        \n<li><font fgcolor="#ffffffff"><b>கண்க்குகள்</b></font> தொடர்புகளுடன் சேர்க்க வடிவுருஅமைக்க தொலைபேசியுடன் நீங்கள் சின்க் செய்யலாம்\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>புதிய தொடர்பு</b></font> ஆரம்பத்தில் இருந்து ஒரு புதிய தொடர்பு உருவாக்க\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>இறக்குமதி/ஏற்றுமதி</b></font>\n</li>"
+    </string>
+    <string name="noContactsHelpTextWithSync">"திரையிடுவதற்கு உங்களுக்கு தொடர்புகள் ஏதுவும் இல்லை. (நீங்கள் ஒரு கணக்கை சற்றுமுன்னர் சேர்த்திருந்தால்,இது சின்க் ஆவதற்கு சில நிமிடங்கள் எடுக்கும்.)\n\nதொடர்புகளை சேர்க்க, அழுத்தவும் <font fgcolor="#ffffffff"><b>மெனு</b></font>மற்றும் தொடவும்:\n
+        \n<li><font fgcolor="#ffffffff"><b>கணக்குகள்</b></font> தொடர்புகளுடன் சேர்க்க வடிவுருஅமைக்க தொலைபேசியுடன் நீங்கள் சின்க் செய்யலாம்\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>திரையிடும் விருப்பத்தெரிவுகள்</b></font>எந்த தொடர்புகள் காட்சிக்கு கிடைக்கின்றன என மாற்ற\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>புதிய தொடர்பு</b></font> ஆரம்பத்தில் இருந்து ஒரு புதிய தொடர்பு உருவாக்க\n</li>
+       \n<li><font fgcolor="#ffffffff"><b>இறக்குமதி/ஏற்றுமதி</b></font>\n</li>"
+    </string>
+    <string name="noContactsNoSimHelpText">"திரையிடுவதற்கு உங்களுக்கு தொடர்புகள் ஏதுவும் இல்லை.\n\nதொடர்புகளைச் சேர்க்க, அழுத்தவும்  <font fgcolor="#ffffffff"><b>மெனு</b></font> மற்றும் தொடவும்:\n
+        \n<li> <font fgcolor="#ffffffff"><b>கணக்குகள்</b></font> தொடர்புகளுடன் சேர்க்க வடிவுருஅமைக்க தொலைபேசியுடன் நீங்கள் சின்க் செய்யலாம்\n</li>
+        \n<li> <font fgcolor="#ffffffff"><b>புதிய தொடர்பு</b></font> ஆரம்பத்தில் இருந்து ஒரு புதிய தொடர்பு உருவாக்க\n</li>
+        \n<li> <font fgcolor="#ffffffff"><b>இறக்குமதி/ஏற்றுமதி</b></font>\n</li>"
+    </string>
+    <string name="noContactsNoSimHelpTextWithSync">"திரையிடுவதற்கு உங்களுக்கு தொடர்புகள் ஏதுவும் இல்லை. (நீங்கள் ஒரு கணக்கை சற்றுமுன்னர் சேர்த்திருந்தால்,இது சின்க் ஆவதற்கு சில நிமிடங்கள் எடுக்கும்.)\n\nதொடர்புகளை சேர்க்க, அழுத்தவும் <font fgcolor="#ffffffff"><b>மெனு</b></font>மற்றும் தொடவும்:\n
+        \n<li><font fgcolor="#ffffffff"><b>கணக்குகள்</b></font> தொடர்புகளுடன் சேர்க்க வடிவுருஅமைக்க தொலைபேசியுடன் நீங்கள் சின்க் செய்யலாம்\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>திரையிடும் விருப்பத்தெரிவுகள்</b></font>எந்த தொடர்புகள் காட்சிக்கு கிடைக்கின்றன என மாற்ற\n</li>
+        \n<li><font fgcolor="#ffffffff"><b>புதிய தொடர்பு</b></font> ஆரம்பத்தில் இருந்து ஒரு புதிய தொடர்பு உருவாக்க\n</li>
+       \n<li><font fgcolor="#ffffffff"><b>இறக்குமதி/ஏற்றுமதி</b></font>\n</li>"
+    </string>
+    <string name="noFavoritesHelpText">"உங்களுக்கு விருப்பமானவைகள் ஏதுமில்லை.\n\nஉங்கள் விருப்பமானவைகள் பட்டியலில் சேர்க்க:\n
+        <li>தொடவும் <b>தொடர்புகளை</b> டாப்\n</li>
+        \n<li>உங்கள் விருப்பமானவைகளுக்கு சேர்க்க தொடர்பினைத் தொடவும்\n</li>
+        \n<li>தொடர்பின் பெயருக்கு அடுத்துள்ள ஸ்டாரை தொடவும்\n</li>"
+    </string>
+    <string name="seclectSyncGroups_title">சின்க் செய்ய குழுக்கள் தேர்ந்தெடுக்கவும்</string>
+    <string name="liveFolder_all_label">அனைத்து தொடர்புகள்</string>
+    <string name="liveFolder_favorites_label">நட்சத்திரக் குறியிட்டவை</string>
+    <string name="liveFolder_phones_label">தொலைபேசிகள் </string>
+    <string name="dialer_useDtmfDialpad">டச் டோன் கீ பேட் பயன்படுத்தவும்</string>
+    <string name="dialer_returnToInCallScreen">நடந்துகொண்டிருக்கும் அழைப்புக்கு திரும்ப வரவும்</string>
+    <string name="dialer_addAnotherCall">அழைப்பு சேர்க்கவும்</string>
+    <string name="callDetailTitle">அழைப்பு விபரங்கள்</string>
+    <string name="toast_call_detail_error">வேண்டுகோள் விடுக்கப்பட்ட அழைப்புக்கான விவரங்களைப் படிக்க முடியவில்லை.</string>
+    <string name="type_incoming">உள்வரும் அழைப்புகள்</string>
+    <string name="type_outgoing">வெளிச்செல்லும் அழைப்பு</string>
+    <string name="type_missed">தவறவிட்ட அழைப்பு</string>
+    <string name="datetime_relative">"<xliff:g id="datetime" example="Dec 31, 2007, 11:00 am">%1$s</xliff:g> (<xliff:g id="relative" example="4 hours ago">%2$s</xliff:g>)"</string>
+    <string name="call_duration">கால அவகாசம்</string>
+    <string name="header_actions">செயல்கள்</string>
+    <string name="ringtone_spinner">"மணியோசை: <xliff:g id="ringtone" example="Caribbean Ice">%1$s</xliff:g>"</string>
+    <string name="add_more_items">அதிக விஷயங்கள் சேர்க்கவும்</string>
+    <string name="actionCall">அழைப்பு <xliff:g id="type" example="mobile">%s</xliff:g></string>
+    <string name="actionEmail">மின்னஞ்சல்<xliff:g id="type" example="home">%s</xliff:g></string>
+    <string name="actionText">வாசகம் <xliff:g id="type" example="mobile">%s</xliff:g></string>
+    <string name="actionChat"><xliff:g id="type" example="Google Talk">%s</xliff:g>பயன்படுத்தி அரட்டையடிக்கவும்</string>
+    <string name="actionMap"><xliff:g id="type" example="home">%s</xliff:g>முகவரியைப் பார்வையிடவும்</string>
+    <string name="actionIncomingCall">உள்வரும் அழைப்புகள்</string>
+    <string name="detailIncomingCallsGoToVoicemail">குரல் அஞ்சலுக்கு நேரடியாக அனுப்பப்படும்</string>
+    <string name="detailsRingtone"><xliff:g id="ringtone_name" example="Flutey Phone">%s</xliff:g> க்கு அமைக்கவும்</string>
+    <string name="callBack">திரும்பி அழைக்கவும்</string>
+    <string name="callAgain">மீண்டும் அழைக்கவும்</string>
+    <string name="returnCall">அழைப்பை திருப்பி கொடுக்கவும்</string>
+    <string name="callDetailsDurationFormat"><xliff:g id="minutes" example="42">%1$s</xliff:g> நிமிடங்கள் <xliff:g id="seconds" example="28">%2$s</xliff:g>வினாடிகள்</string>
+    <string name="favoritesFrquentSeparator">அடிக்கடி தொடர்புகொள்ளப்பட்டது</string>
+    <string name="add_contact_dlg_title">தொடர்பை சேர்க்கவும்</string>
+    <string name="add_contact_dlg_message_fmt"> \"<xliff:g id="email">%s</xliff:g>\"ஐ தொடர்புகளுக்கு சேர்க்கவா?</string>
+    <string name="all_tab_label">எல்லா</string>
+    <string name="description_image_button_one">ஒன்று</string>
+    <string name="description_image_button_two">இரண்டு</string>
+    <string name="description_image_button_three">மூன்று</string>
+    <string name="description_image_button_four">நான்கு</string>
+    <string name="description_image_button_five">ஐந்து</string>
+    <string name="description_image_button_six">ஆறு</string>
+    <string name="description_image_button_seven">ஏழு</string>
+    <string name="description_image_button_eight">எட்டு</string>
+    <string name="description_image_button_nine">ஒன்பது</string>
+    <string name="description_image_button_star">நட்சத்திரம்</string>
+    <string name="description_image_button_zero">பூஜ்யம்</string>
+    <string name="description_image_button_pound">பவுண்ட்</string>
+    <string name="description_voicemail_button">குரல் மின்னஞ்சல்</string>
+    <string name="description_dial_button">டயல்</string>
+    <string name="description_delete_button">பின்னணி காலியிடம்</string>
+    <string name="description_digits_edittext">டயல் செய்வதர்கான எண்</string>
+    <string name="description_contact_photo">தொடர்பு புகைப்படம்</string>
+    <string name="description_minus_button">கழித்தல்</string>
+    <string name="description_plus_button">ப்ளஸ்</string>
+    <string name="no_sdcard_title" product="nosdcard">USB சேமிப்பகம் கிடைக்கப்பெறவில்லை</string>
+    <string name="no_sdcard_message" product="nosdcard">USB சேமிப்பகம்  கண்டுபிடிக்கப்படவில்லை</string>
+    <string name="no_sdcard_message" product="default">SD கார்டு  கண்டுபிடிக்கப்படவில்லை</string>
+    <string name="searching_vcard_title">vகார்டுக்காக தேடுகிறது</string>
+    <string name="select_import_type_title">தொடர்புகளை எங்கிருந்து தரவிறக்கம் செய்ய நீங்கள் விரும்புகிறீர்கள்?</string>
+    <string name="import_from_sim">சிம் கார்டில் இருந்து இறக்குமதி செய்க</string>
+    <string name="import_from_sim1">சிம் 1 இல் இருந்து இறக்குமதி செய்க</string>
+    <string name="import_from_sim2">சிம் 2 இல் இருந்து இறக்குமதி செய்க</string>
+    <string name="import_from_sdcard" product="nosdcard">USB சேமிப்பகத்தில் இருந்து இறக்குமதி செய்யவும்</string>
+    <string name="import_from_sdcard" product="default">SD கார்டில் இருந்து இறக்குமதி செய்யவும்</string>
+    <string name="export_to_sdcard" product="nosdcard">USB சேமிப்பகத்திற்கு ஏற்றுமதி செய்யவும்</string>
+    <string name="export_to_sdcard" product="default">SD கார்டுக்கு ஏற்றுமதி செய்யவும்</string>
+    <string name="share_visible_contacts">பார்வையில் படும் தொடர்புகள் பகிர்க</string>
+    <string name="import_one_vcard_string">ஒரு vகார்டு கோப்பு இறக்குமதி செய்க</string>
+    <string name="import_multiple_vcard_string">பல்முனை vகார்டு கோப்புகள் இறக்குமதி செய்க</string>
+    <string name="import_all_vcard_string">vகார்டு கோப்புகள் அனைத்தையும் இறக்குமதி செய்க</string>
+    <string name="searching_vcard_message" product="nosdcard">USB சேமிப்பகத்தின் மீது விகார்டு தரவினை தேடிக்கொண்டிருக்கிறது</string>
+    <string name="searching_vcard_message" product="default">SD கார்டு மீது விகார்டு தரவினை தேடிக்கொண்டிருக்கிறது</string>
+    <string name="scanning_sdcard_failed_title" product="nosdcard">USB சேமிப்பகத்தினை ஸ்கேன் செய்தல் தவறியது </string>
+    <string name="scanning_sdcard_failed_title" product="default">SD கார்டினை ஸ்கேன் செய்தல் தவறியது</string>
+    <string name="scanning_sdcard_failed_message" product="nosdcard">USB சேமிப்பகத்தினை ஸ்கேன் செய்தல் தவறியது (காரணம்:\"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="scanning_sdcard_failed_message" product="default">SD கார்டினை ஸ்கேன் செய்தல் தவறியது (காரணம்: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="fail_reason_io_error">I/Oபிழை</string>
+    <string name="fail_reason_vcard_parse_error">எதிர்பாராத காரணத்தினால் vகார்ட் பார்ஸ் செய்ய தவறியது</string>
+    <string name="fail_reason_vcard_not_supported_error">நடப்பு நடைமுறைப்படுத்தல் துணைநிற்கவில்லை என்பதால் செல்லுபடியாகும் வடிவத்தில் இருப்பதாகத் தோன்ரினாலும் vகார்ட் பார்ஸ் செய்ய தவறியது</string>
+    <string name="fail_reason_no_vcard_file" product="nosdcard">USB சேமிப்பகத்தில் வீ கார்டு கோப்பு காணப்படவில்லை</string>
+    <string name="fail_reason_no_vcard_file" product="default">SD கார்டில் வீ கார்டு கோப்பு  காணப்படவில்லை</string>
+    <string name="fail_reason_no_vcard_entry">உங்கள் தெரிவில் செல்லுபடியாகும் வீ கார்டு உள்ளீடு  காணப்படவில்லை </string>
+    <string name="fail_reason_failed_to_read_files">ஒன்று அல்லது மேற்பட்ட கோப்புக்கள் இறக்கம் செய்ய தவறியது(%s).</string>
+    <string name="fail_reason_unknown">அறியாத பிழை</string>
+    <string name="select_vcard_title">vகார்டு கோப்பு தெரிவு செய்க</string>
+    <string name="select_vcard_message">இறக்குமதி செய்ய தயவு செய்து ஒரு விகார்டு தேர்வு செய்யவும்</string>
+    <string name="progress_shower_message"><xliff:g id="action" example="Reading VCard">%1$s</xliff:g>\n<xliff:g id="filename" example="foo.vcf">%2$s</xliff:g></string>
+    <string name="reading_vcard_title">vகார்டு படிக்கிறது</string>
+    <string name="reading_vcard_message">vகார்டு கோப்பு(கள்) படிக்கிறது</string>
+    <string name="importing_vcard_message">வீகார்டு தரவுகளை இறக்குமதி செய்கிறது</string>
+    <string name="reading_vcard_failed_title">vகார்டு தரவு படிப்பது தவறியது</string>
+    <string name="reading_vcard_failed_message">விகார்டு படிக்க முடியவில்லை.\nதவறுதலுக்கான காரணம்: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="reading_vcard_contacts"><xliff:g id="current_number">%1$s</xliff:g>இன்<xliff:g id="total_number">%2$s</xliff:g>தொடர்புகள்</string>
+    <string name="reading_vcard_files"><xliff:g id="current_number">%1$s</xliff:g> இன்<xliff:g id="total_number">%2$s</xliff:g> கோப்புகள்</string>
+    <string name="export_phone_local_only">உள்ளகத்தில் சேமிக்கப்பட்ட தொடர்புகள்</string>
+    <string name="export_contact_list">ஏற்றுமதி தொடர்புகள்</string>
+    <string name="confirm_export_title">ஏற்றுமதியை உறுதி செய்யவும்</string>
+    <string name="confirm_export_message">உங்களுடைய தொடர்பு பட்டியலை  \"<xliff:g id="vcard_filename">%s</xliff:g>\" க்கு நீங்கள் ஏற்றுமதி செய்வது உறுதிதானா?</string>
+    <string name="exporting_contact_failed_title">தொடர்பு தரவு ஏற்றுமதி செய்ய தவறியது</string>
+    <string name="exporting_contact_failed_message">தொடர்பு தரவுகலை ஏற்றுமதி செய்ய தவறியது.\nதவறியதற்கான காரணம்: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_no_exportable_contact">ஏற்றுமதி செய்யத்தக்க தொடர்புகள் இல்லை</string>
+    <string name="fail_reason_too_many_vcard" product="nosdcard">USB சேமிப்பகத்தில் மிக அதிக விகார்டு கோப்புக்கள்</string>
+    <string name="fail_reason_too_many_vcard" product="default">SD கார்டு மீது மிக அதிக விகார்டு கோப்புக்கள்</string>
+    <string name="fail_reason_too_long_filename">தேவைப்படும் கோப்பு பெயர் மிகநீளம் (\"<xliff:g id="filename">%s</xliff:g>\")</string>
+    <string name="fail_reason_cannot_open_destination_dir">சேருமிட டைரக்ட்டரி திறக்க அல்லது உருவாக்க முடியாது\"<xliff:g id="dir_name">%s</xliff:g>\"</string>
+    <string name="exporting_contact_list_title">தொடர்பு தரவுகள் ஏற்றுமதியாகிறது</string>
+    <string name="exporting_contact_list_message">தொடர்புகளை \"<xliff:g id="file_name">%s</xliff:g>\" க்கு ஏற்றுமதி செய்கிறது</string>
+    <string name="fail_reason_could_not_initialize_exporter">ஏற்றுமதியாளரை துவக்கம் ஏற்படுத்த முடியவில்லை: \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_error_occurred_during_export">ஏற்றுமதியின் போது பிழை நிகழ்ந்தது: \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+    <string name="composer_failed_to_get_database_infomation">தரவுத்தள தகவல் பெற தவறியது</string>
+    <string name="composer_has_no_exportable_contact">ஏற்றுமதி செய்யத்தக்க தொடர்புகள் இல்லை.  உணமையிலேயே உங்கள் தலைபேசியில் தொடர்புகள் இருந்தால், இந்த அனைத்து தொடர்புகளுமே ஏதேனும் ஒரு தரவு அளிப்பாளரால் வெளியில் ஏற்றுமதி செய்ய தடைப்படுத்தியிருக்க வெண்டும்.</string>
+    <string name="composer_not_initialized">vகார்டு கம்போசர் சரியாக துவக்கம் கொடுக்கப்படவில்லை</string>
+    <string name="fail_reason_could_not_open_file">திறக்க முடியவில்லை \"<xliff:g id="file_name">%1$s</xliff:g>\": <xliff:g id="exact_reason">%2$s</xliff:g></string>
+    <string name="exporting_contact_list_progress"><xliff:g id="current_number">%1$s</xliff:g>இன்<xliff:g id="total_number">%2$s</xliff:g>தொடர்புகள்</string>
+    <string name="search_settings_description">உங்களது தொடர்புகளின் பெயர்கள்</string>
+    <string name="add_2sec_pause">2- நொடி தாமதம் சேர்க்கவும்</string>
+    <string name="add_wait">காத்திரு சேர்க்கவும்</string>
+    <string name="dial_button_label">டயல்செய்க</string>
+    <string name="call_disambig_title">அழைப்பு பயன்பாட்டில்</string>
+    <string name="sms_disambig_title">வாசகம் பயனாகிறது</string>
+    <string name="make_primary">இந்தத்தெரிவினை நினைவு கொள்ளவும்</string>
+    <string name="quickcontact_missing_app">இந்த் செயல்பாட்டைக் கையாள அப்ளிகேஷன்கள் இல்லை</string>
+    <string name="quickcontact_remember_choice">இந்தத்தெரிவினை நினைவு கொள்ளவும்</string>
+    <string name="quickcontact_missing_name">தெரியாதது</string>
+    <string name="menu_accounts">கணக்குகள்</string>
+    <string name="menu_import_export">இறக்குமதி/ஏற்றுமதி</string>
+    <string name="dialog_import_export">தொடர்புகள் இறக்குமதி/ஏற்றுமதி</string>
+    <string name="menu_share">பகிர்</string>
+    <string name="share_via">மூலம் தொடர்பினை பகிர்க</string>
+    <string name="share_error">இந்தத் தொடர்பு பகிர்ந்துகொள்ள முடியாதது.</string>
+    <string name="nameLabelsGroup">பெயர்</string>
+    <string name="nicknameLabelsGroup">பட்டப்பெயர்</string>
+    <string name="organizationLabelsGroup">நிறுவனம்</string>
+    <string name="websiteLabelsGroup">வலைத்தளம்</string>
+    <string name="eventLabelsGroup">நிகழ்வு</string>
+    <string name="type_short_home">H</string>
+    <string name="type_short_mobile">தி்</string>
+    <string name="type_short_work">பு</string>
+    <string name="type_short_pager">P</string>
+    <string name="type_short_other">O</string>
+    <string name="edit_read_only">இந்தத் தொடர்பு படிக்க மட்டுமே ஆனது</string>
+    <string name="edit_secondary_collapse">அதிகம்</string>
+    <string name="dialog_primary_name">பிரதான பெயர்</string>
+    <string name="dialog_new_contact_account">கணக்கின் கீழ் தொடர்பை உருவாக்கவும்</string>
+    <string name="menu_sync_remove">சின்க் குழுவை நீக்கவும்</string>
+    <string name="dialog_sync_add">ஒருங்கிணைப்புக் குழு சேர்க்கவும்</string>
+    <string name="display_more_groups">அதிக குழுக்கள்\u2026</string>
+    <string name="display_ungrouped">அனைத்து பிற தொடர்புகள்</string>
+    <string name="display_all_contacts">அனைத்து தொடர்புகள்</string>
+    <string name="display_warn_remove_ungrouped">சின்க்லிருந்து \‘<xliff:g id="group" example="Starred">%s</xliff:g>\’ அகற்றப்படும் சின்க்லிருந்து ஏதேனும் குழுவாக்கப்படாத தொடர்புகளையும் அகற்றும்.</string>
+    <string name="account_phone">தொலைபேசி மட்டும்(சின்க் செய்யப்படாமல்)</string>
+    <string name="call_custom">அழைப்பு <xliff:g id="custom">%s</xliff:g></string>
+    <string name="call_home">வீட்டை அழைக்கவும்</string>
+    <string name="call_mobile">மொபைலை அழைக்கவும்</string>
+    <string name="call_work">வேலையிடத்தை அழைக்கவும்</string>
+    <string name="call_fax_work">வேலையிட ஃபேக்ஸை அழைக்கவும்</string>
+    <string name="call_fax_home">வீட்டு ஃபேக்ஸ் அழைக்கவும்</string>
+    <string name="call_pager">பேஜரை அழைக்கவும்</string>
+    <string name="call_other">அழைப்பு</string>
+    <string name="call_callback">அழைப்பு திரும்ப அழைத்தல்</string>
+    <string name="call_car">காரை அழைக்கவும் </string>
+    <string name="call_company_main">கம்பெனி மெயினை அழைக்கவும்</string>
+    <string name="call_isdn">ISDN அழைக்கவும்</string>
+    <string name="call_main">மெயின் அழைக்கவும்</string>
+    <string name="call_other_fax">ஃபேக்ஸ் அழைப்பு</string>
+    <string name="call_radio">ரேடியோவை அழைக்கவும்</string>
+    <string name="call_telex">டெலெக்ஸை அழைக்கவும்</string>
+    <string name="call_tty_tdd">TTY/TDD அழைக்கவும்</string>
+    <string name="call_work_mobile">வேலையிட மொபைலை அழைக்கவும்</string>
+    <string name="call_work_pager">வேலையிட பேஜரை அழைக்கவும்</string>
+    <string name="call_assistant">அழைப்பு <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="call_mms">MMS அழைக்கவும்</string>
+    <string name="sms_custom">வாசகம் <xliff:g id="custom">%s</xliff:g></string>
+    <string name="sms_home">வாசகம் முகப்பு</string>
+    <string name="sms_mobile">வாசகம் மொபைல்</string>
+    <string name="sms_work">வாசகம் வேலை</string>
+    <string name="sms_fax_work">வாசகம் வேலை ஃபேக்ஸ்</string>
+    <string name="sms_fax_home">வாசகம் முகப்பு ஃபேக்ஸ்</string>
+    <string name="sms_pager">வாசக பேஜர்</string>
+    <string name="sms_other">உரை</string>
+    <string name="sms_callback">வாசகம் திரும்ப அழைத்தல்</string>
+    <string name="sms_car">வாசகம் கார்</string>
+    <string name="sms_company_main">வாசகம் கம்பெனி பிரதான</string>
+    <string name="sms_isdn">வாசகம் ISDN</string>
+    <string name="sms_main">வாசகம் பிரதான</string>
+    <string name="sms_other_fax">வாசகம் ஃபேக்ஸ்</string>
+    <string name="sms_radio">வாசகம் ரேடியோ</string>
+    <string name="sms_telex">வாசகம் டெலெக்ஸ்</string>
+    <string name="sms_tty_tdd">வாசகம் TTY/TDD</string>
+    <string name="sms_work_mobile">வாசகம் வேலை மொபைல்</string>
+    <string name="sms_work_pager">வாசகம் வேலை பேஜர்</string>
+    <string name="sms_assistant">வாசகம் <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="sms_mms">வாசகம் MMS</string>
+    <string name="email_home">மின்னஞ்சல் முகப்பு</string>
+    <string name="email_mobile">மின்னஞ்சல் மொபைல்</string>
+    <string name="email_work">மின்னஞ்சல் பணி</string>
+    <string name="email_other">மின்னஞ்சல்</string>
+    <string name="email_custom">மின்னஞ்சல்<xliff:g id="custom">%s</xliff:g></string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="map_home">வீட்டு முகவரி பார்வையிடவும்</string>
+    <string name="map_work">பணி முகவரி பார்வையிடவும்</string>
+    <string name="map_other">முகவரி பார்வையிடவும்</string>
+    <string name="map_custom"><xliff:g id="custom">%s</xliff:g> முகவரியைப் பார்வையிடவும்</string>
+    <string name="chat_aim">AIM பயன்படுத்தி உரையாடு</string>
+    <string name="chat_msn">விண்டோஸ் லைவ்  பயன்படுத்தி உரையாடு</string>
+    <string name="chat_yahoo">யாஹூ பயன்படுத்தி உரையாடு</string>
+    <string name="chat_skype">ஸ்கைப் பயன்படுத்தி உரையாடு</string>
+    <string name="chat_qq">QQ பயன்படுத்தி உரையாடு</string>
+    <string name="chat_gtalk">கூகிள் டாக் பயன்படுத்தி உரையாடு</string>
+    <string name="chat_icq">ICQ பயன்படுத்தி உரையாடு</string>
+    <string name="chat_jabber">ஜாப்பர் பயன்படுத்தி உரையாடு</string>
+    <string name="chat_other">"மற்ற கருவிகளைக்கொண்டு அரட்டை அடிக்கவும்"</string>
+    <string name="chat">உரையாடு</string>
+    <string name="postal_street">தெரு</string>
+    <string name="postal_pobox">தபால் பெட்டி</string>
+    <string name="postal_neighborhood">அண்டை அயல்</string>
+    <string name="postal_city">நகர்</string>
+    <string name="postal_region">நிலை</string>
+    <string name="postal_postcode">ஜிப் குறியீடு</string>
+    <string name="postal_country">நாட்டுப்புற</string>
+    <string name="name_given">கொடுக்கப்பட்ட பெயர்</string>
+    <string name="name_family">குடும்பப் பெயர்</string>
+    <string name="name_prefix">பெயர் முன்னிடவும்</string>
+    <string name="name_middle">நடுப்பெயர்</string>
+    <string name="name_suffix">பெயர் பின்னிடவும்</string>
+    <string name="name_phonetic_given">உச்சரிப்பு முறையில் கொடுக்கப்பட்ட பெயர்</string>
+    <string name="name_phonetic_middle">உச்சரிப்பு முறையில் நடுப் பெயர்</string>
+    <string name="name_phonetic_family">உச்சரிப்புமுறை குடும்ப பெயர்</string>
+    <string name="split_label">பிரிக்கவும்</string>
+    <string name="split_explanation">இனந்த்த் தரவினை இதன் சொந்த்த் தொடர்பாக ஆக்கவும்.</string>
+    <string name="account_name_format"><xliff:g id="source" example="Gmail">%1$s</xliff:g> கணக்கு: <xliff:g id="account" example="user@gmail.com">%2$s</xliff:g>> லிருந்து</string>
+    <string name="account_type_format"><xliff:g id="source" example="Gmail">%1$s</xliff:g>தொடர்பு</string>
+    <string name="from_account_format"><xliff:g id="source" example="user@gmail.com">%1$s</xliff:g> லிருந்து</string>
+    <string name="use_photo_as_primary">இந்தப் புகைப்பட்த்தைப் பயன்படுத்தவும்</string>
+    <string name="contact_read_only"><xliff:g id="source" example="Gmail">%1$s</xliff:g>தொடர்பு தகவல் இந்த சாதனத்தில் திருத்த இயலாதது.</string>
+    <string name="no_contact_details">இந்த்த் தொடர்புக்கான கூடுதல் தகவல் இல்லை</string>
+    <string name="display_options_sort_list_by">வகை பிரிக்கவும் இந்தப்பட்டியல்படி</string>
+    <string name="display_options_sort_by_given_name">கொடுக்கப்பட்ட பெயர்</string>
+    <string name="display_options_sort_by_family_name">குடும்பப் பெயர்</string>
+    <string name="display_options_view_names_as">இப்படியாக தொடர்பு பெயர்கள்  பார்வையிடவும்</string>
+    <string name="display_options_view_given_name_first">கொடுக்கப்பட்ட பெயர் முதலில்</string>
+    <string name="display_options_view_family_name_first">குடும்பப் பெயர் முதலில்</string>
+    <string name="search_bar_hint">தொடர்புகள் தேடுக</string>
+    <string name="search_for_all_contacts">அனைத்து தொடர்புகளுக்காக தேடுக</string>
+    <string name="take_photo">புகைப்படம் எடுக்கவும்</string>
+    <string name="pick_photo">கேல்லரியில் இருந்து புகைப்படம் தெரிவு செய்க</string>
+    <string name="locale_change_in_progress">மொழி மாறுவதை பிரதிபலிக்க தொடர்பு பட்டியல் புதுப்பிக்கப்படுகிறது.\n\nதயவு செய்து காத்திருக்கவும்...</string>
+    <string name="upgrade_in_progress">தொடர்பு பட்டியல் புதுப்பிக்கப்படுகிறது. \n\nதயவு செய்து காத்திருக்கவும்...</string>
+    <string name="upgrade_out_of_memory">தொடர்புகள் தரமுயர்த்தப்படுதல் செயல்முறையில் உள்ளன.
+    \n\nதரமுயர்த்தப்படுதல் செயல்முறைக்கு சுமாராக <xliff:g id="size_in_megabytes">%d</xliff:g>Mb தொலைபேசி உள்ளக சேமிப்பகம் தேவைப்படுகிறது.\n\nபின்வரும் விருப்பத்தெரிவுகளில் ஒன்றை தெரிவு செய்யவும்:</string>
+    <string name="upgrade_out_of_memory_uninstall">நிறுவிய சில அப்ளிகேஷன்களை நீக்கவும் </string>
+    <string name="upgrade_out_of_memory_retry">தரமுயர்த்தல் மறுபடி முயலுக</string>
+    <string name="search_results_for">இதற்கான தேடல் முடிவுகள்:<xliff:g id="query">%s</xliff:g></string>
+    <string name="search_results_searching">தேடுகிறது...</string>
+    <string name="dialer_call_switch">குரல் அழைப்பு/வீடியோ அழைப்பு</string>
+    <string name="select_contacts">தொடர்புகள் தெரிவு செய்க</string>
+    <string name="delete_contacts">தொடர்புகளை அழிக்கவும்</string>
+    <string name="export_contacts">ஏற்றுமதி தொடர்புகள்</string>
+    <string name="import_contacts">தொடர்புகளை இறக்குமதி செய்யவும்</string>
+    <string name="add_contacts_to_group">"தொடர்புகளை குழுவுடன் சேர்க்கவும்"</string>
+    <string name="ok">ஓகே</string>
+    <string name="cancel">ரத்து</string>
+    <string name="inputting__name_sim_contacts">குறிப்பு: அதிகபட்ச நீளமான 14 எழுத்துக்கள் (எழுத்துக்கள் அல்லது எழுத்துக்கோர்வைகள் கொண்டிருந்தாஅல் அதிகபட்சன் 6 எழுத்துக்கள் அனுமதிக்கவும்), நீளத்திற்கு அப்பாலிர்ப்பவை இடைமறிக்கப்படும்.</string>
+    <string name="inputting_number_sim_contacts">குறிப்பு: 20 எழுத்துக்களுக்கான அதிகபட்ச நீளம் ( 0-9 +, * எழுத்துக்களுக்கு மட்டும் அனுமதிக்கவும்).</string>
+    <string name="menu_contacts_group">தொடர்புகள் குழு</string>
+    <string name="menu_delete">தொடர்புகள் அழிக்கவும்</string>
+    <string name="on_progress">முன்னேற்றத்தில், தயவு செய்து காத்திருக்கவும்...</string>
+    <string name="deleting_contacts">தொடர்புகளை அழிக்கிறது, தயவு செய்துகாத்திருக்கவும்...</string>
+    <string name="importing_contacts">இறக்குமதி செய்கிறது, தயவு செய்தி காத்திருக்கவும்.</string>
+    <string name="exporting_contacts">தொடர்புகளை ஏற்றுமதி செய்கிறது, தயவு செய்து காத்திருக்கவும்.</string>
+    <string name="adding_contacts_to_group">தொடர்புகளை குழுவிற்கு சேர்க்கிறது, தயவு செய்து காத்திருக்கவும்.</string>
+    <string name="confirm">உறுதிப்படுத்தவா?</string>
+    <string name="export_to_sim">சிம் கார்டுக்கு ஏற்றுமதி செய்க</string>
+    <string name="export_to_sim1">சிம் 1க்கு ஏற்றுமதி செய்க</string>
+    <string name="export_to_sim2">சிம் 2க்கு ஏற்றுமதி செய்க</string>
+    <string name="group_phone">தொலைபேசி தொடர்புகள்</string>
+    <string name="group_sim">சிம் கார்டு தொடர்புகள்</string>
+    <string name="group_sim1">"சிம்கார்டு 1 தொடர்புகள்"</string>
+    <string name="group_sim2">"சிம்கார்டு 2 தொடர்புகள்"</string>
+    <string name="view_simContact">சிம் தொடர்புகளைப் பார்வையிடவும்</string>
+    <string name="edit_simContact">சிம் தொடர்புகள் திருத்துக</string>
+    <string name="insert_simContact">சிம் தொடர்புகளை சேர்க்கவும்</string>
+    <string name="select_contacts_group">தொடர்புகள் குழு தெரிவு செய்க</string>
+    <string name="select_contacts_group_to_add">புதிய தொடர்பு சேர்க்க குழு தேர்ந்தெடுக்கவும்</string>
+    <string name="sim_card">சிம் கார்டு</string>
+    <string name="sim_card1">சிம்கார்ட் 1</string>
+    <string name="sim_card2">சிம்கார்ட் 2</string>
+    <string name="toast_simcontact_no_name">பெயர் இல்லை</string>
+    <string name="toast_simcontact_no_phone_number">தொலைபேசி எண் இல்லை</string>
+    <string name="dial_number">டயல்செய்க</string>
+    <string name="account_sim">சிம் மட்டுமே, தொடர்புகளை சின்க் செய்யாது</string>
+    <string name="account_sim1">"சிம்1-மட்டும், தொடர்புகளை சின்க் செய்யவில்லை"</string>
+    <string name="account_sim2">"சிம்2 -மட்டும், தொடர்புகளை சின்க் செய்யாது"</string>
+    <string name="sim1_no_ready">"சிம்கார்ட் 1 தயாரில்லை"</string>
+    <string name="sim2_no_ready">"சிம்கார்ட் 2 தயாரில்லை"</string>
+    <string name="sim1_fdn_enable">"சிம்1  FDN ஏதுவாக்கப்பட்டது"</string>
+    <string name="sim2_fdn_enable">"சிம்2  FDN ஏதுவாக்கப்பட்டது"</string>
+    <string name="airplan_mode_enable">"ஆக்யவிமான மோட் ஆனில், சிம் தொடர்புகளை அணுக முடியாது"</string>
+    <string name="sim_no_ready">"சிம்கார்ட்  தயாரில்லை"</string>
+    <string name="sim_can_not_pick">"சிம் கார்டு தொடர்புகள் குறுக்குவழியாக சேர்க்கமுடியாது"</string>
+    <string name="noContactsWithSimNumbers">"சிம் கார்டில் தொடர்புகள் இல்லை"</string>
+    <string name="no_match_people">பொருந்துகின்ற தொடர்புகள் காணப்படவில்லை.</string>
+    <string name="progress_dialog_title">சிம் தொடர்புகளை இறக்குமதி செய்கிறது.</string>
+    <string name="sim_is_initializing">சிம் கார்டினை துவக்கம் ஏற்படுத்துகிறது.</string>
+    <string name="toast_sim_failed">சிம் தொடர்புகளை உருவாக்கத் தவறியது</string>
+    <string name="toast_sim_overflow">சிம் கார்டு நிறைந்தது</string>
+    <string name="toast_simcontact_input_overflow">தொடர்பு தகவல் உள்ளிடுதல் நிறைந்து வழிகிறது</string>
+    <string name="toast_no_map_apk">மேப் வரைபட அப்ளிகேஷன் எதுவும் இல்லை</string>
+    <string name="toast_name_number_both_empty">பெயர் மற்றும் தொலைபேசி எண் இரண்டுமே காலியாக இருக்க முடியாது</string>
+    <string name="import_to_phone">தொலைபேசிக்கு இறக்குமதி செய்யவும்</string>
+    <string name="sim_is_initializing1">"சிம் 1 வுக்கு துவக்கம் தருகிறது"</string>
+    <string name="sim_is_initializing2">"சிம் 2 வுக்கு துவக்கம் தருகிறது"</string>
+    <string name="toast_sim1_overflow">"சிம்1 நிறைந்துவழிகிறது"</string>
+    <string name="toast_sim2_overflow">"சிம்2 நிறைந்துவழிகிறது"</string>
+    <string name="contactslist_menu_addto_firewall">ஃபயர்வால் அழைப்புடன் சேர்க்கிறது</string>
+    <string name="contactslist_menu_addto_firewall_null">தொடர்பு எண் காலியாக உள்ளது, மற்ற தொடர்புகளை சேர்க்க தயவு செய்து மறு தேர்வு செய்யவும்</string>
+    <string name="export_contacts_to_sdcard">"sdகார்டுக்கு தொடர்புகளை ஏற்றுமதி செய்க"</string>
+    <string name="recentCalls_delete_toest">"அழிக்க வேண்டிய விஷயங்களை தயவு செய்து தெரிவு செய்க"</string>
+    <string name="sendType_MMS">"அனுப்ப்ப்பட்ட எம் எம் எஸ் ஆக இந்தத்தகவல் இருக்கும்"</string>
+    <string name="sendType_SMS">"அனுப்ப்ப்பட்ட எஸ் எம் எஸ் ஆக இந்தத்தகவல் இருக்கும்"</string>
+    <string name="service_is_busy">"சின்க் சேவை பிசியாக உள்ளது, சில செயல்பாடு செயலிழக்க செய்யப்பட்டது"</string>
+    <string name="service_is_busy_sim1">"சிம்கார்ட்1 சின்க் பிசியாக உள்ளது"</string>
+    <string name="service_is_busy_sim2">"சிம்கார்ட்2 சின்க் பிசியாக உள்ளது"</string>
+    <string name="label_success">"வெற்றி"</string>
+    <string name="label_fail">"தவறியது"</string>
+    <string name="group_manager">"தொடர்பு குழு"</string>
+    <string name="group_manager_delete">"தொடர்பு குழு-அழிக்கவும்"</string>
+    <string name="empty">"குழுவாக்கும் தகவல் காலி, தய்வு செய்து ஒரு மெனு விஷயத்தை சேர்க்கவும்"</string>
+    <string name="noGroupInfo">"இயக்குமான குழு இல்லை"</string>
+    <string name="conatcts_name">"பெயர்"</string>
+    <string name="phone_number">"தொலைபேசி"</string>
+    <string name="phone1">"தொலைபேசி 1"</string>
+    <string name="nickname">"புனைபெயர்"</string>
+    <string name="concacts_email">"மின்னஞ்சல்"</string>
+    <string name="ghostData_phone1">"தொலைபேசி எண் 1"</string>
+    <string name="ghostData_nickname">"புனைபெயர்"</string>
+    <string name="ghostData_concatct_email">"மின்னஞ்சல்"</string>
+    <string name="contacts_is_null">"தொடர்புகள் தகவலை உள்ளிடவும்"</string>
+    <string name="export_sim_success">"சிம் ஏற்றுமதி வெற்றி"</string>
+    <string name="export_sim_fail">"சிம் ஏற்றுமதி தோல்வி"</string>
+    <string name="export_sim2_success">"சிம்2 ஏற்றுமதி வெற்றி"</string>
+    <string name="export_sim2_fail">"சிம்2 ஏற்றுமதி தோல்வி"</string>
+    <string name="add_to_group_success">"குழு வெற்றி சேர்க்கவும்"</string>
+    <string name="add_to_group_fail">"குழு தவறியது சேர்க்கவும்"</string>
+    <string name="import_to_phone_success">"தொலைபேசி இறக்குமதி வெற்றி"</string>
+    <string name="import_to_phone_fail">"தொலைபேசி இறக்குமதி தோல்வி"</string>
+    <string name="delete_phone_fail">"அழித்தல் தோல்வி"</string>
+    <string name="delete_sim_success">"அழித்தல் வெற்றி"</string>
+    <string name="delete_sim_fail">"அழித்தல் தோல்வி"</string>
+    <string name="recentCallsMissedIconLabel">தவறவிடப்பட்ட</string>
+    <string name="recentCallsOutgoingIconLabel">வெளிச்செல்லுகின்றன</string>
+    <string name="select_one">குறைந்தது ஒரு விஷயத்தை தேர்வு செய்க!</string>
+    <string name="remove_contacts_from_group">குழுவில் இருந்து இந்த தொடர்பை நீக்கவும்</string>
+    <string name="sim_card_name_too_long">சிம் கார்டு பெயர் மிகவும் நீளம்</string>
+    <string name="group_name_cannot_empty">குழு பெயர் காலியாக இருக்க முடியாது</string>
+    <string name="assistantLabelPickerTitle">உதவியாளர் லேபிள் பெயர்</string>
+    <string name="share_by_sms">எஸ் எம் எஸ் மூலம் தொடர்பு அனுப்பவும்</string>
+    <string name="share_by_mms">எம் எம் எஸ் மூலம் தொடர்பு அனுப்பவும்</string>
+    <string name="share_by_bluetooth">புளூடூத் மூலம் தொடர்பு அனுப்பவும்</string>
+    <string name="share_by_email">மின்னஞ்சல் மூலம் தொடர்பு அனுப்பவும்</string>
+    <string name="chat_custom">"<xliff:g id="NAME">%s</xliff:g>பயன்படுத்தி அரட்டை அடிக்கவும்"</string>
+    <string name="deleting">"அழிக்கிறது, தயவு செய்து மீண்டும் முயலவும்"</string>
+    <string name="import_aborted">"இறக்குமதி இடைநிறுத்த்ப்பட்டது"</string>
+    <string name="exprot_fail">"ஏற்றுமதி தோல்வி, சாதனத்தில் காலியிடம் இல்லை"</string>
+    <string name="exprot_fail_only_email">"தொடர்புகள் மின்ன்ஞ்சல் மட்டுமே ஆகும், சிமுக்கு ஏற்றுமதி செய்ய முடியாது"</string>
+    <string name="contacts_information_is_replace">"தொடர்புகள் தகவல் மாற்றி வைக்கப்பட்டது"</string>
+    <string name="import_sim_too_many">"சிம் கார்டின் மீதமிருக்கும் கொள்திறனை மீறி பயனர் அதிகமாக இறக்குமதி செய்கிறார்"</string>
+    <string name="whether_import_from_SD">"இந்த தொடர்பினைSD கார்டிலிருந்து இறக்குமதி செய்யவா?"</string>
+    <string name="blacklist_add">தடைபட்டியலில் சேர்</string>
+    <string name="blacklist">கரும்பட்டியல்</string>
+    <string name="blacklist_no_number">எண் எதுவும் இல்லை, நீங்கள் சேர்க்க முடியாது.</string>
+    <string name="no_fast_dial">விரைவான அழைப்பு தொலைபேசி எண்  அமைக்கப்படவில்லை</string>
+    <string name="fast_dial_choose">விரைவு அழைப்பு வகையை தயவு செய்து தெரிவு செய்யவும்</string>
+    <string name="fast_call">குரல் அழைப்பு</string>
+    <string name="fast_vt_call">வீடியோ அழைப்பு</string>
+    <string name="save_contact_faliue">சேமித்தல் தவறியது</string>
+    <string name="add_contact_success">தொடர்பினை வெற்றிகரமாக சேர்க்கவும்</string>
+    <string name="group_name">குழு பெயர்</string>
+    <string name="contactsSIMIconLabel">சிம்</string>
+    <string name="contactsPhoneIconLabel">தொலைபேசி</string>
+    <string name="sim_notready_cant_not_save">சிம் கார்டு தயாரில்லை, சிம் கார்டில் இருந்து தொடர்புகளை சேமிக்க முடியாது</string>
+    <string name="sim1_notready_cant_not_save">சிம் 1 தயாரில்லை, தொடர்புகளை சிம் 1 இல் சேமிக்க முடியாது</string>
+    <string name="sim2_notready_cant_not_save">சிம் 2 தயாரில்லை, தொடர்புகளை சிம் 2 இல் சேமிக்க முடியாது</string>
+    <string name="cant_not_save_email">"சிம் கார்டு மின்னஞ்சலை சேமிக்க முடியவில்லை."</string>
+    <string name="fdn_enable_nosetting">"FDN செயலாக்கம் செய்யப்பட்ட போது தேர்வு செய்யப்பட்ட செயல் கிடைக்கவில்லை"</string>
+    <string name="menu_removeFrequent">அடிக்கடி நிகழ்தனமையில் இருந்து நீக்கவும்</string>
+    <string name="group_name_student">"மாணவர்"</string>
+    <string name="group_name_friend">"நண்பர்"</string>
+    <string name="group_name_family">குடும்பம்</string>
+    <string name="group_name_colleague">"சக பணியாளர்"</string>
+    <string name="default_ban_operate">"இயல்பான குழு இயக்கத்தை தடுத்தது"</string>
+    <string name="delete_group">குழுவாக்கலை அழிக்கவும்</string>
+    <string name="remove_frequent_contacts">"அடிக்கடியான தொடர்புகளை நீக்கவும்"</string>
+    <string name="removing_frequent_contacts">"அடிக்கடியான தொடர்புகளை நீக்குகிறது, தயவு செய்து காத்திருக்கவும்."</string>
+    <string name="remove_collection_contacts">"சேகரிப்பு தொடர்புகளை நீக்கவும்"</string>
+    <string name="removing_collection_contacts">"சேகரிப்பு தொடர்புகளை நீக்குகிறது, தயவு செய்து காத்திருக்கவும்."</string>
+    <string name="get_sim_count_fail">சிம் கார்டு தயாரில்லை அல்லது செருகப்படவில்லை</string>
+    <string name="emergency_call">அவசர அழைப்பு</string>
+    <string name="dial_emergency_error">அழைப்பு அனுப்பப்படவில்லை,<xliff:g id="non_emergency_number">%s</xliff:g>ஒரு அவசரநிலை எண் கிடையாது!</string>
+    <string name="dial_emergency_empty_error">அழைப்பு அனுப்பப்படவில்லை, அவசரகால எண்ணை அழைக்கவும்!</string>
+    <string name="label_birthday">பிறந்த நாள்</string>
+    <string name="noContacts_in_group">குழுவில் தொடர்புகள் இல்லை</string>
+    <string name="bulk_sms">"தொகுப்பு எஸ் எம் எஸ்"</string>
+    <string name="bulk_email">"தொகுப்பு மின்னஞ்சல்"</string>
+    <string name="error_email_fromat">"நீங்கள் தேர்வு செய்த அஞ்சல் முகவரி சரியானதில்லை. தொகுப்பு அஞ்சல் இயக்கம் நிராகரிக்கப்பட்டது"</string>
+    <string name="contact_invalid_email_error_toast">"தொலைபேசி எண் செல்லுபடியாகாத எழுத்துக்களைக் கொண்டுள்ளது"</string>
+    <string name="contact_invalid_phone_number_error_toast">"தொலைபேசி எண் செல்லுபடியாகாத எழுத்துக்களைக் கொண்டுள்ளது"</string>
+    <string name="contact_invalid_space_name_error_toast">"பெயர்களின் கலவை காலியிடம் மட்டும் அனுமதிக்கவில்லை"</string>
+    <string name="initializing_sim_contacts">சிம் தொடர்புகள் முனைப்பாக்குகிறது, தயவு செய்து பின்னர் இயக்கவும்</string>
+    <string name="tip_limit_contacts_tomms">செய்தி பெறுபவர் மிகவும் அதிகம் வரம்பு<xliff:g id="count">%d</xliff:g>ஆகும்</string>
+    <string name="import_success">இறக்குமதி செய்வது வெற்றிகரம்</string>
+    <string name="as_bluetooth">புளூடூத் ஆக அனுப்பவும்</string>
+    <string name="as_vcard">எஸ் எம் எஸ் ஆக அனுப்பவும்</string>
+    <string name="can_not_empty">எண்கள் காலியாக இருக்க முடியாது</string>
+    <string name="no_activity_found">பொருந்துகின்ற அப்ளிகேஷனை கண்டுபிடிக்கவில்லை</string>
+    <string name="menu_contacts_group_title">"தொடர்பு குழுவினைத் திருத்தவும்"</string>
+    <string name="sdn_list">SDN பட்டியல்</string>
+    <string name="sdn_please_select_sim">தயவு செய்து சிம் கார்டு தேர்வு செய்யவும்</string>
+    <string name="sdn_please_insert_sim">தயவு செய்து சிம் கார்டு நுழைக்கவும்</string>
+    <string name="sdn_no_contact_number">இந்த சிம் கார்டு SDN எண்ணுக்கு துணை நிற்கவில்லை  </string>
+    <string name="menu_contacts_group_add">சேர்க்கவும்</string>
+    <string name="contactSavedUnchanged">"தொடர்பு மாற்றப்படவில்லை."</string>
+    <string name="no_sdcard_title" product="default">SD கார்டு இல்லை</string>
+    <string name="contacts_saved_to">"க்கு தொடர்புகளை சேமிக்கவும்"</string>
+    <string name="menu_voicecall">குரல் அழைப்பு</string>
+    <string name="select_all">அனைத்தையும் தெரிவு செய்யவும்</string>
+    <string name="delete_contacts_from_group">குழுவிலிருந்து தொடர்புகளை அழிக்கவும்</string>
+    <string name="contact_tag">பெயர்</string>
+    <string name="deleting_contacts_from_group">குழுவிலிருந்து தொடர்புகளை அழிக்கிறது, தயவு செய்து காத்திருக்கவும்.</string>
+    <string name="group_all">அனைத்து தொடர்புகள்</string>
+    <string name="phone">தொலைபேசி</string>
+    <string name="send_message">செய்தி</string>
+    <string name="sim3_no_ready">"சிம்3 கார்டு தயாரில்லை"</string>
+    <string name="sim3_fdn_enable">"சிம்3 FDN ஏதுவாக்கப்பட்டது"</string>
+    <string name="recentCalls_addToCallFireWall">ஃபயர்வால் அழைப்புக்கு சேர்க்கவும்</string>
+    <string name="videocall_string">வீடியோ</string>
+    <string name="phone2">"தொலைபேசி 2"</string>
+    <string name="phone3">"தொலைபேசி 3"</string>
+    <string name="phone4">"தொலைபேசி 4"</string>
+    <string name="ghostData_phone2">"தொலைபேசி எண் 2"</string>
+    <string name="ghostData_phone3">"தொலைபேசி எண் 3"</string>
+    <string name="ghostData_phone4">"தொலைபேசி எண் 4"</string>
+    <string name="export_sim1_success">"சிம்1ஏற்றுமதி வெற்றிகரம்"</string>
+    <string name="export_sim1_fail">"சிம்1ஏற்றுமதி தவறியது"</string>
+    <string name="delete_phone_success">"அழித்தல் வெற்றிகரம்"</string>
+    <string name="recentCallsAllIconLabel">அனைத்தும்</string>
+    <string name="recentCallsReceivedIconLabel">பெறப்பட்டது</string>
+    <string name="import_vcard_files_flags">"கோப்புகள்"</string>
+    <string name="all_source">அனைத்து ஆதாரவளங்கள்</string>
+    <string name="sdn_sim_notready">சிம் தகவலுக்கு துவக்கம் அளிக்கிறது, பின்னர் இயக்கம் செய்யவும்</string>
+    <string name="lnd_list">LND பட்டியல்</string>
+    <string name="lnd_no_contact_record">இந்த சிம் கார்டில் LND பதிவு ஏதும் இல்லை </string>
+    <string name="emergency_number">அவசரநிலை எண்</string>
+    <string name="people">தொடர்புகள்</string>
+</resources>

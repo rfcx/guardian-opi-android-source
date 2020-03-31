@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">સાઉન્ડ રેકોર્ડર</string>
+    <string name="record_your_message">તમારો સંદેશ રેકોર્ડ કરો</string>
+    <string name="message_recorded">સંદેશ નોંધાયો છે</string>
+    <string name="review_message">સંદેશ લીરીક્સ</string>
+    <string name="recording">રેકોર્ડીંગ</string>
+    <string name="recording_stopped">રેકોર્ડિંગ બંધ થયું છે</string>
+    <string name="recording_save">રેકોર્ડિંગ સંગ્રહ થયું છે</string>
+    <string name="recording_nosave">રેકોર્ડિંગ સંગ્રહ થયું નથી</string>
+    <string name="storage_is_full">સંગ્રહ સંપૂર્ણ</string>
+    <string name="max_length_reached">મહત્તમ લંબાઇ થઇ છે</string>
+    <string name="insert_sd_card">કૃપા કરી SD કાર્ડ દાખલ કરો</string>
+    <string name="phone_message">કોલીંગ સમયે સાઉન્ડરેકોર્ડર ચાલુ કરી શકાશે નહીં.</string>
+    <string name="min_available"><xliff:g id="minutes">%d</xliff:g> મીનીટ ઉપલબ્ધ</string>
+    <string name="sec_available"><xliff:g id="seconds">%d</xliff:g>સે ઉપલબ્ધ</string>
+    <string name="accept">સંગ્રહ કરો</string>
+    <string name="discard">કાઢી નાંખો</string>
+    <string name="button_ok">ઓકે</string>
+    <string name="press_record">રેકોર્ડ દબાવો</string>
+    <string name="audio_db_artist_name">તમારા રેકોર્ડિંગ્ઝ</string>
+    <string name="audio_db_album_name">શ્રાવ્ય રેકોર્ડિંગ્ઝ</string>
+    <string name="audio_db_playlist_name">મારું રેકોર્ડિંગ્ઝ</string>
+    <string name="error_sdcard_access">SD કાર્ડમાં પ્રવેશ નિષ્ફળ</string>
+    <string name="error_app_internal">આંતરીક અનુપ્રયોગ ભૂલ</string>
+    <string name="error_mediadb_new_record">રેકોર્ડેડ ઓડિયો સંગ્રહ કરવામાં નિષ્ફળ</string>
+    <string name="save">સંગ્રહ કરો</string>
+    <string name="select_file_type">રેકોર્ડ ફાઇલ પ્રકાર પસંદ કરો</string>
+    <string name="record_amr">amr પ્રકાર</string>
+    <string name="record_3gpp">3gpp પ્રકાર</string>
+    <string name="menu_list">રેકોર્ડર સૂચિ</string>
+    <string name="menu_info">આ મેનુ પસંદ થયું છે</string>
+    <string name="list_recorder_delete_alert_title">કાઢી નાંખવું</string>
+    <string name="list_recorder_delete_alert_message">%1$s ભૂંસવા માટે નિશ્ચિત છો?</string>
+    <string name="button_delete">કાઢી નાંખવું</string>
+    <string name="button_cancel">રદ્દ કરવું</string>
+    <string name="list_recorder_toast_delete_success">રેકોર્ડિંગ ભૂંસાયું છે</string>
+    <string name="list_recorder_toast_database_failed">ડેટાબેઝ ફાઇલ ભૂંસવામાં નિષ્ફળ</string>
+    <string name="list_recorder_toast_file_failed">ફાઇલ રેકોર્ડિંગ ભૂંસવામાં નિષ્ફળ</string>
+    <string name="menu_recorder_list">રેકોર્ડર સૂચિ</string>
+    <string name="menu_recorder_blue">બ્લુટુથ</string>
+    <string name="menu_recorder_mms">એમએમએસ</string>
+    <string name="menu_recorder_email">ઇમેઇલ</string>
+    <string name="menu_recorder_ring">રીંગટોન ગોઠવો</string>
+    <string name="menu_recorder_ring_success">રીંગટોન ગોઠવણી સફળ</string>
+    <string name="menu_recorder_ring_failed">રીંગટોન ગોઠવણી નિષ્ફળ</string>
+    <string name="menu_recorder_default_type">ફાઇલ પ્રકાર રેકોર્ડ કરો</string>
+    <string name="list_empty_value">ખાલી સૂચિ </string>
+    <string name="confirm_del">આ ફાઇલો ભૂંસવા માટે તમે નિશ્ચિત છો?</string>
+    <string name="menu_select_all">તમામ પસંદ કરો</string>
+    <string name="menu_delete">કાઢી નાંખવું</string>
+    <string name="menu_unselect_all">તમામ મુક્ત કરો</string>
+    <string name="dialog_title">રીંગટોન તરીકે ઉપયોગ કરો</string>
+    <string name="dialog_item_sim1">SIM1 ફોન રીંગટોન</string>
+    <string name="dialog_item_sim2">SIM2 ફોન રીંગટોન</string>
+    <string name="menu_recorder_filepath">પાથ સંગ્રહ કરો‍</string>
+    <string name="browser">બ્રાઉઝર</string>
+</resources>

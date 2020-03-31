@@ -1,0 +1,221 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="timezone_filters">
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+        <item>અમેરીકા</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+        <item>યુરોપ</item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+        <item>આફ્રિકા</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+        <item>એશિયા</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+        <item></item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+        <item>પેસિફિક</item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+        <item>તમામ</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>કોઇ એનીમેશન્સ નહીં</item>
+        <item>થોડા એનીમેશન્સ</item>
+        <item>તમામ નામાંકનો</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>કોઇ વિન્ડો એનીમેશન્સ પ્રદર્શિત નથી</item>
+        <item>અમુક વિન્ડો એનીમેશન પ્રદર્શિત છે</item>
+        <item>તમામ વિન્ડો એનિમેશન્સ પ્રદર્શિત થાય છે</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 સેકન્ડ્ઝ</item>
+        <item>30 સેકન્ડ્ઝ</item>
+        <item>1 મીનીટ</item>
+        <item>2 મીનીટ્સ</item>
+        <item>10 મીનીટ્સ</item>
+        <item>30 મીનીટ્સ</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>ખૂબ ધીમુ</item>
+        <item>ધીમું</item>
+        <item>સામાન્ય </item>
+        <item>ઝડપી</item>
+        <item>ખૂબ ઝડપી</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>ખૂબ નીચુ</item>
+        <item>લો</item>
+        <item>સામાન્ય </item>
+        <item>ઊંચુ</item>
+        <item>ખૂબ ઊંચુ</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>અમેરીકન ઇંગ્લીશ</item>
+        <item>બ્રિટીશ ઇંગ્લીશ</item>
+        <item>ફ્રેન્ચ</item>
+        <item>જર્મન</item>
+        <item>ઇટાલીયન</item>
+        <item>સ્પેનીશ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <!-- Status message of Wi-Fi when it is idle. -->
+        <item></item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>સ્કેન થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is connecting. -->
+        <item>જોડાણ થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is authenticating. -->
+        <item>પ્રમાણીકરણ થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+        <item>IP સરનામું પ્રાપ્ત થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is connected. -->
+        <item>જોડાણ થયેલ</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>બરખાસ્ત</item>
+        <!-- Status message of Wi-Fi when it is disconnecting. -->
+        <item>જોડાણ છૂટું થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>જોડાણ છૂટું થયેલ</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item>અસફળ</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <!-- Status message of Wi-Fi when it is idle. -->
+        <item></item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>સ્કેન થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is connecting to a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>માં જોડાણ કરો\u2026</item>
+        <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g> સાથે પ્રમાણીકરણ થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>પરથી  IP સરનામું પ્રાપ્ત થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is connected to a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>માં જોડાણ કરો</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>બરખાસ્ત</item>
+        <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+        <item><xliff:g id="network_name">%1$s</xliff:g>માંથી છૂટું થાય છે\u2026</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>જોડાણ છૂટું થયેલ</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item>અસફળ</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <!-- The Wi-Fi network does not have any security. -->
+        <item>ખોલો</item>
+        <!-- Do not translate. -->
+        <item>WEP</item>
+        <!-- Do not translate. -->
+        <item></item>
+        <!-- Do not translate. -->
+        <item>802.1x EAP</item>  
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <!-- Do not translate. -->
+        <item>PEAP</item>
+        <!-- Do not translate. -->
+        <item></item>
+        <!-- Do not translate. -->
+        <item></item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 મીનીટ્સ</item>
+        <item>5 મીનીટ્સ</item>
+        <item>1 કલાક</item>
+        <item>ક્યારેય નહીં</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>નબળું</item>
+        <item>વાજબી</item>
+        <item>સારું</item>
+        <item>ઉત્કૃષ્ટ</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <!-- Wi-Fi should go to sleep when the screen turns off. -->
+        <item>સ્ક્રીન બંધ થાય ત્યારે</item>
+        <!-- When plugged in, never go to sleep.  When on battery, go to sleep when screen turns off. -->
+        <item>પ્લગ ઇન હોય ત્યારે ક્યારેય નહીં</item>
+        <!-- Never go to sleep. -->
+        <item>ક્યારેય નહીં</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>ઉપયોગ સમય</item>
+        <item>ગણના લોન્ચ કરો</item>
+        <item>અનુપ્રયોગ નામ</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>કોઇ નહીં</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item></item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>બંધ</item>
+        <item>તાકીદ</item>
+        <item>ધ્રુજારી</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>કોઇ નહીં</item>
+        <item>PAP</item>
+        <item></item>
+        <item>PAP અથવા CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>આંતરીક સાધન સંગ્રહ</item>
+        <item>દૂર કરી શકાય તેવું SD કાર્ડ</item>
+        <item>સિસ્ટમને નક્કી કરવા દો</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>હંમેશા</item>
+        <item>ક્યારેય નહીં</item>
+        <item>માત્ર મૌન ઢબમાં</item>
+        <item>મૌન મોડમાં ન હોય ત્યારે જ</item>
+    </string-array>
+    <string-array name="dualsim_summaries">
+        <item> SIM 1 </item>
+        <item> SIM 2</item>
+    </string-array>
+    <string-array name="profiles_entries">
+        <item>સામાન્ય</item>
+        <item>શાંત</item>
+        <item>મીટિંગ </item>
+        <item>આઉટડોર</item>
+        <!-- add by liguxiang 10-31-11 for NEWMS00135255 begin -->
+        <!-- 
+        <item>Indoor</item>
+        -->
+        <!-- add by liguxiang 10-31-11 for NEWMS00135255 end -->
+    </string-array>
+    <string-array name="wifi_cellular_wlan">
+		<item>સ્વયં જોડાણ</item>
+		<item>મેન્યુલ જોડાણ કરો</item>
+		<item>હંમેશા પૂછવું</item>
+	</string-array>
+    <string-array name="dualsim_other_summaries">
+        <item> SIM 1 </item>
+        <item> SIM 2</item>
+        <item>હંમેશા પૂછવું</item>
+    </string-array>
+    <string-array name="dualsim_other_entries">
+        <item></item>
+        <item></item>
+        <item>હંમેશા પૂછવું</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>હવેથી 1 મીનીટ કરતાં ઓછા સમય માટે આ ગોઠવણ છે.</item>
+        <item>હમણાંથી  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> માટે એલાર્મ ગોઠવાયો છે.</item>
+        <item>હમણાંથી  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> માટે એલાર્મ ગોઠવાયો છે.</item>
+        <item>હમણાંથી <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> અને <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> માટે એલાર્મ ગોઠવાયો છે.</item>
+        <item>હમણાંથી  <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> માટે એલાર્મ ગોઠવાયો છે.</item>
+        <item>હમણાંથી  <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> અને <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>  માટે એલાર્મ ગોઠવાયો છે.</item>
+        <item>હમણાંથી  <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> અને <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>  માટે એલાર્મ ગોઠવાયો છે.</item>
+        <item>હમણાંથી <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, અને <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> માટે એલાર્મ ગોઠવાયો છે.</item>
+    </string-array>
+</resources>
