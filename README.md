@@ -13,7 +13,7 @@ The repo contains the folders that same path as the full AOSP. Except **boot-cha
 
 1. Download original AOSP for OrangePi 3G-Iot from [here](https://mega.nz/#F!q8xQXZBQ!CXsQgfR2JaFsttTtBT_GMQ!ewpRRKLC)
 2. Clone this repo
-3. Apply changes by copy all files in the repo and replace them to the original AOSP
+3. Apply changes by copy files in the repo and replace them to the original AOSP
 4. ***EXCEPT the /packages/app/ folder, you need to delete all of original ones and paste these ones from this repo instead**
 
 ### How to apply boot-changes
