@@ -612,7 +612,7 @@ on post-fs-data
     chown radio radio /sys/devices/platform/mtk-kpd/driver/kpd_call_state
 
     #Charging Battery
-    chown radio radio /sys/devices/platform/battery/Charging_CallState
+    #chown radio radio /sys/devices/platform/battery/Charging_CallState
 
     mkdir /data/amit/ 0770 system system
     mkdir /data/misc/sensors 0664 system system
@@ -655,8 +655,8 @@ on post-fs-data
     chmod 4750 /system/bin/baseband_regdump
 
     #pmu
-    chown root radio /sys/devices/platform/mt-pmic/pmic_access
-    chmod 0664 /sys/devices/platform/mt-pmic/pmic_access
+    #chown root radio /sys/devices/platform/mt-pmic/pmic_access
+    #chmod 0664 /sys/devices/platform/mt-pmic/pmic_access
 
     # EM CPU Speed Stress
     chown root radio /proc/cpu_ss/cpu_ss_debug_mode
@@ -793,7 +793,13 @@ on boot
 
    mount ext4 /emmc@android /dev rw remount
    chmod 0666 /dev/i2c-1
+   chmod 0666 /dev/ttyMT0
+   chmod 0666 /dev/ttyMT1
    #mount ext4 /emmc@android /dev ro remount
+
+   mount ext4 /emmc@android /sys rw remount
+   chmod 0666 /sys/devices/virtual/misc/mtgpio/pin
+   #mount ext4 /emmc@android /sys ro remount
 
    chown root /remount.sh
    chmod 700 /remount.sh
@@ -1042,7 +1048,7 @@ on nonencrypted
     class_start late_start
 
 on charger
-    class_start charger
+    #setprop sys.powerctl "reboot"
 
 on property:vold.decrypt=trigger_reset_main
     class_reset main
@@ -1104,10 +1110,10 @@ service healthd /sbin/healthd
 #   critical
 #   seclabel u:r:healthd:s0
 
-service healthd-charger /sbin/healthd -n
-    class charger
-    critical
-    seclabel u:r:healthd:s0
+#service healthd-charger /sbin/healthd -n
+#    class charger
+#    critical
+#    seclabel u:r:healthd:s0
 
 on property:selinux.reload_policy=1
     restart ueventd
@@ -1557,28 +1563,28 @@ service ipod /system/bin/ipod
     socket ipohctl stream 0660 root root
     disabled
 
-service extmdlogger /system/bin/extmdlogger
-    class main
-    user shell
-    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
+#service extmdlogger /system/bin/extmdlogger
+#    class main
+#    user shell
+#    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
 
 service GoogleOtaAgent /system/bin/GoogleOtaBinder
     user system
     group system
 
-service mdlogger /system/bin/mdlogger
-    class main
-    user shell
-    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
-    disabled
-    oneshot
+#service mdlogger /system/bin/mdlogger
+#    class main
+#    user shell
+#    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
+#    disabled
+#    oneshot
 
-service dualmdlogger /system/bin/dualmdlogger
-    class main
-    user shell
-    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
-    disabled
-    oneshot
+#service dualmdlogger /system/bin/dualmdlogger
+#    class main
+#    user shell
+#    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
+#    disabled
+#    oneshot
 
 
 #
@@ -1722,10 +1728,10 @@ service backuprestore /system/bin/br_app_data_service
 	user root
 
 #add for power-off alarm
-service poad /system/bin/poad
-    user system
-    group system
-    oneshot
+#service poad /system/bin/poad
+#    user system
+#    group system
+#    oneshot
 
 #Open NFC server
 service server_open_nfc /system/bin/server_open_nfc
@@ -1734,10 +1740,10 @@ service server_open_nfc /system/bin/server_open_nfc
     group root
 
 #monitor battery status
-service batterywarning /system/bin/batterywarning
-    class main
-    user shell
-    group shell
+#service batterywarning /system/bin/batterywarning
+#    class main
+#    user shell
+#    group shell
     
 service BGW /system/xbin/BGW
 	user system
