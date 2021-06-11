@@ -6,6 +6,8 @@ This repo contains changes
 - Enable gps location by default
 - Android will boot up when powered
 - Allow SYSTEM uid to use su(super user)
+- SSH supported
+- GPIO permission for external application
 
 The repo contains the folders that same path as the full AOSP. Except **boot-changes** and files outside folders.
 
