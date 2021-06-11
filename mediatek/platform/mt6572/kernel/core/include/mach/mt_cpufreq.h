@@ -12,8 +12,8 @@
 
 #define PLL_MAX_FREQ         (1989000) //KHZ
 #define PLL_MIN_FREQ         (130000)  //KHZ
-#define PLL_DIV1_FREQ        (500000) //KHZ 1001000 500000
-#define PLL_DIV2_FREQ        (360000)  //KHZ 520000 360000
+#define PLL_DIV1_FREQ        (1001000) //KHZ 1001000 500000
+#define PLL_DIV2_FREQ        (520000)  //KHZ 520000 360000
 #define PLL_DIV4_FREQ        (225000)  //KHZ 260000 225000
 #define PLL_DIV8_FREQ        (PLL_MIN_FREQ)  //KHZ
 
@@ -22,16 +22,16 @@
 #define DVFS_D1              (1404000)   // KHz, OD
 #define DVFS_D2              (1300000)   // KHz, OD
 #define DVFS_D3              (1209000)   // KHz, OD
-#define DVFS_F1              (500000)   // KHz  1001000 500000
-#define DVFS_F2              (360000)    // KHz 806000 360000
+#define DVFS_F1              (1001000)   // KHz  1001000 500000
+#define DVFS_F2              (520000)    // KHz 806000 360000
 #define DVFS_F3              (225000)    // KHz 598000 225000
 
 #define DVFS_V0              (1250)  // mV, OD
 #define DVFS_V1              (1150)  // mV
 
 #define DVFS_MIN_VCORE       (1150)
-#define DEFAULT_FREQ         (500000)   // KHz 1001000 500000
-#define NOR_MAX_FREQ         (500000)   // KHz 1001000 500000
+#define DEFAULT_FREQ         (1001000)   // KHz 1001000 500000
+#define NOR_MAX_FREQ         (1001000)   // KHz 1001000 500000
 
 #define CORE_NUM             (2)
 #define VCORE_NUM            (2)
