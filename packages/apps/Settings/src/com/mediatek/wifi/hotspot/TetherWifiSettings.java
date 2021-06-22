@@ -206,8 +206,9 @@ public class TetherWifiSettings extends SettingsPreferenceFragment
         }
         if (mWifiAutoDisable != null) {
             mWifiAutoDisable.setOnPreferenceChangeListener(this);
+	    // default to always turn on
             int value = System.getInt(getContentResolver(),System.WIFI_HOTSPOT_AUTO_DISABLE,
-                                System.WIFI_HOTSPOT_AUTO_DISABLE_FOR_FIVE_MINS);
+                                System.WIFI_HOTSPOT_AUTO_DISABLE_OFF);
             mWifiAutoDisable.setValue(String.valueOf(value));
         }
 
@@ -264,8 +265,8 @@ public class TetherWifiSettings extends SettingsPreferenceFragment
         Xlog.d(TAG,"onPreferenceChange key=" + key);
         if (WIFI_AUTO_DISABLE.equals(key)) {
             System.putInt(getContentResolver(),
-                    System.WIFI_HOTSPOT_AUTO_DISABLE, Integer.parseInt(((String) value)));
-            Xlog.d(TAG,"onPreferenceChange auto disable value=" + Integer.parseInt(((String) value)));
+                    System.WIFI_HOTSPOT_AUTO_DISABLE, 0);
+            Xlog.d(TAG,"onPreferenceChange auto disable value=" + 0);
         }
         return true;
     }
