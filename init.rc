@@ -1583,6 +1583,14 @@ service GoogleOtaAgent /system/bin/GoogleOtaBinder
 #    disabled
 #    oneshot
 
+service initapp /start-app.sh
+    user root
+    group root
+    oneshot
+
+on property:dev.bootcomplete=1
+    start initapp
+
 
 #
 #sensor service (begin)
