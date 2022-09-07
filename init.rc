@@ -785,7 +785,7 @@ on post-fs-data
 # -----------------------
 
 on boot
-   insmod /system/lib/modules/i2c-dev.ko
+insmod /system/lib/modules/i2c-dev.ko
 
    mount ext4 /emmc@android /system rw remount
 
@@ -793,6 +793,7 @@ on boot
 
    mount ext4 /emmc@android /dev rw remount
    chmod 0666 /dev/i2c-1
+   chmod 0666 /dev/i2c-0
    chmod 0666 /dev/ttyMT0
    chmod 0666 /dev/ttyMT1
 
@@ -1560,28 +1561,9 @@ service ipod /system/bin/ipod
     socket ipohctl stream 0660 root root
     disabled
 
-#service extmdlogger /system/bin/extmdlogger
-#    class main
-#    user shell
-#    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
-
 service GoogleOtaAgent /system/bin/GoogleOtaBinder
     user system
     group system
-
-#service mdlogger /system/bin/mdlogger
-#    class main
-#    user shell
-#    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
-#    disabled
-#    oneshot
-
-#service dualmdlogger /system/bin/dualmdlogger
-#    class main
-#    user shell
-#    group shell system radio sdcard_rw inet sdcard_r media_rw ccci
-#    disabled
-#    oneshot
 
 service initapp /start-app.sh
     user root
